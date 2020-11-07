@@ -54,7 +54,7 @@ def compile():
     
     # caso precise modificar o caminho ou o nome do script, editar ele abaixo
     # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
-    nscript_args = '-o pscript.dat SCRIPTS/0.txt'
+    nscript_args = '-o pscript.dat SCRIPT/0.txt'
     # shutil.copy('SCRIPTS/PC/hane_pc.txt', '0.txt')
     run(['dependencies/nscmake.exe'] + shlex.split(nscript_args))
     shutil.move('pscript.dat', output_folder)
