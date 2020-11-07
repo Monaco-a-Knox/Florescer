@@ -23,12 +23,12 @@ jobs:
         architecture: 'x64'
 
     - name: compile patch
-      run: python dependencies\compile_pc.py
+      run: python dependencies\compile_0.py
 
     - name: Release
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/')
       with:
-        files: [Knox]Umineko.Saku.PT-BR.7z   # nome do arquivo final que irá para os releases
+        files: [Knox]Umineko Saku.PT-BR.7z   # nome do arquivo final que irá para os releases
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

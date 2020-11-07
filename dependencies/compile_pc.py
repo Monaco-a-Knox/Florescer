@@ -4,7 +4,7 @@ import os, shutil, shlex
 from sys import exit
 
 # Nome da pasta onde os arquivos do patch serão enviados
-output_folder = "[Knox]Umineko.Saku.PT-BR"
+output_folder = "[Knox]Umineko Saku.PT-BR"
 
 def prepareFiles():
 
@@ -15,7 +15,7 @@ def prepareFiles():
 
     # Lista de ARQUIVOS (não pastas!) que são necessários para montar o patch 
     # (atenção: não incluir o nscript.dat ou arc.nsa que são compilados por esse script posteriormente)
-    dependencies = [
+    dependencies = [ 
         'Umineko Saku.exe',
     ]
 
@@ -28,12 +28,7 @@ def prepareFiles():
     
     # copia a pasta web. Para copiar outras pastas, reuse este bloco de código
     # tradução do que está sob o TRY: copy_tree('pasta que você quer copiar', f'{output_folder}/para onde ela vai' << pode ser para dentro dela mesmo, como no caso abaixo)
-    try:
-        copy_tree('bmp', f'{output_folder}/bmp')
-    except FileNotFoundError:
-        print("Couldn't find the bmp folder. Skipping.")
-        pass
-    
+
 
 def compile():
     try:
@@ -44,10 +39,9 @@ def compile():
     # caso precise modificar o caminho ou o nome do script, editar ele abaixo
     # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
     nscript_args = '-o nscript.dat SCRIPTS/0.txt'
-    # shutil.copy('SCRIPTS/0.txt', '0.txt')
+    # shutil.copy('SCRIPTS/0.txt')
     run(['dependencies/nscmake.exe'] + shlex.split(nscript_args))
     shutil.move('nscript.dat', output_folder)
-    # shutil.copy('nscript.dat', 'pscript.dat')
 
     nsa_args = 'arc.nsa bmp'
     run(['dependencies/nsamake.exe'] + shlex.split(nsa_args))
@@ -55,7 +49,7 @@ def compile():
 
     # nome do arquivo de destino
     # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
-    zip_args = f"[Knox]Umineko.Saku.PT-BR.7z {output_folder}"
+    zip_args = f"[Knox]Umineko Saku.PT-BR.7z {output_folder}"
     run([r'dependencies/7za.exe', 'a'] + shlex.split(zip_args))
 
 def cleanup():
