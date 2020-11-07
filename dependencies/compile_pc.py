@@ -4,7 +4,7 @@ import os, shutil, shlex
 from sys import exit
 
 # Nome da pasta onde os arquivos do patch serão enviados
-output_folder = "[Knox]Umineko.Saku.PT-BR"
+output_folder = "KT.Umineko.Saku.PT-BR"
 
 def prepareFiles():
 
@@ -65,7 +65,7 @@ def compile():
 
     # nome do arquivo de destino
     # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
-    zip_args = f"Umineko.Saku.PT-BR.7z {output_folder}"
+    zip_args = f"KT.Umineko.Saku.PT-BR.7z {output_folder}"
     run([r'dependencies/7za.exe', 'a'] + shlex.split(zip_args))
 
 def cleanup():
