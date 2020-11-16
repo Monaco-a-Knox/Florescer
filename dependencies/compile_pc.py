@@ -4,7 +4,7 @@ import os, shutil, shlex
 from sys import exit
 
 # Nome da pasta onde os arquivos do patch serão enviados
-output_folder = "KT.Umineko.Saku.PT-BR"
+output_folder = "[KT]Umineko.Saku.PT-BR(PC)"
 
 def prepareFiles():
 
