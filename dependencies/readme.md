@@ -7,7 +7,7 @@ Apesar de supostamente automático, o repositório ainda requer certa manutenç�
 Para começarmos a trabalhar via linha de comando, primeiramente precisamos clonar o repositório. Caso não tenha o comando ``git`` habilitado no seu terminal (seja Powershell ou CMD), instale a versão mais nova [aqui](https://git-scm.com/downloads).
 
 Para clonar o repositório, abra o cmd no local onde você quer que ele seja baixado e rode o comando:
-``git clone https://github.com/jackpot-666/HANE.git``
+``git clone https://github.com/Monaco-a-Knox/Florescer.git``
 
 Utilize o comando ``cd`` para entrar dentro do repositório baixado.
 
@@ -28,7 +28,7 @@ Por último, vale também lembrar que criar uma tag sem fazer mudanças locais �
 Recapitulando, este são todos os comandos que utilizamos:
 
 ```
-git clone https://github.com/jackpot-666/HANE.git
+git clone https://github.com/Monaco-a-Knox/Florescer.git
 git pull
 git add *
 git commit -m "Mensagem de atualização"
