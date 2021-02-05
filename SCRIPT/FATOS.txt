@@ -11,6 +11,8 @@ Matters of weight with Magic
 À minha cara bruxa aprendiz. ~A respeito da magia~
 Importantes fatos a respeito da magia
 
+(inserir linhas extras exclusivas do jogo)
+
 
 「よいか真里亞。
 　魔法とは感謝の気持ちの上に成り立っていることを、決して忘れてはならぬ。
@@ -34,16 +36,17 @@ Mesmo para o zênite da perversidade, assim como eu, esse sentimento não deve s
 Bruxas não exercem a magia.
 Bruxas oram para que uma existência superior aos humanos realize o milagre.
 ......Vamos imaginar a dança da chuva.
-As pessoas que sofreram com a estiagem, suplicam aos céus pela chuva e, quando a prece chega ao seu destinatário, a chuva descende.
+As pessoas que sofreram com a estiagem suplicam aos céus pela chuva e, quando a prece chega ao seu destinatário, a chuva descende.
 Isso ocorre porque as preces chegaram aos céus, e não porque fizeram com que chovesse."
 
 
 「願いが届かなかったら、ベアトでも魔法は使えない…？」
-"Se o seu desejo não for entregue, nem você conseguiria usar magia...?"
+"Se o desejo não for entregue, nem você conseguiria usar magia...?"
 
 
 （・・・・中略・・・・）
 (....omitido....)
+(inserir muitas linhas extras exclusivas do jogo)
 
 
 　今や、魔法の力は人目を忍ばねばならぬ。
@@ -63,13 +66,12 @@ Isso ocorre porque as preces chegaram aos céus, e não porque fizeram com que c
 　いや、妾に相応しく「魔女の証明」とでも言って見せればいいか。
 Atualmente, o poder da magia deve ser escondido dos olhares humanos.
 Este milagre não deve ser exibido diante das pessoas.
-Os humanos vem até mim para negá-lo e refutá-lo, desafiando-me a demonstrar o milagre da magia.
+Os humanos vêm até mim para negá-lo e refutá-lo, desafiando-me a demonstrar o milagre da magia.
 O quão humilhante é ser provocada pelos próprios humanos que me tomaram este poder?
 Por isso, eu tive uma ideia.
 Mesmo sem demonstrar minha magia, ainda é possível fazê-los admitir que sou uma bruxa.
 Demonstrar sua magia é, também, demonstrar que é uma bruxa.
-É preciso que se descarte todo e qualquer "fenômeno", para que reconheçam que não poderia ter sido feito de outra forma além de bruxaria. (rever essa linha)
-Esta será a minha prova mais ambiciosa.
+É preciso que se descarte todo e qualquer "fenômeno", para que reconheçam que não poderia ter sido feito de outra forma além de bruxaria.
 Este será um ataque direto da Prova Diabólica.
 Não, para se adequar mais comigo, que tal chamá-la de "Prova da Bruxa"?
 

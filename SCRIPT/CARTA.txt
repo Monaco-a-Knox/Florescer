@@ -7,7 +7,7 @@ Texto em japonês: http://umineco.info/?EP3%E8%A7%A3%E6%98%8E%E8%AA%AD%E6%9C%AC%
 --------------------------------------------------------------------------------------
 
 魔法が起こす数々の奇跡は、人間界において文字通り"奇跡"である。
-No mundo dos humanos, os diversos milagres realizados pela são, como bem dito, "milagres".
+No mundo dos humanos, os diversos milagres realizados magia pela são, como se presume, "milagres".
 
 そして人間界における奇跡とは、真夏の日の霜柱のようなものと例えられるかも知れない。
 Assim sendo, uma milagre decorrido no mundo humano seria como uma geada branca em um dia estival.
@@ -16,13 +16,13 @@ Assim sendo, uma milagre decorrido no mundo humano seria como uma geada branca e
 Uma geada branca em pleno verão é um milagre por si só.
 
 だから魔法の奇跡にて、真夏の炎天下に霜柱を生み出すことも可能だろう。
-Assim sendo, a criação de uma geada branca sob o escaldante sol do verão é um milagre da magia.
+Portanto, a criação de uma geada branca sob o escaldante sol do verão é um milagre da magia.
 
 しかし当然ながら、真夏の太陽の前に瞬時に溶けて、その姿と奇跡を失ってしまう。
 Contudo é uma axioma que ela derreteria em um piscar de olhos sob o sol estival...e tanto sua forma quanto o milagre seriam perdidos.
 
 それでは悲しいから、より大きな霜柱を、より長い時間太陽の下に 留めようとするのが魔法の求道というものだ。
-Apesar da lamentável, precisamos procurar por uma magia capaz de gerar uma geada ainda mais maior que suporte um período de tempo mais longo debaixo do sol.
+Apesar de lamentável, precisamos procurar por uma magia capaz de gerar uma geada ainda mais maior, capaz de suportar um período de tempo mais longo debaixo do sol.
 
 霜柱を、より大きく生み出そうとすれば、それには大きな魔力を必要とする。
 Para conceber uma geada ainda maior, é necessário mais poder mágico.
@@ -31,16 +31,17 @@ Para conceber uma geada ainda maior, é necessário mais poder mágico.
 Para fazer com que esta geada suporte mais tempo, é necessário mais poder mágico.
 
 つまり、一瞬だけの絶大なる奇跡を起こす魔法と、ちっぽけな奇跡 であっても永遠に残り続ける魔法は、一見すると前者の方が派手で 優れているように見えるが、魔法としての何度や必要とする魔力にお いては全く同じなのである。
-Em outras palavras, entre uma magia que faz um grande milagre ocorrer por apenas um estante, e uma magia que persiste eternamente para que um pequeno milagre possa ocorrer, à primeira vista, a primeira parece ser muito mais chamativa e superior, contudo tanto o nível da magia e a quantia de poder mágico necessárias são exatamente as mesmas.
+Em outras palavras, entre uma magia que faz um grande milagre ocorrer por apenas um instante, e uma magia que persiste eternamente para que um pequeno milagre possa ocorrer, à primeira vista, a primeira parece ser muito mais chamativa e superior, contudo tanto o nível da magia e a quantia de poder mágico necessárias são exatamente as mesmas.
 
 その意味で、後者の地味なる大魔法の最右翼である「召喚術」は、 魔術師たちの歴史において、非常に人気がないと言わざるを得ない
-Nesse sentido, é preciso dizer que essa última, uma magia muito mais subjugada intitulada "Invocação" pelos grandes praticantes, não é muito popular na história dos magos.
+Nesse sentido, é preciso dizer que essa última, uma magia muito mais subjugada, intitulada "Invocação" pelos grandes praticantes, não é muito popular na história dos magos.
 
 （・・・・中略・・・・）
 (....omitido....)
+(inserir muitas linhas extras exclusivas do jogo)
 
 魔法の奇跡の主たる燃料は、魔力という名の狂気的燃料で補われる、 理解に難しければ、普通に腕力を想像してくれても良いだろう。
-O principal combustível dos milagres mágicos pode ser compensado pela chamada loucura conhecida como poder mágico... Se for muito difícil de compreender, você pode simplesmente pensar nisso como força física.
+O principal combustível dos milagres mágicos pode ser compensado pela denominada loucura conhecida como poder mágico... Se for muito difícil de compreender, você pode simplesmente pensar nisso como força física.
 
 目の前に重い荷物があり、それが決められた場所まで運ばねばならないとする。
 Imagine que diante de você há uma pesada bagagem que precisa ser carregada até determinado local.
@@ -82,7 +83,7 @@ Digredindo um pouco, eu não detenho do talento intrínseco da magia.
 Contudo, eu cultivei poder mágico o suficiente para me autoproclamar um mago.
 
 魔力は才能では断じてない、むしろ、どれさけの狂気を"長い時間維持できたか"によって宿ると言い切ってもいいだろう。
-O poder mágico não é decisivamente uma questão de talento, pelo contrário... mas uma questão de quanta loucura "pode ser mantida por um longo perídodo.
+O poder mágico não é decisivamente uma questão de talento, pelo contrário... mas uma questão de quanta loucura "pode ser mantida por um longo período".
 
 特に、召喚術という"奇跡を永遠に地上に留めよう"とする魔法を志す者は、このことを忘れないでほしいものだ。
 Em especial, aqueles que almejam pela arte mágica de "permitir que milagres persistam eternamente sobre a terra" não devem se esquecer disso.
@@ -112,13 +113,13 @@ Vamos retomar ao princípio e falar da geada branca.
 É natural que uma geada branca deixada sob o escaldante sol do verão acabe por derreter na mesma hora.
 
 しかし、日光と灼熱を遮るクーラーボックスのようなものを準備し、 その中に霜柱を紹介したならば、その準備がない時に比べ、はるかに 長い時間、霜柱を真夏に存続させることが出来るはずだ。
-Contudo, poderia ser preparada uma caixa térmica para armazenar a geada branca, protegendo-a da luz e o calor abrasador do sol. Comparado com quando essas preparações não são realizadas, a geada branca seria capaz existir ali por muito mais tempo, mesmo no período de estio.
+Contudo, poderia ser preparada uma caixa térmica para armazená-la, protegendo-a da luz e o calor abrasador do sol. Comparado com quando essas preparações não são realizadas, a geada branca seria capaz existir ali por muito mais tempo, mesmo no período de estio.
 
 （・・・・中略・・・・）
 (....omitido....)
 
 依り代は呼び出す客人に相応しいものであるべきだろう。
-O Receptáculo deve ser apropriado ao visitante convocado.
+O receptáculo deve ser apropriado ao visitante convocado.
 
 より相応しいものであればあるほど、顕現したときの力は増す。
 Quanto mais apropriado for, mais seu poder se manifesta.
