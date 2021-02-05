@@ -1,12 +1,12 @@
-NOTA: durante a última 07thparty, foi anunciado que a TIP "あるウィッチハンターの取材テープ" "Entrevista Gravada com um certo Witch Hunter", lançada na data de 2009年4月17日, junto ao artbook do Episódio 4, será dublada e fará parte do novo release da Entergam (Umineko CS版).
-Precisa ser editado e nome repensado para iserir o 'FITA'.
+Texto da TIP "あるウィッチハンターの取材テープ" "Entrevista Gravada com um certo Witch Hunter", lançada na data de 2009年4月17日, junto ao artbook do Episódio 4. Ela foi dublada e lançada na nova versão intitulada Umineko CS版. 
+As partes omitidas estão disponíveis na integra na versão de console.
 
 Este .txt contém o texto original + tradução para o português.
 Ele está aqui unicamente como backup para ser utilizado futuramente.
 Texto em japonês: http://umineco.info/?EP4%E8%A7%A3%E6%98%8E%E8%AA%AD%E6%9C%AC%E8%BF%BD%E5%8A%A0TIPS
 --------------------------------------------------------------------------------------
-「」 falas do Witch Hunter (?) 三神 (Mikami)
-『 』 falas do entrevistado(?) Amigo de infância (Genji?)
+「」 falas do entrevistador, amigo de infância do Mikami?
+『 』 falas do Witch Hunter (?) 三神 (Mikami)
  
 
 ～前略～
@@ -15,6 +15,7 @@ Texto em japonês: http://umineco.info/?EP4%E8%A7%A3%E6%98%8E%E8%AA%AD%E6%9C%AC%
 『右代宮氏は戦時中は下級将校の1人に過ぎず、特別な力は持っておりませんでしたが、戦後は堪能な英語力によって進駐軍に太いパイプを作り、大きな力とコネクションを得ていました。ですので、米軍関係で黄金を手に入れたのではないかと囁かれました。』
 『Durante a época da Guerra, o Sr. Ushiromiya era apenas um oficial de baixo escalão, sem nenhuma capacidade excepcional, contudo sua proficiência em Inglês o permitiu estabelecer fortes ligações com as Forças de Ocupação após a Guerra, obtendo grande influência e conexões. Por causa disso, há rumores que ele procurou pelo ouro utilizando de suas relações com o Exército Estadunidense.』 
 
+～中略～
 ~omitido~
 
 「六軒島取得の際にも、GHQの力を利用していますね？」
@@ -22,6 +23,7 @@ Texto em japonês: http://umineco.info/?EP4%E8%A7%A3%E6%98%8E%E8%AA%AD%E6%9C%AC%
 『はい。右代宮氏が戦後、急速に財力を蓄えた背景には、常にGHQとの大きなコネクションがあります。朝鮮戦争についてもいち早く情報を得ていて、特需の恩恵をもっとも受けた富豪の1人であると言えます。』
 『Isso mesmo. Com as conexões do GHQ sempre o apoiando pelos bastidores, o Sr. Ushiromiya rapidamente acumulou suas riquezas. Dizem que ele foi o mais rápido a receber informações sobre a Guerra da Coreia, garantido sua posição entre os milionários que mais se beneficiaram dos benefícios das demandas emergenciais.』 
 
+～中略～
 ~omitido~
 
 「ではやはり、右代宮氏は一世一代の大博打に勝った博徒に過ぎず、黄金伝説は幻想に過ぎませんか。」
@@ -29,11 +31,13 @@ Texto em japonês: http://umineco.info/?EP4%E8%A7%A3%E6%98%8E%E8%AA%AD%E6%9C%AC%
 『わかりません。右代宮黄金が白日の下に晒されない限り、幻想に過ぎないでしょう。……しかし、マルソーの会長は確かに大胆な方だったが、それでも相手を無条件に信用するほど、無用心な人ではありませんでした。』
 『Não se dizer. Até que o Ouro dos Ushiromiya seja exposto a luz do dia, permanecerá sendo apenas um fantasia. ......Ainda assim, o presidente da Marusoo certamente é ousado e não é o tipo de homem descuidado que acreditaria cegamente em seus parceiros de negócios.』 
 
+～中略～
 ~omitido~
 
 『これは会長がお亡くなりになられてから、当時、近しかったある先生から伺った話です。
 『Isto foi dito por um certo médico que era próximo do presidente na época em que ele faleceu. 
 
+～中略～
 ~omitido~
 
 会長は最終的には、派閥全体で4割もの投資を行いますが、その内個人的に1割の投資を行います。その1割分。つまり、10tの黄金の1割、1t分について、黄金を実際に預かっていたというのです。』
@@ -43,6 +47,7 @@ O presidente acabou por investir 40% na facção política, mas logo depois uma 
 『その金塊は、最終的に右代宮氏の手元に戻りますが、それでも一時的に、会長の手元に置かれていたと言われています。
 『No fim, essas barras de ouro acabaram retornando ao Sr. Ushiromiya, mesmo assim, é dito que eles ficaram temporariamente de posse do presidente.. 
 
+～中略～
 ~omitido~
 
 会長がお亡くなりになられた後の遺産整理では、右代宮黄金を裏付ける証拠品はたった一点。10kgのインゴット1つが出てきただけでした。これは恐らく、何かの記念に寄贈されたものと考えます。』
@@ -52,6 +57,7 @@ Na liquidação da herança após o falecimento do presidente, havia apenas uma 
 『私はそう考えています。ただ、その後、その黄金は残念ながら紛失してしまっているようです。写真も残っていませんが、家人、関係者など、これについては多くの目撃者がいます。』
 『Eu também acho isso. Contudo, logo depois, parece que esse lingote infelizmente se perdeu. Sequer restou uma foto dele, mas haviam muitos que o testemunharam, como familiares e acionistas.』 
 
+～中略～
 ~omitido~
 
 『あのね、世の中、証拠をモノで示せないことってたくさんあるんですよ。あなた、奥さんを愛しておられる？』
@@ -69,11 +75,13 @@ Na liquidação da herança após o falecimento do presidente, havia apenas uma 
 『お、キザな言葉を知ってるね。そういうことです。会長を信じ、敬愛してやまなかった人々には、確かに10tの黄金が見えた。会長や右代宮氏が気に入らなかった人々には見えなかった。そういうことじゃないですかね。』
 『Oh, parece que você conhece essa frase pretensiosa. Sim, é isso mesmo. As pessoas que acreditaram e respeitaram o presidente certamente puderam ver as dez toneladas de ouro. As pessoas que não ligaram para o presidente ou o Sr. Ushiromiya não puderam ver. Seria algo assim?』 
 
+～中略～
 ~omitido~
 
 『もうね、あんたらの追い求める六軒島の真実なんて、何も存在しないんだよ。あれから長い時間が経って、全ての証拠が消え去った。……だから、あんたらが好きに決めればいいのさ。
 『Não restou mais nada sobre a verdade de Rokkenjima que vocês estão estão atrás. Já se passaram muitos anos e todas as provas se foram. ......Vocês deveriam simplesmente decidir por aquilo que mais gostarem. 
 
+～中略～
 ~omitido~
 
 何があったかを知ろうとするから、証拠が必要になる。そうじゃなくて、何を考えてたかを知ろうとすれば、必然的に何が起こったかを知ることが出来るんじゃないかな。』
