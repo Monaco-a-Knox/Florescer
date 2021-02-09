@@ -4,6 +4,9 @@ Este .txt contém o texto original + tradução para o português.
 Ele está aqui unicamente como backup para ser utilizado futuramente.
 Texto em japonês: http://umineco.info/?%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%EF%BC%98%EF%BC%91%E9%A0%92%E5%B8%83%E5%B0%8F%E5%86%8A%E5%AD%90
 --------------------------------------------------------------------------------------
+NOTA: rever as linhas com 王道 
+NOTA: adicionar váris notas
+--------------------------------------------------------------------------------------
 
  ４４	天使１７歳
 うみねこのなく頃に
@@ -11,7 +14,7 @@ Texto em japonês: http://umineco.info/?%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%
 総受け新刊ありマス。
 44 Anjinha 17
 Umineko no Naku Koro ni
-Nova publicação: O onii-chan é um completo uke.
+Nova publicação: O onii-chan é Superpassivo.
  
  午前１１時。
 有明国際展示場、
@@ -24,10 +27,11 @@ Hall 5 Leste. Leste shi-44-4 "Anjinha 17"
 「こちらは最後尾ではありませーん!! 最後尾は現在、東１ホール脇になっておりまーす!!」
 「すみませーん! “天使１７歳”のスペースはここですかぁ?!」
 「あ、すみません。列は外になってるんですよ～。回ってもらえますかぁ? すいませーん!!」
-「準備会なんですけどー! 取り置きお願いできますかー! 新刊の
-戦人総受け本を20冊でー!!」
-"Esse não é o fim da fila!! O fim encontrasse agora no Hall 1 Leste!!"
+「準備会なんですけどー! 取り置きお願いできますかー! 新刊の戦人総受け本を20冊でー!!」
+"Esse não é o fim da fila!! O fim encontra-se agora no Hall 1 Leste!!"
 "Com licença! Esse é o espaço do 'Anjinha 17'?"
+"Ah, me desculpe. A fila está lá fora~ Poderia dar a volta? Me desculpe!!"
+"Ainda está fazendo os preparativos? Poderia fazer uma reserva para mim? Eu gostaria de 20 cópias do Battler é Superpasivo!
 
 「寿先生ぇ、スケブお願いしまーす!! きゃーッ、リーア先生もいるー!! 握手してくださいー!! きゃーきゃーッ!!!」
 "Kotobuki-senseii, faz um esboço pra mim?! Kyaa! A Lia-sensei também está aqsui!!
@@ -54,7 +58,6 @@ Ange e VIRGILIA brindaram com suas taças, celebrando a vitória de hoje e desfr
 O grupo delas "Anjinha 17" fez um tremendo sucesso hoje.
 Elas se tornaram um grupo extremo sucesso, conhecido por todos da comunidade BL de Umineko.
 
-
 　二人はタッグ結成以前にもそれぞれ個別に活動はしていたが、それほどの評判ではなかった。
 　しかし、二人の才能が融合して化学変化を起こした時。開花と呼ぶより、爆発と呼ぶに相応しい才能が開き、瞬く間に二人を大手サークルに押し上げたのだ。
 Antes de se juntarem, as duas já haviam trabalhado separadamente, mas não eram muito conhecidas.
@@ -74,13 +77,12 @@ Nossa reputação nas lojas está crescendo. Já temos pedidos de reimpressões 
 "Lá eles vendem shooting​ games...BL shooting​. Nunca ouviu falar em Mouhou? O protagonista e os chefes de todas as fases são todos shotas."
 "Ora, ora, mas vejam só...... Parece que terei que dar uma chance a eles. Hohhohhohho......" 
 
-
 　そんな、ブルジョワジーな会話を交わす縁寿とワルギリアであった……。
 E assim, Ange e VIRGILIA continuaram com sua conversa burguesa......
 
 「さて。一つの勝利は次なる戦いの入口でしかないわっ。今回はお兄ちゃんの総受け本で圧勝できたけれど! 時代は常に動いているわ。冬コミも同じだったら読者は飽きちゃう!」
 「そうですね。また新しいカップリングの境地を開きたいものです。」
-Pois bem, uma vitória é a porta de entrada da próxima batalha. Mesmo tendo conquistada uma esmagadora vitória com a obra do onii-chan uke, o tempo está em constante movimento. Minhas leitoras vão cansar se eu continuar com a mesma coisa na FuyuComi!"
+Pois bem, uma vitória é a porta de entrada da próxima batalha. Mesmo tendo conquistada uma esmagadora vitória com a obra do onii-chan passivo, o tempo está em constante movimento. Minhas leitoras vão cansar se eu continuar com a mesma coisa na FuyuComi!"
 "É mesmo. Eu gostaria de dar espaço a um novo casal."
 
 「次は何にする? ぶっちゃけ、お兄ちゃんは一度離れてもいいと思うわ。」
@@ -104,14 +106,13 @@ Ou seja, elas precisavam pensar sobre a obra da FuyuComi enquanto a empolgação
 「では、王道ということで一つ、金蔵×源次では如何でしょう。」
 "Direto ao ponto: quem×quem?! A vitória depende do casal que decidirmos!"
 "Estará ligado diretamente à nossa motivação. Precisamos decidir isso com cuidado."
-"Por que não começamos fazendo uma lista para considerarmos? Vamos começar pelos mais óbvios... quem nós tempos?"
+"Por que não começamos fazendo uma lista para considerarmos? Vamos começar pelos mais óbvios... quem nós temos?"
 "Pois bem, se começarmos pelos mais óbvios, que tal Kinzo×Genji?"
 
 　ワルギリアがパチリと指を弾くと、彼女らのスイートルームがふわりと模様替えし、金蔵の書斎に変わる。
 　ベッドは天蓋付きの見事なものに変わり、その傍らに、ポン、ポンと、金蔵と源次が姿を現す。
 VÍRGILIA estalou seus dedos...e a suíte delas gentilmente foi sendo remodelada até se transformar no estúdio de Kinzo.
 A cama também transformou-se com a implementação de um magnífico dossel... e próxima dela, as figuras de Kinzo e Genji apareceram.
-
 
 「……ふむ。ここは誰のゲーム盤の上やら。」
 「これはお館様。……またベアトリーチェさまのゲームの始まりでしょうか。」
@@ -188,7 +189,7 @@ De repente, Genji ficou por cima de Kinzo, que estava sobre a cama......
 「ま、まぁ確かにわかります。下剋上やリバースはカップリングの基本中の基本。……しかし、その基本に飽いたからこそ、さらにその逆になり、結局は王道に至るのではないですか?」
 「２回捻って、元に戻ったらヒネリなしも同じじゃない!」
 "E bam! É assim que se faz! Entendeu?!"
-"B-Bem, eu realmente entendi. Inverter as posições de hierarquia de casais é o básico do básico. Contudo, esse básico pode ser cansativo, logo não teríamos que inverter para chegarmos onde queremos?" reverberou
+"B-Bem, eu realmente entendi. Inverter as posições de hierarquia de casais é o básico do básico. Contudo, esse básico pode ser cansativo, logo não teríamos que inverter para chegarmos onde queremos?" 
 "Mas uma segunda reviravolta só faria com que voltássemos para onde começou!"
 
 「……まぁまぁ。この議論はこのくらいにして。他のカップリングも探してみましょう。」
@@ -201,8 +202,8 @@ De repente, Genji ficou por cima de Kinzo, que estava sobre a cama......
 "Tem razão. A demanda por Kinzo e Genji é bem rara. Além disso, eu não quero desenhar velhos."
 "Sendo assim, o que acha de Gohda×Kanon?"
 "VIRGILIA estalou seus dedo, e logo Kinzo e Genji transformara-se em borboletas que desapareceram; em seus lugares foi possível avistar as fisionomias de Gohda e Kanon."
-"Obviamente, o Kanon é o seme, né?"
-"E se distorcermos para o Gohda ser o seme? O corpo massivo do Gohda ficando por cima do corpo pálido do Kanon......"
+"Obviamente, o Kanon é o ativo, né?"
+"E se distorcermos para o Gohda ser o ativo? O corpo massivo do Gohda ficando por cima do corpo pálido do Kanon......"
 
 「こ、これはどうしたことでしょう?! わ、私の体が、ほ、火照るぅううぅ!!」
 「なッ、なんでこんなところで急に脱ぎ出すんですか…?!」
@@ -264,7 +265,7 @@ E com seu braço esguio, ele torceu o braço de Gohda...e o jogou contra a cama.
 「これでこそ嘉音×郷田よね。わかる?! ワルギリアはとにかく、ヒネリが一つ足りないのよ。まぁ、それでなくとも私、おっさんなんか書きたくないけど。」
 「……私はガチムチが受けなのは感心しません。線の細い子が受けなのはわかりますが……。」
 "Isso é Kanon×Gohda, viu? Entendeu?! Você sempre falta com as reviravoltas, VIRGILIA. Apesar disso, eu não estou a fim de desenhar tiozões."
-"......Eu não sinto o pelo dos caras robustos sendo o uke. Mas entendo garotos esguios sendo o uke......"
+"......Eu não sinto o pelo dos caras robustos sendo o passivo. Mas entendo garotos esguios sendo o passivo......"
 
 「だからこそ、それを引っ繰り返すのが王道じゃない。カップリングの基本は、見掛けの逆なのよ!」
 「その下剋上理論に基づくと、戦人×留弗夫になりますね?」
@@ -272,9 +273,8 @@ E com seu braço esguio, ele torceu o braço de Gohda...e o jogou contra a cama.
 「まぁ確かに。基本的に戦人くんは誰が相手でも受け専ですものねぇ。仮にウィルと戦人であっても、戦人くんが受けですものねぇ。」
 "???". A base do ship é fazer o inverso das aparências!"
 "Baseado nos princípios da hierarquia, isso não significaria Battler×Rudolf?"
-"Ah, não é bem assim. O fundamento é que o onii-chan é um absoluto uke. Não importa como veja, o Rudolf é unicamente seme."
-"Bem, tem razão. Basicamente não importa com quem você junte o Battler-kun, ele é primariamente uke. Por exemplo, se juntarmos Will e Battler, o Battler-kun será o uke, né?"
-
+"Ah, não é bem assim. O fundamento é que o onii-chan é um absoluto passivo. Não importa como veja, o Rudolf é unicamente ativo."
+"Bem, tem razão. Basicamente não importa com quem você junte o Battler-kun, ele é primariamente passivo. Por exemplo, se juntarmos Will e Battler, o Battler-kun será o passivo, né?"
 
 「ウィ、ウィル×戦人?! またそれは、……面白いカップリングね。」
 「ほっほほほほ。男が二人、揃いさえすれば。直ちにカップリングを生み出してしまえるのが私たちの真骨頂ですよ。」
@@ -311,7 +311,7 @@ VIRGILIA estalou seus dedos e logo Kanon e Gohda desapareceram. No lugar deles, 
 
 「ふつーに考えると、ヘタレなお兄ちゃんが逆転して攻めもありかな…ってなるのよね。ウィルみたいなパーフェクトイケメンが、実は好き放題されてる猫だったなんて、意外性ありまくりだもん。でも駄目なのよ! 出るから。」
 「さらに言うと、ウィル×理御ですでにカップリングが出来上がってますからねぇ。ウィルは他のキャラとは、原則、絡みませんし。」
-"Geralmente se pensa que seria possível transformar o meu onii-chan inútil em...um seme. Um perfeito bonitão como o Will poderia o gatinho que gosta de ser domesticado... isso seria bem inesperado. Mas isso não está certo, iria fugir do personagem." 
+"Geralmente se pensa que seria possível transformar o meu onii-chan inútil em...um ativo. Um perfeito bonitão como o Will poderia o gatinho que gosta de ser domesticado... isso seria bem inesperado. Mas isso não está certo, iria fugir do personagem." 
 "Mais do que isso, já existe o ship Will×Lion, não é mesmo? O princípio básico diz que o Will não pode se envolver com outras personagens.
 
 　ワルギリアが指を鳴らすと、戦人は蝶の群れになって姿を消す。
@@ -353,7 +353,7 @@ Com a forte batida de mãos de Ange, os corpos de ambos pararam de se mover imed
 
 「やめてよ、駄目よ駄目よ! 理御が攻めに決まってるじゃない! あんた本当に世間をリサーチしてんの?! はい、攻守逆転で再開!」
 　縁寿がもう一度手を叩くと、理御がウィルの腕を払いのける。
-"Para! Não está certo, não está certo! É óbvio que Lion deve ser seme! Você pesquisou mesmo sobre a comunidade?! Certo, recomeça invertendo ataque e defesa.
+"Para! Não está certo, não está certo! É óbvio que Lion deve ser ativo! Você pesquisou mesmo sobre a comunidade?! Certo, recomeça invertendo ataque e defesa.
 Ange bateu palmas novamente, e Lion logo empurrou a mão de Will para longe.
 
 「だ、大丈夫か、理御。」
@@ -427,12 +427,10 @@ Ange bateu palmas e logo Hideyoshi jogou Lion para escanteio, partindo para cima
 「あ、うーん、なるほど、そういう考え方もあるわねぇ……。でも駄目よ、譲らない! ウィルは総受けなのよ、譲れない!」
 「なのに、理御が汚らわしい中年にあーだこーだされちゃって!総受けウィルが攻めに開眼したらヒネリもあって素敵じゃないですか!」
 "Já que funcionou com Lion×Willm, então por que não não invertemos a hierarquia de também Hideyoshi×Lion?!"
-"Ah, sim, entendi... esse tipo de ideia também pode funcionar...... Mas, eu me recuso! Will é totalmente uke! Me recuso!"
+"Ah, sim, entendi... esse tipo de ideia também pode funcionar...... Mas eu me recuso! Will é totalmente passivo! Me recuso!"
 
 「で、ウィルが秀吉やっつけて理御を取り返して、ウィル×理御になるの? それじゃまた、２回捻って、ヒネリ無しに戻ってきただけじゃない!」
 「いえいえむしろですね、秀吉がウィルを返り討ちにして二人とも食ってしまうとか! 攻めは汚ければ汚いほどいいんです!それでこそ、受けの美しさと儚さが引き立つんです! あぁ、たぎってきましたよ、テンションが、そしてネームが!! さっそくプロットを描いてしまいましょう、さらさらさら!」
-
-
 
 「……さ、さすがはワルギリアだわ。恐ろしいことを平気で言い出す、ネームにするっ。そこに痺れる、憧れるわ……。でも私、悪いけど、秀吉のお尻にペン入れなんかしたくないわよ!!」
 「本当に縁寿さんはわかっていませんね…! 美しい白い薔薇に、醜い肉塊が覆い被さるから美しいというのに!!」
@@ -457,10 +455,9 @@ Ange bateu palmas e logo Hideyoshi jogou Lion para escanteio, partindo para cima
 "Kyawaaa!!! Socorrooooo!! Eu odeio esse jogo de bruxaaas... me mata logooo!!"
 "Eu também odeiooo!! Alguém me mata de uma vezzzz!!"
 
-
 「うぇー、ゲホンゲホン!! ないわ、ないないッ、絶対ない! いくらお兄ちゃん総受けでも秀吉×戦人とかありえない!」
 「じゃあ逆ですか? “秀吉伯父さんさ。……いい歳して、息子より年下の甥に、好き放題されちゃうのって、……どー思います…?”　、とか。」
-"Ueeh, blerg, blerg!! Sem chance, sem chance, jamais! Não importa o quanto uke o onii-chan seja, Hideyoshi×Battler é impossível!"
+"Ueeh, blerg, blerg!! Sem chance, sem chance, jamais! Não importa o quanto passivo o onii-chan seja, Hideyoshi×Battler é impossível!"
 "E se invertermos? 'Ei,tio Hideyoshi, ......você já tem certa idade, então porque não deixa seu sobrinho cuidar das coisas para você? ......Que tal...?' Algo assim?"
 
 「黒戦人…! ま、まぁ確かに悪くないわよね…。黒白戦人なんて確かに魅力的だわ。黒戦人が、………。」
@@ -471,7 +468,6 @@ Ange bateu palmas e logo Hideyoshi jogou Lion para escanteio, partindo para cima
 VIRGILIA estalou seus dedos e materializou a delusão de Ange... Sobre a cama, a figura de dois Battlers tomou forma.
 O Battler que ficou por baixo era o Battler que já conhecemos bem.
 O Battler que ficou por cima exalava uma aura mais nilística e selvagem.
-
 
 「“……戦人、お前の本当の心を解放してやるよ……。”」
 「な、なんなんだッ、身体が思うように動かねぇ…!」
@@ -490,23 +486,21 @@ O Battler que ficou por cima exalava uma aura mais nilística e selvagem.
 "'Você é bem barulhento, hein......? Terei que silênciá-lo......'"
 "Q-Que diabos está acontecendo aqui?! Hiii!! Socorrooo! Mamãeee!!"
 
-
 「攻め戦人も素敵じゃないですか! 醜い肉塊の秀吉を組み伏せる黒き戦人……。どうです? 戦人くんの攻めもなかなかでしょう?」
 「……む、むむ、確かにそれもまぁアリね……。じゃないわよッ!! というかワルギリア、いい加減、秀吉から離れてよ! 私におっさんを描かせようとするの止めて!!」
 「ＢＬがカレーライスなら中年男はそのルーです!! 中年がいるからこそ、お米の白さと若々しさが引き立つのです!」
 「せいぜい付け合せのらっきょう程度でしょーが!!」
-"Battler seme também não é maravilhoso? Muito melhor ter o Battler da Escuridão por cima do que aquela carne abominável do Hideyoshi...... Não concorda? O Battler-kun é um bom seme, não?"
+"Battler ativo também não é maravilhoso? Muito melhor ter o Battler da Escuridão por cima do que aquela carne abominável do Hideyoshi...... Não concorda? O Battler-kun é um bom ativo, não?"
 "......Hm, hmmm, realmente pode funcionar...... Só que não! Sério, VIRGILIA, para logo com isso! Esquece o Hideyoshi! Só vai fazer com que eu pare de desenhar tiozões!!"
 "Se BL fosse curry, então homens de meia0udedade seriam o roux!! Por já estarem envelhecidos, eles intensificam ainda mais a pureza do arroz!"
 "É no máximo um alho como guarnição!!"
-
 
 「な、なら縁寿さんにも譲歩して、若返り化というのは如何です?蔵臼や留弗夫、秀吉たちの若い頃を舞台にしては……。」
 「んー、どうかしら……。何だか箸が進まないわ。」
 「若返ってるのですから、これならあなたも描けるでしょう?」
 「でも、正体はおっさんでしょ?! ないわ、ってゆーか、中年男に魅力を感じないの!」
 「どうしてあなたはこの世の理を理解できないのですか!! 御覧なさい、そして理解なさい! 若返った中年男たちのハーモニーを!!」
-"E-Então, que tal fazermos uma concesssão, Ange-san? O que me diz de rejuvenecê-los? Podemos voltar aos tempos de juventude do Krauss, Rudolf e Hideyoshi......"
+"E-Então, que tal fazermos uma concessão, Ange-san? O que me diz de rejuvenesce-los? Podemos voltar aos tempos de juventude do Krauss, Rudolf e Hideyoshi......"
 "Hmm, será......? Parece que não estamos indo na direção certa"
 "Você poderia desenhá-los direito se ficarem jovens?"
 "Mas ainda não seriam tiozões por dentro?! Sem chance... na real, você nem irie sentir a atração de meia-idade neles!"
@@ -520,14 +514,22 @@ O Battler que ficou por cima exalava uma aura mais nilística e selvagem.
 「若ロノウェとか若金蔵も素敵ですよ?!」
 「んー、どうかしら……。若くても私、そもそもヒゲが駄目。というか、若かろうと若くなかろうと、いい加減、おっさんかせ離れてよ!」
 「縁寿さんは熟成した男の良さをわかっていません!! この深みある男の世界をどうしてわからないのです?!」
+"'Rudolf. ......Você parece estar esquecendo do seu respeito perante seu irmão......'"
+"O-O que está insinuando, aniki...! P-Pare......!!!""
+"Um Ronove novinho ou um Kinzo novinho também não seria maravilhoso?!"
+"Hm, será......? Mesmo jovens, eu não consigo suportar barba. Na verdade, não importa se são jovens ou não... poderia deixar os tiozões de lado?!"
+"Ange-san, você não compreende o lado bom dos homens maduros!! Por que você não consegue entender as profundidades do mundo dos homens?!"
 
 　パチリ!
 *clap*!
 
 「“ぷっくっく。金蔵さま。こう見えても私、……あなたを好きになるのに、性別など気にしない男でございますよ……?”」
 「“どうせクソッタレな人生さ。…狂い合おうぜ、……一緒に。”」
+"'Pukkukku. Kinzo-sama. Apesar das aparências, ......eu gosto de você. Sou um homem que não se importa com o sexo da pessoa, sabia......?'"
+"'Já que essa vida é uma merda mesmo, ...vamos enlouquecer......juntos."'
 
 「あとは、そうですねぇ。９８年組ということで、小此木×天草なんていかがです?!」
+"É mesmo, também tem a turma de 98. O que acha de Oknogi×Amakusa?!"
 
 　パチリ!
 *clap*!
@@ -540,78 +542,131 @@ O Battler que ficou por cima exalava uma aura mais nilística e selvagem.
 「ならば、八城十八は如何です? もちろん郁子じゃない方ですよ!」
 「一体、誰と絡ます気よ。相手が思い付かないわ。ってゆーか、だからおっさんから離れてちょうだい!!」
 「十八も黒戦人なんかに攻められちゃったら素敵ですよ?! どうして縁寿さんはこの世界を理解できないのですか!!」
+"'Amakusa, você ainda tá saíndo com aquela garota?'"
+''Eu já não disse que odeio falar sobre o passado, patrão?'"
+"'...É mesmo? Bem, eu farei que esqueça sobre o passado. Não vai recusar, né? É uma ordem do seu chefe......'"
+"Oh?! ......Cool...'"
+"Stop! Stop!!! Eu entendo que tem demanda pra isso, mas eu não estou com vontade de desenhar um BL da turma de 98!!
+"Nesse caso, que tal Hachijo Tohya? Obviamente, não estou me referindo à Ikuko!
+"E com quem pretende juntá-lo? Não imagino ninguém para ser seu parceiro. Na real, dá para largar de vez os tiozão?!"
+"Não seria maravilhoso se o Tohya fosse atacado pelo Battler da Escuridão?! Por que você não consegue compreender este mundo, Ange-san?!"
 
 　パチリ!
 *clap*!
 
 「“いつまで俺を否定し続けるつもりなんだよ……。わかってるだろ…? 俺はお前で、お前は、俺だ。……お前が何を望んでいるかも全て知っているし、……それを与えてやれるのも、……世界で、俺一人だけなんだぜ……。”」
 「“やめろ……、やめてくれ戦人……。私は戦人じゃない……、十八なんだ……。やめろ、……やめろぉおおお!! わッ、私の中にッ、は、入って、……うぐぅッ、あッ!!”」
+"'Até quando pretende me negar......? Você sabe, não sabe? Eu sou você, e você sou eu. ......Eu sei sobre todos os seus desejos, ......e dentre todos neste mundo, ......eu sou o único que pode realizá-los......'"
+"'Pare...... Pare, Battler...... Eu não sou o Battler......, sou o Tohya...... Pare, ......pareeee!! Não, dentro de mim não......gahahh!!
 
 「確かに嫌いじゃないの、ビジュアル的には嫌いじゃない! でも私、おっさんは駄目なの、見掛けは若くてもおっさんは描きたくないのー!!」
 「この世の半分が男女であるように! 男の半分は中年なのですよー!!」
+"Realmente, não posso dizer que desgosto, e o visual é interessante! Mas eu já disse que não gosto de tiozões. Mesmo que aparentem ser jovens, não quero desenhar velhos!!"
+"Metade deste mundo é homem e outra metade mulher! E metade dos homens são de meia-idade!!"
 
 「………ワルギリア。私たち、議論を続けていて、ひとつだけ確信したことがあるわ。」
 「えぇ、私も一つ、わかったことがあります。」
+"......VIRGILIA. Há uma coisa que me convenceu durante essa nossa discussão."
+"Sim, eu também entendia uma coisa.
 
 「ワルギリア! あんたのおっさん属性、私、いい加減、ついていけないの!! ペン入れするの誰?! トーン貼るの誰?! 私よ、私!! おっさんの尻やナニに、何が悲しゅうてペン入れせなあかんのッ!!」
 「縁寿さんの視野は狭過ぎます!! あなたはヒネってるつもりでしょうが、私から見ればそんなものは初歩の初歩!! そこからさらにもうひとヒネリ入れてこそがカップリングなのです!! そして何より! おっさんの良さもわからずにＢＬ語るの止めて下さい!!」
+"VIRGILIA! Eu não aguento mais esse seu fetish de tiozões!! Quem vai desenhar? Quem vai aplicar as texturas? Eu! Eu vou!! Não vou me torturar para desenhar a bunda de um tiozão!!"
+"Ange-san, seus horizontes são estreitos demais!!Você diz que quer inserir uma reviravolta, mas tudo que vejo aqui é o básico do básico!! A primeira coisa que você precisa que inverter é o casal!! E mais do que isso!! Se você não entende a beleza dos tiozões, então pare de escrever BL!!"
 
 「何ですって、この腐れ魔女!! 私のペンで成り上がったサークルのオマケの分際で!!」
 「私のネームに頼るまでお誕生席がせいぜいだったくせに!!あなたは黙って、私のＢＬトレンドに従って原稿を描けばいいんですっ。」
 「あんたのクソつまんないＢＬ小説が何部売れてたのよ!! 私の画力のお陰でしょ!!」
+"O que disse, sua bruxa apodrecida!! Você não passa de um extra no grupo que cresceu a partir da minha caneta!!"
+"Até se amparar nos meus names, o máximo que você chegava era nos assentos de aniversário! Fique caladinha! E desenhe o manuscrito de acordo com o meu conhecimento sobre as tendências do BL!"
+"Quantos volumes suas novels chatas venderam, hein?! É tudo graças aos meus desenhos!!"
+NOTA: お誕生日席 "assento de aniversário é o nome dado às extremidades da ilha.
+O Centro da Ilha é chamado de 島中
 
 「ふぎーー!!! 言わせておけば、この小娘がー!!!」
+"Fugiii!!! Olha como fala, sua pirralha!!!"
 
 「何よ、やる気ぃ?! このクサレＢＢＡ－!!」
+"Qual foi, quer brigar?! Sua velhota apodrecida!!
 
 　………こうして、彗星の如く現れた、大人気サークル「天使１７歳」は、その伝説と共に、まさに彗星の如く消え去った。
 　しかし、彼女たちの血潮には、熱きＢＬの魂が今も流れている。
 　仮に仲違いをしたとはいえ、……それしきのことで、彼女らの情熱を潰えさせてしまうわけもない。
+.........E assim, o superpopular grupo "Anjinha 17" que surgiu como um cometa, despareceu da mesma maneira, junto à sua lenda.
+Contudo, mas o fervente espírito delas pelo BL ainda corre por suas veias.
+Apesar desse desentendimento entre elas, ......por algo tão banal assim, a paixão delas não desapareceu.
 
 　彼女らは、今日もどこかのイベントで、思い思いの情熱を原稿に変えて発表しているのだ……。
-
+Até hoje elas ainda participam de eventos, publicam ao paixão que converteram em manuscritos......
 
 「……ま。元々、私は島中が向いてるのよね。こっちの方が、買いに来る同好の仲間ひとりひとりとゆっくりと触れ合えていいものね。それに、お隣のサークルともゆっくり交流できるし。……えっと、私のスペースはここね。」
  縁寿の情熱は、今日も冷めることはない。
 　ワルギリアとの合同サークル「天使１７歳」は、やはり一瞬の奇跡だったのだろう。あれ以来、縁寿の個人サークルが壁際になることはない。
+"......Bem, no começo eu não ficava do Centro da Ilha mesmo. É bom poder vir deste lado para comprar aquilo que gosto e ter tempo para conversar com cada uma das minhas companheiras. Além disso, dá para trocar experiências com os grupos ao lado. ......Deixa eu ver...esse aqui é o meu lugar, né?"
+Mesmo nos dias de hoje, a paixão de Ange não esfriou.
+Seu grupo doujin com a VIRGILIA, chamado "Anjinha 17", foi mesmo um milagre momentâneo. Desde então, o grupo da Ange nunca mais conseguiu um lugar próximo à parede.
 
 　ささやかな行列は出来るが、かつての、東ホールを横断するほどのものではない。
+Ela conseguia formar uma filha modesta, mas sequer se aproximava do Hall Leste como acontecia antes.
 
 「ま、身の丈にあった活動が一番よね。……コミケは頒布数じゃないわ。自分の好きなものを発表できたかどうかなんだから。」
+Bem, o melhor é fazer aquilo que está dentro das suas capacidades. ......A  Comiket não se trata do quanto você vende. É sobre poder publicar aquilo que você gosta."
 
 　流行が何かとか、関係ない。
 　自分の好きなものを好きなように描き、それが評価されたなら最高なのだ。
 　今回の縁寿は「彼岸花の咲く夜に」で申し込んだ。……もちろん、ＢＬ系だ。
+Não é sobre o que está na moda.
+Você desenha aquilo que gosta. Se for valorizada por isso, melhor ainda.
+Desta vez, Ange se inscreveu para "Higanbana no Saku Yoru ni". ......Obviamente, o gênero é BL.
 
 「さ。お隣にご挨拶してから、設営を始めようかしら。……どーも、こんにちはー。今日はよろしくお願いしまーす。」
 「おっほほほ、こんにちは。よろしくお願いしま…………、」
+"Muito bem. Agora que cumprimentei minhas vizinhas, é hora de começar a preparas as coisas. ......Olá, é prazer. Vamos dar o nosso melhor hoje."
+"Ohhohoho, olá. Será um prazer............"
 
 「あーッ、あんた、ワルギリア!! すっぴんだからわからなかったわ!!」
 「縁寿さん…!! 今日もお化粧がお顔と首が色違いで素敵ですことっ、おっほほほほほほ!!」
+"Ahh! É você...VIRGILIA!! Não a reconheci sem maquiagem!!"
+"Ange-san...!! É ótimo ver a diferença de cor entre seu rosto e pescoço por causa da maquiagem... ohhohohohohoho!!"
 
 「「がるるるるるるるるるーーー!!!!」」
 ""Grrrrrrrrrrrrr!!!!""
 
 　二人は取っ組み合うかと思われたが、準備会スタッフが通りかかり、まるでアーバンチャンピオンのように素知らぬフリで誤魔化しあう……。
+Pode ter parecido que elas estavam prontos para se engrenharem, mas como a equipte do comitê de organização estava passam, elas fingiram não se conheceram, como se fossem personagens de Urban Champion......
+
 「……まぁ、お互い、自分の好きな道に進んだのですから。お互いの道を認め合おうではありませんか。」
 「それもそうね。私も大人げなかったわ。……ま、お互い、身の丈にあった同人活動を楽しみましょ。」
 「仲直り、します?」
 「そうね。ＢＬを愛する同志としてね。」
+"......Bem, cada uma seguiu o caminho que mais gostava. Não é melhor reconhecer o caminho da outra?"
+"Tem razão. Eu fui muito imatura. ......Bem, vamos aproveitar os doujins de cada uma."
+"Amigas...?"
+"Sim. Como duas companheiras que amam BL."
 
 　二人は再び握手を交わす。
 　そこにはもう、すれ違った頃にあったようないがみ合いはない。
+Elas novamente voltaram a dar as mãos.
+Nesse momento, elas deixaram para trás suas desavenças passadas.
 
 「ワルギリアは小説?」
 「えぇ。『彼岸花』のＢＬ小説です。縁寿さんは?」
 「漫画よ。『彼岸花』のＢＬ漫画。これ、私の新刊。」
 「これはどうも。では私の新刊もどうぞ。」
+"Está vendendo uma novel?"
+"Sim. É uma novel sobre "Higanbana no Saku Yoru ni". E você, Ange-san?"
+"Uma mangá. Uma mangá BL de "Higanbana no Saku Yoru ni". Aqui, fique com minha nova publicação."
+"Muito obrigada. Sendo assim, pode pegar a minha também."
 
 　ワルギリアの新刊は、紅茶紳士×校長。
 　縁寿の新刊は、野々宮×ひかる。
+O lançamento de VIRGILIA era entre o Cavalheiro e o Diretor.
+A nova publicação de Angre era entre o Nonomiya e o Hikaru.
 
 「……相変わらず、おっさん趣味全開ね。……しかも校長が受けって、マジで誰得なわけ?」
 「縁寿さんこそ、相変わらず中年の良さがわかっていないようですね。」
-
+"......Como de costume, seu gosto por tiozões não muda? ......E o Diretor é o passivo... sério, qual o sentido disso?"
+"Eu que diga, Ange-san. Como de costume, você não compreende o charme dos homens de meia-idade, compreende?"
 
 「「がるるるるるるるるるるーーー!!!!」」
 ""Grrrrrrrrrrrrr!!!!""
@@ -619,3 +674,6 @@ O Battler que ficou por cima exalava uma aura mais nilística e selvagem.
 　浜の真砂は尽きるとも。
 　世にＢＬのカップリングは尽きまじ。
 　主義主張は違えども、同じ同人の仲間同士、仲良くしたいものですね……。
+Os grãos de areia da praia nunca se esgotam.
+O mesmo se aplica aos casais dos BL.
+Mesmo que seus princípios e posições sejam distintos, você deve ser amigo de seus companheiros de doujin, certo......?
