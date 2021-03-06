@@ -47,12 +47,19 @@ Nesse sentido, é preciso dizer que essa última, uma magia muito mais subjugada
 
 だからこそ、　派手好みな若たちは、楽に派手な奇跡が起こせる魔法を好み、苦労の割に非常に地味な召喚術に関心 をもたないのである。
 
-ゆえに、　召喚術はその知名度の割に、　？？？
+ゆえに、　召喚術はその知名度の割に、　熟練に達し　「召喚師」と呼ばれるまでに会得できた魔術師は、　人間界においでは極めてすくないのだ。
 瞬くように消えてしまうくらいに夢い奇跡を、　永遠に留める。
 これこそが召喚術の真骨頂なのである。
 さて。
-以上の話から、　奇跡の実現
-
+以上の話から、　奇跡の顕現に必要な魔力は、　『規模』　✕　『存続時間』　で表せるとがわかると思う。
+召喚術でわざわざ異界から客人を招く以上、　それは有益 がつ優れた存在でなければならない。　その時点で、　『規模』の数字は少なく見積もることが出来ないわけである。
+下らないものを好き好んで召喚する必要など、　ないのだから。
+そしれさらに。　有益な存在を召喚したなら、　すこしでも長い期間を留まらせて使役したいとおもうものだ。　つまり、　可能な限り　『存続時間』　も長いほうが良い。
+『規模』　も　『存続時間』　も、　どちらもなかなか妥協できない要素であることがわかるだろう。
+この時点で、　召喚師とよばれるに値する魔術師が、　どれほどの桁外れな魔力を有しなければならないか、　想像は容易だろう。
+残念ながら、　ニンゲンの寿命の内の修行程度では、　そのような莫大な魔力得られない。
+そこで、　重要になってくるのが、　準備というものなのである。
+＊新しいテキストの終わり＊　*Fim do texto novo*
 
 魔法の奇跡の主たる燃料は、魔力という名の狂気的燃料で補われる、 理解に難しければ、普通に腕力を想像してくれても良いだろう。
 O principal combustível dos milagres mágicos pode ser compensado pela denominada loucura conhecida como poder mágico... Se for muito difícil de compreender, você pode simplesmente pensar nisso como força física.
@@ -104,6 +111,9 @@ Em especial, aqueles que almejam pela arte mágica de "permitir que milagres per
 
 （・・・・中略・・・・）
 (....omitido....)
+＊新しいテキスト＊　*Texto Novo*
+そんな、　十分手間暇 を掛けて準備した魔方陣や触媒、　召喚術の際に術者の魔力を、　本来のものよちもさらにさらに高みへ誘ってくれるだろう。
+＊新しいテキストの終わり＊　*Fim do texto novo*
 
 また、私の経験によるならば、召喚術を行う上でその成功率を上げるために欠かせない準備がある。
 Novamente, baseado em minha experiência... uma determinada preparação é indispensável para se elevar a probabilidade de uma invocação.
@@ -113,12 +123,19 @@ Novamente, baseado em minha experiência... uma determinada preparação é indi
 
 （・・・・中略・・・・）
 (....omitido....)
+＊新しいテキスト＊　*Texto Novo*
+依り代と本来、　東洋魔術の用語だが、　日本人魔術師である私たちには単語を使うことがより理解を早めるので、　厳密に適当ではないが、　この単語を敢えて使うことにする。
+＊新しいテキストの終わり＊　*Fim do texto novo*
 
 依り代は、簡単にいえば異世界からの客人を"宿らせるモノ"である。
 Colocando de forma simples, um receptáculo é uma "morada" para visitantes vindos de diferentes mundos.
 
 （・・・・中略・・・・）
 (....omitido....)
+＊新しいテキスト＊　*Texto Novo*
+西洋魔術に明るい者ならば、　土人形に塊を吹き込み、　ゴーレムとして召喚する儀式を思い浮かべるだろう。
+この儀式における土人形は、　まさに依り代のである。
+＊新しいテキストの終わり＊　*Fim do texto novo*
 
 冒頭の霜柱の話に戻ろう。
 Vamos retomar ao princípio e falar da geada branca.
@@ -131,6 +148,11 @@ Contudo, poderia ser preparada uma caixa térmica para armazená-la, protegendo-
 
 （・・・・中略・・・・）
 (....omitido....)
+＊新しいテキスト＊　*Texto Novo*
+異世界の客人にとって、　人間界はまさに異世界。　その異世界に顕現する為には、　彼ら維持する‘器‘が必要なのである。
+もちろん、　力量ある召喚師はそれがなくとも虚空に異世界の客人を召喚して見せるだろうが、　それはニンゲンの至れる領域ではない。
+自分が人間界生まれたニンゲンであることを自覚する限り、　依り代の準備なく虚空に何かを呼び出そうという過ぎた夢は早めに諦めた方が賢明だろう。
+＊新しいテキストの終わり＊　*Fim do texto novo*
 
 依り代は呼び出す客人に相応しいものであるべきだろう。
 O receptáculo deve ser apropriado ao visitante convocado.
@@ -140,6 +162,15 @@ Quanto mais apropriado for, mais seu poder se manifesta.
 
 （・・・・中略・・・・）
 (....omitido....)
+＊新しいテキスト＊　*Texto Novo*
+偉大なる存在を召喚したものの、　みすぼらしい依り代であった偽、　その偉大さを示すことができなかったら、　それはまさに偉大なる存在への冒涜となってしまう。
+より強き存在には、　より強き依り代を。
+より賢き存在には、　より賢き依り代を。
+優れた依り代は、　異世界の住人にとって心地よい。
+何も呼び出さずとも、　すでに異世界の住人と奇跡が宿っており、　いわゆる‘マジックアイテム‘と呼ばれるべき存在となっていることも少なくない。
+偉大なる客人の召喚のために、　それに相応しい依り代を求め、　半生を費やすのもまた、　召喚師らしい生涯だとい言えよう。
+それを求めるために費やす永続的 狂気は、　必ずや魔力に結びつく。　決して無駄にはならない。
+＊新しいテキストの終わり＊　*Fim do texto novo*
 
 召喚術を志す者は、修練だけでなく、依り代にも感心を持ってもらいたい。
 Aqueles que almejam se tornarem invocadores precisam se preocupar, não só com seu treinamento, mas também com receptáculos.
