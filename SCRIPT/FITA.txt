@@ -58,7 +58,7 @@ Fim do omitido
 
 「しかし、　よくその会長はたった１つの金塊を鑑定するだけという、　如何わし方法で１０ｔの黄金を確信したものですね？　いくら親交があったと言っても、　もしも詐欺だったなら、　大きな会社的信用を失うところだったはずでう。　それほどの大人物が信ずるに足る証拠としては、　どうしてもたりないように思うのですか」
 
-『右代宮氏を疑問視したり、　あるいは反感を持つ物たちは、　そう主張しました。　マルソーの会長は買収されたか、　あるいは騙されて詐欺の片棒を担がされていると。　……そんな風に大荒れするどほ、　右代宮氏の黄金担保の話は当時、　とにかく魅力的な、　俗に言う‘うまい話‘だったんですよ』
+『右代宮氏を疑問視したり、　あるいは反感を持つ物たちは、　そう主張しました。　マルソーの会長は買収されたか、　あるいは騙されて詐欺の片棒を担がされていると。　……そんな風に大荒れするどほ、　右代宮氏の黄金担保の話は当時、　とにかく魅力的な、　俗に言う“うまい話”だったんですよ』
 
 「結局、　黄金伝説の真贋は問われることなく、　右代宮氏は莫大な投資を受け、　それを元に朝鮮特需で大儲けをし、　無事に借金を返済」
 
@@ -95,26 +95,32 @@ Fim do omitido
 
 「と、　申しますと？」
 
-「今日の説は、　右代宮黄金に否定的なフィクサーたちが、　右代宮しを貶める目的で捏造したものだからです。　当時の会長は、　‘たった１つの黄金を見せられただけ信用した‘とはー言も言っていないからです」
+「今日の説は、　右代宮黄金に否定的なフィクサーたちが、　右代宮しを貶める目的で捏造したものだからです。　当時の会長は、　“たった１つの黄金を見せられただけ信用した”とはー言も言っていないからです」
 
-「それはつまり、　‘たった１つの黄金‘以外にも、　証拠を見せられた可能性があるということですか？」
+「それはつまり、　“たった１つの黄金”以外にも、　証拠を見せられた可能性があるということですか？」
 
-『これは会長がお亡くなりになられてから、当時、近しかったある先生から伺った話です。　
-
-……こんなことを言うと、　会長に失礼なんですかね』
-『Isto foi dito por um certo médico que era próximo do presidente na época em que ele faleceu. 
-……』
+『これは会長がお亡くなりになられてから、当時、近しかったある先生から伺った話です。　……こんなことを言うと、　会長に失礼なんですかね』
+『Isto foi dito por um certo médico que era próximo do presidente na época em que ele faleceu. ……traduzir parte omitida daqui』
 Fim do omitido
 
 ～中略～
 ~omitido~
-『』
+『会長は世間で大胆と言われるほど大胆ではなく、　むしろ石橋を叩いて渡る慎重な方だったらしいんです。　確かに、　飲みっぷりと食いっぷりの大胆な方です。　そのイメージのせいもあったでしょう。　しかし、　カネに関してだけは大胆さ正反対だったようです』
+
+「それほど慎重な方が、　なぜ信じたのでしょうか？」
+
+『これもその先生に伺った話なのですが。　……何でも、　マルソーの会長にだけは、　担保が保証されていた、　というのでう』
+
+「担保保証？」
+
+『はい。　右代宮氏は、　会長の信用を欲しいがっていました。　なので、　何としてもこの話に乗って欲しい思惑があったのです。　その為に、　秘密で、　会長にだけは特別に有利な条件で、　話を持ちがかけたというのです』
+
+「それはつまり、　他のフィクサーの投資から元本を保証、　返済するという、　無限連鎖講の詐欺のような？」
 
 
-『違います
 
-会長は最終的には、派閥全体で4割もの投資を行いますが、その内個人的に1割の投資を行います。その1割分。つまり、10tの黄金の1割、1t分について、黄金を実際に預かっていたというのです。』
-O presidente acabou por investir 40% na facção política, mas logo depois uma parcela de 10% foi investimento pessoal. Exatamente esses 10%. Ou seja, 10% das dez toneladas de ouro, ou uma tonelada, foi praticamente confiada a ele.』 
+『違います。　会長は最終的には、派閥全体で4割もの投資を行いますが、その内個人的に1割の投資を行います。その1割分。つまり、10tの黄金の1割、1t分について、黄金を実際に預かっていたというのです。』
+Nada disso. O presidente acabou por investir 40% na facção política, mas logo depois uma parcela de 10% foi investimento pessoal. Exatamente esses 10%. Ou seja, 10% das dez toneladas de ouro, ou uma tonelada, foi praticamente confiada a ele.』 
 
 
 「1t分の金塊ですか。今日の価値で、20億円ほどはありますね？」
@@ -199,6 +205,19 @@ Na liquidação da herança após o falecimento do presidente, havia apenas uma 
 
 「えぇ。　それが訛って小豆島になり、　最後に六軒島になったと」
 
+『そうそう。　悪霊が住んでて、　魂を食らって飲み込む島ね。　……飲み込んじゃったんだよ。　ぺろりと。』
+
+『当時、　黄金伝説を証する証拠はきっとあったんです。　それを大勢が目撃した。　だから黄金は事実だった。　しかし、　時を得て、　それらの証拠は失われた、　飲み込まれた。　その結果、　事実だったはずの黄金伝説はその存在を疑われるようになった』
+
+「……確かに、　そうとも言えますね」
+
+『私はね、　女房を愛してる。　今日まで浮気を疑ったこともないし、　女房と同じ日に同じ畳で死ねたら最高だと思ってるよ。　胸を張って、　息子たちや孫たちに、　最高の人生だったと語って大往生できる。　そして、　それを見た息子たちや孫たちは、　祖父さまは最高に幸せな人生を歩んだと、　確かにそう言ったと語り継ぐだろうねえ』
+
+『しかし、　直接聞いた子孫みんな死ぬほどの未来。　……俺の末裔が、　死んだ曾祖父さまは不幸で、　夫婦仲は悪く不倫だらけだったと言い出したらどうなるかねえ？　それを否定する証拠に、　俺は何を残せばいいんだろうねえ？　何うぃ残したって、　疑う未来のそいつの元に届かなきゃ、　意味がない』
+
+「……………」
+Fim do texto omitido
+
 『もうね、あんたらの追い求める六軒島の真実なんて、何も存在しないんだよ。あれから長い時間が経って、全ての証拠が消え去った。……だから、あんたらが好きに決めればいいのさ。
 『Não restou mais nada sobre a verdade de Rokkenjima que vocês estão estão atrás. Já se passaram muitos anos e todas as provas se foram. ......Vocês deveriam simplesmente decidir por aquilo que mais gostarem. 
 
@@ -229,8 +248,8 @@ Se quer descobrir o que aconteceu, é necessário evidências. Caso contrário, 
 『Hahhaha, de novo essa frase pretensiosa? Mas tudo bem. "O que aquele rico estranho, com seus esquemas ridículos podia estar planejando?" Se pensar dessa forma, também não conseguirá ver. Se supor que não é possível entender o que um rico maluco e excêntrico pensava, que tal deixar de lado sua visão enviesada? Sugiro que pense nele como um humano normal. Não acha que é o bastante? Creio que associando assim, eu posso ajudar meu amigo de infância a manter a sua honra?』 
 「ありがとうございました。原稿を起こしましたら、お送りさせていただきますので、確認をお願いいたします。」
 「Muito obrigado. Assim que eu tiver preparado o manuscrito, irei mandar para você... por favor, confira-o.」 
-『いいよいいよ、チェック面倒臭いからそのまま掲載してくれていいよ。何をどう言い繕ったって、悪意ある人が聞けば、悪意あるように解釈できちゃうんだから。ただ、匿名でお願いね。そういう条件でお話したんですから。』
-『Tudo bem, ficar checando é um saco, então só publique. Não importa o que seja explicado, qualquer pessoa lendo com má fé vai chegar a uma interpretação maldosa. Apenas me deixe como anônimo. Afinal, essa foi a minha condição para a nossa conversa.』 
+『いやっは、　や、　いいよいいよ、チェック面倒臭いからそのまま掲載してくれていいよ。何をどう言い繕ったって、悪意ある人が聞けば、悪意あるように解釈できちゃうんだから。ただ、匿名でお願いね。そういう条件でお話したんですから。』
+『Não, não, tudo bem, ficar checando é um saco, então só publique. Não importa o que seja explicado, qualquer pessoa lendo com má fé vai chegar a uma interpretação maldosa. Apenas me deixe como anônimo. Afinal, essa foi a minha condição para a nossa conversa.』 
 「はい、心得ています。今日は本当にありがとうございました。」
 「Sim, eu entendo. Muito obrigado por hoje.」 
 『どういたしまして。もうテープ止めてもらえます？録音って、何度やっ
