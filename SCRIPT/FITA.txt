@@ -1,186 +1,211 @@
 Texto da TIP "あるウィッチハンターの取材テープ" "Entrevista Gravada com um certo Witch Hunter", lançada na data de 2009年4月17日, junto ao artbook do Episódio 4. Ela foi dublada e lançada na nova versão intitulada Umineko CS版. 
-As partes omitidas estão disponíveis na integra na versão de console.
+As partes omitidas estão disponíveis na integra na versão de console e foram manualmente transcritas aqui.
 
 Este .txt contém o texto original + tradução para o português.
 Ele está aqui unicamente como backup para ser utilizado futuramente.
 Texto em japonês: http://umineco.info/?EP4%E8%A7%A3%E6%98%8E%E8%AA%AD%E6%9C%AC%E8%BF%BD%E5%8A%A0TIPS
 --------------------------------------------------------------------------------------
 「」 falas do entrevistador, amigo de infância do Mikami?
-『 』 falas do Witch Hunter (?) 三神 (Mikami)
+『 』 falas do Witch Hunter 三神 (Mikami), vulgo Wang de terninho.
  
 
-～前略～
-~omitido~
 「右代宮黄金は、たった１つの金塊を巧みに使った、大掛かりな詐欺ではないかと説をどう思いますか？」
-「O que pensa sobre a teoria que um único lingote do ouro Ushiromiya foi utilizado ardilosamente  em um grande esquema de fraude?」
+「O que pensa sobre a teoria que um único lingote do ouro Ushiromiya foi utilizado ardilosamente em um grande esquema de fraude?」
 
 『その説は、　当時、　結構、　囃し立てらたものです。　右代宮氏はマルソーの会長たち、　親しい財界のフィクサー数人に黄金の山を見せ。　その内１つを持ち帰らせて鑑定されることで信用を得た、　ということになっていました。　鑑定を終えた黄金は１つしかない、　というわけです』
-Essa teoria se propagou bastante naquela época. O Sr.Ushiromiya teria mostrado sua montanha de ouro ao presidente Maruso e alguns de seus fixers mais chegados no mundo dos negócios. Ele teria deixado levar um lingote para quem pudesse ser avaliado e ele ganhasse confiança. O que significa que não existiria apenas um único lingote que foi avaliado.
-
+Essa teoria se propagou bastante naquela época. O Sr.Ushiromiya teria mostrado sua montanha de ouro ao presidente da Marusoo e alguns de seus fixers mais chegados no mundo dos negócios. Ele teria deixado levar um lingote para quem pudesse ser avaliado e ele ganhasse confiança. O que significa que existiria apenas um único lingote que foi avaliado.』
 
 「つまり、　右代宮氏特に親しく、　財界に信用のある人物たち結託して、　黄金幻想作り上げた可能性があるということではないでしょうか。　今日の仮説の１つに、　そもそも右代宮氏は、　魔女から授けられた黄金１０ｔを、　所有してはないなかったのではないかというものがあります」
-
 「Ou seja, não é possível que aqueles especialmente próximos do Sr. Ushiromiya, com bastante credibilidade no mundo dos negócios, tenha conspirado para criarem a ilusão do ouro? Uma das hipóteses que temos hoje é de que o Sr. Ushiromiya nunca deteve das 10 toneladas de ouro da bruxa que teria recebido da bruxa.」
 
-『当時も、　右代宮黄金に疑問を持つ人間たちはそう主張してありました。　斜陽の右代宮最後の当主による、　ー世ー代の大掛かりなさぎではないかとね』
-
-Mesmo naquela época, aqueles que duvidavam do ouro dos Ushiromiya insistiam nisso.
+『当時も、　右代宮黄金に疑問を持つ人間たちはそう主張してありました。　斜陽の右代宮最後の当主による、　ー世ー代の大掛かりな詐欺ではないかとね』
+『Mesmo naquela época, aqueles que duvidavam do ouro dos Ushiromiya insistiam nisso. Teria sido a cartada final do último chefe em declino da família Ushiromiya uma grande fraude?』
 
 「斜陽の右代宮家が、　そもそも１０ｔも黄金を所有していたら、　斜陽にはなりません？」
+「Para começo de conversa, não é suspeito que a família Ushiromiya estivesse de posse de 10 toneladas de ouro durante seu declínio?」
 
 『そうですな。　ですから当時から、　１０ｔの黄金はどこから湧てきたのかと大いに騒がれました』
-Fim do omitido
+『É realmente suspeito. Justamente por isso, naquela época surgiram muitas questões sobre de onde essas 10 toneladas teriam saído.』
 
 『右代宮氏は戦時中は下級将校の1人に過ぎず、特別な力は持っておりませんでしたが、戦後は堪能な英語力によって進駐軍に太いパイプを作り、大きな力とコネクションを得ていました。ですので、米軍関係で黄金を手に入れたのではないかと囁かれました。』
-『Durante a época da Guerra, o Sr. Ushiromiya era apenas um oficial de baixo escalão, sem nenhuma capacidade excepcional, contudo sua proficiência em Inglês o permitiu estabelecer fortes ligações com as Forças de Ocupação após a Guerra, obtendo grande influência e conexões. Por causa disso, há rumores que ele procurou pelo ouro utilizando de suas relações com o Exército Estadunidense.』 
-
-～中略～
-~omitido~
+『Durante a época da Guerra, o Sr. Ushiromiya era apenas um oficial de baixo escalão, sem nenhuma capacidade excepcional, contudo sua proficiência em Inglês o permitiu estabelecer fortes ligações com as Forças de Ocupação após a Guerra, obtendo grande influência e conexões. Por causa disso, há rumores que ele obteve o ouro utilizando de suas relações com o Exército Estadunidense.』 
 
 「米軍から黄金ですか？」
+「O outo teria vindo do Exército Estadunidense?」
 
 『もちろんこれは出鱈目な憶測ですが、山下将軍の黄金や、　ロマノフ家の黄金など、　戦後の混乱期に生み出された黄金伝説はいくつもあります。　今日では笑い捨てられているそれらの伝説ですが、　当時にあってはまだまだ信憑性のあるものでした』
+『É claro, essa é uma especulação fortuita, contudo há muitas lendas sobre ouros que surgiram no caos do pós-guerra, como o ouro do General Yamashita e o ouro da família Romanovs. Atualmente, essas lendas são motivo de piada, contudo, na época, elas ainda possuíam certa credibilidade.』
 
 「実際、　戦後の混乱をうまく立ち回り、　莫大な富を築き上げた人たちが存在しますからね？」
+「É verdade que existem pessoas que habilidosamente atravessaram o caos do pós-guerra e foram capazes de estabelecer vastas riquezas, correto?」
 
 『えぇ。　だから、　軍の名と黄金の２つのキーワードがくぅ付けば、　ある程度の胡散臭さはありながらも、　信憑性もまた有り得たのです』
+『Sim. Por isso, ao juntar duas palavras chaves, o nome do exército e o outo..., apesar de levantar algumas dúvidas, haveria também uma certa credibilidade.』
 
-『そして、　戦時中に日本軍が得たとされる黄金を地下で手に入れた米軍の一部将校が、　それの横領を画策、　換金のトンネルとして右代宮氏を利用したのではないか、　どの噂もありました。　今日では想像も付かないでしょうが、　当時の右代宮氏には、　それだけのＧＨＱとのコネクションがあったのです」」
-Fim do omitido
+『そして、　戦時中に日本軍が得たとされる黄金を地下で手に入れた米軍の一部将校が、　それの横領を画策、　換金のトンネルとして右代宮氏を利用したのではないか、　どの噂もありました。　今日では想像も付かないでしょうが、　当時の右代宮氏には、　それだけのＧＨＱとのコネクションがあったのです』
+『Além disso, existia o rumor de que alguns oficiais do exército estadunidense teriam colocado as mãos no ouro que o exército japonês obteve na ilegalidade e planejavam usurpá-lo, utilizando o Sr. Ushiromiya como um túnel para realizar a conversão. É difícil de se imaginar nos dias de hoje, mas naquela época o Sr. Ushiromiya detinha de muitas conexões com GHQ — Quartel General das Forças de Ocupação.』
+
 
 「六軒島取得の際にも、GHQの力を利用していますね？」
-「Ele também usou da autoridade do GHQ para comprar Rokkenjima, não foi?」 
+「Ele também teria usado a autoridade do GHQ para comprar Rokkenjima, não foi?」 
 『はい。右代宮氏が戦後、急速に財力を蓄えた背景には、常にGHQとの大きなコネクションがあります。朝鮮戦争についてもいち早く情報を得ていて、特需の恩恵をもっとも受けた富豪の1人であると言えます。』
 『Isso mesmo. Com as conexões do GHQ sempre o apoiando pelos bastidores, o Sr. Ushiromiya rapidamente acumulou suas riquezas. Dizem que ele foi o mais rápido a receber informações sobre a Guerra da Coreia, garantido sua posição entre os milionários que mais se beneficiaram dos benefícios das demandas emergenciais.』 
 
-～中略～
-~omitido~
 「では、　当時の右代宮氏を知るものならば、　表にできない事情から１０ｔの黄金を密かに得ていたとしても、　不思議はなかったわけですか？」
+「Então, para aqueles que conheciam o Sr. Ushiromiya naquela época, não é estranho que ele tenha obtido as 10 toneladas de ouro a partir de circunstâncias que não podiam ser trazidas à tona?」
 
 『思わなかった者もいだたろうし、　思った者もいたでしょう。　それだけに、　右代宮黄金の真贋を巡っては、　当時、　かなりの衝撃をあたえたものです』
+『Haviam aqueles que pensavam assim, bem como os que discordavam. Justamente por isso, à época, a veracidade espúria do ouro Ushiromiya ocasionou um grande choque.』
 
 「マルソーの会長は、　その右代宮黄金を最初に信じたフィクサーの１人ですね？」
+「O presidente da Marusoo foi o primeiro fixer que acreditou no ouro Ushiromiya, certo?」
 
 『そうです。　先代から右代宮家とは親交あった大物でした。　彼のお墨付きがなければ、　誰も信じなかったと断言できるでしょう』
+『Exatamente. Ele foi uma pessoa influente que tinha bastante intimidade com a geração anterior da família Ushiromiya. Eu posso lhe assegurar que sem o aval dele, ninguém teria acreditado.』
 
 「しかし、　よくその会長はたった１つの金塊を鑑定するだけという、　如何わし方法で１０ｔの黄金を確信したものですね？　いくら親交があったと言っても、　もしも詐欺だったなら、　大きな会社的信用を失うところだったはずでう。　それほどの大人物が信ずるに足る証拠としては、　どうしてもたりないように思うのですか」
+「Mas como o presidente poderia ter tanta convicção das 10 toneladas desse ouro duvidoso avaliando apenas um lingote? Independentemente da intimidade, se fosse uma fraude, isso custaria toda a credibilidade de sua empresa. Sendo o homem importante que ele era, não acha que seriam necessárias mais provas para chegar a uma conclusão?」
 
 『右代宮氏を疑問視したり、　あるいは反感を持つ物たちは、　そう主張しました。　マルソーの会長は買収されたか、　あるいは騙されて詐欺の片棒を担がされていると。　……そんな風に大荒れするどほ、　右代宮氏の黄金担保の話は当時、　とにかく魅力的な、　俗に言う“うまい話”だったんですよ』
+『Os que questionavam o Sr. Ushiromiya ou tinham alguma antipatia por ele, insistiram nisso; sobre como o presidente da Marusoo teria sido subornado ou até que teria sido enganado por um esquema fraudulento. ......Apesar de toda agitação que isso gerou, a garantia do ouro do Sr. Ushiromiya se tornou algo atraente demais na época... ou como dizem "bom demais para ser verdade".』
 
 「結局、　黄金伝説の真贋は問われることなく、　右代宮氏は莫大な投資を受け、　それを元に朝鮮特需で大儲けをし、　無事に借金を返済」
+「No fim das contas, a veracidade da Lenda do Ouro nunca foi questionada e o Sr. Ushiromiya recebeu um enorme investimento, que foi usado para obter um grande lucro com as demandas da Guerra da Coreia, permitindo que ele pudesse quitar suas dívidas.」
 
 『そうです。　仮にそれが詐欺だったとしても。　彼は莫大な富を築き、　右代宮家を復興させ、　全ての借金を返済し切ったのです。　その豪胆さを湛える者も面白がって、　黄金詐欺説を支持し、　存在しない黄金から莫大な融資を受け、　それを元にお家を復興させた波乱の人生、　などと面白がりました』
-Fim do omitido
+『Exatamente. Mesmo que tenha sido uma fraude, ele construiu uma grande fortuna, reviveu a família Ushiromita e pagou tudo o que devia. Aqueles que admiraram sua audácia, se divertiram apoiando a teoria da Fraude Dourada, que permitiu o financiamento a partir de um ouro fictício que foi utilizado para a reconstrução da família durante as turbulências de sua vida.』
 
 
 「ではやはり、右代宮氏は一世一代の大博打に勝った博徒に過ぎず、黄金伝説は幻想に過ぎませんか。」
 「Então é como pensei, o Sr. Urhisomiya era apenas um apostador que teve a sorte de ganhar uma aposta que nunca mais se repetiria, e a Lenda do Ouro não passa de uma fantasia.」 
 『わかりません。右代宮黄金が白日の下に晒されない限り、幻想に過ぎないでしょう。……しかし、マルソーの会長は確かに大胆な方だったが、それでも相手を無条件に信用するほど、無用心な人ではありませんでした。』
-『Não se dizer. Até que o Ouro dos Ushiromiya seja exposto a luz do dia, permanecerá sendo apenas um fantasia. ......Ainda assim, o presidente da Marusoo certamente é ousado e não é o tipo de homem descuidado que acreditaria cegamente em seus parceiros de negócios.』 
+『Não se dizer. Até que o ouro Ushiromiya seja exposto a luz do dia, permanecerá sendo apenas um fantasia. ......Ainda assim, o presidente da Marusoo era um homem ousado, mas não do tipo descuidado que acreditaria cegamente em seus parceiros de negócios.』 
 
-～中略～
-~omitido~
 「その会長どのようにかして、　信用させるか、　あるいは騙すかすれば、　右代宮黄金の幻想は完成しますね？」
+「Então a Ilusão do Ouro Ushiromiya foi concretizada pela confiança desse presidente...ou porque passaram a perna nele?」
 
 『あなたは、　右代宮黄金に否定的な方で？』
+『Você... é daqueles que negam o ouro Ushiromiya?』
 
 「あ、　いえいえ。　そういう説がありますが、　いかがお考えですかと、　お尋ねしているだけです」
+「Ah... não, nada disso. Só estou questionando sobre o que você acha dessa teoria.」
 
 『否定的方に、　納得してもらえるような証拠を私は持っていませんよ。　私は、　右代宮氏の黄金伝説を確信人間です。　私がそうだと思うに足る根拠はいくつもありますが、　それらは直接的な証拠を伴いません。　ですので、　私がごれ以上いくらお話ても、　多分、　納得はしてもらえないものと思います』
+『Não possuo nenhuma prova para convencer aqueles que a negam. Eu sou um daqueles que acredita na Lenda do Ouro do Sr. Ushiromiya. Tenho diversas razões para acreditar nela, contudo não tenho evidências circunstâncias para provar. Portanto, não importa o quanto eu fale sobre isso, ...é provável que eu nunca o convença.』
 
 「誤解させているようで申し訳ございません。　右代宮黄金否定説が主流なもので、　それに一石を投じる説があるならば、　おうかがい出来ればとおもいまして」
+「Peço desculpas pelo mal-entendido. Existe uma teoria predominante que nega a teoria do ouro Ushiromiya, por isso gostaria de saber se você possui alguma teoria que possa elucidar isso.」
 
 『まずですが、　私から申し上げたいのは、　マルソーの会長の今日の評価では大胆な人物ということなっており、　その一点がひどくひどく誇張されているという点です』
+『Primeiramente, o que quero dizer é que o reconhecimento atual de que o presidente da Marusoo é um indivíduo ousado... é um ponto que tem sido demasiadamente exagerado.』
 
 『あたかも、　たった1個の黄金であっさりと信じ込み、　あるいはリスクを覚悟の上で、　真っ先に投資し、後に莫大なリターンを得た博徒というイメージで語られています。　しかしそれは、　後世の編った見方による誤解です』
+『Falam como se ele tivesse sido facilmente convencido por um único lingote de ouro...ou como se ele fosse um apostador que estava determinado a assumir os riscos e obteve um retorno posteriormente. Contudo, esse é um mal-entendido baseado num ponto de vista posterior.』
 
 『会長は、　確かに大胆で知られた方だが、　それは財界人としてはという意味です。　素性のしれない黄金を、　たった１つだけで信用するほどお人好しだという意味ではない』
+『Sem dúvida, o presidente era conhecido por sua ousadia, mas isso não significa que ele fosse um homem de negócios. Isso não quer dizer que ele era uma pessoa tão crédula a ponto de acreditar em um ouro de origem desconhecida.』
 
 「しかし、　真っ先信用し、　莫大な投資を行ないますよね？」
+「Mas... a fim de realizar um grande investimento, antes de mais nada, você precisa confiar nele, correto?」
 
 『信用するに足る証拠が示されたと、　私たちは考えています。　第一、　当時、　マルソーの会長が仰っておられた話は、　今日のものとは大きく異なりました』
+『Nós cremos que foram mostradas evidências confiáveis o suficiente. Primeiro que, aquilo que o presidente da Marusoo contou na época, diverge bastante do que sabemos hoje.』
 
 「と、　申しますと？」
+「O que... quer dizer?」
 
 「今日の説は、　右代宮黄金に否定的なフィクサーたちが、　右代宮しを貶める目的で捏造したものだからです。　当時の会長は、　“たった１つの黄金を見せられただけ信用した”とはー言も言っていないからです」
+「A teoria que perdura atualmente é um embuste dos fixers que negavam o ouro Ushiromiya e tinham como objetivo causar a queda da família. Isso tudo porque, na época, o presidente nunca disse que "confiou nele porque foi mostrada uma única barra de ouro".」
 
 「それはつまり、　“たった１つの黄金”以外にも、　証拠を見せられた可能性があるということですか？」
+「Então, em outras palavras, significa que existe a possibilidade de ter sido mostrado a ele mais de "uma barra"?」
 
 『これは会長がお亡くなりになられてから、当時、近しかったある先生から伺った話です。　……こんなことを言うと、　会長に失礼なんですかね』
-『Isto foi dito por um certo médico que era próximo do presidente na época em que ele faleceu. ……traduzir parte omitida daqui』
-Fim do omitido
+『Isto foi dito por um certo professor que era próximo do presidente na época em que ele faleceu. ......Será que estou sendo rude com ele ao falar dessa forma?』
 
-～中略～
-~omitido~
 『会長は世間で大胆と言われるほど大胆ではなく、　むしろ石橋を叩いて渡る慎重な方だったらしいんです。　確かに、　飲みっぷりと食いっぷりの大胆な方です。　そのイメージのせいもあったでしょう。　しかし、　カネに関してだけは大胆さ正反対だったようです』
+『Eu ouvi que o presidente não era tão ousado quanto diziam; pelo contrário, ele seria uma pessoa extremamente cautelosa que pisava em ovos. Sem dúvida, ele era bem ousado quando se tratava de comer e beber. Essa imagem que tinham dele pode ser a causa. Entretanto, ele era o exato oposto de ousadia quando se tratava de dinheiro.』
 
 「それほど慎重な方が、　なぜ信じたのでしょうか？」
+「Se ele era um indivíduo tão cauteloso assim, por que ele acreditou?」
 
 『これもその先生に伺った話なのですが。　……何でも、　マルソーの会長にだけは、　担保が保証されていた、　というのでう』
+『Esta também é uma história que eu ouvi desse professor. ......De qualquer forma, foi concedido a ele uma garantia.』
 
 「担保保証？」
+「Uma garantia foi concedida?」
 
 『はい。　右代宮氏は、　会長の信用を欲しいがっていました。　なので、　何としてもこの話に乗って欲しい思惑があったのです。　その為に、　秘密で、　会長にだけは特別に有利な条件で、　話を持ちがかけたというのです』
+『Sim. O Sr. Ushiromiya queria a confiança do presidente. Assim sendo, ele precisava fazê-lo acreditar a qualquer custo. Por isso, foi oferecido a ele, e apenas a eles, em total sigilo, condições favoráveis para isso.』
 
 「それはつまり、　他のフィクサーの投資から元本を保証、　返済するという、　無限連鎖講の詐欺のような？」
-
-
+「Ou seja, resumindo, seria um esquema de pirâmide, utilizando o capital de investimentos dos demais fixers para reembolsá-lo?」
 
 『違います。　会長は最終的には、派閥全体で4割もの投資を行いますが、その内個人的に1割の投資を行います。その1割分。つまり、10tの黄金の1割、1t分について、黄金を実際に預かっていたというのです。』
-Nada disso. O presidente acabou por investir 40% na facção política, mas logo depois uma parcela de 10% foi investimento pessoal. Exatamente esses 10%. Ou seja, 10% das dez toneladas de ouro, ou uma tonelada, foi praticamente confiada a ele.』 
+『Errado. O presidente acabou por investir 40% na facção política, mas logo depois uma parcela de 10% foi investimento pessoal. Exatamente esses 10%. Ou seja, 10% das 10 toneladas de ouro, ou uma tonelada, foi praticamente confiada a ele.』 
 
 
 「1t分の金塊ですか。今日の価値で、20億円ほどはありますね？」
 「Uma tonelada de barras de ouro? O valor atual deve ser cerca de dois bilhões de iene, certo?」 
-『その金塊は、最終的に右代宮氏の手元に戻りますが、それでも一時的に、会長の手元に置かれていたと言われています。　
-私は残念ながら見ていませんが、　当時、　特に親しかった一部の先生方が、　それを実際に披露されたことがあると申しておりました』
-『No fim, essas barras de ouro acabaram retornando ao Sr. Ushiromiya, mesmo assim, é dito que eles ficaram temporariamente de posse do presidente.
-』
+『その金塊は、最終的に右代宮氏の手元に戻りますが、それでも一時的に、会長の手元に置かれていたと言われています。　私は残念ながら見ていませんが、　当時、　特に親しかった一部の先生方が、　それを実際に披露されたことがあると申しておりました』
+『No fim, essas barras acabaram retornando para as mãos do Sr. Ushiromiya, mas, apesar disso, é dito que elas ficaram temporariamente sob a posse do presidente. Infelizmente, eu não as vi, contudo, alguns dos professores com que eu tinha afinidade na época disseram que elas chegaram a ser reveladas. 』
 
-～中略～
-~omitido~
+
 「では、　その話が真実なら、　少なくとも１ｔの金塊は実在すると？」
+「Então, se o que você diz é verdade, pelo menos uma tonelada de ouro é real?」
 
 『会長の話が本当なら、　あぁ……いえいえいえ、　もちろん私は本当と信じておりますが』
+『Se a história do presidente for verdadeira... Digo......não, não, é claro que eu acredito.』
 
 『……会長は右代宮氏によって、　目隠しの上、　六軒島某所の隠し倉庫に連れて行かれ、　そこで実際に１０ｔ全ての黄金の山を見せられたそうです。　そして、　その内から１ｔの山を分け与えられたと言うのです』
+『......O Sr. Ushiromiya o teria vendado e o levado até um depósito secreto que ficaria em algum lugar de Rokkenjima, onde teria sido mostrado a ele uma montada com 10 toneladas de ouro. E então, dizem que um tonelada dessa montanha foi concedida a ele.』
 
 「そして、　その１ｔは再び右代宮氏のところへ戻った……」
+「Por fim, essa tonelada retornou mais uma vez ao Sr. Ushiromiya......」
 
-『はい。　右代宮氏は見事に事業を成功させ、　利子を付けて完済しました。
+『はい。　右代宮氏は見事に事業を成功させ、　利子を付けて完済しました。 会長がお亡くなりになられた後の遺産整理では、右代宮黄金を裏付ける証拠品はたった一点。10kgのインゴット1つが出てきただけでした。これは恐らく、何かの記念に寄贈されたものと考えます。』
+『Sim. O Sr. Ushiromiya obteve grande sucesso em seus negócios e pagou seus juros. Durante a liquidação da herança que ocorreu após o falecimento do presidente, havia uma única evidência circunstancial que dava suporte ao ouro dos Ushiromiya. A aparição de um único lingote de 10 kg. Eu diria que tenha sido uma espécie de presente em sua memória.』 
 
-会長がお亡くなりになられた後の遺産整理では、右代宮黄金を裏付ける証拠品はたった一点。10kgのインゴット1つが出てきただけでした。これは恐らく、何かの記念に寄贈されたものと考えます。』
-Na liquidação da herança após o falecimento do presidente, havia apenas uma evidência que dava suporte ao ouro dos Ushiromiya. A aparição de um único lingote de 10 kg. Acredito que ele tenha sido uma espécie de presente de comemoração.』 
 「会長の協力がなければ、他のフィクサーの信用が得られなかったわけですからね。それに対する謝礼か感謝でしょうか。」
-「Se não fosse a cooperação do presidente, ele não teria obtido a confiança dos demais fixers. Possivelmente, deve ter sido uma recompensa ou agradecimento.」 
+「Se não fosse pela cooperação do presidente, ele não teria obtido a confiança dos demais fixers. Possivelmente, deve ter sido uma recompensa ou agradecimento, não?」 
 『私はそう考えています。ただ、その後、その黄金は残念ながら紛失してしまっているようです。写真も残っていませんが、家人、関係者など、これについては多くの目撃者がいます。』
-『Eu também acho isso. Contudo, logo depois, parece que esse lingote infelizmente se perdeu. Sequer restou uma foto dele, mas haviam muitos que o testemunharam, como familiares e acionistas.』 
+『Eu também acho isso. Contudo, logo depois, parece que esse lingote infelizmente se perdeu. Sequer restou uma foto dele, mas haviam muitos que o testemunharam, como familiares e demais envolvidos.』 
 
-～中略～
-~omitido~
 「なるほど、　では、　右代宮しが１０ｔの黄金を持つこと自体には懐疑的でも、　１ｔ分について信じる価値があると仰られるわけですね？」
+「Entendi... Então, mesmo que você tenha um ceticismo em relação às 10 toneladas de ouro que ele tinha, você está dizendo que vale a pena acreditar nessa única tonelada, correto?」
 
 『博打は貧乏人のすることです。　金を持つ者であればあるほど。　絶対の保証がない限り、　カネを動かさないものです。　私は、　会長が乗った１割分。　つまり１ｔ分の黄金については、　間違いなく存在したものと確信しています』
+『Apostar é o que os pobres fazem. Quanto mais dinheiro uma pessoa tem, mais ela guarda. Ela nunca movimenta seu capital sem que tenha uma garantia absoluta. Eu estou convencido dos 10% que o presidente tinha — ou seja, tenho convicção de que esse tonelada de ouro definitivamente existiu.』
 
-『また、　万がー、　右代宮氏が事業に失敗したなら、　マルソーの会長も詐欺師呼ばわりされるリスクが残る。　当時、　会長は率先して、　右代宮黄金の宣伝塔的な役割を担いました。　それから考えて……』
+『また、　万がー、　右代宮氏が事業に失敗したなら、　マルソーの会長も詐欺師呼ばわりされるリスクが残る。　当時、　会長は率先して、　右代宮黄金の広告塔的な役割を担いました。　それから考えて……』
+『Além disso, no pior dos cenários, se os negócios do Sr. Ushiromiya fracassassem, existia o risco do presidente da Marusoo ser denunciado como um fraudador. Naquela época, o presidente tomou a iniciativa e assumiu o papel de ser uma espécie de arauto do ouro Ushiromiya. E ao pensar nisso......』
 
 「絶対にリスク負わないのが金持ちの鉄則である以上……会長は１０ｔの黄金について絶対確信を持っていた、　ということですね？」
+「Como o princípio invariável dos ricos é jamais correr riscos, isso quer dizer que......o presidente tinha certeza absoluta sobre as 10 toneladas?」
 
-『はい。　カネを持たん者にはわからんでしょうな。　しかし、　カネというモノを本当に知る者ならば、　会長の動きから、　見ずとも１０ｔの黄金の影確信できるのです』
+『はい。　カネを持たん者にはわからんでしょうな。　しかし、　カネというモノを本当に知る者ならば、　会長の動きから、　見ずとも１０ｔの黄金の影を確信できるのです』
+『Precisamente. Aqueles que não têm dinheiro não entenderão. Todavia, aqueles que realmente entendem de dinheiro, teriam total convicção das 10 toneladas sem nem vê-las, apenas com base nos movimentos do presidente.』
 
 「貧乏人の私から聞くと、　よくもそれだけの莫大なカネを、　話だけの黄金に投資できるものだなとおもいます」
+「Um pobre como eu, ao ouvir isso, não é capaz de compreender como alguém poderia investir tamanha quantia em um ouro que só ouviu falar.」
 
 『あるー定以上の金持ちになるとね。　カネよりも体裁と、　そして死んだ後のことが気になるようになるんですよ。　生きてる内だけ取り繕えればどうでもいい、　というのは貧乏人の考えです。　死後も自分の評価が損なわれない生き様でありたいと願うのが金持ちというものです』
+『Quando ultrapassa uma certa quantia de dinheiro, você começa a se preocupar mais com sua reputação e fica curioso sobre o que acontecerá após a sua morte. O pobre não pensa nisso porque pode manter suas aparências durante a vida. É desejo dos ricos que a reputação que construíram em vida permaneça incólume mesmo após a morte.』
 
 「つまり、　死後であっても詐欺師呼ばわりされるような話はのらないと？」
+「Em outras palavras: ninguém quer ser chamado de vigarista após a morte?」
 
 『えぇ。　会長は、　１０ｔの黄金を確実に保証できる証拠を絶対に得ていたのです。　あとは、　マルソーの会長という方が、　どれほどの方だったがをどれだけ理解しているがで信用が変わるでしょうな』
+『Exatamente. O presidente tinha provas que garantiam a certeza absoluta das 10 toneladas. Dito isto, a credibilidade do presidente da Marusoo pode divergir com base no quanto você acredita nele.』
 
 「あなたは、　信用できると」
+「Você... acredita nele?」
 
 『えぇ。　そして、　あなたには信用できないこともわかりますよ』
+『Sim. E posso ver que você não acredita.』
 
 「いやいや、　それを言われるとこちらも辛い。　……それをはっきり示する証拠があれば、　私も考えを改めるのですが」
+「Nada disso... É difícil para mim ouvir isso. ......Se houvessem provas que deixassem isso claro, eu também reveria meus conceitos, mas...」
 
 『あのね、世の中、証拠をモノで示せないことってたくさんあるんですよ。あなた、奥さんを愛しておられる？』
 『Bem, neste mundo há muitas coisas que não podem ser provadas sem uma evidência física. Você ama mesmo a sua esposa?』 
@@ -195,64 +220,74 @@ Na liquidação da herança após o falecimento do presidente, havia apenas uma 
 「”愛がなければ視えない”、というわけですか？」
 「Seria porque "sem amor, não pode ser visto"?」 
 『お、キザな言葉を知ってるね。そういうことです。会長を信じ、敬愛してやまなかった人々には、確かに10tの黄金が見えた。会長や右代宮氏が気に入らなかった人々には見えなかった。そういうことじゃないですかね。』
-『Oh, parece que você conhece essa frase pretensiosa. Sim, é isso mesmo. As pessoas que acreditaram e respeitaram o presidente certamente puderam ver as dez toneladas de ouro. As pessoas que não ligaram para o presidente ou o Sr. Ushiromiya não puderam ver. Seria algo assim?』 
+『Oh, parece que você conhece essa frase pretensiosa. Sim, é isso mesmo. As pessoas que acreditaram e respeitaram o presidente, certamente puderam ver as 10 toneladas de ouro. As pessoas que não ligaram para o presidente ou o Sr. Ushiromiya, não puderam ver. Seria algo assim, não?』 
 
-～中略～
-~omitido~
 
 「せめて、　その会長さんの遺品から出た、　インゴットだけでも見つかれば、　信憑性は増すのですが」
+「Se ao menos pudéssemos encontrar algum haveres deixado por esse presidente... se pudéssemos encontrar ao menos um lingote, a credibilidade aumentaria.」
 
 『これは噂だけどね……』
+『É só um rumor, mas......』
 
 『右代宮氏のご息子の蔵臼氏が入手したって噂がありますよ。　蔵臼氏は独自に黄金の隠し場所を探してたらしいですから。　それを入手し、　１０ｔの黄金の実在を確信したため、　六軒島の全島調査の準備を進めた、　って聞いてます』
+『Há rumores de que o filho do Sr. Ushiromiya, o Sr. Krauss, colocou as mãos em um lingote. Eu fiquei sabendo que ele realizou uma busca independente pelo esconderijo do ouro. Quando colocou suas mãos nessa lingote, ele passou a acreditar na existência das 10 toneladas... e realizou os preparativos para uma busca em Rokkenjima.』
 
 「しかし、　蔵臼氏も例の事件で亡くなられてますね。　……当然、　そのインゴットも闇の中に」
+「Contudo, o Sr. Krauss faleceu no incidente, certo? ......Naturalmente, esse lingote acabou ficando envolto pela escuridão.」
 
 『六軒島って、　昔、　悪食島って呼ばれてたの、　ご存知で？』
+『Sabia que...no passado...Rokkenjima era chamada de Akujikijima?』
 
 「えぇ。　それが訛って小豆島になり、　最後に六軒島になったと」
+「Sim. Essa seria uma pronuncia errada de Azukijima... até que finalmente se tornou Rokkenjima.」
 
 『そうそう。　悪霊が住んでて、　魂を食らって飲み込む島ね。　……飲み込んじゃったんだよ。　ぺろりと。』
+『Sim, sim. Uma ilha habitada por espíritos malignos que devoravam almas. ......Devoravam tudo — tudo.』
 
 『当時、　黄金伝説を証する証拠はきっとあったんです。　それを大勢が目撃した。　だから黄金は事実だった。　しかし、　時を得て、　それらの証拠は失われた、　飲み込まれた。　その結果、　事実だったはずの黄金伝説はその存在を疑われるようになった』
+『Naquela época, certamente havia uma prova da Lenda do Ouro. Um grande número de pessoas a testemunhou. Portanto, o ouro era verdade. Contudo, o tempo passou e essa prova se perdeu — foi devorada. O resultado: a Lenda do Ouro que deveria ser verdade, tornou-se uma existência duvidosa.』
 
 「……確かに、　そうとも言えますね」
+「......Realmente, podemos colocar dessa forma também.」
 
 『私はね、　女房を愛してる。　今日まで浮気を疑ったこともないし、　女房と同じ日に同じ畳で死ねたら最高だと思ってるよ。　胸を張って、　息子たちや孫たちに、　最高の人生だったと語って大往生できる。　そして、　それを見た息子たちや孫たちは、　祖父さまは最高に幸せな人生を歩んだと、　確かにそう言ったと語り継ぐだろうねえ』
-
+『Eu amo minha esposa. Nunca suspeitei que ela me trairia, e acho que seria ótimo se eu pudesse morrer no mesmo dia e no mesmo tatami que ela. Posso morrer com orgulho e dizer a meus filhos e netos que foi a melhor vida que eu já tive.　E quando os filhos e netos deles virem isso, eles dirão que o avô teve a vida mais feliz possível.』
 『しかし、　直接聞いた子孫みんな死ぬほどの未来。　……俺の末裔が、　死んだ曾祖父さまは不幸で、　夫婦仲は悪く不倫だらけだったと言い出したらどうなるかねえ？　それを否定する証拠に、　俺は何を残せばいいんだろうねえ？　何うぃ残したって、　疑う未来のそいつの元に届かなきゃ、　意味がない』
+『Mas todos os descendentes que ouviram em primeira mão morrerão no futuro. O que acontecerá se meus descendentes...disserem que seu bisavô era infeliz, que seu casamento foi ruim e que ele estava cheio de adultério? O que posso deixar como prova para negar isso? Não importa quantas coisas eu deixe para trás, se não chegar àquela futura pessoa que
 
 「……………」
-Fim do texto omitido
+「...............」
 
-『もうね、あんたらの追い求める六軒島の真実なんて、何も存在しないんだよ。あれから長い時間が経って、全ての証拠が消え去った。……だから、あんたらが好きに決めればいいのさ。
-『Não restou mais nada sobre a verdade de Rokkenjima que vocês estão estão atrás. Já se passaram muitos anos e todas as provas se foram. ......Vocês deveriam simplesmente decidir por aquilo que mais gostarem. 
+『もうね、あんたらの追い求める六軒島の真実なんて、何も存在しないんだよ。あれから長い時間が経って、全ての証拠が消え去った。……だから、あんたらが好きに決めればいいのさ。』
+『Não restou mais nada sobre a verdade de Rokkenjima que vocês estão estão atrás. Já se passaram muitos anos e todas as provas se foram. ......Vocês deveriam simplesmente decidir por aquilo que mais gostarem.』
 
-～中略～
-~omitido~
 『黄金はあった、　なかった。　メッセージをボトルはどれが本物でどれが偽物で。　当日、　何があったのなかったの。　好きに決めればいいのさ。　だが、　あんたらが何を決めたって、　当時の本当の真実は揺るがない』
+『O ouro estava lá...ou não estava. Qual mensagem de garrafa é genuína e qual é falsa? O que aconteceu naquele dia? Você decide por aquilo que mais lhe agrada. Mas, independente do que você decida, isso não muda a verdade do que realmente aconteceu.』
 
 「耳に痛いお言葉です。　しかしそれでも、　その真実に迫りたいと思っている我々は、　今後、　何を指針に過去を探れば良いのでしょう？」
+「São palavras duras de se ouvir. Ainda assim, para nós que queremos alcançar esta verdade daqui em diante, o que deveríamos utilizar de bússola para explorar o passado?」
 
 『心だよ。　人の心は、　時代を経てもかわらない』
+『O coração. O coração das pessoas...permanece imutável mesmo com o passar do tempo.』
 
 「心とはまた、　抽象的なものが出てきましたね……？」
-Fim do texto omitido
+「O coração seria... algo abstrato você encontrou......?」
 
-何があったかを知ろうとするから、証拠が必要になる。そうじゃなくて、何を考えてたかを知ろうとすれば、必然的に何が起こったかを知ることが出来るんじゃないかな。』
-Se quer descobrir o que aconteceu, é necessário evidências. Caso contrário, se apenas descobrir o que estavam pensando, você inevitavelmente não descobrir o que aconteceu?』 
+『何があったかを知ろうとするから、証拠が必要になる。　そうじゃなくて、何を考えてたかを知ろうとすれば、必然的に何が起こったかを知ることが出来るんじゃないかな。』
+『Se quiser descobrir o que ocorreu, provas são indispensáveis. Caso contrário, ...se quiser saber o que estavam pensando, acho que você definitivamente poderia descobrir o que aconteceu?』 
+
 「”チェス盤を引っ繰り返す”ということですか？」
 「Fala sobre "virar o tabuleiro"?」
 『何です、それ？』
-『O que é isso?』 
+『O que...é isso?』 
 「あ、いえ。要するに、相手の指し手を読めという意味です。敵の思考を探れと言いますか。」
-「Ah, nada não. Basicamente significa ler os movimentos do seu oponente. É sobre buscar pelo processo de pensamento de seu oponente.」
+「Ah, nada não. Basicamente significa ler os movimentos do seu oponente. É sobre buscar pelo processo de pensamento do adversário.」
 『あぁ、そういう意味ね。うん、それでもいいと思います。右代宮氏や、その関係者が、何を考え、どう生きたかったのか。それに思いを馳せなきゃ、真実なんか辿り着けないですよ。』
-『Ahh, então é isso? Sim, me parece bom. O que o Sr. Ushiromiya e os demais envolvidos pensaram, como eles queriam viver? Se não pensar sobre isso, você nunca alcançará a verdade.』 
+『Ahh, então é isso? Sim, me parece bom. O que o Sr. Ushiromiya e os demais envolvidos pensaram? Como eles queriam viver? Se não pensar sobre isso, você nunca alcançará a verdade.』 
 「”愛がなければ視えない”？」
 「"Sem amor, não pode ser visto"?」 
 『はっはは、またキザなこと言うねぇ。それでもいいや。おかしな金持ちが、どんな馬鹿げたことをしたかったのか。そういう考えじゃ視えるわけもない。金持ちは奇人変人で何を考えてるか分からないという、色眼鏡を外してね？1人の人間として考えてみることをお勧めしますよ。それくらいでいいですかね？これくらいお付き合いすれば、私の幼馴染の顔は立つんじゃないですかね？』
-『Hahhaha, de novo essa frase pretensiosa? Mas tudo bem. "O que aquele rico estranho, com seus esquemas ridículos podia estar planejando?" Se pensar dessa forma, também não conseguirá ver. Se supor que não é possível entender o que um rico maluco e excêntrico pensava, que tal deixar de lado sua visão enviesada? Sugiro que pense nele como um humano normal. Não acha que é o bastante? Creio que associando assim, eu posso ajudar meu amigo de infância a manter a sua honra?』 
+『Hahhaha, de novo essa frase pretensiosa? Mas tudo bem. "O que aquele rico estranho, com seus esquemas ridículos poderia estar planejando?" Se pensar dessa forma, também não conseguirá ver. Se supor que não é possível entender o que um rico maluco e excêntrico pensava, que tal deixar de lado sua visão enviesada? Sugiro que pense nele como um humano normal. Não acha que é o bastante? Creio que associando assim, eu posso ajudar meu amigo de infância a manter a sua honra?』 
 「ありがとうございました。原稿を起こしましたら、お送りさせていただきますので、確認をお願いいたします。」
 「Muito obrigado. Assim que eu tiver preparado o manuscrito, irei mandar para você... por favor, confira-o.」 
 『いやっは、　や、　いいよいいよ、チェック面倒臭いからそのまま掲載してくれていいよ。何をどう言い繕ったって、悪意ある人が聞けば、悪意あるように解釈できちゃうんだから。ただ、匿名でお願いね。そういう条件でお話したんですから。』

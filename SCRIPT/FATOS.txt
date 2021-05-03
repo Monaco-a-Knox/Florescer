@@ -1,5 +1,5 @@
 Texto da TIP "魔法についての重要事項" "Importantes fatos a respeito da magia", lançada na data de 2008年06月19日, junto ao artbook do Episódio 2. Ela foi dublada e lançada na nova versão intitulada Umineko CS版. 
-As partes omitidas estão disponíveis na integra na versão de console.
+As partes omitidas estão disponíveis na integra na versão de console e foram manualmente transcritas aqui.
 
 Este .txt contém o texto original + tradução para o português.
 Ele está aqui unicamente como backup para ser utilizado futuramente.
@@ -11,9 +11,7 @@ Matters of weight with Magic
 À minha cara bruxa aprendiz. ~A respeito da magia~
 Importantes fatos a respeito da magia
 
-(inserir linhas extras exclusivas do jogo)
 
-＊新しいテキスト＊　*Texto Novo*
 愛なる真里亜え。
 魔法を学ぶものは、　魔法について正しい心構えをまたなければなりません。
 魔女に憧れるあなたにとって、魔法はまさに憧れるの力。
@@ -27,16 +25,15 @@ Importantes fatos a respeito da magia
 一一一黄金のベアトリーチェ
 À minha querida Maria.
 Os aprendizes da magia precisam ter a mentalidade correta em relação a mesma.
-Para você, quem tanto admira as bruxas, a magia é o poder pelo qual ânsia.
+Para você, que tanto admira as bruxas, a magia é o poder pelo qual ânsia.
 É esperado que esteja querendo aprendê-la logo para poder ostentá-la aos outros.
 Contudo, a magia é um poder abissal. O único elemento capaz de satisfazer toda a ignorância deste mundo.
 É preciso demonstrar um grande respeito, necessitando de uma mentalidade apropriada.
 A magia nunca mostrará seu místico poder enquanto tentar ostentá-la aos outros com sentimentos impuros.
 A magia não é um simples truque de mágica um pouco incomum.
-Por favor, Maria. Respeite a magia.
+Por favor, Maria, respeite a magia.
 Eu rezo, do fundo do meu coração, para que você tenha uma mentalidade correta para dar os seus primeiros passos como bruxa.
-———Beatrice, o Ouro.
-＊新しいテキストの終わり＊　*Fim do Texto Novo*
+———Beatrice, do Ouro.
 
 
 「よいか真里亞。
@@ -61,7 +58,7 @@ Mesmo para o zênite da perversidade, assim como eu, esse sentimento não deve s
 Bruxas não exercem a magia.
 Bruxas oram para que uma existência superior aos humanos realize o milagre.
 ......Vamos imaginar a dança da chuva.
-As pessoas que sofreram com a estiagem suplicam aos céus pela chuva e, quando a prece chega ao seu destinatário, a chuva descende.
+As pessoas que sofreram com a estiagem, suplicam aos céus pela chuva e, quando a prece chega ao seu destinatário, a chuva descende.
 Isso ocorre porque as preces chegaram aos céus, e não porque fizeram com que chovesse."
 
 
@@ -69,40 +66,35 @@ Isso ocorre porque as preces chegaram aos céus, e não porque fizeram com que c
 "Se o desejo não for entregue, nem você conseguiria usar magia...?"
 
 
-（・・・・中略・・・・）
-(....omitido....)
-
-＊新しいテキスト＊　*Texto Novo*
-
 「理屈なら言えばそうなる。　もっとも、　願いが届く届くがない等と言っている内はまだまだ見習よ。　妾の域まで達すれば、　願いは“必ず届く”。　必ず叶う願いはもうはや願いと呼ばぬ。　ゆえに魔法と呼ぶのだ。　くっくっく…！」
-"Teoricamente, pode-se dizer que sim. Precisamente, se o seu desejo não for entregue, você ainda é uma aprendiz. Se for capaz de alcançar o meu nível, o desejo 'definitivamente será entregue'. Um desejo que se realize já não pode mais ser chamado de desejo. Portanto, deve ser chamado de magia. *gargalhada*gargalhada*...!"
+"Teoricamente, podemos dizer que sim. Precisamente, se o seu desejo não for entregue, você ainda é uma aprendiz. Se for capaz de alcançar o meu nível, o desejo "definitivamente será entregue". Um desejo que se realize já não pode mais ser chamado de desejo. Portanto, deve ser chamado de magia. *gargalhada*gargalhada*...!"
 
 「感謝する。　プールの授業の日に雨が降れるように、　いっぱい感謝する」
-"Serei grata. Para que chova nos dias das aulas de natação... irei agradecer de montão."
+"Serei grata! Para que chova nos dias das aulas de natação, ...irei agradecer de montão!"
 
 「そうだ。　自分の目的のために労力を割かせるのだ。　常に感謝の気持ちを忘れてはならぬ。　…そして、　その結果、　もたらされた力がどのようなものであっても、　感謝の気持ちを忘れてはならぬ」
 "Isso mesmo. É preciso que se esforce por seus próprios objetivos. Devemos estar constantemente lembrando do sentimento de gratidão. ...E assim, como resultado, seja qual for o poder que seja concebido, jamais se esqueça do sentimento de gratidão."
 
 「例えば、　真里亜はポールの授業とやらを中止させたくて雨を祈ったとする。　空は曇り、　少々小雨をぱらつかせたかも知れぬが、中止にはならなかったとする。　その時、　それに失望してはならぬのだ」
-Por exemplo, você rezou para que a aula de de natação fosse cancelada pela chuva. O céu estava nublado e chegou a cair uma leve garoa, mas não chegou a ocorrer uma suspensão. Neste momento, não se deve se desapontar."
+Por exemplo, você rezou para que a aula de de natação fosse cancelada por causa chuva. O céu estava nublado e chegou a cair uma leve garoa, mas não chegou a ocorrer uma suspensão. Neste momento, você não pode ficar desaponta."
 
 「なぜなら、　授業を中止させたいのはそなたの願いであって、　天の希望ではない。　天はそなたの、　雨を降らせたいという願いに応えたに過ぎぬからだ。　そのとき、　失望することがあれば、　それはこの上ない不敬に当たる。　その程度のきもちでは、　天は二度と力貸しはしないだろう」
-Isso porque, mesmo que seu desejo fosse o cancelamento da aula, este não era o desejo dos Céus. Os Céus apenas responderam ao seu desejo de que chovesse. Nesse momento, seu desapontamento seria um cúmulo do desrespeito."
+Isso porque, mesmo que seu desejo fosse o cancelamento da aula, este não era o desejo dos Céus. Os Céus apenas responderam ao seu desejo de que chovesse. Nesse momento, seu desapontamento seria o cúmulo do desrespeito."
 
 「でも、ベアトくらいになれば、　今すぐ大雨を降らせたり、　台風を呼んだりもできる？」
-"Mas você conseguiria fazer um temporal cair agora mesmo... até mesmo chamar um tufão, Beato?"
+"Mas você conseguiria fazer um temporal cair agora mesmo... Até mesmo chamar um tufão, Beato?"
 
 「無論できるぞ。　この島を台風に取り囲み、　俗世から切り離すなど容易なことよ」
-"Naturalmente. Seria simples cercar esta ilha por um tufão e cortar suas ligações com o mundo mundano"
+"Naturalmente. Seria simples cercar esta ilha por um tufão e cortar suas ligações com o mundo mundano."
 
 「見せて見せて！　今すぐ台風呼んで！！　そしたらお船は欠航で、　真里亜は明日学校に行かなくて済むー！」
-"Deixa eu ver, deixa eu ver! Cheme um tufão agora!! Assim o barco não vai vir e a Maria não vai precisar ir pra aula amanhã!"
+"Deixa eu ver, deixa eu ver! Chame um tufão agora!! Assim o barco não vai vir e a Maria não vai precisar ir pra aula amanhã!"
 
 「真里亜。　そのような気持ちがもっとも不敬なのだ。　魔法の力は大きなものになればなるどほ、　偉大なる者たちの力借りる。　そしてそれに見合った大きな敬意が必要となる。　…台風を呼ぶなどという大魔法を、　そんな面白半分でよぶようでは、　魔女失格であるぞ」
-"Maria. Esse tipo de sentimento é extremamente desrespeitoso. Quando maior for o poder necessário para a magia, mais grandioso é o poder que precisa ser emprestado. E seria um enorme respeito para para contrabalancear. ...Uma grande magia capaz de invocar um tufão puramente por diversão é uma magia desqualificada."
+"Maria. Esse tipo de sentimento é extremamente desrespeitoso. Quando maior for o poder necessário para a magia, mais grandioso é o poder que precisa ser emprestado. E seria um enorme respeito para para contrabalancear. ...Uma grande magia, capaz de invocar um tufão puramente por diversão, é uma magia desqualificada."
 
 「……うー。　ごめん」
-"......Uu. Desculpa.
+"......Uu. Desculpa."
 
 本来、魔法という呼び名自身が、　不敬なものであることを、　我等魔女は忘れぬようにしなければならない。
 Naturalmente, bruxas como nós não devem esquecer que a própria palavra "magia" é algo profano.
@@ -126,7 +118,7 @@ Todas as manhã, assim como ontem, eu agradeço pelo sol ter surgido novamente.
 Agradeço por essa graça e os dias quentes que são providenciados.
 
 そして時祈、　日々のそれくを報いて休ませるために、　日食を請うのだ。
-Então, no momento da reza, oram para serem recompensados pelo eclipse do sol para poderem descansar após mais um dia.
+Então, no momento da reza, oro para serem recompensada pelo eclipse do sol para poder descansar após mais um dia.
 
 太陽に限ったことではな。　およそこ世界に存在する全ての存在と現象は、すべからく感謝されなければならないのだ。
 Não é algo restrito ao sol. Precisamos ser gratos por basicamente todas as existências e fenômenos deste mundo.
@@ -135,7 +127,7 @@ Não é algo restrito ao sol. Precisamos ser gratos por basicamente todas as exi
 É graças a gravidade que a maçã cai da árvore. Se não fosse por ela, nós não seríamos capazes de andar. A maré não subiria, o vento não sopraria, o fogo não queimaria... tudo, por mais trivial que possa ser, é o milagre de uma grandiosa existência ao qual devemos ser gratos.
 
 つまり、どんあ奇跡も全て感謝の気持ちがなければ絶えるものなのだ。
-Ou seja, todo e qualquer tipo de milagre deixaria de ocorrer se um constante agradecimento.
+Ou seja, todo e qualquer tipo de milagre deixaria de ocorrer sem um constante agradecimento.
 
 それを思う時、　魔法という呼び名がいかに不敬なものか、わかるだろうか？
 Consegue entender como é desrespeitoso chamar isso de magia quando se pensa dessa forma?
@@ -144,21 +136,22 @@ Consegue entender como é desrespeitoso chamar isso de magia quando se pensa des
 As bruxas não exercem a magia. As bruxas desejam, lhes és concedido, e elas agradecem.
 
 その気持ちを忘れては、　“魔法”を扱うことなど、　永遠に至らない。
-Se esquecer esse sentimento... você não conseguirá lidar com a "magia"... e será eternamente imperfeito.
+Se esquecer esse sentimento, você não será capaz de lidar com a "magia"... e será eternamente imperfeito.
 
 つまり、　この世の“全て”は、　全て奇跡なのである。
-em suam, "tudo" que existe neste mundo, é tudo milagres.
+Em suma, "tudo" que existe neste mundo, é tudo milagre.
 
 人間はそれを機械な反応によって起こる「現象」だと呼びつけた時、　魔法の力が世界から急激に失われていった。
-Quando os humanos passaram a chamar esses "fenômenos" de reações mecânicas... o poder da magia abruptamente desapareceu deste mundo.
+Quando os humanos passaram a chamar esses "fenômenos" de reações mecânicas, ...o poder da magia abruptamente desapareceu deste mundo.
 
 たとえば、　牛が牛乳を与えてくれることだって感謝すべき奇跡だ。
 Por exemplo, a vacar dar leite é um milagre ao qual devemos ser gratos.
 
 彼ら世話し、　その見返りとして牛乳という奇跡をあたえられていたはずなのだ。
+Eles deveriam buscar por essa assistência e, em troca, seriam recompensados com o milagre do leite.
 
 しかし、 人間たちは牛に対する感謝をわすれ、　あるー定の飼育法で機械的に牛乳を排出する機械ーーー「現象」として扱った。
-Contudo, os humanos esqueceram seu apreço pela vaca... e começaram a tratar como "fenômeno" uma máquina capaz de ordenhar mecanicamente uma vaca.
+Contudo, os humanos esqueceram seu apreço pela vaca...e começaram a tratar como "fenômeno" uma máquina capaz de ordenhar mecanicamente uma vaca.
 
 その結果、　牛に対する神聖性は失われ、　そこに宿っていた奇跡が“殺された”のだ。
 Como resultado, a sacralidade que existia na vaca se perdeu, e o milagre que ali habitava foi "morto".
@@ -170,36 +163,34 @@ E assim, o mesmo foi ocorrendo com todas as outras coisas. Um por um, os milagre
 ...Não, creio que matar não seja a expressão mais correta. O certo seria dizer que eles "negaram".
 
 なぜなら、　い存在を殺して消し去になど、　人間ごときにはできない。 彼らにできるのはせいぜい、　その存在を拒否して、　みえないかのように振舞うだでだ。
-Isso porque nenhum ser humano é capaz de amatar e apagar uma existência. O máximo que eles conseguem fazer é negá-la...agindo como se fosse algo invisível.
+Isso porque nenhum ser humano é capaz de matar e apagar uma existência. O máximo que eles conseguem fazer é negá-la...agindo como se fosse algo invisível.
 
 だから、　人間たちが奇跡のちからをいくら殺して、　存在しないかのように振舞おうとも、　このせかい満ち溢れている数多のきせきを否定することにはならないのだ。
-Por isso, não importa o quanto os humanos matem os milagres, finjam que não podem ver suas existências... isso não significa que eles estão negando os incontáveis milagres que abundam este mundo.
+Por isso, não importa o quanto os humanos matem os milagres, finjam que não podem ver suas existências, isso não significa que eles estão negando os incontáveis milagres que abundam este mundo.
 
 この世には無限に、　数多の奇跡が溢れている。　その事実だけは、　変わらない。
 Há um número infinito de milagres que transbordam por este mundo. Isto é um fato imutável.
 
 しかし、　今の世の人間は、　困ったことに、　“そういう力”に秀ですぎた。　奇跡の力“現象”に貶める力に秀ですぎた。　圧倒的大多い数となり、　大挙“奇跡を狩り始めた”のだ。
-Contudo, quando estão com problemas os humanos de agora tentam superar "esse tipo de poder". 
+Contudo, quando estão com problemas os humanos de agora tentam superar "esse tipo de poder". Eles passram a menosprezar o poder desse "fenômeno". Seus números tornaram-se avassaladores e eles começar a "caçar milagres" em grande escala.
 
 彼かはそれを半ば生業とするようになり、　あらゆる奇跡のちからを見つけ出しては、　それを貶めることに心血を注ぎはじめたのだ。
-Eles praticamente transforma isso em uma ocupação, a procura do poder de todos e cada um dos milagres, colocando sua alma a fim de ? Seus números se tornaram avassaladores e eles "começara a caçar milagres" em grandes números.
+Eles praticamente transformaram isso em uma ocupação, a procura do poder de todos e cada um dos milagres, colocando dedicando-se a menosprezá-los. 
 
 本当の意味での、　魔女狩りの時代の幕開けである。
 No mais puro sentido, as cortinas da era das caças às bruxas se abriram.
 
 奇跡の力と、　それを司する尊き者たち、　人間を嫌い、　避けるようになっていた。
+Os nobres que administram o poder dos milagres odiavam os humanos e passaram a evitá-los.
 
 そう。　今や人間たちは、自らの体臭で奇跡の力を遠退ける、　臭き豚なのだ。　ただ存在するだけ、　奇跡の力を掻き消し消し、　ただ存在するだけで、　我等魔の存在するを否定する。
-Sim. Atualmente, os humanos são como porco fedorentos que mantém o poder dos milagres distante, repelindo-o com seu próprio fedor. Pelo simples fato de existir, o poder da magia é apagado...pelo simples fato de existirmos, eles negam nossas existências demoníacas.
+Sim. Atualmente, os humanos são porco fedorentos que mantém o poder dos milagres distante, repelindo-o com seu próprio fedor. Pelo simples fato de existir, o poder da magia é apagado...pelo simples fato de existirmos, eles negam nossas existências demoníacas.
 
 そして彼らが徒党を組んで闊歩するこ地上ではもはや、　魔法の使える場所は少ない。　それゆえ、　我等は人のめ忍び、　辺境へ住まいを移さねばならなかった。
-E sobre a superfície, onde suas conspirações pavoneiam em bandos, há poucos lugares onde a magia pode ser usado. Por isso, tivemos que nos esconder das pessoas e nos mudarmos para vivermos em regiões remotas.
+E sobre a superfície, onde suas conspirações pavoneiam em bandos, há poucos lugares onde a magia pode ser usada. Por isso, tivemos que nos esconder das pessoas e nos mudarmos para vivermos em regiões remotas.
 
 そして、　今やこの十数人も住まわぬこの東洋の辺境の島が、　妾の住まいというわけだ。
 E agora, esta ilha remota do oriente, habitada por uma dezena de pessoas, é a minha morada.
-
-＊新しいテキストの終わり＊　*Fim do Texto Novo*
-
 
 　今や、魔法の力は人目を忍ばねばならぬ。
 　人の前でその奇跡を示すことができぬ。

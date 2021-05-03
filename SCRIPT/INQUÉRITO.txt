@@ -1,0 +1,230 @@
+Texto da TIP "六軒島捜査ファイル" "Inquérito de Rokkenjima", lançada na data de 2011年05月22日, em um livreto do evento "el segundo Dorado". Esta TIP nunca foi dublada tampouco seu livreto nunca foi completamente escaneado. 
+
+Este .txt contém o texto original + tradução para o português.
+Ele está aqui unicamente como backup para ser utilizado futuramente.
+Texto em japonês: http://umineco.info/?el%20segundo%20Dorado%E9%A0%92%E5%B8%83%E5%B0%8F%E5%86%8A%E5%AD%90
+--------------------------------------------------------------------------------------
+
+Esta TIP é formada basicamente por imagens, as quais tem seu conteúdo descrito nas linhas com 【】
+Esta é a capá do livreto: https://i.imgur.com/zC0bzcC.jpg
+Caso você encontre esta raridade, por favor, compartilhar pelo bem da preservação histórica.
+O dia que eu o obter, farei uma tradução decente........
+
+
+【PC画面上に新規メール作成画面が表示されている】
+【タイトルバー】
+k.otuki＠majyodarake.comのメールを開いています...
+[A tela de um computador exibindo um novo e-mail]
+[Título]
+k.otuki＠majyodarake.comのメールを開いています...
+Abrindo um e-mail de... k.otuki＠majyodarake.com
+
+【画面左】
+使用率: 127MB / 600MB ( 21.2% )
+受信箱 (0/10) [空にする]
+下書き (0)
+送信済み (108)
+迷惑メール (0/0) [空にする]
+ゴミ箱 (0/0) [空にする]
+[à esquerda da tela]
+Utilizado: 127MB / 600MB ( 21.2% )
+Recebidos (0/10) [Esvaziar]
+Rascunhos (0)
+Enviados (108)
+Spam (0/0) [Esvaziar]
+Lixo (0/0) [Esvaziar]
+
+
+【画面中央】
+NEWMAIL
+題名　　　:　お世話になっております、大月です。
+送信先　:　usan＠yahhoooo.com
+差出人　:　k.otuki＠majyodarake.com
+[Centro da tela]
+NOVO E-MAIL
+ASSUNTO　　　:　Muito obrigado pela ajudar; Ootsuki.
+送信先　:　usan＠yahhoooo.com
+差出人　:　k.otuki＠majyodarake.com
+
+
+【Ccと添付ファイルは空欄】
+
+
+関係各位
+
+本日は、御忙しい中お集まり頂き誠にありがとうございます。
+
+御陰様で、ウィッチハントコンベンションも今回で○×回目を迎えることが出来ました。
+そこで今日は、とある筋から私が手に入れた貴重な資料の数々を特別に公開しましょう。
+
+皆さま、くれぐれも御内密に……。
+
+2011.5.22
+k.otuki
+[Cc e anexos em branco]
+Conteúdo
+
+A quem possa interessar.
+
+Muitíssimo obrigadA por disponibilizar um momento de suas ocupadas agendas para se reunirem.
+
+Graças ao apoio de todos, a Witch Hunter Convention chegou a sua ○× edição.
+Por isso, gostaria de divulgar hoje uma série de materiais preciosos que obtive em minhas mãos.
+
+Encarecidamente pessoa que mantenham isto em sigilo......
+
+2011.5.22
+k.otuki
+
+　--- 送信する ---　　　保存する
+　--- Enviar ---　　　Salvar
+
+【画面の前には六軒島捜査ファイルと書かれた紙が置いてある】
+[Em frente à tela, uma folha escrito Inquérito de Rokkenjima]
+
+【戦人、真里亞、譲治の表情差分がそれぞれ一枚の紙にまとめられ、無造作にばらまいてある】
+【またそれぞれの表情にはDefA1やMAjimeA1などスクリプトで使用するファイル名が書かれている】
+【戦人の指差しやマント着用を行うために必要なスクリプトも書かれている】
+[As diferentes expressões de Battler, Marie e George estão espalhadas por uma folha de papel]
+[Além disso, cada uma das expressões vem acompanhada do nome do arquivo utilizado no script, como "DefA1" e "MAjimeA1"]
+[Há também o roteiro necessário de como vestir a capa utilizada pelo Battler]
+
+【解説】
+さすが物語の主人公だけあって
+表情が多い…。
+
+それだけ、右代宮戦人という男は
+表情豊かなニンゲンだったのだろう。
+[Comentário]
+Como esperado do protagonista.
+Ele tem muitas expressões.
+
+Este é o homem, este é Ushiromiya Battler.
+O humano com mais expressões faciais.
+
+【前ページと同じように金蔵、源次、南條、熊沢、嘉音の表情差分】
+[Diferentes expressões de Kinzo, Genji, Nanjo, Kumasawa e Kanon na outra página]
+
+【解説】
+それにくらべて源次、南條の少なさといったら…。
+しかし、逆を考えると…。
+彼らはそれだけポーカーフェイスということになるのか…！
+使用人侮りがたし…。
+[Comentário]
+Comparado com ele, Genji e Nanjo não tem quase nada...
+Mas se pensarmos pelo outro lado...
+Eles só tem essas expressões vazias mesmo...!
+使用人侮りがたし…。
+
+【シエスタ姉妹4人の表情差分】
+【その上にスタッフによるシエスタ姉妹近衛兵のデザインラフが5点】
+【ぐるぐるメガネ、耳の先にピアス穴2つ、片目隠れ、両目隠れのシエスタと短パンを横から見た時のデザイン画】
+[Diferença de expressões das quatro Irmãs Chiester]
+[Acima, cinco esboços da Guarda Imperial das Irmãs Chiesters]
+[Imagem com o design das Chiesters, com aqueles óculos engraçados, dois buracos de brinco na ponta das orelhas, um olho tapado, dois olhos tapados e shorts vistos de lado]
+
+【解説】
+これは…！　シエスタ姉妹近衛兵にとてもよく似ている。
+若干制服のデザインが違うようだが、ＥＰ６で少し触れられた
+別の部隊の制服なのだろうか…？
+絵のタッチの違いからわかるように、０７ｔｈ　Ｅｘｐａｎｓｉｏｎスタッフ
+によるデザインラフのようだ。
+[Comentário]
+Esta são...!　Parece muito com a Guarda Imperial Chiester.
+O design do uniforme parece meio diferente, mas chegou a ser mencionado no EP6.
+Será que é o uniforme de outra unidade?
+Como pode ser visto pela diferença da arte, deve ser um esboço da staff da 07th Expansion.
+
+【ドラノール、ガートルード、コーネリアの表情差分】
+【その上にドラノールとコーネリアのデザインラフが2点ずつ】
+[Expressões faciais da Dlanor, Gertude e Cornelia]
+[Acima, dois esboços de Dlanor e Cornelia]
+
+【ドラノールはネクタイに天秤が描かれていたり腰に2本の鍵を付けている】
+【コーネリアは左腕に2本の鍵が描かれた腕章を付けている】
+【どれも服装の細部が違う】
+
+【解説】
+ふむ…表情、髪型、洋服デザ
+インなど、どこかで見たことだある。
+「眼鏡は衣装変え扱い」という表記が
+なんともリアルだ。
+
+右に見えるイラストは「アイゼルネ・ユング
+フラウ」原型とみて間違いないだろう。
+私の知っているコーネリア司祭には無い、
+とても勝気な表情だが表情デザインなどは
+後から決められるのだろうか…？
+[Comentário]
+Hmm... essa expressão, esse penteado e essas roupas ocidentais...
+Claramente já vi isso antes.
+Aquilo dos óculos mudarem completamente uma expressão é mesmo verdade.
+Não tenho dúvidas que a ilustração à direita é um protótipo da "Eiserne Jungfrau".
+Não parece a sacerdotisa Cornelia que eu conheço...
+A expressão facial desse design que transmite muita determinação seria algo definido posteriormente...?
+
+【ウィル、理御、クレル、ドラノール、ビーチェ？の背面デザイン5点】
+[Cinco esboços de costas do Will, Lion, Clair, Dlanor, Bice?]
+
+【解説】
+これは、本邦初公開だろう！　各キャラクターの背面デザインだ。
+良く見ると細かく色の指定もしてあったり、デザイン指示がしてある。
+そんなところから、スタッフの熱意を感じる……。
+これらのデザインは、漫画化などの際に開かれることとなった
+「猫箱」のひとつだ。
+
+個人的には、ウィラード氏がコートを脱いだ姿が気になる……！
+[Comentário]
+Isto é algo inédito no Japão! O design dos personagens de costas!
+Se olhar bem, dá para ver as instruções do design e as especificações das cores.
+Ver algo assim faz eu sentir todo entusiamo da equipe......
+Estes designs devem ser uma "Caixa de Gato" que seria aberta na adaptação para mangá.
+
+Pessoalmente, estou bem empolgado para ver o Sr. Willard tirar o seu casaco......!
+
+【あとがき】
+今回の小冊子は趣向を変え、秘蔵の製作資料を
+公開してみました。
+
+特に表情一覧表は、製作時に無くてはならない
+貴重なもので、これのお陰で効率よくキャラクターの
+表情を変えることが出来ます。
+そのほかにも、本当に初公開となる０７ｔｈ　Ｅｘｐａｎｓｉｏｎ
+スタッフによる衣装デザインのラフ画（本人達は、
+落書きと言い張っていますが…）や、漫画化の際に
+決定した背面デザインを、公式で初めて公開してみました。
+私自身も、背面デザインを考えるのはとても楽しいので、
+いつもスタッフとワイワイ言いながら決めています。
+皆さんの思い描いていたものと違ったらごめんなさい（笑）
+
+この捜査ファイルが、もう一度「うみねこ」の世界を
+楽しんでいただくきっかけになれば幸いです。
+
+２０１１年５月２２日　　　竜騎士０７
+[Posfácio]
+
+【竜騎士０７の部分はサイン】
+
+極秘
+内部資料
+
+【彼岸花の咲く夜にの資料写真6点にそれぞれ一言添えられている】
+【全て学校の写真】
+
+【階段踊り場の写真】
+階段？
+【保健室内の写真】
+保健室？
+【教室内の写真】
+教室？
+【トイレの和式便器の写真】
+トイレ？
+【校門から校庭と校舎が見える写真】
+子供たちの声が聞こえてきそうだ。
+【教室内、机と椅子の写真】
+【懐】かしい気がする
+
+製作途中につき
+持ち出し厳禁
+
+【森谷毬枝と彼岸花の線画】
