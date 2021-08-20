@@ -79,8 +79,8 @@
 ` ......Será que um novo jogo da {f:5:Beatrice}‐sama está para começar?"`
 `"Não faço ideia.`
 ` Afinal, somos apenas peças da bruxa.`
-`  No fim, meu papel é sempre olhar para o céu tempestuoso e ficar gritando {f:5:Beatriceee}!"`
-`VARGILIA rodopiou seu dedo e, sem que os dois tivessem a intenção, eles se moveram para o lado da cama.`
+` No fim, meu papel é sempre olhar para o céu tempestuoso e ficar gritando {f:5:Beatriceee}!"`
+`{f:Virgilia} rodopiou seu dedo e, sem que os dois tivessem a intenção, eles se moveram para o lado da cama.`
 `"......Qual será o enrendo da vez?"`
 `"Não sei. `
 ` ......Hmm, por que minha mão está no seu ombro?"`
@@ -245,7 +245,7 @@
 `"{i:"Sair...? }`
 ` {i:......Meu cachorrinho está querendo dar ordens agora, é...?？"}"`
 `"Hã?!`
-`  Do que você tá falando?"`
+` Do que você tá falando?"`
 `"...Eu também não sei!`
 ` {i:"Você é meu cachorrinho.}`
 ` {i:......Tudo o que cachorros podem fazer é latir.}`
@@ -359,15 +359,15 @@
 ` Eu preferia ser dilacerado por um bando de gatos do que issoooo!!"`
 `"Já que funcionou com Lion×Will, então por que não não invertemos a hierarquia de também Hideyoshi×Lion?!"`
 `"Ah, sim, entendi; esse tipo de ideia também pode funcionar......`
-` でも駄目よ、譲らない！`
-` Mas eu me recuso! Will é totalmente passivo! Me recuso!"`
+` Mas eu me recuso!`
+` Will é totalmente passivo! Me recuso!"`
 `"Ainda assim, tem um cara de meia‐idade violando Lion!`
 ` Não seria maravilhoso se o superpassivo Will despertasse para o lado dos ativos?"`
 `"Então, o Will ataca o Hideyoshi para recuperar Lion, e assim temos Will×Lion?`
 ` as assim temos duas reviravoltas e voltamos para o início sem reviravolta!"`
 `"Não, não, é justamente o contrário. O Hideyoshi se volta contra o Will e acaba devorando ambos!`
 ` Quanto mais indecente for o ativo, melhor fica!`
-`  É aí que a beleza e fragilidade do passivo se destaca!`
+` É aí que a beleza e fragilidade do passivo se destaca!`
 ` Ahh, já estou sentindo a excitação da cena, preciso começar o manuscrito!!`
 ` Precisamos começar a traçar o enredo logo! Vamos, vamos!"`
 `"......Nada mal, {f:5:Virgilia}.`
@@ -394,7 +394,7 @@
 ` Não importa o quão passivo o onii‐chan seja, Hideyoshi×Battler é impossível!"`
 `"E se invertermos?`
 ` {i:"Ei, tio Hideyoshi,}`
-` {i:......você já tem certa idade, então porque não deixa seu sobrinho cuidar das coisas para você? ......Que tal...?"}、`
+` {i:......você já tem certa idade, então porque não deixa seu sobrinho cuidar das coisas para você? ......Que tal...?"}`
 ` Algo assim?"`
 `"Battler da Escuridão...!`
 ` B‐Bem, não ficaria nada ruim...`
@@ -496,10 +496,10 @@
 ` Fique caladinha! E desenhe o manuscrito de acordo com o meu conhecimento sobre as tendências!"`
 `"Quantos volumes seus romances chatos venderam, hein?!`
 ` É tudo graças aos meus desenhos!!"`
-`{e:0170:"Fugiii!!!}{e:0100:"}`
-` {e:0170:lha como fala, sua pirralha!!!}{e:0100:"}"`
-`{e:0170:"Qual foi, quer brigar?!}{e:100:}`
-` {e:0170:Sua velhota apodrecida!!}{e:0100:"}`
+`{e:0170:"Fugiii!!!}`
+` {e:0170:Olha como fala, sua pirralha!!!"}`
+`{e:0170:"Qual foi, quer brigar?!}`
+` {e:0170:Sua velhota apodrecida!!"}`
 `.........E assim, o superpopular grupo "Anjinha 17",`
 `{n}que surgiu como um cometa,
 `{n}despareceu da mesma maneira, junto à sua lenda.`
@@ -535,13 +535,13 @@
 ` Não a reconheci sem maquiagem!!"`
 `"Ange‐san...!!`
 ` É ótimo ver a diferença de cor entre seu rosto e pescoço por causa da maquiagem... ohhohohohohoho!!"`
-` {e:0170:""Grrrrrrrrrrrrr!!!!""{e:0100:}`
+` {e:0170:""Grrrrrrrrrrrrr!!!!""}`
 `Pode ter parecido que elas estavam prontos para se engrenharem, mas como a equipe do comitê de organização estava passam, elas fingiram não se conheceram, como se fossem fizessem parte de {i:Urban Champion}......`
 `"......Bem, cada uma seguiu o caminho que mais gostava.`
 ` Não é melhor reconhecer o caminho da outra?""`
 `"Tem razão.`
 ` Eu fui muito imatura.`
-` ......Bem, vamos aproveitar os {i:{i:doujin}s} de cada uma."`
+` ......Bem, vamos aproveitar os {i:doujins} de cada uma."`
 `"Amigas...?"`
 `"Sim.`
 ` Como duas companheiras que amam este gênero."`
@@ -561,9 +561,9 @@
 `"......Como de costume, seu gosto por tiozões não muda? `
 `......E o Diretor é o passivo... sério, qual o sentido disso?"`
 `"Eu que diga, Ange‐san. Como de costume, você não compreende o charme dos homens de meia‐idade, compreende?"`
-`{e:0170:""Grrrrrrrrrrrrr!!!!""{e:0100:}`
+`{e:0170:""Grrrrrrrrrrrrr!!!!""}`
 `Os grãos de areia da praia nunca se esgotam.`
 `{n}O mesmo se aplica aos casais dos BL.`
 `Mesmo que seus princípios e posições sejam distintos,`
-` como companheiros de {i:{i:doujin}s},`
+` como companheiros de {i:doujins},`
 `{n}vocês devem sempre ser amigos......`
