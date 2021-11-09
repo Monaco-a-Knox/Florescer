@@ -1,0 +1,110 @@
+`Você sabe das notícias que o vento traz...?`
+`{n}O vento está realmente carregando‐as, `
+`{n}e sussurrando‐as em nossos ouvidos.`
+`"Como tem passado, {f:5:Bernkastel}?`
+`{n}Estou fazendo uma maravilhosa festa do chá.`
+`{n}Venha participar, por favor."`
+`Quem diabos mandou este convite?`
+`Bem, como está convidando uma bruxa, ela também deve ser uma bruxa.`
+`"......Parece interessante.`
+` Contanto que me faça esquecer meu tédio por um breve momento, acho que irei seguir com isso."`
+`Ela foi guiada pelo vento.`
+` E o que {f:5:Bernkastel} encontrou foi uma floresta densa, escura e exuberante.`
+`"......Se alguém fosse morto nesta floresta,`
+` não importaria o quanto gritasse, ninguém ouviria.`
+` Uma floresta perfeita para sediar uma festa de chá de bruxas."`
+`Na entrada da floresta, havia um grande toco de árvore, esculpido na forma de uma cadeira, bem como uma plaquinha.`
+`{f:5:Bernkastel} olhou para a cadeira esculpida no toco, e então falou.`
+`"......Sim, estou entendendo.`
+` Se eu me sentar nisso, serei pega em uma armadilha e atada por correntes ou algo assim.`
+` Uma torta de cereja ou alguma coisa virá caindo de cima,`
+` e eu serei transformada em motivo de risos. Deve ser esse o plano."`
+`Essa passou perto, muito perto.`
+`{f:5:Bernkastel} estava mais próxima de ser o objeto de entretenimento da festa do chá do que de ser uma convidada.`
+`Ela continuou seguindo a trilha pela floresta.`
+`Lá, ela encontrou um arbusto de framboesas, e uma pequena mesa colocada em sua frente.`
+`Havia suco de framboesas em cima dela.`
+`{f:5:Bernkastel} olhou para o copo de suco, e então falou.`
+`"......Sim, estou entendendo.`
+` Seja o que for,`
+` isso deve estar envenenado, então quando eu beber, meu estômago vai colapsar e eu serei motivo de risos.`
+` Deve ser esse o plano."`
+`Essa passou perto, muito perto.`
+`{f:5:Bernkastel} tinha visto através de outra armadilha.`
+`Enquanto ela fazia o seu caminho através da floresta, por todos os lugares que ela passava, várias armadilhas aguardavam {f:5:Bernkastel}.`
+`"......De forma alguma eu cairia nessa.`
+` Seja o que for, está obviamente envenenada."`
+`"......De forma alguma vou cair nisso.`
+` Seja como for, é obviamente uma armadilha.`
+` Eu posso ver através dela."`
+`Eventualmente, na parte mais profunda da floresta, ela encontrou uma casa feita de doces.`
+`"......Eu me pergunto quem é o anfitrião desta ridícula festa do chá.`
+` Espero pelo menos dar uma boa uma olhada no seu rosto.`
+` ......Opa, esta casa também deve ser uma armadilha.`
+` Preciso ser mais cuidadosa."`
+`{f:5:Bernkastel} ocultou sua respiração, e sorrateiramente espiou dentro da casa...`
+`Lá dentro, {f:5:Lambdadelta} e {f:5:Featherine} estavam bebendo chá e tendo um bate‐papo amigável.`
+`"A Bern vai vir."`
+`"Ela tem uma natureza ainda mais profundamente desconfiada do que um gato.。`
+` Ela vai suspeitar que é uma armadilha e, no meio do caminho, vai dar meia‐volta."`
+`Parecia que as duas estavam discutindo se {f:5:Bernkastel} viria ou não.`
+`"A Bern com certeza vai vir.`
+` Eu prometo isso, como a Bruxa da Certeza`
+` E de jeito nenhum ela teria medo de armadilhas.`
+` Seja cadeiras, bebidas ou guloseimas.`
+` Para que ela desfrute desta festa de chá na floresta, eu bolei muitos planos para recebê‐la.`
+` Eu sei que a Bern vai se divertir enquanto segue seu caminho até aqui."`
+`"Será mesmo...?`
+` Eu a conheço desde que ela era uma miko.`
+` Ela é muito desajeitada, estúpida e se assusta mais fácil que você pensa.`
+` .....O coração dela não é grande o suficiente para entender o seu plano."`
+`"Isso foi quando você estava por perto, sabia...?`
+` Agora é diferente.`
+` Ela se abriu muito mais desde que começou a brincar comigo.`
+` Ela é diferente do que costumava ser."`
+`"Será?`
+` Não importaria o quanto você o alimente, um gato de rua nunca vai se apegar.。`
+` Esta festa do chá vai permanecer apenas com nós duas."`
+`"Ela vai vir...!`
+` A Bern com certeza vai vir!`
+` A Bruxa da Certeza está prometendo!"`
+`"Nnão vai vir, não vai mesmo.`
+` Definitivamente não vai vir.`
+` Eu prometo, como a Bruxa do Teatro.`
+` *risos*risos*risos*...!"`
+`"Ela vem!`
+` Aquela garota mudou desde que começou a brincar comigo...!"`
+`Bern voltou pelo caminho da floresta a passos rápidos.`
+`Teria sido porque ela percebeu que era uma armadilha e decidiu dar meia‐volta...?`
+`Parece ter sido algo levemente diferente.`
+`"......É porque a Auaurora disse que eu certamente não viria`
+` ......Eu sinto vontade de fazer isso por despeito.`
+` A última coisa que eu quero fazer é o que aquela desgraçada espera.`
+` .........Sim, essa é a minha única razão.`
+` Eu não tenho absolutamente nenhuma intenção de fazê‐lo em honra à tolice de Lambda."`
+`Bern murmurava para si mesma, mas rapidamente retornou seus passos ao longo do caminho.`
+`Já que ela pretendia participar da festa do chá, por que ela estava voltando...?`
+`Lá, ela passou pela entrada da floresta.。`
+`Uma cadeira feita de um toco e uma plaquinha.`
+`"......Sim, eu realmente estou exausta de caminhar tanto.`
+` Vou aceitar a oferta."`
+`Bern sentou na cadeira feita com o toco de árvore.`
+`Ela tinha cruzado um caminho bem longo até aqui.`
+`......Mas parecia que finalmente estava participando da festa do chá de {f:5:Lambdadelta}.`
+`"Ahahaha, aaahahaha! Viu só? Viu só?! Eu peguei a Bern.`
+` Eu tinha certeza absoluta de que ela ira cair~{p:0:☆}"`
+`"......Pensei que você fosse tão desconfiada quanto um gato. ......E imaginar que cairia em uma armadilha deste nível.`
+` ......Que decepção, ...não, você me cansa."`
+`".........Isso mesmo, eu realmente mudei.`
+` Graças à Lambda, eu fiquei docemente mais estúpida."`
+`{f:5:Bernkastel} estava sentada na cadeira, envolta por grossas correntes.`
+` Um {i:cheesecake} inteiro caiu direto na direção cabeça`
+` Ele ficou preso sobre sua cabeça como se fosse um chapéu.`
+`Uma armadilha, feita para que isso acontecesse com quem se sentasse no toco.`
+`"Foi divertida? A minha surpresa."`
+`"......Foi passável.`
+` Se tivesse sido uma torta de geleia de {i:umeboshi} ao invés de um {i:cheesecake}, eu teria te dado um escore perfeito."`
+`"Não, um {i:cheesecake} combina perfeitamente com você.`
+` Ele realmente combina bem com o seu cabelo."`
+`"......{i:Nattou} e uma garrafa de geleia de {i:okara} provavelmente combinariam mais com a sua cabeça, Auaurora."`
+`Agora que {f:5:Bernkastel} havia chegado, a divertidíssima festa do chá das bruxas finalmente tinha começado.`

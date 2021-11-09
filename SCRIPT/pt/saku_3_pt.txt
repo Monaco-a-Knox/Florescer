@@ -1,0 +1,458 @@
+`3, 2, 1!`
+`"Peaaaace!!!`
+` Certo, pessoal, vocês foram todos ótimos, pice!`
+` Com isso, fecham‐se as cortinas de "Umineko no Naku Koro Ni", pieeece!"`
+`"......Pareceu que você estava dando o seu máximo para arruinar as coisas quando saiu de cena."`
+`"Não precisa falar de forma tão rígida.`
+` Afinal, as festas de encerramento da 07th são sempre descontraídas."`
+`"......Agora que mencionou, tem razão.`
+` Na época de "Higurashi", era uma forma de contrastar com a obscuridade da história."`
+`"Sim, sim, é mesmo!`
+` Assim que fiquei sabendo que teria uma festa de encerramento em "Umineko",`
+` e ainda por cima uma pós‐festa, logo imaginei que teríamos que fazer algo para descontrair com a melancolia do original!!`
+` Desde o início eu já fiquei ansioso por isso."`
+`"O forte aqui é surgir de repente dos bastidores, sabia?`
+` Não acha um doce? Centenas de vezes mais doce que açúcar diet!"`
+`"Sim, sim, a proposito, {f:5:Piece}!`
+` Sobre esse seu poder para consumir totalmente a existência do seu oponente...`
+` ......É pra valer mesmo?"`
+`"D‐Do que está atrás, pice?"`
+`"Ela não está para brincadeira.`
+` ......É uma peça daquele monstro, na qual sua habilidade é deletar a existência de uma pessoa do roteiro."`
+`"......Eu ouvi que a {f:5:Featherine} vê o nosso mundo、`
+` como se fosse um manuscrito em papel e tem o poder de usar lápis e borracha para escrever e apagar o que bem entender."`
+`"Que incrível!`
+` As peças, o tabuleiro, nem mesmo as regras importam para ela, ......ela é mesmo a Game Master mais poderosa de todas."`
+`"Mas sabem de uma coisa?`
+` Esse poder excessivo pode fazer seu corpo perecer, sabiam......?"`
+`"Por quê?"`
+`"Quando vale‐tudo, aquilo que é transmitido perde seu valor, pice.`
+` Mesmo que seja concedido a você um mundo sem som, onde luz nenhuma brilha, grama alguma cresce e árvore nenhuma floresce,`
+` sem qualquer restrição para criar o que quiser, você ainda irá se deparar com complicações, pice."`
+`"Essa é a Criação.`
+` Na verdade, se for concedido a você uma certa restrição para servir de ponteiro, fica bem mais fazer com que as coisas brotem."`
+`"Se for dado a você um papel para desenhar,`
+` e for dito para desenhar um gato, as pessoas podem se entreter pensando que tipo de gato fariam.`
+` Ou talvez possam surpreender a todos desenhando algo além de um gato para pegá‐los desprevenidos."`
+`"......Ah, entendi.`
+` Realmente.`
+` Pode ser um pouco complicado quando é dito para desenhar qualquer coisa."`
+`"Pois é.`
+` Assim como se fosse o final de um programa, ao menos eu gostaria de algo para comentar."`
+`"É isso mesmo.`
+` Quanto mais as restrições do poder da Criação são removidas, mais podemos abrir nossas asas.`
+` ......Contudo, quando certa linha é ultrapassada e certas restrições são eliminadas,`
+` ocorre o contrário: o poder da Criação atrofia."`
+`"Minha mentora chegou a tocar este zênite e percebeu que não era um lugar na qual aqueles que detém de vontades deveriam alcançar, o que a fez retornar, pice."`
+`"Então, {f:5:Piece}!`
+` Você herdou o poder de apagar da {f:5:Featherine}, né?!`
+` Não consegue fazer o contrário, consegue?"`
+`"......Se refere ao Poder do Lápis?"`
+`"Não, não, não é isso!`
+` O exato oposto do poder de apagar completamente uma existência!`
+` Não seria possível botar para fora aqueles que já foram apagados até então?!"`
+`"Pi?`
+` ......Ahaaaa... Nunca tinha pensado nisso, {f:5:Piece}."`
+`"Neste momento, eu reconheço que há seis de nós aqui: eu e a Beato, a Ange, a Bern, a Lambda e a {f:5:Piece}."`
+`"Sim, sim.`
+` Isso é interessante.`
+` .....Então seria possível que, na verdade, tivesse seis pessoas aqui hoje, mas alguém foi engolido e nós esquecemos de sua existência......?"`
+`"Uehhihihihihi......`
+` Na verdade, sim.`
+` ......Tinha mais uma convidada aqui, mas ela era muito irritante, por isso eu a engoli, pice."`
+`"Uwaa!`
+` Então eu estava certa?!`
+` Que medo! Isso é mesmo assustador!`
+` Quem foi?!`
+` Quem foi engolido?!"`
+`"Afinal, também foi apagada das nossas memórias, certo?`
+` Nesse caso, não tem como nós lembrarmos."`
+`"É possível que eu não tenha engolido completamente, por isso ainda pode haver algum resquício dela em suas memórias, pice.`
+` ......Para ajudá‐los a lembrar, irei dar umas dicas, {f:5:Piece}!`
+` Dica número um:`
+` é uma criança muito habilidosa com hashis."`
+`"Hashi?"`
+`"Isso não foge muito da cosmovisão ocidental deste mundo......?"`
+`"Segunda dica:`
+` sua maior paixão é o seu orgulho por suas habilidades de dedução."`
+`"Já sei!`
+` É o Will, não é?!`
+` Acharam que eu ia dizer Battler, né~?!"`
+`"Me pergunto se tinha mesmo uma criança boa com hashis e deduções...?"`
+`"Terceira dica!`
+` Ela se autoproclamava uma detetive!`
+` Também conhecida pela alcunha de estupradora intelectual!"`
+`"O que é isso? Que apelido mais desprezível e degenerado......"`
+`"Certa vez ela colocou seu ouvido contra a parede do quarto de uma certa pessoa suspeita e passou a noite toda auscultando.`
+` Após ser recebida como convidada, ela selou todas as janelas da mansão com fita kraft em meio a um tufão."`
+`"Mas que indivíduo mais problemático!`
+` Era uma {i:stalker}?`
+` Uma pervertida?!"`
+`"......Não está certo.`
+` Eu não consigo lembrar de nenhum personagem assim em "Umineko"......"`
+`"Ela parecia ver a Lady {f:5:Lambdadelta} como uma rival, {f:5:Piece}.`
+` Anteriormente, quando o braço da Lady {f:5:Lambdadelta} foi cortado transversalmente, ela o pegou e começou a fazer cócegas enquanto ria com um sorriso no rosto, pice."`
+`"Nãoooo! Que isso?! Que horror! Que meeeeedo!!!`
+` Tinha uma criança assim?!`
+` Ela estava aqui?!"`
+`"Hmmm......, por que eu convidaria uma pessoa dessas para cá?`
+` ......Afinal, ela era amiga de quem?"`
+`"Sendo uma pessoa tão ruim assim, ......acho que não tem problema algum ela ter sumido......"`
+`"Acho que tem razão......`
+` Ainda assim, não tem nada de bom dela que possa ser lembrado......?"`
+`"Ué?`
+` Então, tudo bem se eu não vomitá‐la de volta, {f:5:Piece}?"`
+`"Sem sentido, sem objeções, sem dissidência!!!"`
+`"......*risos*.`
+` Parece que estamos de acordo.`
+` Não vejo problema se essa {i:stalker} detetive pervertida dos hashis não existir."`
+`"Se eu pedisse para separar sal e gomásio, e essa pessoa realmente o fizesse, e então perguntasse "algum mais que você deseje, minha mentora?" enquanto persistentemente tentava se aproximar de mim, eu iria pedir para você consumi‐la."`
+`"Se eu descobrisse que um gato barulhento desapareceu de repente, só isso não seria o suficiente para me agradar.`
+` Logo depois, eu ainda gostaria que se livrassem dele o vomitando numa lata de lixo de um beco."`
+`"Uehyahyahayhay!`
+` Assim sendo, eu o farei depois, Lady {f:5:Bernkastel}, peace{p:0:♪}"`
+`"Ah, não era bem isso que quis dizer.`
+` Você não consumiu mais ninguém nem nada, né?"`
+`"ão, pice.`
+` Eu só consumi uma pessoa hoje, {f:5:Piece}."`
+`"......Entendi.`
+` Então foi como a Lady {f:5:Lambdadelta} disse?`
+` Afora esta noite, ......não há mais ninguém que você tenha engolido e apagado?`
+` Afinal, eu não faço ideia de quantas peças foram desenhadas durante este conto extremamente longo."`
+`"Bom, realmente, apareceu um montão de gente mesmo.`
+` Toda vez que repetíamos esse círculo fechado, o número de personagens aumentava."`
+`"Nesse processo de dar vida, há um número inesperado de personagens que nunca recebem uma chance de aparecer e acabam sendo apagados."`
+`"Ou seja, isso quer dizer na série de Fragmentos que compõem "Umineko no Naku Koro ni" tem gente que falhou na audição?"`
+`"Sim, sim!`
+` São os chamados personagens rejeitados, né?!"`
+`"Realmente......, eu não tenho memórias de cada um dos personagens rejeitados.`
+` ......Por acaso, é possível que algum indivíduo como a Lady {f:5:Piece} não tenha permitido a existência deles e os engolido......?"`
+`"É sim, {f:5:Piece}~!"`
+`"Hã?`
+` Personagens rejeitados de "Umineko"?!`
+` Eles existem?!"`
+`"Muitos dos personagens rejeitados de “Umineko” foram rapidamente descartados quando ainda estavam inacabados...`
+` Por causa disso, são poucos que possuem uma forma completa, {f:5:Piece}."`
+`"Mas não significa que sejam zero, pice.`
+` Vejamos, já que esta é a festa de encerramento, acho que posso usar esta oportunidade para vomitar alguns personagens que foram engolidos, {f:5:Piece}!"`
+`"......Oportunidade para vomitar......`
+` Não tem uma forma melhor de dizer isso, não......?"`
+`"Wahhahhahha!`
+` Eu não me importo, não faz mal!`
+` Afinal, a caixa de gato é igual a uma caixa de vomito de delusões, não é mesmo?`
+`Então aproveite esta ocasião e bota logo tudo pra fora!"`
+`"Os personagens rejeitados de "Umineko" meio que são personagens criados pela Beato, certo?"`
+`"Exatamente.`
+` Ou seja, ninguém mais além de mim sabe sobre eles.`
+` Se eles forem vomitados de volta, minhas memórias também vão retornar?"`
+`"Sim, pice.`
+` Sendo assim, quando suas memórias forem revividas, por favor, fique à vontade para apresentá‐los e explicá‐los, {f:5:Piece}!"`
+`"Não sei se estou empolgada ou com medo......`
+` Quantos são?"`
+`"Acho que agora eu consigo vomitar uns três deles, pice.`
+` Há muitos outros, mas eles não passam de conceitos sem forma ou caíram completamente no Abismo do Esquecimento... É possível que eu mesma não lembre mais deles, pice."`
+`"Que preâmbulo mais logo!`
+` Bota logo eles pra fora~!!"`
+`"Pois bem, hora da disputa dos três personagens rejeitados de "Umineko no Naku Koro ni".`
+` Vai começar, vai começar......"`
+`"Ah, mesmo~? Todos prontos?`
+` Já que são personagens rejeitados, não criem muitas expectativas, tá?!"`
+`"vamos iniciar, {f:5:Piece}!`
+` Lá vem o primeiro!`
+` Nnnng~~~~~~!"`
+`O cabelo de {f:5:Piece} se expandiu como se fosse uma cortina ondulando ao vento.`
+`E assim, transformou‐se em uma grande bola......!`
+`{e:0170:Pon!!!}`
+`"O‐O......que......é isso......?"`
+`"......Não tem cabeça!`
+` Quem deveria ser?"`
+`"Oooh!`
+` Mas vejam só isso!`
+` Eu lembrei!`
+` É o corpo rejeitado dos serventes‐cabra!"`
+`Quando Beato brandiu seu cachimbo, aquele forte físico familiar dos serventes com cabeça de cabra surgiu.`
+`"Normalmente o corpo e o rosto dos personagens é feito separadamente, {f:5:Piece}.`
+` Por isso, a cabeça é feita separadamente, pieeece."`
+`"Hmmm.`
+` Sendo assim, de vez em quando seria bom refazer o meu para eu ter um corpo mais atrativo, não acha?"`
+`"Se é assim, eu também gostaria de um corpo mais feminino e delicado."`
+`"Ihhihi!`
+` Pessoal, pessoal! Seria ótimo se todas ganhassem uns corpos bem avantajados!"`
+`"......Se inflar os peitos das personagens femininas,`
+` que tal você também inflar as partes baixas do seu corpo na mesma medida?"`
+`"Oh, não é uma má ideia!`
+` Nos animes e mangás mais recentes, as personagens femininas parecem todas balões inflados!`
+` Desta vez, vamos estufar as partes baixas dos homens!`
+` Sim, isso mesmo! Em vez inflar as roupas na parte dos peito, vamos colocar sacos de golfe!`
+` Kyaahahhahhahha!"`
+`"Meio que estou feliz por todo esse entusiamo só por causa dos corpos rejeitados dos terciários, {f:5:Piece}."`
+`"Pois bem, vamos chamar o segundo!`
+` Nnnng~~~~~~~!!!"`
+`{e:0170:Pon!!!}`
+`"......Hã?`
+` O que significa?`
+` Não é a Natsuhi?"`
+`"O‐Olá, prazer.`
+` Sou Ushiromiya Natsuhi......"`
+`"Aah...ahhahhahh!!`
+` Lembrei, lembrei!!`
+` Sim, sim, originalmente a Natsuhi também era uma personagem rejeitada!"`
+`"UEEeEEeEeEeh?!?!`
+` A‐A tia Natsuhi?!?"`
+`"Como que ela era uma personagem rejeitada?`
+` Afinal, a Natsuhi acabou aparecendo?"`
+`"......Não pode ser.`
+` ......Mas, ......isso não poderia......"`
+`"Sim, exatamente! Pode sim!`
+` Sim.`
+` Aquela que pensamos ser a Natsuhi, para dizer a verdade, era eu!`
+` Uma personagem rejeitada para o papel de {f:5:Beatrice}."`
+`"EEeEEEEEeEEEEehhhh?!?!"`
+`"A tia Natsuhi era......a Beato......?!`
+` O que isso significa?"`
+`"......Originalmente,`
+` isso quer dizer que "essa" que pensávamos ser a Natsuhi, era um esboço desenhado para o papel de {f:5:Beatrice}?"`
+`"Eeeeeh?!?!`
+` E‐Eu fui criada originalmente para o papel de {f:5:Beatrice}?!"`
+`"Hmm, isso mesmo.`
+` Não consegui evitar de desenhar alguém que pesasse um ar de mistério!"`
+`"Entendi.`
+` Então a parte do cabelo que parece uma onda representaria a natureza distorcida da personagem, {f:5:Piece}?"`
+`"Mas......`
+` não parece uma esposa burguesa?`
+` Ela não passa a imagem de uma uma bruxa perversa amante de travessuras."`
+`"Então, por que ela foi rejeitada e mandada para o Abismo do Esquecimento...e a personagem da Natshui foi escolhida para escapar da morte por um fio......?"`
+`"......Se a tia Natsuhi fosse a Beato, teria sido uma história muito mais tranquila."`
+`"É possível que este "Umineko" também teria sido uma história completamente diferente do que é agora."`
+`"Realmente, eu fiquei com um pouco de vontade de atuar o papel de bruxa agora."`
+`"Ora, parece divertido!`
+` Quer tentar uma vez?"`
+`"Hã?`
+` Eu?"`
+`"Até que parece divertido!`
+` Tudo bem se ela quiser tentar uma das minhas falas.`
+` Também não precisa ser letra por letra.`
+` Seria bom encenar uma que combine com ela!"`
+`"Pois bem, vamos lá.`
+` Irei extrair uma parte dentre das inúmeras falas da Lady {f:5:Beatrice}, pice.`
+` Pode dizer aquela que gostar mais, pieeece."`
+`"Bem, por que não?`
+` Faça isso, Natsuhi."`
+`"..Uwaa.`
+` A Beato tudo bem,`
+` mas sinto que a refinada boca da tia Natsuhi não deveria citar nenhum tipo de fala podre..."`
+`"Não tem nada mais decente, não?!`
+` Isso já é um pouco demais......"`
+`"Não, eu farei.`
+` Quando falamos sobre bruxas, falamos em peças.`
+` Quando falamos sobre humanos, estamos falando de atores.`
+` Se eu não for capaz de encenar qualquer papel, então não sou uma adulta completa."`
+`"Você tem coragem!`
+` Então, fique à vontade para estrear em nosso país!!`
+` Natsuhi {f:5:{f:5:Beatrice}ee}!!!"`
+`"O......"`
+`"O amor é a luxúria! É quando sobrepõe seus corpos na cama!"`
+`"H‐Homens são moscas e vermes que começam a rodeá‐la ao serem atraídos por seu cheiro de fêmea......aaa......"`
+`......Nessa situação, praticamente já se sabia desde o início que acabaria sendo algo imprudente.`
+`Uwaa... até que foi muito bom, não?`
+` Inesperado, mas gostei bastante da Beato da Natsuhi‐san.`
+` Na próxima, vamos fazer um Fragmento com uma versão da Natsuhi onde ela é a Beato...`
+`E acabou sendo como já era mais ou menos esperado......`
+`"Bem... eu fiz o meu melhor para parecer intimidadora... O‐O que acharam......?!！"`
+`"Hmm, bem......, haha......, até que você...se esforçou bastante......haha........."`
+`"Sim.`
+` Como imaginei, ouvir essas palavras vulgares vindo da Beato já é o suficiente (sorriso)."`
+`"Sim!`
+` Mesmo assim, você tem razão.`
+` Palavras refinadas realmente combinam melhor com a Natsuhi.`
+` Umu!"`
+`"Foi inesperadamente divertido, não~?!`
+` Pois bem, vamos para a terceira e última!`
+` Chamarei meu trunfo agora~!`
+` Nnnnng~~~~!!!"`
+`Pooon!!!!`
+`"Uwa?!`
+` Hã?!`
+` Sério, quem?!"`
+`"..........................."`
+`Garoto?`
+` Garota?`
+` Passa um ar de juventude.`
+` Será que é adolescente......?`
+`Pela impressão que suas vestimentas passam, supõe‐se que seja do lado das bruxas, não......?`
+` Não parece apropriado para aparecer como parte da família......`
+`"Mas vejam só, olhem só!!`
+` Mas eu só fiz a {i:lineart}!`
+` Foi finalizado e até colorido!!"`
+`"Achei que não seria divertido trazer da forma como estava,`
+` por isso pedi para que ele fosse finalizado."`
+`"Não é certo julgar as pessoas pela aparência, mas...`
+` ......Ele não passa a impressão de que eu e ele não nos daríamos bem de jeito nenhum?`
+` Ihhihhi."`
+`"Isso mesmo!`
+` O nome dele é VIRGILIUS ({p:0:ウェルギリアス})!`
+` Se tivesse aparecido, eu o teria chamado de Vill ({p:0:ウェル})!"`
+`"......Fica complicado estando acostumado Will ({p:0:ウィル}), não?"`
+`"Se é assim, teria VIRGILIA e VIRGILIUS.`
+` Eles também se parecem e acabariam se confundindo."`
+`"Mas!`
+` Se não me engano, a VIRGILIA criou seu nome a partir do nome de um antigo poeta, não?"`
+`"Realmente, ele significa "aquele que o guia até {f:5:Beatrice}", não......?`
+` Isso mesmo.`
+` Como o propósito dela é igual ao original, faz sentido ter um nome parecido!"`
+`"Precisamente correto.`
+` Ótima suposição"`
+`"Ei, Beato!`
+` Essa criança não fala?`
+` Que sem graça!"`
+`"Hmm.`
+` Afinal, tudo o que eu tinha sobre a existência dele eram duas ou três cenas e um esboço.`
+` Não cheguei a definir sua personalidade ou forma de falar nem nada."`
+`"Quê~? Que chaaato！`
+` Finalmente tem um belo {i:sprite} dele e ele sequer consegue dizer um oi?!"`
+`"Deveria aproveitá‐lo.`
+` Coloque‐o numa dessas duas ou três cenas e faça‐o falar um pouco."`
+`"Está falando como se fosse muito simples.`
+` Mover uma única peça já da bastante trabalho......!"`
+`"Bem, bem, bem!`
+` Tudo bem se não ficar perfeito!！`
+` Nós podemos misturá‐lo em algo adequado."`
+`"........................."`
+`"......Mas ele...`
+` não passa a impressão de ser uma peça do lado das bruxas."`
+`"Eu também achei isso.`
+` Se fosse uma bruxa, deveria estar vestido de forma excêntrica dos pés à cabeça.`
+` Se eu tivesse que dizer, ......parece ser humano......?"`
+`"Exatamente!`
+` Originalmente, ele foi criado para ser um "detetive humano"!"`
+`"Eh?!`
+` Então, isso quer dizer que......a Eri......ué?`
+` ......Eri...Eri......hmm."`
+`"Já tá enchendo saco, então vomitarei a Erika‐san na lixeira de um beco, tá?"`
+`"Ah, me lembrei!`
+` Ou seja, era para ser o personagem original da Erika?!"`
+`"Erika é uma peça criada pelo bem da dramatização, para ser inimiga do Battler e esmagá‐lo.`
+` Mas esse cara é um pouco diferente.`
+` Não há dúvidas de que ele é o detetive rival ao Battler, mas através de sua investigação que serviria para confundir,`
+` ele iria fazer com que o raciocínio do Battler ficasse cada vez mais fora da curva, atormentando‐o por um longo, longo tempo, então pode‐se dizer que ele havia sido planejado para ser um rival predestinado"`
+`"Minha estreia tava tri planejada pro EP3!`
+` Era pra eu sentar o braço no Battler‐san e esculachar ainda mais depois dele ter levado uma mijada da Ilusão da Bruxa durante EP2, tchê......"`
+`"Por que esse sotaque?!?!`
+` Não combina!!"`
+`"{ruby:seyagate:Sossega o facho}, Battler......!!"`
+`"Você só queria dizer isso!!!!"`
+`"Mongolão!`
+` Há sempre duas verdades.`
+` Sem amor, não pode ser visto."`
+`"Pretende fazer Final Mágico e Final Truque?`
+` {m:‐5:——}—}Na real, a brincadeira tá indo longe demaiiiis!!!"`
+`"Originalmente, após estrear no EP3, ele se juntaria como um personagem fixo; um personagem masculino designado para ser o poderoso rival digno de enfrentar o Battler, pice."`
+`"Bah, aham!`
+` Ô meu, tu ia ser meu rival e eu ia te atucanar uma barbaridade, sabia?"`
+`"......Ele é profundamente irritante.`
+` Irei fazê‐lo falar normalmente.`
+`Deixarei como Lion."`
+`"Eu agradeço......"`
+`"Que outras cena você teria?"`
+`"......Seria uma cena bem ambígua, mas......。`
+` Meio que...alguém da Família Ushiromiya, ......a criança ilegitima da Natsuhi?`
+` Algo nessa linha... onde um homem misterioso apareceria na conferência familiar, tipo isso."`
+`"Ah, então essa é a origem da criança ilegitima de 19 anos atrás do EP5!"`
+`"Seria extremamente atroz, remendando retalhos da realidade e evidências circunstanciais como eu bem entendesse.`
+` Eu teria o poder de "definir" o mundo com base no raciocínio que eu desejasse."`
+`"Entendi.`
+` É bem próximo da Erika."`
+`"A parte assustadora dele é que ele poderia criar as próprias verdades e falsidades que desejasse apenas remendando a realidade.`
+` Mesmo sem misturar uma fração de mentiras, você poderia criar qualquer tipo de verdade à vontade."`
+`"Como pensei, ele é bem parecido com Erika.`
+` Ou seja, as cenas que ele perdeu ao ser rejeitado foram herdadas pela Erika no EP5, certo......?"`
+`"Pra mim, ele parece um personagem muito mais forte que a Erika.`
+` Por que ele foi planejado primeiro para o EP3, e não o EP5?`
+` Por que desistiu dele?`
+` Hein, hein?!"`
+`"Hmm.`
+` Na verdade,`
+` é porque eu fui muito exagerada e violenta no EP2.`
+` Isso fez com que a fantasia ficasse muito violeta e predominante."`
+`"Naquela época, aquilo que chamam de cultura dos fóruns de internet floresceu repentinamente.`
+` Autor e leitores foram capazes de se conectarem através da rede, {f:5:Piece}."`
+`"......Entendi.`
+` Como a Beato foi muito exagerada e violenta, uma grande horda de pessoas se rendeu à bruxa."`
+`"Umu.`
+` Isso mesmo.`
+` No EP3 original, intitulado "Land of the golden witch", eu pensei que deveria desenvolver ainda mais a intensidade e exagero das coisas após o EP2, mas......"`
+`"Entendi?`
+` Ao perceber que seus leitores estavam ficando confusos e desistindo de acompanhar, você decidiu virar a chave."`
+`"Exatamente.`
+` Então, como eu me inclinei demais ao lado da bruxa durante o EP2, no EP3 eu percebi que era necessário o contrário e inclinei para o lado humano, dando mais suporte a ele."`
+`"......E foi por isso que criou a VIRGILIA?"`
+`"Ah, entendi......`
+` Realmente, a VIRGILIA foi gentil comigo e me ensinou muitas coisas sobre como lutar com as bruxas."`
+`"Originalmente o nome era o mesmo, mas o personagem renasceu com um giro de 180."`
+`"Bem, acho que só peguei o nome emprestado.`
+` Todo o conteúdo substancial foi adiado até a aparição da Erika no EP5."`
+`"Do EP5 em diante, a Erika foi meio que um cão que só ladrava mas mas não mordia.`
+` Se tivesse aparecido logo no EP3, certamente atuaria como um demônio e afundaria o Battler no fundo do poço."`
+`"É uma pena, mas não há como fazer isso......`
+` Mesmo assim, é uma honra poder estar aqui hoje, sendo introduzido desta forma......"`
+`"O estilo de fala é muito importante, não é, pice......?`
+` Ele já passa uma imagem completamente diferente de quando apareceu pela primeira vez, pice."`
+`"Vill。`
+` Mesmo que por pouco tempo, fico feliz de ter encontrado com você.`
+` Talvez nós dois estejamos lutando em algum outro Fragmento por aí."`
+`"......Não tenho conhecimento da existência de nenhum Fragmento assim.`
+` Mas se houver um Fragmento assim, podemos ter uma contenda."`
+`"Mas! Aquele que vencerá serei eu!!!"`
+`"Sossega o facho, Battler!!"`
+`"Você só queria dizer issoooo!!!"`
+`Por um breve momento de tempo, a ilusão invocada...`
+` pôde aparecer sobre o tabuleiro e rezar por uma segunda chance, desaparecendo de volta ao seu mundo original......`
+`"Peço as devidas licenças, senhoras e senhores."`
+`"Os preparativos para a festa do chá da Grande Lady {f:5:Aurora} já estão concluídos.`
+` Por favor, por aqui.`
+` Irei guiá‐los até lá."`
+`"Certo,`
+` vamos seguir para o local do pós‐festa!"`
+`"Onii‐chan, pensou nos cumprimentos?`
+` Você ficou encarregado disso, lembra?"`
+`"Ah, droga`
+` Não consegui pensar em nada......!"`
+`"Eu também não pensei em nada, e eu estava de finalizá‐los!`
+` Eu deveria ter aproveitado para pensar com calma até agora!"`
+`"Não podemos deixar assim!`
+` Vamos fazer uma confusão para nem ter tempo pra isso!!`
+` Quer sofrer improvisando comigo?!"`
+`"Como sempre, vocês se dão muito bem......"`
+`Quando Erika gesticulou a abertura de uma porta, ......ali apareceu uma porta que conectava à festa do chá de {f:5:Featherine}.`
+`Apenas uma leve fresta havia sido aberta, mas uma grande comoção de pessoas que pareciam estar se divertindo vazou para fora.`
+`"Minha mentora......?`
+` Aonde vai?"`
+`ern e Lambda lentamente levantaram‐se do sofá, mas seus comportamentos não indicavam que iriam para a próxima festa do chá.`
+`Apenas as duas passavam a impressão de que iriam escapar para algum outro lugar.`
+`"Vocês podem ir na frente.`
+` Nós iremos depois."`
+`"......Vai acontecer......alguma coisa......?"`
+`Nos olhos de Bern e Lambda habitava um brilho misterioso.`
+`De maneira sincera e misteriosa,`
+` ......seus olhos brilhavam como se fossem crianças, na expectativa de que algo maravilhoso estivesse para acontecer.`
+`"......Segredo.`
+` Só vamos ir dar uma espiadinha nas coisas."`
+`"Parece que vão chorar."`
+`"......Chorar......?"`
+`"Sim.`
+` Muito em breve......"`
+`"Parece que algo..."`
+`""Vai chorar.""`
+`"Tchau, Erika.`
+` Até depois."`
+`"Espero ter um bom papel na próxima."`
+`"Ora?`
+` O papel de vilã também é bem divertido."`
+`"Será que faremos o papel de melhores amigas?"`
+`"Ou será que iremos nos odiar?"`
+`"Qualquer um está bom.`
+` Se eu puder me divertir com você no mesmo jogo, Bern."`
+`"Ora?`
+` Não sabemos se iremos brincar...ou se vão brincar com a gente......"`
+`"Logo saberemos!"`
+`""Quando algo mais chorar.""`

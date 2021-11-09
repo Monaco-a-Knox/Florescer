@@ -1,0 +1,1743 @@
+`"Seja tanto com chá preto ou chá verde, seu sabor fica ainda melhor quando acompanhado de algum aperitivo."`
+`"Concordo.`
+` Você aproveita muito mais a acidez do chá verde se estiver acompanhado de algum doce tradicional japonês.`
+` O aroma do chá preto é melhor aproveitado enquanto belisca algum doce tradicional ocidental.`
+` Se alternar entre eles em um bom compasso, pode aproveitar ambos ainda mais."`
+`"Eu súper concordo com a sua opinião,`
+` ......contudo acredito que apenas um aperitivo deva ser preparado para servir apenas um chá."`
+`"Eu não faço ideia sobre "quem" vocês estão falando quando se referem a esse aperitivo.`
+` ......Faz um tempinho que tenho certeza que estou em uma situação onde não consigo sentir o gosto de nada que estou comendo ou bebendo.`
+`"A propósito... Este sofá foi feito para duas pessoas.`
+` Não acha que está apertado, Battler?"`
+`"Também acha que está apertado, onii‐chan?`
+` Tem razão, eu também acho.`
+` Parece que teremos que ejetar alguém, não é mesmo?"`
+`"......Entendi.`
+` Eu vou levantar para que vocês possam se dar bem......"`
+`"Aperitivos não se retiram!!"`
+`"ão concorda que irmãos que não se encontram há bastante tempo precisam valorizar seus momentos juntos sem a interferência de terceiros?"`
+`"Por que está se vangloriando de ter nascido depois do Battler?!"`
+`"Somos parentes de sangue, enquanto você é só uma completa estranha, lembra?"`
+`"Irmão e irmã são separados por dois níveis de parentesco!`
+` Eu e o Battler somos um casal e só temos um nível, sabia?"`
+`"Essa sua noção fantasiosa e iludida de esposa não é diferente dos otakus fedidos que toda temporada dizem ter uma nova "esposa"!`
+` Não tem valor algum!!"`
+`"Você já tem 18 anos e continua com esse complexo de irmão?!
+` Você já é uma mulher crescida, com idade para votar, casar e mesmo assim não larga o seu irmão! Você é uma piada!!"`
+`"Por favor, vocês duas......`
+` Poderiam parar de ficar me colocando no meio da briga.....?!"`
+`"Onii‐chan!!^`
+` Faça algo a respeito dessa noiva fantasiosa!`
+` Você está bebendo chá com a sua irmã, não está?!"`
+`"Cale‐se, eternamente separada por dois níveis de parentesco!`
+` Quando um homem arranja uma nova família, a família antiga se torna indiferente.`
+` Você está na sala de visitas de um casal,`
+` tomando seu chá na posição de uma completa estranha! Hyahhyahhya!"`
+`"Cala a boca, destruidora de lares!!`
+` Se afaste, onii‐chan!! Não consigo matá‐la assim!!"`
+`"......ESCUTEM AQUI......"`
+`{e:0170:"Parem de ficar me colocando no meio da briga de vocês!!!"}`
+`"Do meu ponto de vista, é o contrário, Battler."`
+`"C‐Como pode ser o contrário?"`
+`"Na minha opinião, foi você quem se colocou entre nós para que parássemos de brigar, onii‐chan."`
+`"E ter duas lindas garotas ao seu redor, brigando por você, não é ótimo?"`
+`"Mas continua fazendo essa cara, dizendo que é uma vítima enquanto se diverte com belas flores em suas mãos, não é mesmo?"`
+`"Ele está aproveitando ao máximo ter belos e grandes peitos em seus braços.`
+` ão é o maior dos prazeres?!`
+` Contudo, normalmente nós que deveríamos dizer para você sair."`
+`"Quer aproveitar seu tempo com a sua irmã ou prefere ignorá‐la para continuar sua conversa delusional com essa bruxa fantasiosa?!`
+` Seja claro, onii‐chan!"`
+`"Como irmão, é seu dever encorajar sua irmã a se afastar de você e sair do caminho desse complexo de irmão!!"`
+`"Onii‐chan, empurra ela pra fora do sofá!!"`
+`"Este sofá é só nosso e apenas nosso......!!!"`
+`"......E‐Eu vou sair, assim vocês podem se resolver sozinhas......"`
+`{e:0170:"Aperitivos não se retiram!!!"}`
+`{n}{t}"Não se retire, onii‐chan!!!"`
+`Ter uma otomana para três pessoas sentarem durante a hora do chá deixa tudo muito mais barulhento e agitado.`
+`Battler não podia ignorar nenhuma delas, com flores de ambos os lados; a bruxa à sua frente e sua irmã às suas costas.`
+`^Ele queria pedir para que elas se dessem bem,`
+` mas isso só acabaria colocando mais lenha na fogueira, o que só fazia com que restasse rir de forma vaga e rezar para que terminasse logo.`
+`......Mas, falando sério, por que isso está acontecendo?`
+`Battler já tinha sabedoria o bastante prever que isso o colocaria em risco.`
+`Ele poderia tomar chá com a bruxa e com a sua irmã sem nenhum problema, mas jamais deveria ser com as duas ao mesmo tempo......`
+`"......Beato, Ange.`
+` ......Desde quando estamos aqui bebendo chá?"`
+`"Hmm.`
+` Finalmente percebeu?`
+` ......Eu não tenho lembranças concretas de quando chegamos aqui para dar início a esta festa do chá."`
+`"Eu te entendo, é assim mesmo.`
+` .........Quando uma bruxa te chama de repente, é sempre assim que você se sente.`
+` Sem conseguir lembrar quando foi que você veio parar aqui......"`
+`"Pelo que parece, ......somos peças do tabuleiro de alguém."`
+`"Concordo.`
+` Se for o caso, como será que o novo Game Master se parece......?`
+` *gargalhada*."`
+`"Não pode ser!`
+` Não vai me dizer que foi só para assistir eu e a Beato discutindo pelo amor do onii‐chan, né......?!`
+` Você está aí, não está, {f:5:Bernkastel}?!`
+` É a introdução do seu novo Fragmento?"`
+`Uffufufufufufufufu......`
+`Diante do nome proferido, a figura de uma bruxa desconhecida surgiu de um pequeno redemoinho......`
+`"......Quem...é você......?"`
+`"Não é a {f:5:Bernkastel}......"`
+`"Diga seu nome, visitante!`
+` ......Posso não saber quem é o Game Master, mas eu sou a dona desta sala de chá.`
+` Você tem o dever de se apresentar para mim primeiro."`
+`"Sinto muito pela minha falta de decoro,`
+` Lady {f:Beatrice}.
+` {i:Witch of the Gold}."`
+`"Meu nome é {p:0:ピース}.`
+` ......{i:Witch of the}{p:0 ピース}, assim como minha mentora designou."`
+`"{i:Peace}?`
+` Paz?"`
+`"Não.`
+` Provavelmente é "piece", igual uma peça de xadrez."`
+`"Bruxa das Peças, é?`
+` ......Entendi, isto já basta para compreender o propósito de sua visita."`
+`"Afirmativo.`
+` Às ordens de minha mentora, eu sou uma peça enviada diretamente para desafiá‐los neste tabuleiro.`
+` ......Em outras palavras, uma assassina.`
+` Senhoras e senhores?"`
+`"......Entendi.`
+` Então veio para lutar com a gente?`
+` Mas estamos em três e você é só uma."`
+`"Não vai dizer...`
+`que acha que será moleza contra três, vai?"`
+`"Hahhahhahhah!!`
+` E imaginar que a primeira visitante desta caixa de gato depois de tanto tempo seria tão arrogante!"`
+`"Você......tá falando sério?"`
+`"Minha mentora ordenou que eu lutasse contra os três.`
+` ......*risos*risos*."`
+`"......Tudo bem mesmo.....nos menosprezar assim?"`
+`"Nós chegamos aqui passando por inúmeras caixas de gato, sabia?`
+` E você quer enfrentar nós três juntos......?`
+` *gargalhada*gargalhada* Hahhahahahahahaha""`
+`"Uffufufufufufufufufufu."`
+`"Hahhahahahahahaha, uhyaahhyahhyahyahhya......!!!"`
+`"Gostei de você, visitante!!`
+` Para que possa levar contos de viagens o suficiente de volta à sua mentora que a mandou aqui,`
+` lhe oferecerei a mais completa e implacável hospitalidade que poderia receber......!!!"`
+`"Você tem meu agradecimento, Lady BEATRICE.`
+` Sendo assim, permitam que eu revele logo o Fragmento que minha mentora preparou......"`
+`"......Seja o que for, é um Fragmento da Bern.`
+` Ela tem um péssimo gosto pra coisa."`
+`"*gargalhada*.`
+` Eu também já estou um pouco enferrujada depois de tanto tempo relaxando nesta caixa de gato."`
+`"Ah.`
+` Um Fragmento mais vulgar seria perfeito para ajudar a me manter acordado."`
+`"Com todo respeito,`
+` ......minha mentora não é a Lady {f:5:Bernkastel}."`
+`"Então quem é?`
+` A Lambda?`
+` Ou seria um Falsificador anônimo vindo do Mar de Fragmentos?"`
+`"Lamento dizer,`
+` mas este Fragmento foi criado pela grandiosa e onipotente Bruxa do Teatro, Dramaturgia e Observação, a Lady {f:5:Featherine Augustus Aurora} em pessoa."`
+`"Pois bem, senhoras e senhores...`
+` Com isto, permitam‐me abrir as cortinas......do Fragmento supervisionado por minha mentora."`
+`"......Pronto.`
+` Já estou ficando cansada de todas essas formalidades, pice."`
+`"Certo, hora de começar meu alvoroço, pice,`
+` piece,`
+` peace!`
+`"Uehehehe...`
+` Hiihihihihi!"`
+`"Por que todas as bruxas que aparecem nesta caixa de gato tem que ser assim?"`
+`"Lixo no lixo, brinquedos na caixa de brinquedos.^`
+` Vômito pútrido..."`
+`"Qual é?`
+` Quando foi que a minha caixa de gato virou um saco de vômito?!"`
+`"Ah, claro, antes de começarmos, preciso mencionar algo muito importante, pice."`
+`"Isso mesmo!`
+` Qual as condições de vitória?`
+` Não vai dizer que é só perder tempo assistindo...`
+` e escrever um manuscrito com mais de 10 páginas sobre o que achamos?"`
+`"Seria expor o truque de um assassinato de quarto fechado?"`
+`"Ou talvez seja descobrir quem é o culpado?"`
+`"Sim, é exatamente isso, pice.`
+` Com todo respeito ao conto da Lady BEATRICE, eu devo fazer a mesma pergunta a vocês, pice."`
+`{m:-5:——}—}Quem sou eu.`
+`"......Entendi.`
+` Você é igual a Clair... Atuando por outro "alguém", certo?"`
+`"Então só precisamos indicar especificamente quem é esse outro "alguém"?"`
+`"Correto, pice."`
+`"Qual é?`
+` Não fica cansada de falar assim, não?"`
+`"Fecha o bico, pice?!`
+` Se gosto de piar, vou piar e acabou, piece!`
+` Tanto pi quando piin!`
+` Pice e`
+` picepicepeace!!"`
+`"......Onii‐chan,`
+` peça desculpas."`
+`"É...foi mal."`
+`"Sendo assim, podemos começar?`
+` O primeiro Fragmento depois de tanto tempo!"`
+`"Uehihihii!`
+` Pois bem, abram‐se as cortinas, pice!!"`
+`Rokkenjima estava tempestuosa.`
+`Entretanto, do hall da família Ushiromiya vazava uma luz brilhante e muito calorosa......`
+`"{i:Happy Halloweeeeeen}!!!"`
+`Bang! Bang! Bang!`
+` O patriarca da família, Kinzo, apareceu muito bem humorado junto ao som dos lança‐confetes estourando, com um chapéu festivo igualzinho ao {i:Jack‐o'‐lantern}.`
+`Com aplausos estrondosos, os membros da família Ushiromiya também vieram cumprimentá‐lo com um sorriso no rosto.`
+`A família de Krauss, o filho mais velho:`
+` Krauss, Natsuhi e Jessica.`
+`A família de Eva, a filha mais velha:`
+` Eva, Hideyoshi e George.`
+`A família do segundo filho:`
+` Rudolf, Kyrie e Battler.`
+` E Ange.`
+`A família da segunda filha:`
+` Rosa e Maria.`
+`E, finalmente, os serviçais: Genji, Shannon, Kanon, Gohda e Kumasawa.`
+`Além deles, Beato, a alquimista consultora da família Ushiromiya......`
+`"Esta é......`
+` É a mesma conjuntura da festa de Halloween do "Twilight" que o onii‐chan mostrou para mim, não é?"`
+`"Entendi?`
+` A Ange não se ausentou devido a dores de barriga e pôde participar da conferência familiar de 1986."`
+`"......{f:5:Piece}.`
+` Estes humanos...`
+` Se todos tirarem uma foto comemorativa juntos, todos realmente apareceriam na foto......?"`
+`"Por favor, sem pius durante a sessão, pice.`
+` Podem começar só apreciando.`
+` Uihhihihi.........`
+` Certo, logo será a minha estreia, pice!`
+` É bom que me recebam com um magnífico {i:peace}! Pice!"`
+`Era uma ocasião apropriada para uma festa de Halloween......`
+`Grandes ondas agitadas colidiam contra a falésia e sua espuma respingavam violentamente......`
+`Entre essas ondas tempestuosas, podia ser avistado um fraco brilho azul.`
+`Era um pequeno Fragmento de azul reluzente dentro de uma garrafa.`
+`Devido às violentas ondas, ela se chocou contra as pedras, partindo‐se em pequenos pedaços......`
+`Junto ao reverberar de um trovão, ......a garrafa liberou uma pálida luz azul que gentilmente começou a esvoaçar como se fosse uma nuvem de borboletas.`
+`Como se ignorasse a tempestade, esse airoso espetáculo...`
+`era algo completamente enigmático.`
+`E assim, seguindo rumo à residência Ushiromiya,`
+`na direção oposta ao jardim de rosas, encontrava‐se a figura de uma pessoa...tomando a forma de uma bruxa......`
+`ara o desenvolvimento da tragédia desta noite, um assassino foi enviado do Mar de Fragmentos.`
+` Uma peça......`
+`"Acharam que uma detetive pervertida chegaria boiando aqui?!`
+` Acharam errado!`
+` É a jovem e linda bruxa {f:5:Piece}‐chan, peace!!"`
+`Com a Bruxa das Peças bem no meio da tempestade, não importa o quanto se arrume, o forte vento soprando e batendo contra ela a deixava em um estado miserável.`
+`Qualquer guarda‐chuva acabaria virando do avesso por causa do vento.`
+` O mesmo ocorreu com a saia da bruxa.`
+`"Pyaaa!!`
+` Assim vão ver minha minha calcinha, piece!!`
+` M‐Mas não tem nada para verem porque não estou usando nada, pice.`
+` Uehhehehe!"`
+`O que uma bruxa tola dessas poderia fazer......`
+` Além de experimentar da vertigem?`
+`Contudo, os três que aceitaram seu desafio não demonstraram o mesmo comportamento descontraído.`
+`.....Porque eles sabiam que esse tipo de bruxa poderia exaustar os limites da crueldade.`
+`Ainda assim, nesse sentido, todos já estavam familiarizados com os meios de assassinatos fora do normal.`
+`Como se pedissem a si mesmos para deixar seus corações humanos de lado, Battler e Ange se preparavam para ficarem alheios à tragédia.`
+`A única que estava empolgada para isso enquanto comia batatinhas era Beato.`
+`".........Pi?"`
+`A porta da frente estava chaveada, mas isso não significa nada para uma bruxa.`
+`Contudo, mesmo assim, no momento em que tocou a maçaneta para abri‐la...`
+`la precisou retrair seus dedos, como se tivessem sido repelidos pela eletrostática......`
+`{f:5:Piece} então esticou sua mão mais uma vez.`
+`Mas...o resultado foi o mesmo.`
+` Novamente, a ponta de seus dedos foi repelida......`
+`"Isto é mesmo bem audacioso.`
+` Uma barreira, pi?`
+` ......Entendi.`
+` Como esperado de Kinzo, o mago da família Ushiromiya.`
+` Uma convidada indesejada não pode simplesmente atravessar sua soleira, piece?`
+` Uihhihhihhi......"`
+`Enquanto ria sem qualquer traço de elegância, ela fez inúmeras tentativas, mas não foi capaz de girar a maçaneta.`
+`Ao que parece, era uma barreira bem poderosa.`
+` Ao menos, não parecia que a Bruxa das Peças seria capaz de quebrá‐la......`
+`Por ora, ela optou por se abrigar elegantemente da chuva debaixo do alpendre da entrada,`
+` com um sorriso travesso enquanto ponderava sobre o que faria a seguir......`
+`"Com licença, BEATRICE‐sama......"`
+`"Acabo de notar.`
+` Se não precisei esperar que viesse me informar, é porque não estou bêbada o bastante."`
+`"Vamos observar como as coisas vão se desdobrar."`
+`"Ignorem.`
+` Está é Rokkenjima — Akujikijima!`
+` Em meio a esta tempestade, a débil luz que escapa daqui é capaz de atrair inúmeros espíritos malignos.`
+` Além disso, a sensação de agora indica que só chegou a tocar na barreira; não foi quebrada.`
+` Seu escudo não quebrará tão facilmente, Shannon.`
+` Eu sei disso melhor do que ninguém."`
+`"Eu agradeço.`
+` ......A barreira desta noite só pode ser quebrada por aqueles ligados à família Ushiromiya."`
+`"......Mesmo assim,`
+` seu simples toque foi...desagradável."`
+`"Não precisa ficar tão inquieto assim.`
+` A barreira de Shannon está funcionando muito bem.`
+` Podem relaxar esta noite e se divertirem.`
+` ......Supondo que algum monstro seja capaz de quebrar a barreira,`
+` eu terei o prazer de ser sua oponente.`
+` Não deixarei que se tornem presas.`
+` *gargalhada*......"`
+`"Kanon‐kuuun!`
+` Você também, Shannon!"`
+`"Esta é uma festa para descontrair.`
+` Não podem desligar do modo trabalho?"`
+`"Viu só?`
+` Não disse?"`
+`"Entendido."`
+`"Rudolf‐sama, Kyrie‐sama.`
+` Aonde estão indo?"`
+`"Ah, pensei que seria bom mudar um pouco de ares para fumar."`
+`"O vento lá fora está muito forte.`
+` Irei preparar um cinzeiro para que possa relaxar em um quarto de hóspedes."`
+`"Obrigada, Genji‐san,`
+` mas temos uma tendência de sermos contrarianistas."`
+`"Normalmente, se desejaria por uma mansão quentinha.`
+` Por isso, dessa vez, estou com vontade de relaxar fumando na chuva.`
+` Tem um esplêndido alpendra na entrada, não tem?`
+` Voltarei assim que tiver fumado um."`
+`"......Fragmentos de bruxas são verdadeiramente convenientes, não são?`
+` Ao ponto de ter um cordeiro sacrificial se voluntariando para ir até ela."`
+`"Como Game Master, o que pensa desses truques baratos, hein?"`
+`"Com isso, mesmo sem quebrar a barreira da mansão, é possível capturar suas presas."`
+`"Tudo que resta é habilmente atrair as vítimas para longe da mansão."`
+`"......A {f:5:Piece} está esperando como um homicida até que um sacrifício deixe a mansão?`
+` ......Ou talvez seja apenas uma performance de mentira que ainda não entendemos?"`
+`"Entendi.`
+` ......Se Rudolf e Kyrie forem atacados por um suspeito, assim como supôs, não seremos capazes de aceitar sem questionar."`
+`"Seja como for, parece que os primeiros a serem atacados serão o meu velho e a Kyrie‐san.`
+` ......Mal posso esperar para ver que método vulgar de assassinato ela vai introduzir para nós."`
+`"......Já estou acostumada com o show de carnificina sem classe da {f:5:Bernkastel}."`
+`Ange curvou suas sobrancelhas, parecendo estar de mau humor.`
+` Battler ficou desconfortável para manter sua fachada de tranquilidade.`
+`Para Beato, não importava quem ou como fosse morto, era apenas parte do espetáculo.`
+`......Mas estava decidida que, se as vítimas escolhidas para dar início ao roteiro não tivessem outro propósito além de deixar Battler desconfortável, ela jamais iria perdoá‐la.`
+`"Ei, {f:5:Piece}.`
+` Você é meramente uma atriz, não um Falsificador apócrifo tecendo este Fragmento, certo.....?`
+` Mas se este for apenas um show grotesco sem classe..."`
+`"E se for?"`
+`"Se seguir com o estilo preferido de vocês,`
+` ......abrindo o estômago e arrancando as entranhas de dentro......"`
+`"Meus métodos de assassinato são de altíssima elegância, pice?`
+` Peço que não confunda as coisas e aguarde ansiosamente, piece.`
+` Ueihihihi........."`
+`"Mesmo com uma tempestade dessas, o ar da rua é mesmo saboroso, não concorda?"`
+`"Apesar de estarmos debaixo da tempestade, às vezes é mais fácil me acalmar quando estamos a sós."`
+`"Pois é?`
+` Você diz isso para todas as garotas que encontra nas festas e leva para passear, né?"`
+`"Chega disso, já passamos dessa fase, lembra?`
+` Eu já me aposentei completamente dessas brincadeiras de playboy."`
+`"Me pergunto se essas palavras são mesmo genuínas?`
+` Será que há algo que possa fazer para eu acreditar......?`
+` *risos*... Não sei se é por causa da pressão atmosférica ocasionada pela tempestade,`
+` mas tem algo......diferente do normal...um sentimento mais lunático, sabia......?"`
+`"Ei, ei... não pode esperar até de noite, não......?"`
+`"Ora, mas não está sabendo?`
+` Já é noite agora, sabia......?"`
+`Os sorrisos travessos dos dois se aproximaram e seus lábios cativantes se encontraram......`
+`"E pensar que a tempestade desta noite me serviria um casal.`
+` Está decidido, começarei matando eles como o assassino da máscara de hóquei, peace{p:0:♪}"`
+`"Q‐Quem está aí......?!"`
+`"......Q‐Quem seria......?"`
+`Embora tenham sido surpreendidos por uma visitante inesperada, os dois eram adultos e recuperaram a compostura.`
+`Contudo, ......quanto mais se acalmavam, mais percebiam o quão caótica era a situação que os cercava.`
+`Esta é Rokkenjima.`
+` Humanos desconhecidos não deveriam existir.`
+`Mesmo assim, se alguém tivesse boiado até aqui com um colete salva‐vidas,`
+` igual Erika fez certa vez, eles ainda poderiam conseguir compreender.`
+`Todavia...`
+` a garota que apareceu ali não portava um guarda‐chuva e, ainda assim, aparentava estar completamente seca.`
+`Além disso, ela estava usando um excêntrico vestido peculiar.`
+` ......Ah, ......por acaso ela não seria uma figurante que foi chamada em segredo para a festa......?`
+`".....Ah, entendi.`
+` Você faz parte da equipe que foi chamada para fazer o entretenimento da festa de Halloween de hoje?"`
+`"*risos*`
+` Pois é, você nos assustou.`
+` Ainda bem que é apenas uma adorável senhorita.`
+` Sem dúvida, se fosse um cara com uma máscara de hóquei, nós teríamos desmaiado."`
+`"Vamos entrar logo e eu a acompanho à sala dos serviçais.`
+` Pode ficar esperando lá."`
+`"Mas......que vestido mais único.`
+` ......Por acaso é uma mágica?"`
+`"Deve ser aquilo!`
+` Aqueles números mágicos de escapismo, certo?`
+` Tipo escapar de um quarto fechado perfeito à beira da morte ou algo assim.`
+` O pai gosta bastante desse tipo de coisa!"`
+`"Você deveria descansar.`
+` Por favor, pode entrar."`
+`"Eu fico grata pelos sentimentos.`
+` Contudo, apenas os convidados da família Ushiromiya podem adentrar esta barreira, piece."`
+`"Hã?"`
+`"Afinal, eu também...`
+` não quero ficar debaixo dessa tempestade para sempre.`
+` Acho que irei entrar na mansão agora, pice!"`
+`No mesmo instante, um forte vento soprou e os fios de cabelo dela se expandiram enquanto ondulavam, flutuando como se as presilhas de uma cortina tivessem se soltado.`
+`Não, não foi exatamente assim.`
+` Nenhum vento forte chegou a soprar.`
+` ......Então por que pareceu ter sido?`
+`Afinal,`
+` ......Seu cabelo ondulou com tanta intensidade que era natural pensar que ele havia sido atingido por uma forte rajada de vento......`
+`Contudo, ......o cabelo dela......era assim mesmo......?`
+` Ele era tão comprido e volumoso quanto uma cortina......?`
+`Essa cortina enrolou‐se em Kyrie, engolindo‐a por completo......`
+`"Kyaa!`
+` .........argh...`
+` .........isto....`
+` .........!!"`
+`De relance, pareceu como se a perplexa Kyrie estivesse tentando se livrar daquilo......`
+` Mas a realidade era outra.`
+`Ela estava se afogando.`
+`Kyrie havia sido engolida pelo mar do cabelo de {f:5:Piece] e estava se afogando......`
+`"......soco......`
+` ......Rudolf..., ............!!"`
+`"E‐Ei?!`
+` Kyrie?!`
+` Kyrie!?!"`
+`Quando sua esposa é atacada por alguém, normalmente o marido socaria quem a estivesse atacando.`
+`Entretanto, os olhos de Rudolf não conseguiam ver esse "ataque".`
+`Para Rudolf,`
+` sua esposa estava "se afogando".`
+` Era tudo o que seu cérebro conseguia compreender.`
+`Por isso, ele enfiou ambos os braços no mar de cabelo e tentou puxar Kyrie para fora, mas......`
+`"Kyrie! Ei, Kyrie!!`
+` Estique mais sua mão!!`
+` Cadê você?! Onde você está?!"`
+`"............!`
+` ..................!!`
+` ............gi......`
+` ............!"`
+`*gaki*`
+` *bori*`
+`"K‐Kyrie......?"`
+`*baki*...`
+` *mordemordemastiga*`
+` *esmaga*`
+` *engole*.....`
+`"Kyrie! Cadê você?!`
+` Kyrie!!`
+` Kyrieeeeeeee!!!"`
+`O que esse ominoso som o teria feito relembrar......? Repulsivo só de imaginar.`
+`Rudolf, ainda freneticamente, continuou a enfiar ainda mais seus braços no oceano de cabelo, mas suas mãos já não tinham mais como tocar Kyrie.`
+`Os intermitentes e fracos clamores de Kyrie, que ele ouvira até então, já não podiam mais serem ouvidos.......`
+`"Peace!`
+` Uihhihihihi... Obrigada pela refeição, pice."`
+`O mar de cabelos começou a desaparecer como se dançasse ao vento, ......restando ali apenas a risonha figura da Bruxa das Peças.`
+`Rudolf continuava sem compreender o que havia acontecido.`
+`Enquanto seu rosto esboçava um sorriso lacrimejado,`
+` ele ainda tinha certeza que era apenas uma piada de mau gosto e que Kyrie estava apenas se escondendo em algum lugar enquanto ria dele....ou era o que ele queria acreditar......`
+`"......Como sempre....., elas amam ficar ostentando essas coisas revoltantes......"`
+`"Hmm......`
+` Algo deste nível nunca teria vez na caixa de gato da Beato."`
+`"Uefuuu!`
+` Como esperado, pice!`
+` Não terá nada a dizer diante de uma crueldade desse nível, piece?"`
+`"......Espere, Ange.`
+` ...........É muito cedo para julgar."`
+`"O que quer dizer?"`
+`"Entendi......, então ela......`
+` Dá para perceber uma perspectiva completamente diferente da minha......, muito mais repulsiva!"`
+`"Para atormentar ainda mais, ele engoliu o corpo inteiro.`
+` ......Não é mais ou menos a mesma coisa......?"`
+`"Sim.`
+` ......Se fosse eu, teria atormentado ainda mais até despedaçar o coração.`
+` ......Contudo, ela apenas engoliu o seu corpo de uma só vez"`
+`"Mate...e apague o corpo.`
+` ......O que mais você poderia fazer para desgraçar os mortos?"`
+`"Se minha suposição estiver correta............"`
+`"......Kyrie.........`
+` ......Ky......rie............`
+` ...................................."`
+`"Kyrie? Sobre quem está falando......?"`
+`"Hã?`
+` ............Ah.................., ..............."`
+`"O que foi?`
+` "Querido""`
+`"......Ah, ............ah......?"`
+`"Se ficar sentado aqui, vai acabar congelando seu traseiro, sabia?`
+` Ufufufufu............"`
+`Enquanto sorria, bruxa que acabara de devorar a esposa de Rudolf, estendeu sua mão para o marido.`
+`......Contudo, sem ressentimento algum, Rudolf pegou em sua mão e levantou, envergonhado......`
+`"O‐O que isso significa......?"`
+`"Viu só......?`
+` É mesmo assustador......`
+` E também repulsivo......"`
+`"E‐Eu não entendi.`
+` ......O que aconteceu, onii‐chan......?"`
+`"......Nunca pensei......que isso pudesse existir......`
+` Esse tipo de crueldade......também é possível.........?!"`
+`Ange ainda não tinha entendido.`
+` Ela ainda não entendia o que era essa crueldade que havia deixado Beato e Ballter atônitos......`
+`"Ei, ei!`
+` Foi muito complicado para uma criancinha de seis anos como você, piece?"`
+`"Em outras palavras......`
+` Ela comeu minha mãe......e assumiu o seu lugar......?"`
+`"Isso mesmo.`
+` .....É possível que esse seja o poder dela."`
+`O poder de engolir e apagar suas presas, ......assumindo suas existências.`
+`"......É por isso que o meu velho desgraçado levantou com uma cara envergonhada quando ela estendeu a mão.`
+` ......Esta bruxa acabou de......comer a Kyrie‐san.`
+` ......Ela engoliu até mesmo a realidade de sua existência......!"`
+`"Por que eu......estava sentado aqui no chão......?"`
+`"Ufufufufu.`
+` É o que eu quero saber,`
+` Rudolf‐san."`
+`"......Não pode ser!`
+` Será que eu estou com amnésia......?`
+` Não, não, não pode ser.....`
+` Não me diz isso......!"`
+`"Por que está hesitando?`
+` Eu sou a sua "esposa", lembra?^`
+` Ufufu... Pergunte o que quiser, "querido"{p:0:♪}"`
+`"Ah, ......eu realmente sinto muito......`
+` Hehe, será que estou com alzheimer......?`
+` Parece que esqueci o nome da minha jovem e adorável esposa......"`
+`"É Ushiromiya Piece, lembra? Pice?`
+` Ufufufufu, você está estranho, Rudolf‐san......{p:0:♪}"`
+`"Isso mesmo, tinha esquecido.`
+` É Piece.`
+` ......Eu sinto muito mesmo, tahahaha......"`
+`"M‐Meu pai......`
+` Está falando sério......?!"`
+`"É possível...que isto não se limite só ao Rudolf.`
+` Agora...`
+` Ela é Ushiromiya Piece.`
+` ......A esposa de Rudolf."`
+`"A existência da Kyrie‐san foi completamente apagada, como se tivessem passado uma borracha......, como se ela nunca estivesse estado ali desde o início......"`
+`"Ange.`
+` Ainda não consegue imaginar....o quão terrível isto é para você?"`
+`......Tanto Beato quanto Bern e Lambda, todas as bruxas, já haviam cometido todo tipo de crueldade que se possa imaginar dentro desta caixa de gato.`
+`Comparado com elas, aos olhos de Ange, um sacrifício sendo engolido por fios de cabelo não era nada muito cruel.`
+`"......Errado.`
+` O método de assassinato dessa {f:5:Piece} é muito mais impiedoso......"`
+`"Porque não é só a vida......, ela devora até mesmo a sua dignidade."`
+`"Dignidade...... Do que está falando?"`
+`"Você até passa um ar de espertinha, mas é só uma personagem burrinha, não é mesmo?`
+` Uffufufufu."`
+`"......A dignidade...`
+` ......É algo medido por quantas pessoas derramam lágrimas por você quando morre.`
+` ......Até você consegue entender a vasta diferença entre morrer quando muitas pessoas se importam com você e morrer sozinho na beira da estrada, sem ninguém para recordá‐la."`
+`"A Kyrie ainda tinha uma vida.`
+` Ela encontrou o Rudolf, um companheiro na qual poderia sair junto para se divertir e fumar debaixo dessa tempestade.`
+` Por isso,`
+` ......se ela tivesse um ataque cardíaco e morresse repentinamente aqui mesmo,`
+` seu marido a veria partir para o outro mundo, derramando lágrimas vindas do fundo do seu coração."`
+`"..................Ah......"`
+`"Entenderá se pensar nos sentimentos da Kyrie‐san.`
+` ......Ela foi morta diante dos olhos do seu marido......!`
+`E mesmo assim......, esse marido esqueceu que ela foi morta...esqueceu até que ela existia, esqueceu de todos os dias em que passaram juntos e compartilharam da alegrias e tristezas!"`
+`"......Há alguma outra forma de matar capaz de zombar tanto assim dos mortos......?`
+` Não, não tem.`
+` Não existe absolutamente nenhum método de assassinato mais repulsivo que esse."`
+`"Desde os tempos imemoriais, este país sempre valorizou, acima de tudo, a vida das pessoas, certo?`
+` Mas sabe..`
+` Se olhar para muitos outros países, dentre as coisas que as pessoas possuem, a vida sempre ficou em segundo lugar."`
+`"......Eu já......entendi......`
+` Tão importante quanto a vida,`
+` ......é a dignidade.`
+` ......A dignidade é a própria existência e reputação que você deixa para trás, ou seja, os seus esforços.`
+` Quando sua vida acaba, é importante deixar para trás algo que alguém possa herdar.`
+` ......Mas as vítimas que essa garota come...... não deixam isso para trás......!"`
+`Se procurar na história mundial e ruínas históricas, não faltam registros de atos de dignidades destruídas após a morte.`
+`Contudo, isto é normal dentro dos padrões do mundo.`
+` .....Uma vez que sua vida chegue ao fim, você deveria ser perdoado por suas ações......ou é o que diz uma misteriosa cultura japonesa.`
+` Embora eu não chegue a pensar que está de todo errado.`
+` É a exceção dentre as exceções, o ápice da heresia.`
+`Há pessoas que descontam sua raiva após a morte, desenterrando cadáveres.`
+` Além de seus corpos, há inúmeros precedentes de túmulos e registros destruídos pelo mundo.`
+`Mesmo após os corpos chegarem ao ponto de serem reduzidos ao pó,`
+` há incontáveis maneiras de profanar os falecidos, como apagar registros e relíquias que exaltam seus feitos ou até falsificá‐las e desonrá‐las.`
+` Muitos mitos acabam nascendo como resultado.`
+`Há centenas...não, é possível que existam milhares de formas de destruir essa dignidade póstuma!`
+`"......O sentido da sua existência é engolir tudo......"`
+`"E mais do que isso, ela toma completamente suas vidas e reescreve como se fossem dela......!"`
+`"Após matar......, ela apagou sua existência do coração de seu marido......e roubou o lugar dela......!!"`
+`Não importa como mate, não importa o estado lamentável em que deixe os cadáveres, nada disso é suficiente para competir com esse nível de crueldade.`
+`"Para humanos, este é o melhor dos métodos!!`
+` É o método de assassinato mais cruel, brutal e impiedoso que se pode alcançar, peace!!!"`
+`"O que foi, Piece?`
+` Está mal‐humorada?"`
+`"Uehifufufufufufu!`
+` Estou com quem mais amo, piece.`
+` Meu humor já melhorou."`
+`"Certo, querido.`
+` Vamos entrar logo.`
+` Você precisa relaxar mais."`
+`"T‐Tá...`
+` ......Meio que, esta noite, você parece misteriosamente......sensual."`
+`"Ora?`
+` Mas que elogio mais incrível, peace{p:0:♪}"`
+`A barreira que afastava os visitantes indesejados já não tinha mais serventia.`
+`Porque agora ela já era, ......não, desde muito tempo atrás,`
+` ela já tinha lugar na hierarquia da família Ushiromiya por ser a esposa de Ushiromiya Rudolf — ela era parte da família.`
+`A festa de Halloween era completamente amigável.`
+`Bem como em um coquetel, é possível aproveitar da elegante atmosfera logo no começo, mas pouco depois começa a ficar cansativo.`
+`No momento em que Rudolf retornou com sua companheira, todos já haviam pego cadeiras e sentado em círculos para bater papo com aqueles que compartilhavam dos mesmos assuntos.`
+`"Bem‐vindos de volta.`
+` Todos estão relaxando em seus assentos, gostariam que eu preparasse cadeiras para vocês?"`
+`"É claro.`
+` Pode nos dar um minuto?`
+` Ah, e pode trazer um cobertor para a Piece?"`
+`"Obrigada, pice.`
+` Rudolf‐san, você é mesmo gentil com as mulheres, piece."`
+`"Deve estar confundido as coisas, não?`
+` Eu só sou gentil com uma única mulher neste mundo.`
+` そE esta é a você, Piece."`
+`"Uffu.`
+` Poxa, querido......{p:0:♪}`
+` Peace{p:0:♪}"`
+`Enquanto ria e sorria, ela mimou Rudolf, sobrepondo seus lábios sobre os dele levemente.`
+`"Francamente...`
+` Vocês se dão bem mesmo."`
+`"Vocês ainda estão conversando?"`
+`"Hã?`
+` Nós somos jovens!`
+` Podemos conversar o quanto quisermos!"`
+`......Embora fosse tantalizante, como peça, Battler era incapaz de ver através da magia de Piece.`
+`Suas memórias sobre a existência da palavra "Kyrie" foram substituídas por "Piece".`
+`"Não......`
+` Substituir as memórias assim não pode ser algo tão simples."`
+`"Se interferir apenas nas memórias de algumas poucas pessoas, então não seria diferente de lavagem cerebral ou hipnose.`
+` ......Mas o que esta bruxa está fazendo é diferente."`
+`"Ah!`
+` ......Este poder......, é próximo do dela......"`
+`{f:5:Featherine Augustus Aurora}.`
+`Aquela que enviou {f:5:Piece}, a mais próxima do nível de Criador.`
+`Este poder a permite observar o cosmo de uma posição superior, como se fosse um conto; capaz de interferir no mundo livremente como se estivesse reescrevendo uma história.`
+`O poder de {f:5:Piece}, que devorou Kyrie e tomou seu lugar, fazendo Rudolf acreditar que ela é sua esposa, não é algo simplório.`
+`Seu poder sem limites para devorar e engolir todas as presas deste mundo,`
+` sobrescrevendo a si mesma em seu lugar......, está próximo do poder de {f:5:Featherine}......`
+`"Por causa da minha forma boba de falar,`
+` vocês involuntariamente pensaram que eu estivesse no mesmo "nível" daquela gata preta malevolente ou daquela superpapel limitada, pi...?"`
+`".........Se referindo desas forma até mesmo a bruxas do Senado......"`
+`"Eu fui criada como mensageira para ficar responsável pelo Fragmento da Grande Lady {f:5:Aurora}, a Majestosa Bruxa do Teatro, Dramaturgia e Observação.`
+` Se a Grande Lady {f:5:Aurora} é o fogo que acende a insigne vela — o pilar que sustenta o mundo —`
+` minha sacra existência é uma mera chama que foi separada do fogo da vela da Grande Lady {f:5:Aurora}, pice.`
+` ......Em reverência as ordens de minha mentora, eu atuarei o papel de bobo da corte dentro deste jogo."`
+`.........No nível que estão,`
+` ......se eu fosse consumi‐los de repente assim como se espirrasse,`
+` eu poderia apagar qualquer vestígio de suas existências da mente de qualquer um e também de todo este mundo.`
+`"Faz um tempo que eu estava muito curiosa, questionando a mim mesma, piece.`
+` ......Por que será que eles não me temem mais, pi?"`
+`Ah, entendi!`
+` Como o meu poder é forte demais, eles sequer foram capazes de compreender seu terror, pice......?`
+`"Ei, pessoal.`
+` ......Era mesmo só vocês três que iriam me enfrentar......?"`
+`......Pela testa de Beato......escorreu uma linha reta de suor frio.`
+`Battler e Ange também.......já tinha entendido o quão ominoso era aquilo que......{f:5:Piece} acabara de dizer.`
+`Battler,`
+` Ange`
+` e Beato.`
+` ......Três pessoas.`
+`Eles estavam mesmo lutando em três......?`
+`Seria possível que......`
+` de suas próprias memórias, deste mundo como um todo, ........{f:5:Piece} tivesse dado um aviso a eles,`
+` engolindo uma quarta pessoa que estivesse aqui......?`
+`Quando cruzaram com o olhar de PIECE, que parecia capaz até mesmo de congelar a própria alma só de olhar, ......todos pensaram a mesma coisa.`
+`Se ela me consumir com seus cabelos de repente, serei apagado!`
+`Logo depois, as duas pessoas que restassem ficariam furiosas?`
+` Apavoradas?`
+`Não.`
+` Elas não demonstrariam emoção alguma, sequer entenderiam o que tinha acontecido.`
+`As duas pessoas restantes pensariam que, desde o princípio, só elas estava ali, desafiando o Fragmento de {f:5:Piece} sozinhas.........`
+`"......Isto é uma ameaça,`
+` Lady {f:5:Piece}?"`
+`A forma de falar de Beato diante de {f:5:Piece} claramente havia mudado.`
+`Battler e Ange ainda não eram capazes de abrir os punhos que tinham cerrado próximo de suas cinturas.`
+`"......Se nossa recepção lhe ofendeu de alguma forma, permita que eu me desculpe.`
+` ......Nós apenas faltamos com educação devido a nossa falta de conhecimento.`
+` Não iremos mais agir de tal maneira......"`
+`"Respeito é importante, pice.`
+` ......Contanto que todos demonstrem total respeito a mim, eu também posso ser bem generosa, piece......"`
+`*dokari*`
+` Como se tivesse combinado de antemão......, o três cruzaram suas pernas de forma exagerada.`
+`Contudo, foi o completo oposto da elegância, como se estivessem despreocupados demais quando as cruzaram.`
+`{f:5:Piece} não conseguiu entender o que havia acontecido diante de seus olhos,`
+` ao ponto de até esquecer de fechar a boca......`
+`......Hã?`
+` .........Essas três pessoas......finalmente entenderam o meu terror`
+` e disseram que vão se comportar melhor, não......?`
+` ......Ué......?`
+`"Cansei de agir toda comportada!`
+` Será que já podemos......começar a nos divertir também?"`
+`"Não me interessa o que meu oponente faça com as peças do jogo.`
+` É assim mesmo que este jogo funciona."`
+`"Nossa visitante está se esforçando para fazer o seu melhor, por isso pensamos em entretê‐la um pouco.`
+` ......Mas já cheguei no limite."`
+`Limite?`
+` De qual emoção?`
+` Fúria?`
+`"Isso é hiláááário!!!`
+` indo aqui tentar matar uma bruxa de tanto rir......, depois de tanto tempo, você é mesmo uma visitante divertida, sabia?!`
+` Gyaahhahhahhahhahha!!"`
+`".........?!`
+` .........?!?!`
+` ......????!!??"`
+`"Você......não percebeu do que ela está rindo?`
+` ......Não me diga que você`
+`......pensou que fôssemos ficar cobertos de medo e apavorados`
+` só porque você tem um poder assustador desses......, não pensou né?"`
+`Na mosca.`
+` Precisamente.`
+` Mas se é assim, o que é tão engraçado......?!?!`
+`"Esse é um poder assustador.`
+` O suficiente para nos deixar desconcertados.`
+` Mas sabe, ......você está sendo incoerente demais.`
+` Pff...*gargalhada*"`
+`"Escuta aqui, Grande Lady {f:5:Piece}?`
+`  O que tem de tãooo assustador em você......?`
+` Nas lutas de boxe, logo antes de se enfrentarem, você não olha nos olhos do oponente e diz: eu vou te meter um xeque‐mate! Tá com medinhoooo?"`
+`Essa analogia pareceu acertar em cheio e fez Battler rir como se fosse explodir.`
+`"*gargalhada*gargalhada*!`
+` Aqui é assim:`
+` mistério contra fantasia.`
+` Ou fantasia contra mistério.`
+` É um encontro social entre damas e cavalheiros que amam jogos ensandecidos,`
+` medindo a distância entre o oponente ao brandirmos nossas espadas com seriedade, entendeu......?"`
+`"Só tem uma coisa aqui que nos assusta."`
+`"Hipóteses, especulações, ideias repentinas e blefes!`
+` O momento final em que todo o raciocínio que você se exauriu aprimorando para obter é completamente esmagado em pedaços!"`
+`"Sem dúvida, esse seu "poder para consumir existências" é interessante!`
+` Um presente especial que uma de nossas raras visitantes preparou.`
+` Em respeito, até fingi pena por ter sido pega pelo vento."`
+`""Você chegou se achando toda, dizendo que era assustadora, se gabando e tudo mais, mas......`
+` Foi mal, nós também já estamos no limite das formalidades, ouviu?!"`
+`"Se queria mesmo nos assustar, você deveria terminar sua questão primeiro.`
+` Só depois, vamos decidir se devemos ficar com medo ou rir de você."`
+`"Sabe quem são suas oponentes, hein?`
+` ......Bruxas ensandecidas, que há mil anos bebem chá acompanhadas de assassinatos de quartos fechados como aperitivo!"`
+`"Mesmo assim, ......aquele exemplo me pegou.`
+` ......Dar um xeque‐mate no boxe.....pfft....*gargalhada*gargalhada*"`
+`"*risos*risos..."`
+`"Uhyaahhahhahhahahahhaaaa...`
+` Gehhahahahahahahaaahaaaa!!!!"`
+`".........!`
+` Haha...`
+` ......Uehhahahahahhihihi`
+` PipipiPIPIPPIIIiIIICE!!!!"`
+`"Fwaaaaaaaah!!!`
+` .........haahaahaa........."`
+`"Eu realmente sinto muito pelo desrespeito, pice.`
+` Que absurdo ter feito pouco caso da calejada raposia de vocês.`
+` Minhas sinceras desculpas, pice."`
+`Pois bem, vamos seguir com o jogo, pice.`
+`......Mas, pessoal?`
+`Se eu destruir o raciocínio que vocês alcançaram após tantas especulações, vocês olharão para mim com medo, né......?`
+`Essas palavras...`
+`...poderiam engolir bem elas......?`
+`......Porque elas serão vomitas junto com todos os seus órgãos.。`
+` ......Pieeece......`
+`"Muito bem.`
+` Vamos avançar um pouco este burlesco, pice.`
+` Iremos direto para o prato principal pelo qual tanto anseiam."`
+`"Vamos seguir para o assassinato de cantiga do epitáfio?"`
+`"Não, não.`
+` Não irei tão longe, pice.`
+` Logo mais, eu irei engolir a Ange, pice."`
+`"Ange,`
+` já está tarde, sabia?`
+` A conversa já está terminando, então por que não voltamos para o quarto......?"`
+`".............................."`
+`"O que foi, Ange?`
+` Por que ficou assim de repente......?"`
+`"......Onii‐chan, essa não é a mamãe......"`
+`"Hã?`
+` Do que está falando, assim do nada?"`
+`"Ora, ora?`
+` Poxa, Ange, está com sono?`
+` A mamãe não está entendendo nada......."`
+`"......Quem...é você......?"`
+`""A sua mãe, Ushiromiya Piece.`
+` Aquela que lhe deu à luz, a sua mãe, leeeembra?"`
+`......É...`
+`"É mentira!!!!"`
+`*abocanha*`
+` *mastigamastiga*`
+` ......*engole*.........!!!!`
+`"......Ei, Rudolf‐san."`
+`"Hm?`
+` Que foi?"`
+`"Será que o Battler‐kun ficará feliz se fizermos uma irmãzinha para ele......?"`
+`"Ei, ei, esse tipo de coisa a gente conversa quando estivermos a sós."`
+`"Irmã......?"`
+`"Sim!`
+` Uma irmãzinha para você.`
+`  ......Afinal, ser filho único não é chato...?"`
+`"........................"`
+`"Nem consigo me imaginar com uma irmã mais nova.`
+` Não sei se nos daríamos bem.`
+` Hahahaha."`
+`"Se você fosse uma adorável filha única, meu fígado ainda estaria inteiro e eu poderia dar estrelas todos os dias."`
+`"Hahaha, cala boca, pai enfermo."`
+`"Além de comida, fui esquecida.`
+` .....Mais uma vez fazendo meu corpo recordar o quão absurdo é o seu poder."`
+`"O mais curioso é o motivo pelo qual o poder de apagar sua existência não teve efeito apenas na Ange."`
+`".........Ainda não podemos concluir se é algo com que devemos nos preocupar......ou se não é mais do que um "embelezamento" para retratar a fantasia."`
+`" único objetivo deste jogo é apontar a "identidade" dessa bruxa chamada {f:5:Piece}.`
+` ......É um pouco diferente da época em que vocês estavam jogando."`
+`"Precisamente.`
+` ......No meu tabuleiro, eu demandei pela destruição da Ilusão da Bruxa, e só depois demandei uma resposta para a pergunta "Quem sou eu?"."`
+`"{f:5:Piece}.`
+` .........Neste jogo nós não temos a obrigação de destruir a Ilusão da Bruxa, temos?"`
+`"....................."`
+`"Você só nos fez uma única pergunta: "Quem sou eu".`
+` ......É mesmo só esse o objetivo?`
+` Nesse caso, a habilidade dessa Ilusão da Bruxa que está nos mostrando, essa {i:Witch of the Piece},`
+` bem como isso implica, concluí que ela própria é a culpada, certo....?"`
+`"......Se a discussão se direcionasse para um disparate, contrariando nossas expectativas, tanto eu quanto minha mentora ficaríamos decepcionadas.`
+` Sendo assim, acreditamos que seja justo ao menos conduzi‐los na direção certa até a entrada deste labirinto.`
+` ......Por isso, permitam‐me esclarecer isto proclamando em vermelho."`
+`"{p:1:O objetivo deste jogo é expor minha identidade.}`
+` {p:1:Não é uma questão de afirmar ou negar a fantasia.}"`
+`"Nesse caso, irei simplificar ainda mais as coisas.`
+` Irei proclamar em azul!`
+` {p:2:Você é {f:5:Piece}.}`
+` {p:2:{i:Witch of the Piece}}"`
+`"É claro, isto não é possível.`
+` Proclamarei em vermelho.`
+` {p:1:Eu sou uma personagem que existiu entre o Episódio 1 um ao Episódio 8.}"`
+`"Impossível.`
+` Nunca apareceu nenhuma personagem capaz de engolir e apagar a existência de um humano."`
+`"......Ou talvez..`
+` Realmente tivesse alguém com esse poder durante esse período, mas nunca foi revelado uma única vez?"`
+`"Não me importo de reconhecer isso.`
+` {p:1:Eu existi entre o Episódio 1 ao Episódio 8 e possuía este poder.}`
+` {p:1:E agora, graças a minha mentora, pude revelá‐lo pela primeira vez.}"`
+`"Se é assim, tenho outra pergunta.`
+` Significa que esta personagem é..."`
+`"Bem, vamos esperar, Ange.`
+` Parece que este caso ainda vai continuar.`
+` Você pode deixar sua pergunta para depois que a Lady {f:5:Piece} expor tudo que tem em mãos."`
+`".........Pode ser assim também.`
+` Então?`
+` Agora que matou minha mãe e eu, e apagou nossas existências,`
+` ......quem é o próximo?"`
+`"Por acaso vai apagar todos em Rokkenjima?`
+` E aí perguntar: "Quem sou eu?" ......Não vai ser exatamente a mesma resposta de quando a Beato perguntou isso, vai?"`
+`"Não, não é possível.`
+` Ela já disse em vermelho que é uma "personagem" que apareceu entre o primeiro ao oitavo episódio."`
+`"......{f:5:Piece}.`
+` Pode continuar.`
+` Obviamente, avance isso."`
+`"É claro, pice.`
+` Continuando, Kinzo e Beato, bem como os serviçais que compreendem a magia, perceberiam a minha desordem e começaria uma batalha.`
+` Seria uma cena assim, piece:`
+` se ocorresse, seria uma batalha contra o terrível poder de invocação de Kinzo, a poderosa bruxaria de Beato e o poder de mobílias de Shannon e Kanon.、`
+` Além disso, o véu finalmente seria removido, desdobrando‐se na batalha mágica de Genji.`
+` Contudo, como deseja que eu avance as coisas, assim eu farei, piece."`
+`"Hã?`
+` Vai cortar a parte em que eu me exibo?!`
+`  Que chaaaato!"`
+`"Realmente.`
+` Pensando bem nisso, mesmo com o Genji‐san tendo uma forte presença no mundo da fantasia, nunca teve uma cena de batalha, teve?"`
+`"O personagem dele e o do Ronove são dois lados da mesma moeda.`
+` É lamentável, mas vamos avançar!"`
+`"Por favor, avance eficientemente, pice."`
+`"Uffuffuffu!`
+` Entendido, pice!"`
+`Assim como desejas, irei avançar pelas farsas e os vômitos de delusões pútridas.`
+`A intrusa vinda do submundo matizou‐se na família Ushiromiya, peace!`
+`Embora não tenha sido capaz de impedir sua invasão, Kinzo e Beato foram capazes de detectar um leve desconforto.`
+`Beato, Kinzo, Genji, Shannon e Kanon confrontaram aquela que se intitulava como Ushiromiya Pice, uma bruxa do submundo.`
+`Entretanto, quando perceberam que ela era uma convidada vinda de outro mundo, eles ainda não haviam notado que duas pessoas já tinham sido sacrificadas.`
+`Ushiromiya Kyrie e também Ushiromiya Ange......já haviam tido suas existências apagadas deste mundo.`
+`^Era uma forte substância desconhecida que estava tentando alterar unilateralmente o mundo deles, quiçá o Fragmento em si.`
+` ......Por isso, ocorreu uma reação natural genuinamente defensiva, quiçá uma interação entre antígeno e anticorpo.`
+`Mesmo assim, ......foi muito difícil convencer totalmente de que Ushiromiya Piece era um inimigo.`
+`A forte barreira que detectaria e alertaria sobre visitantes de fora do Fragmento...apontou para sua personagem.`
+`......Contudo, quando todos confrontaram {f:5:Piece}, ......eles a reconheceram como Ushiromiya Piece, parte da família.`
+`Beato viu através desse forte sentimento de desconforto.`
+` É possível que tenha detectado seu poder capaz de apagar a existência de seus oponentes e devorar livros e Fragmentos como uma traça......`
+`"Como esperado daquela que se intitula a alquimista consultora da família, pice.`
+` ......Eu a parabenizo por ter visto através do meu poder.`
+` Mas tudo o que consegue fazer é ver......?"`
+`"......Do que ela está falando......?"`
+`"Kanon‐kun.`
+` ......No momento, nós cinco estamos enfrentando ela,`
+` ......mas você acha mesmo que estávamos em cinco?"`
+`"Hã?"`
+`"......É possível que...`
+` houvessem seis de nós enfrentando ela."`
+`Acompanhando Kanon e Shannon, ......haveria mais um serviçal com {ruby:in/on/non/ne:{p:0:音}} no nome.`
+`Na verdade, é possível que alguém já tenha sido sacrificado como uma forma de aviso......?`
+`"O quê?!`
+` Isso não é bem parecido com a minha magia dourada?"`
+`"Fufufufufu.`
+` Agora que mencionou, tem razão.`
+` ......Mas é um poder realmente mesquinho, incapaz de me oferecer uma única moeda de ouro como compensação.`
+` Fuhhahhahha.........!"`
+`"......Entendi.`
+` Então é igual a magia dourada, é?"`
+`"Se negarmos a fantasia, é fácil explicá‐la rapidamente."`
+`"Não estou gostando dessa história.`
+` Se é uma farsa onde sua irmã de seis anos nunca existiu, por que o onii‐chan está se dando bem com nossos pais?"`
+`"Também tem isso.`
+` Mesmo que empilhassem lingotes de ouro,`
+` eu jamais iria aceitar uma farsa onde minha irmã não existe, ainda mais diante dos olhos da Ange."`
+`"Onii‐chan......"`
+`"Ei, {f:5:Piece}.`
+` Fica à vontade para engolir essa garota complexada."`
+`"Não cairei no seu xeque‐mate do boxe, peace{p:0:♪}"`
+`Enquanto isso, o número de cinco pessoas que estavam junto com Kinzo e Beato foi reduzido num instante.`
+` Mesmo sem lembrarem quantas pessoas estavam lutando originalmente, uma misteriosa batalha distorcida começou a se desenrolar.`
+`Beato, aquela que restara, lutava enquanto escondia sua perplexidade diante de um intenso desconforto.`
+`Se perguntando se era realmente a única que estava lutando contra aquele monstro.`
+` Se não havia nenhum aliado lutando ao seu lado.`
+` Se ela não estava lutando sozinha desde o início, ......então significaria que o mundo havia sido alterado?`
+`"Seu......`
+` Monstro maldito............!!!"`
+`"Obrigada, peace{p:0:♪}`
+` Este é o maior dos elogios à minha mentora, pice"`
+`*meshamesha*!!`
+` *pegigoryu*......!!`
+` ....*morde*..`
+` .....*engole*.....`
+`".......Nnng......?"`
+`*gyuri*`
+` *mokyu*`
+` .........`
+` ............*bleah*`
+`"O que é isto?`
+` ......Que horror........"`
+`O cabelo de {f:5:Piece}, que havia engolido 5 pessoas, de repente vomitou algo desagradável.`
+`Era algo na qual os olhos não podiam ver.`
+`  ......A "existência" das vítimas que ela engoliu.`
+`".....Entendi.`
+` Diferente de simples humanos, ......aqueles versados na magia não podem ser engolidos tão facilmente, pice?`
+` Uiffufufuu, mesmo diante do fim, ainda continua sendo pertinente, piece!"`
+`Parece que ela não foi capaz de apagar por completo a realidade em que Kyrie e Ange existem.`
+`Os nomes de Kyrie e Ange foram apagados da família, mas o mesmo parece não ter funcionado para esses cinco......`
+`"Bem, que seja, peace{p:0:♪}`
+` Agora não há mais ninguém para atrapalhar, piece.`
+` Mas parece que logo logo a divertida festa de Halloween vai terminar!`
+` ......Tadinhos dos serviçais.`
+` Só sobrou o Gohda‐san e a Kumasawa‐san para arrumarem a bagunça, piece."`
+`Quando então...`
+` um elenco de vários serviçais que eu nunca tinha visto, apareceram fazendo barulho e começaram a arrumar tudo.`
+`Como eu havia engolido três — Genji, Shannon e Kanon —`
+` imaginei que os serviçais desta noite fossem ficar enrascados, mas parece que não terão problemas daqui pra frente.`
+`A divertida e animada festa de Halloween também foi se apaziguando gradualmente antes que percebessem.`
+` Conforme a noite foi passando, ela chegou ao fim.`
+`Todos estavam sorrindo.`
+` Não havia ninguém triste.`
+` Uma noite onde todos estavam repletos de felicidade......`
+`"Eu me dei o trabalho de preparar uma divertida e chamativa batalha mágica para que pudéssemos desfrutar.`
+` Mas como ordenou que não queria ver a farsa, eu habilmente a encurtei, piece.`
+` Uehihihi, não é uma pena, pi?"`
+`"Não me importo.`
+` Se ficar tempo demais explicando seu prato, a comida vai esfriar e não terá sentido algum."`
+`"A mesa deve ser servida rapidamente.`
+` O princípio dos restaurantes não é servir uma comida quentinha e feita na hora?"`
+`"Entretanto...`
+` Se não tiver um conjunto completo de talheres preparados, é falta de educação sair comendo tudo com as próprias mãos."`
+`"Precisamente, exatamente.`
+` Não pretendo ser insensiva e dizer para comerem de mãos vazias.`
+` Pois bem, vão em frente e usem seus garfos vermelhos e colheres azuis à vontade, pice{p:0:♪}"`
+`"Primeiro, a resposta que você quer de nós.`
+` Ou seja, a identidade desta bruxa.`
+` Sobre isso, eu gostaria de clarificar um pouco mais as coisas."`
+`"Você...`
+` {p:1:é uma personagem que existiu entre o Episódio 1 um ao Episódio 8} certo?`
+` Vamos deixar ainda mais claro.`
+` Essa personagem é alguém na qual nós três reconhecemos?"`
+`"E reconhecer seria?"`
+`"Por exemplo:"`
+`"no Episódio 8 fica expresso que "a Lady {f:5:Lambdadelta} possui muitos amigos monstruosos".`
+` Supondo que um desses monstros é a resposta certa,`
+` mesmo que tenha surgido durante o Fragmento, nós não sabemos o nome de ninguém.`
+` Portanto, é impossível darmos a resposta certa."`
+`"Ahh, entendi.`
+` Já entendi o que quer dizer.`
+` endo assim, permita‐me dizer em vermelho, pice.`
+` {p:1:Vocês três claramente sabem o meu nome.}`
+` {p:1:Ou seja, minha existência está inclusa dentre aqueles que vocês conhecem.}"`
+`"Sabemos?`
+` Quer dizer que já nos encontramos?"`
+`"Não posso responder esta questão.`
+` Respondê‐la iria reduzir drasticamente as possibilidades de resposta, o que acabaria diminuindo a graça, pice."`
+`"*gargalhada*.`
+` Faz sentido.`
+` Estamos em três aqui.`
+` Com posições e circunstâncias de vida diferentes.`
+` Quem cada um encontrou ou não encontrou?`
+` Se deixar isso claro, a resposta acabaria ficando bem limitada.`
+`"Contudo......`
+` Dentro desta caixa de gato onde tantos personagens apareceram; humanos, bruxas, mobílias, armas, dentre outros......`
+` Afinal, quantos nomes apareceram na trama......?"`
+`"Não é como se você tivesse nos assegurado de que é possível acertar ou que o nível de dificuldade tenha diminuído......"`
+`"Contudo, estamos em três.`
+` Bruxas e humanos.`
+` Interior e exterior da caixa de gato.`
+` Possuímos diferentes pontos de vista."`
+`"Mesmo assim, posso esmagar os três com um único golpe.`
+` Minha mentora tem tanta confiança que disse para eu lutar com os três ao mesmo tempo, pice."`
+`"É mesmo!`
+` Esqueci de mencionar uma condição do jogo."`
+`"Lá vem.`
+` Certamente não é nada de decente!"`
+`"Se é só uma condição, então imponha logo!`
+` Você está sozinha.`
+` Nós estamos em três.`
+` Não será interessante se não tivermos alguma desavantagem.`
+`"Não é nada de muito importante.`
+` Quando chegarem ao fim de suas teorias e forem responder,`
+` eu quero que os três respondam juntos, pice.`
+` Seja qual for a resposta, se um dos três divergir dela, essa resposta não poderá ser apresentada, piece."`
+`"............Só para confirmar, há um limite de quantas vezes podemos declarar nossa resposta?"`
+`"Hmm.`
+` Se dissermos os nomes de todos que conhecemos, um por um, uma hora acertaríamos, não?`
+` Não pode ser considerado um jogo se tivermos um número ilimitado de tentativas."`
+`"Idiota!`
+` Por que está propondo uma regra que pode estrangular seu próprio pescoço?"`
+`"Venceríamos mesmo assim.`
+` Os três vão teorizar e consentir com uma mesma resposta, acabando com ela com um único golpe."`
+`"Parece que o estilo de luta da vez está mais para um rifle de precisão do que uma escopeta de deduções?"`
+`"É claro, podemos fazer incontáveis verificações em azul.`
+` Contudo, após expormos seus contornos, temos que acabar com um único disparo......!"`
+`"Minha mentora não chegou a impor nenhum limite em relação ao número de tentativas.`
+` ......Mas, se vocês estão interessados em me mostrar uma empolgante batalha lógica, minha mentora ficará muito feliz em aceitá‐la."`
+`"......Francamente!`
+` Mas que seja.`
+` ......Graças a isso, não será mais uma batalha trivial onde podemos simplesmente supor qualquer nome suspeito."`
+`"Certo, vamos começar!`
+` Vamos levar em consideração a posição de cada um."`
+`"Pois bem, vamos começar, peace!!"`
+`Battler cruzou seus braços e olhou para o céu estrelado das considerações......`
+`Assim como fiz nos jogos da Beato, ......eu devo assumir a posição de negar a fantasia?`
+`Ou devo concluir que é tudo por casa da magia, e assim não terei que atiçar minha massa cinzenta?`
+`Primeiro:`
+` ......a Kyrie‐san e a Ange foram comidas e suas existências completamente apagadas.`
+`Como se a Kyrie‐san e a Ange nunca tivesse existido neste mundo.`
+`Tanto minha peça quanto a do meu pai declararam despreocupadamente que eu não tinha uma irmã mais nova.`
+`Pensando de forma simples e direta, ......isso é como a magia dourada que a Beato tanto se orgulha.`
+`Ou seja:`
+` é uma farsa criada através de uma remuneração financeira.`
+`Se subornasse alguém com uma vasta quantia de dinheiro, você poderia fazer com que dissesse que não há nenhuma pessoa na família chamada Kyrie ou Ange......`
+`Contudo, tanto eu quanto meu pai valorizamos a ideia de "damas primeiro" e somos contrarianistas por natureza.`
+`^Seja um suborno ou uma ameaça,`
+` jamais iríamos nos vender a demanda de agir como se a nossa família não existisse......?`
+`......Não.`
+` É possível que todos tenham sido feitos reféns.`
+`Se a Kyrie‐san e a Ange foram feitas de refém, ......e então fôssemos ordenados a agir como se elas não existissem......?`
+`"{f:5:Piece}.`
+` ......Apenas por descaso de consciência, me diz uma coisa.`
+` ......Tem algum motivo por trás desse caso ridículo?"`
+`"Hoh, como esperado de você, Battler.`
+` Eu estava prestes a perguntar o mesmo."`
+`"Eu também.`
+` Se este caso foi ocasionado por algum capricho sem sentido, isto acabaria desilusionando este Fragmento e o espaço para o raciocínio perderia totalmente o seu valor."`
+`"......Então está dizendo para não negligenciar o coração das pessoas?"`
+`"{i:Whodunnit}, {i:howdunnit}.`
+` ......E {i:whydunnit}.`
+` Quando uma dessas lâminas se aproxima do mistério da bruxa,`
+` ao mesmo tempo isso também determina a posição da bruxa."`
+`"Sim.`
+` O {i:whydunnit} é especialmente importante.`
+` Para mim, esta é resposta mais importante de um mistério."`
+`"Não há motivos para duvidar do Fragmento que minha mentora criou.`
+` Portanto, proclamarei em vermelho.`
+` {p:1:Há um motivo claro e um coração por trás deste caso.}"`
+`"Coração?"`
+`"Tenho certeza que todos vocês serão capazes de compreender.`
+` ......Há um motivo que qualquer humano poderia entender."`
+`"Ou seja, não é nenhum motivo puramente presunçoso e enviesado que ninguém mais além do culpado seria capaz de reconhecer?"`
+`"Não é nada parecido com bater em alguém com um cabide enquanto grita {ruby:morra:SHINE} só porque não pôde ver o Monte Fuji, né?`
+` Mesmo que seja algo importante para o culpado, um terceiro observador diria "você tirou uma vida por um motivo desses?!"... Não é nada inesperado tipo isso, certo?"`
+`"Chega, onii‐chan.`
+` Peça desculpas.`
+` Se possível, esfregando sua testa contra o chão."`
+`"Foi mal. *esfregaesfrega*......"`
+`......Acredito que conseguimos uma boa dica aqui.`
+`Se aproximar do motivo é uma maneira validada de se compreender a resposta.`
+`Vamos pressionar para confirmar mais uma coisa.`
+`"......Muitas pessoas foram sacrificadas.`
+` O culpado possuía algum motivo para matá‐las?"`
+`"É claro, piece."`
+`"Ficou evidente que você tomou uma decisão consciente para matar a Kyrie‐san a Ange.`
+` Mas e quanto ao vovô, a Beato, a Shannon‐chan, o Kanon‐kun e o Genji‐san?`
+` Foi só para criar uma cortina de fumaça e se proteger das suspeitas que poderiam recair sobre você?
+` u será que também tem alguma motivo evidente aqui?"`
+`"......Tem."`
+`Hã?`
+`......Essa foi uma resposta honesta e inesperada.`
+` Seus alvos eram apenas a Kyrie‐san e a Ange.`
+` Todas as outras vítimas seriam apenas uma cortina de fumaça.`
+` Se fosse esse o caso, eu poderia percorrer a árvore da família.`
+`......Por exemplo, se pensarmos em uma pessoa que nutre ódio pela Kyrie‐san e até por sua filha, Ange... seria a irmã da Kyrie‐san.`
+`Sumadera Kasumi.`
+`As profundezas da sua insanidade e ressentimentos já foram esboçadas em Fragmentos anteriores.`
+` Não estou de acordo que seja ela, mas é possível entender seus motivos.`
+`......Contudo, se Sumadera Kasumi é o culpado, seu alvo seria apenas a Kyrie‐san, afinal ela não deveria ter ressentimentos pelo resto da família Ushiromiya.`
+`Por causa da Ilusão da Bruxa, se os demais tivessem sido encenados apenas para se proteger com uma cortina de fumaça, ......a coisa muda de figura.`
+`Se Sumadera Kasumi fosse o culpado, o vovô seria um mero alvo para ela.`
+`Não consigo imaginar que ela se daria o trabalho de escolher a Beato, a Shannon‐chan, o Kanon‐kun... e até mesmo o Genji‐san como alvos......!`
+`".........Eu já......saquei.`
+` ......Acho que entendi a linha que preciso seguir!"`
+`"Quero ser bem clara, por isso declararei claramente em vermelho, pice."`
+`{e:0170:{p:1:{m:-5:——}—}Eu tenho um motivo pelo qual preciso fazer com que Kyrie, Ange, Kinzo, Beato, Shannon, Kannon e Genji desapareçam.}}`
+`"Por quê?!"`
+`"......Não precisa responder isso."`
+`"Não.`
+` Irei responder.`
+` Com a verdade vermelha."`
+`"......Hã?"`
+`Normalmente, você não dá ao desafiante deste jogo da bruxa nenhuma dica desnecessária que possa deixá‐lo mais próximo, muito menos declarar sua motivação em vermelho.`
+`Mas {f:5:Piece} fez isso`
+`No momento em que o fez, não fora com o comportamento cômico que ela vinha demonstrando até então, ......ela disse isso com se fosse uma boneca, com seu olhar transmitindo um sentimento ominoso......`
+`"{p:1:Para que minha peça pudesse visitar este tabuleiro, todos eles são peças que não podem existir.}"`
+`"{p:1:Contudo, para várias dentre as vítimas, originalmente eu pretendia permitir que elas vivessem junto comigo.}`
+` {p:1:Contudo, dadas as circunstâncias delas, não pude deixá‐las permanecer neste tabuleiro.`
+` {p:1:Portanto, elas foram removidas.}"`
+`"{p:1:Entretanto, não confundam as coisas.}`
+` {p:1:Eu as removi porque isso não negligência o coração das mesmas.}`
+` {p:1:......Entretanto, em relação àquelas que eu realmente queria matar, não demonstrei a mínima pena nem compaixão, ignorei o coração e as eliminei deste tabuleiro.}"`
+`......Essa calma impactante fez com que todos engolissem em seco......`
+`Isto, sem dúvida foi, ......não uma afirmação da posição da bruxa do tabuleiro, .......mas do próprio culpado, expressando seus sentimentos.`
+` ......Uma confissão.`
+`"......Aqueles que você realmente quer matar...... quem são eles?!"`
+`"...................................."`
+`......Eu estava certo que a Kyrie‐san era o alvo do culpado, e a morte dos demais era inevitável.`
+`Mas agora......eu não faço mais ideia do que possa ser.`
+`Por exemplo, o vovô poderia ser o alvo principal.`
+` No aguardo de uma oportunidade para matá‐lo, ela matou a Kyrie‐san para se infiltrar na conferência familiar e assumir o seu lugar.`
+`Ou, se aceitarmos a Ilusão da Bruxa como verdade, a Beato seria o alvo principal, e todas as outras vítimas foram mortas durante o processo da produção do seu truque......`
+`Especialmente se for matar a Beato na Ilusão da Bruxa, é possível acarretar em vítimas que convenham com a maneira que o conto da Ilusão da Bruxa é traçado......`
+` Por exemplo, de forma similar ao assassinato de cantiga do epitáfio que a beato se orgulha......`
+`Não, não, para começar, nos assassinatos de cantiga, a estratégia deveria ser a inclusão de um alvo falso ao alvo principal, para que você possa tornar o {i:whydunnit} desnecessário.`
+`Mas ela disse o seguinte:`{p:1:todos eles são peças que não podem existir.}`o que parece conflitar com o que havia sido dito antes.`
+`"......Se tratando do {i:whydunnit}, não parece como se ela tivesse nos prendido com uma ostentadora teia de aranha, entrelaçando cada vez mais nossos pensamentos......?"`
+`"Eu achei que tínhamos aprendido algo muito importante, ......mas não há sentido em ficarmos presos a esse tipo de pensamento.`
+` Precisamos nos aproximar por outro ângulo."`
+`"......Ah......`
+` É mesmo............"`
+`"Uehhihihihippipice{p:0:♪}"`
+`"Sobre essa sua risada estúpida.`
+` ......Estou o tempo todo sentido que ela me lembra uma certa personagem."`
+`"E quem seria?"`
+`"Eu não tenho nenhuma linha específica para este motivo.`
+` ......No máximo, a imagem e a impressão que essa bruxa chamada {f:5:Piece} passa me faz associá‐la com alguém."`
+`"Quem sou eu......?`
+` Uehhihihihihihhihihihihi......"`
+`"Essa sua atitude intelectual de superioridade e essa risada.`
+` ......É igualzinha a minha confrade."`
+`"Hmm, ......seria aquela pessoa?"`
+`"Isto é mesmo inesperado, confrade Ange.`
+` Como Bruxa da Verdade, é natural que eu combine inteligência e elegância.`
+` .....E então?`
+` Como esta deselegante Bruxa das Peças pode ser igual a mim?"`
+`"Não penso que seja exatamente igual.`
+` Por acaso acredita que seja?"`
+`"Então mostre‐me, confrade Ange.`
+` A verdade que você teceu!"`
+`"Não vai dizer que ela vai aparecer......?"`
+`"Sua irmã não é a Bruxa da Ressurreição?`
+` Se a Ange assim desejar, é possível existir independente da vida e a morte."`
+`"......Mas apenas ela reconhece a si mesma como Bruxa da Ressurreição."`
+`"Mesmo que os outros possam não reconhecer, por esse mesmo motivo, eles não podem negar.`
+` ......Esta é a Ressurreição da Bruxa da Ressurreição."`
+`"Resumindo, a Ange é capaz de invocar personalidades virtuais livremente em seu cérebro; uma Partição de Processamento Paralelo, pice.`
+` É uma magia bem habilidosa, piece."`
+`"Furudo Erika foi a única visitante indesejada que chegou boiando em Rokkenjima.`
+` Afora ela, nenhum outro convidado irregular apareceu de repente na festa de Halloween."`
+`"Eu sou aquela amada por todos aqueles que negam a Teoria da Família Ushiromiya Assassina, a Bruxa da Verdade e detetive indesejada."`
+`"Não foi estabelecido que tipo de personagem Furudo Erika era originalmente.`
+` Tudo que sabemos é que ela é uma garota desastrada que caiu de uma embarcação de recreio."`
+`"Contudo!`
+` No momento que apareci no tabuleiro do jogo da bruxa, eu tinha apenas uma personalidade."`
+`Uma estupradora intelectual.`
+`Que alcunha mais repulsiva.`
+` Em outras palavras, ela menospreza os outros com sua supremacia intelectual, demonstrando que seu maior prazer é violar intelectualmente as pessoas.`
+`"Após boiar até Rokkenjima, ela foi recebida durante uma noite como Furudo Erika.`
+` ......É possível que os humanos da família Ushiromiya tenham conspirado juntos para criar a farsa do caso de assassinato e dar um susto na garota que queria bancar a detetive."`
+`"*risos*risos*!!`
+` Não importa que tipo de truque usem, não podem escapar da minha "autópsia perfeita".`
+` Não é possível fugir da lista de convidados se fingindo de morto."`
+`"Então, o que acham deste roteiro?`
+` Na realidade, na noite desta festa de Halloween, Erika boiou até Rokkenjima e foi recebida como uma convidada."`
+`Durante a festa de Halloween, os humanos da família Ushiromiya ficaram empolgados com quizzes e enigmas.`
+`"E lá, a autoproclamada detetive que não sabe ler o clima, começou a dar resposta atrás de resposta, sem intervalo, se achando toda e deixando os adultos atônitos e exaustos."`
+`"E então, os adultos que queriam tiram a limpo a humilhação de terem perdido para mim, resolveram esquematizar um teatrinho estúpido."`
+`Apenas um exemplo.`
+` ......Um "incidente" onde eu e minha mãe evaporamos de repente.`
+` Na manhã seguinte, por algum motivo, meu pai e o onii‐san começam a tratar a Erika como se fosse a Kyrie‐san.`
+` Seria uma pegadinha ou uma surpresa? Quem sabe uma grande provocação?`
+`"Se for olhar nos Fragmentos passados, o pessoal da família Ushiromiya é muito bom em "atuar"...ou eu deveria dizer que eles gostam?"`
+`"Eles tentaram surpreender ela com essa "atuação" estranha.`
+` É possível que até os serviçais tenham se fingido de mortos, "atuando" como se fosse um caso de assassinato em série?"`
+`Há um registro de um jogo onde essa história exorbitante ocorre em um Fragmento passado.`
+`Independente de ter um motivo que possa ser compreendido,`
+` mesmo tendo sido algo unilateral, ainda não há nenhum fator que possa interromper o raciocínio de Ange.`
+`"Contudo, os três precisam estar de acordo com a resposta.`
+` Espero que não se importe de atacarmos você com esta verdade que eu e a Erika alcançamos."`
+`"Uhhihhihhihhi!!`
+` Só de imaginar como esse rostinho lindo vai se distorcer já faz com que eu chegue ao meu clímax......!!"`
+`"Ueehhihhihhihihihihi!!!`
+` Entendi, realmente.`
+` Parece que nossas personagens tem algo parecido, peace{p:0:♪}`
+`  É realmente incômodo ter duas peças parecidas juntas, pice."`
+`"Ora?`
+` Mas só somos parecidas apensa na impressão que transmitimos.`
+` Seria um obstáculo as capacidades de nossos cérebros serem diferentes?"`
+`"Ffufufufufufu......hihhihhihhipippipipi!!!"`
+`"Uhhehhehhehhhe......!!!"`
+`{e:0170:"{i:Piece!!}"}`
+`{n}{t}{e:0170:"{i:Good!!!}"}`
+`"Proclamação azul!`
+` {p:2:O culpado é Furudo Erika!}`
+` {p:2:Toda essa série de incidentes foi um faz de conta para enganar Erika ou talvez até mesmo para zombar dela!}`
+` {p:2:Essa atuação para reconhecerem que eu e minha mãe desaparecemos foi combinada de antemão!!}"`
+`E mais, sobre a verdade vermelha que você disse há pouco:`
+` "{p:1:Para várias dentre as vítimas, originalmente eu pretendia permitir que elas vivessem junto comigo.}`
+` {p:1:Contudo, dadas as circunstâncias das mesmas, não pude deixá‐las permanecer neste tabuleiro.}`
+` {p:1:Portanto, elas foram removidas.}".`
+`Este é exatamente o significado da "autópsia perfeita" da Erika!`
+`Para esta mulher que se autoproclama uma estupradora intelectual, é equivalente a uma blasfêmia a deus que alguém intelectualmente inferior a desafie para um mistério!`
+`Entrando em um frenesi, realizando sua autópsia perfeita, ela transformou o teatro bobo deles em um crime real......!!`
+`"Com isso, é xeque!"`
+`"Mate!!`
+` Tudo pode ser explicado pela presença de Furudo Erika, que teve seu nobre orgulho de vil estupradora intelectual ferido, como sendo o motivo!!"`
+`"A sua verdade vermelha:“`
+` {p:1:em relação àquelas que eu realmente queria matar, não demonstrei a mínima pena nem compaixão, ignorei o coração e as eliminei deste tabuleiro}” você despertou uma grande fúria ao cometer o pecado de tentar enganar a detetive com uma farsa!"`
+`"Você tentou enganar a detetive!`
+` De acordo com o que está escrito no Livro, é o mesmo que tentar passar a perna em deus!!`
+`  Por tentar dirigir uma blasfêmia a mim, naturalmente receberá a punição divina!!`
+` O que acharam?!"`
+`"Para Furudo Erika e Ushiromiya Ange..."`
+`"Uma dedução como esta é algo trivial!!!!"`
+`Como se estivessem denunciando {f:5:Piece}, Ange e Erika, ficaram com as costas uma contra a outra, apontando seus dedos na direção dela.`
+`Embora as duas estivessem apontando para {f:5:Piece}, .........ela não perdeu o sorriso que demonstrava sua elegante compostura.`
+`A outra Bruxa da Verdade de Ange, exibiu sua última feição final junto a uma piscadela e transformou‐se em um grupo de borboletas de luz efêmera, dançando enquanto se apartava como folhas ao vento......`
+`"Pieceee......{p:0:♪}`
+` É mesmo uma {i:peaceful} dedução, a qual eu agradeço do fundo do meu coração, peace{p:0:♪}"`
+`"Muito bem, contudo,`
+` assim como acredito ter sido dito,`
+` os três precisam chegar a um acordo para validar o seu raciocínio, pice."`
+`"Afinal, há apenas uma chance.`
+` Além disso, foi a própria Grande Lady {f:5:Beatrice} que impôs essa regra."`
+`"......Tinha que impor essa regra idiota, né?`
+` Bem, pessoalmente eu não me importo.`
+` Vocês dois só precisam consentir com essa história."`
+`"..........................."`
+`"......Ange.`
+` Tudo bem ter uma teoria da Erika culpada?"`
+`"Tem alguma outra?!"`
+`"Se o culpado estiver limitado aos humanos, eu acho a sua teoria muito boa.`
+` ......Contudo, desta vez, fazer com que residentes da Ilusão da Bruxa sejam o culpado não é uma jogada proibida, sabia?"`
+`"Como os amigos monstruosos da Lambda, os gatos pretos que seguem a {f:5:Featherine} ou ainda a {f:5:Bernkastel} e a {f:5:Lambdadelta}?`
+` Mas assim valeria de tudo, não?!"`
+`"Sim!`
+` Vale‐tudo!`
+` Justamente por isso, se dissermos que é possível ser essas personagens, é provável que não sejamos capazes de expor a verdade!"`
+`"O‐O que quer dizer......?!"`
+`"Em uma situação em que há múltiplos personagens possíveis, é impossível provar quem é o culpado.`
+` Além disso, ela declarou claramente com a verdade vermelha.`
+` {p:1:Eu sou uma personagem que existiu entre o Episódio 1 um ao Episódio 8.}"`
+`"Ou seja:`
+` utilizar como farol apenas o {i:howdunnint} e o {i:whodunnit} para indicar um único culpado específico e expor a identidade da {f:5:Piece} é impossível......!!"`
+`"Vocês acabaram de dizer que estavam confusos por causa armadilha da {f:5:Piece} enquanto buscavam pelo {i:whydunnit}!`
+` Por isso, eu procurei pelo {i:who} e {i:how} porque pensei que fosse fosse o meio com maior probabilidade de descobrir o nome dela.....!"`
+`"Isso não está certo......!`
+` A probabilidade é alta mas falta investigar!`
+` Não tem como descobrir assim!`
+` O raciocínio passa a valer quando você já o afiou......!!"`
+`"............uu, ............Ughgh..............."`
+`Ange também já considerou isso, mas ela herdou de seu irmão o ponto fraco de ficar facilmente com o pensamento enuviado quando se deixa levar pelas emoções.`
+`Por ter a teoria que ela finalmente desenvolveu, sendo negada pelos dois, vai levar um tempo até que ela esfrie a cabeça e se recupere......`
+`"......Quando desistimos do {i:who}, {i:why} e {i:how},`
+` como podemos raciocinar?"`
+`"Ou seja, agora é a minha vez.`
+` Não sou uma detetive.`
+` Sou uma bruxa.`
+` Bruxas não investigam."`
+`"Eu e a Ange estivemos desafiando na suposição de que o culpado fosse humano.`
+` ......Agora, a Beato pode inverter essa premissa para atacar."`
+`"É como a Kyrie sempre diz.`
+` Vire o tabuleiro contra ela......!`
+` Contudo, nessas condições, eu não irei raciocinar pelo ponto de vista do culpado.`
+`  ......Irei inverter a suposição de que o culpado seja humano."`
+`"C‐Como............?"`
+`"Será que a disposição aqui é relativamente diferente dos jogos anteriores da Lady {f:5:Beatrice}?`
+` Uffufufufufu......"`
+`"Usar um residente da Ilusão da Bruxa não permitiria de tudo?!`
+` Não é estranho demais aceitar que alguém engoliu humanos e apagou suas existências da realidade?!`
+` Não foi exatamente por isso que você mesma disse que não seria possível expor a verdade?!"`
+`"Exatamente!`
+` O vale‐tudo dos residentes da ilusão da bruxa não se aplicam para o {i:"who"} e {i:"how"}!`
+` Mas o {i:"why"} é diferente!"`
+`"Ahh.`
+` É possível que a {f:5:Featherine} ou {f:5:Bernkastel} tenham cometido o crime.`
+` Contudo, elas não teriam motivos para ocasionar este incidente distorcido."`
+`"As bruxas não adoram matar por diversão ou capricho?!`
+` Esperar um motivo de uma bruxa é idiotice!!`
+` É perda de tempo pensar nisso!"`
+`"Mesmo sabendo tudo sobre esta caixa de gato, você ainda tem coragem dizer isso......?"`
+`"......Isso...., ......ugh......"`
+`Aos olhos de Battler, não é algo que deva ser zombado e menosprezado, e Ange percebeu que era algo inapropriado na qual ela jamais deveria dizer......`
+`"Em um jogo de bruxas`
+`......vale‐tudo.`
+` Ao ponto de ser ridículo ficar pensando sobre isso, afinal ele deveria ser anormal, maluco, excêntrico e ensandecido......!!`
+` Mas o que você jamais deve ignorar......`
+` É o seu coração......!!!"`
+`As bruxas são um bando de idiotas, ......capazes de usarem seus poderes ridículos como bem entenderem......,`
+` mas há uma única coisa, como se fosse um bebê ou talvez um animal...uma única característica......que não deixa de me incomodar.`
+`"Elas não conseguem transmitir seus sentimentos.`
+` Colocando de forma simples, são contrarianistas que não consegue falar honestamente sobre o que estão sentindo.`
+` Elas buscam pelo coração das pessoas e não conseguem evitar de se aproximar delas e, mesmo assim, são incapazes de se comunicarem com palavras sinceras! Elas são todas estúpidas, tolas, idiotas e dignas de pena!!!"`
+`É justamente por isso que você não pode, jamais, ......responder ao jogo de uma bruxa de forma negligente!!`
+`"Mesmo sendo uma grande idiota que sucumbe facilmente à solidão, você fez o seu melhor para desesperadamente escrever esse seu Fragmento de qualidade duvidosa......, ^@^por isso jamais diga coisas como "pensar é inútil"!!!"`
+`".............................."`
+`"......*risos*..., ......gargalhada*gargalhada*.........`
+` Não sou párea para o homem que tratou a mensagem na garrafa de uma bruxa milenar como se fosse a primeira carta de amor de uma garota do fundamental."`
+`".........Battler."`
+`Embora eu não saiba se essas palavras saíram da boca de um humano,`
+` ......ou se elas saíram da boca do Grande Lorde da Terra Dourada que casou com a Bruxa Dourada.`
+`"......A mando de minha mentora,`
+` ......quando ela ordenou que eu visse aqui, não posso negar que realmente achei que seria um saco.。`
+` Ao chegar aqui, pensei que não iria ganhar nada.`
+` Pelo contrário, ......eu apenas pensei que poderia acabar odiando a mim mesma."`
+`Contudo,`
+` ......valeu a pena.`
+`"Pelo que saiu da sua boca.`
+` ......Só por ter ouvido essas palavras.`
+`  ......Valeu a pena eu ter vindo aqui hoje, como mensageira da bruxa......!"`
+`"......Beato.`
+`  E você também, {f:5:Piece}.`
+` ......Quero pedir desculpas a vocês, e também a todas as inúmeras bruxas as quais ainda não conheci."`
+`"Além disso, você já proclamou claramente em vermelho.`
+` {p:1:Há um motivo claro e um coração por trás deste caso.} Não disse?`
+` ......Estou com vergonha de mim mesmo por ter perdido a calma e dito algo irresponsável."`
+`"Não se preocupe com isso.`
+` Esse é um sentimento esperado de vir da irmã do Battler."`
+`"Mas...`
+` a forma como eu me aproximei do {i:whydunnit} não havia sido um revés?"`
+`"Isso mesmo.`
+` Ao menos você restringiu as suspeitas aos humanos."`
+`"Quando as bruxas estão sérias e vale de tudo, ......você consegue compreender o {i:whyduunit}, ......o coração da pessoa......?"`
+`"Isso mesmo.`
+` Se as bruxas não tivessem um coração humano e genuíno, ......elas não assumiriam a forma humana!"`
+`Mesmo tendo sido reduzidas a bruxas, elas ainda querem estar próximas de alguém; é por quererem se aproximar dos humanos que elas podem manter a forma de uma pessoa.`
+`e elas genuinamente menosprezassem os humanos e perdessem o interesse neles, ......elas considerariam a forma uma uma tolice e deixariam de adotá‐la.`
+` Em outras palavras: elas se afogariam.
+` Elas acabariam afundando no Mar de Fragmentos, caindo como um floco de neve até se empilharem no Abismo do esquecimento onde o sol não brilha.`
+`"Não ignore o coração das pessoas.`
+` ......{ruby:Wizard‐Hunting:Matador de Magos}, Wright."`
+`Sem dúvida, ......um Matador de Bruxas.`
+`Minha mentora onipotente ainda não esqueceu deste humano, ......Ushiromiya Battler......`
+`Entendi.`
+` ......Talvez todos os fantasmas de bruxas desejem se encontrar com uma existência como ele...para serem derrotadas...ansiando por um funeral digno.`
+`...............Assim como a BEATRICE de Rokkenjima.`
+`"......Honestamente,`
+` ......estou começando a me arrepender, pice.`
+`"Arrepender do quê......?"`
+`"Ter uma criança maravilhosa dessas......monopolizada por alguém azeda como você.....é um grave pecado contra todas as bruxas do Senado, pice."`
+`"Tá querendo briga, é?`
+` Idiooota!""`
+`"......Alguém inferior a mim, na qual eu possa destruir facilmente, ......não é adequada para o Battler‐kun!"`
+`"Interessante!`
+` Quer tentar, velhota?"`
+`"Vocês adoram se divertir investigando livremente,`
+` ......mas não lhe darei espaço para isso."`
+`Não se sabia se algo havia irritado {f:5:Piece} e atiçado a sua fúria.`
+`Contudo, era possível sentir silenciosas faíscas invisíveis dispersando‐se entre Beato e {f:5:Piece}......`
+`"......Não parece que alguma coisa atiçou essas duas?"`
+`"Mas assim que é bom.`
+` ......Justamente por ter percorrido uma grande distância pelo Mar do Vazio e vindo até aqui, ela merece a melhor das boas‐vindas."`
+`Vamos, {f:5:Beatrice}.`
+` É hora de expor......`
+`meu cérebro dourado!`
+` Hora de expor esta mulher, esta Bruxa das Peças!`
+`Sim, o Battler está certo.`
+` As bruxas sucumbem facilmente à solidão e, justamente por isso, elas são tolas e desajeitadas, incapazes de colocar isso em palavras.`
+`Uma simples expressão: estou sozinha; preste atenção nisso e termine tudo com uma única fala.`
+` Sendo um conto tão redundante que levaria mil anos para ser lido, com seu conteúdo tépido e hostil, apertado dentro de uma garrafa jogada ao mar...`
+` Qualquer um que queria ler isso para decifrá‐lo é um grande idiota que esperaria por mil vezes, por anos mil anos, na beira da praia......!!`
+`Irei expor você......!!`
+` Receberei a sua mensagem......!!!`
+`......Porque ela disse que precisava fazer com que Kyrie, Ange, Kinzo, Beato, Shannon, Kanon e Genji desaparecessem?`
+`Ela disse:`
+` {p:1:para que eu pudesse visitar este tabuleiro como peça, todos eles são peças que não podem existir.}`
+`O que isso significa?!^`
+` Se for um mundo para se negar a fantasia, seria interpretado unicamente como um impulso assassino que sequer permitira ficar juntos.`
+`Entretanto, não deveria haver outra forma de interpretar isso no tabuleiro da bruxa......?!`
+`Por exemplo:`
+` "nós" não podemos aparecer ao mesmo tempo diante daqueles que possuem toxinas antimagia.`
+`"......Mas essa regra não se aplica a nenhuma peça além de vocês."`
+`"Não poder existir ao mesmo tempo que outra personagem......?`
+` Tem algo assim......?!"`
+`""Para que minha peça visite este tabuleiro"...há peças que ela não pode permitir que existam......"`
+`"Beato!`
+` Você não deve ficar refém dessa lógica estrita......!`
+` Você não é a Bruxa Dourada, aquela que resolveu aquele epitáfio de merda daquele meu avô desgraçado?!"`
+`Tem razão......`
+` O epitáfio do Kinzo não requiriu nenhuma investigação sofisticada.`
+` Aquilo era apenas um jogo de palavras infantil visando a autossatisfação......!!`
+`Flexibilize seu pensamento.`
+` Não precisa raciocinar de forma precisa como se fosse aritmética.`
+` Faça associações, invente delusões...vale atacar com qualquer inspiração que tiver......!`
+`"Ora, ora?`
+`  Está chamando meu mistério de um jogo de palavras?"`
+`"É algo importante.`
+` E como parece não estar entendendo, permita‐me deixar bem claro com a verdade vermelha."`
+`"{p:1:Enigmas são a minha especialidade, sabia?}`
+` {p:1:Além disso, sou muito melhor que você.}"`
+`"......Hohoo......`
+` E ainda está dizendo isso em vermelho, é......?!"`
+`"{p:1:Então você era viciada em resolver enigmas, é?`
+` No máximo, depois que se encontrou com o Battler‐kun, não? Isso é pouco tempo, não mais do que uns dez anos?}"`
+`"{p:1:Eu não sou uma garotinha igual a você.`
+` {p:1:Muito, muito antes de nascer, eu sempre amei resolver enigmas e era muito boa neles.}"`
+`"{p:1:......É uma pena que eu não tenha tido a chance de desafiar o enigma do epitáfio.}`
+` {p:1:Se nós tivéssemos desafiado ele juntas, tenho certeza que teríamos resolvido aquele enigma infantil que o vovô se esforçou tanto para criar.}"`
+`"{p:1:Afinal, eu...`
+` ......Agora que me tornei a Bruxa das Peças, eu tentei desafiar o enigma do epitáfio pela primeira vez...`
+` e fui capaz de resolvê‐lo facilmente!}"`
+`"O‐O......q...u...ê......?...?!?!"`
+`O enigma do epitáfio reviveu Beato como a Bruxa Dourada.`
+` A probabilidade de alcançar essa resposta extremamente difícil de entender era um milagre astronômico.`
+`^Alcançá‐la a reviveu como bruxa.`
+` Uma série de erros dolorosos acabou encorajando‐a...`
+` fazendo com que o destino da família Ushiromiya mudasse completamente em Rokkenjima, ......e ela chama esse mistério cataclismático`
+`......de uma brincadeira de criança.....,、`
+` que ela resolveu facilmente......?!?!`
+`"Sim!`
+` Aquilo que você chama de Ressurreição da Bruxa Dourada, ocorreu durante um vazio de seis anos,`
+` onde rebaixou seu corpo a uma mobília incapaz de amar.`
+` ......Tudo isso foi um gatilho para a tragédia."`
+`"Por isso, agora eu estou sendo consumida por um intenso arrependimento e tristeza!!`
+` Tudo por um jogo de palavras daqueles!!`
+` Se nós tivéssemos desafiado ele juntas, teríamos resolvido ele muito mais rápido......!!"`
+`"Eu deveria ter agarrado com minhas mãos a chave que evitaria que sua vida fosse arruinada!`
+` ......E mesmo assim, o meu maior pecado foi não ter sido capaz de usá‐la!`
+` Por causa disso, você nasceu.`
+` O Battler‐kun foi aprisionado na caixa de gato.`
+` A Ange‐chan foi deixada sozinha em um futuro de solidão......!!!"`
+`"Isso tudo é minha responsabilidade!!`
+` Eu criei você!`
+` Se eu tivesse dado à luz antes!!^`
+` Se eu tivesse, tenho certeza......`
+`que todos seriam `
+`...`
+`...`
+`muito mais felizes!!!"`
+`".........Afinal......`
+` ......Quem...`
+` ......é você............?"`
+`M‐Me criou......?`
+` ......Quer dizer que.......é a mãe......que eu só podia encontrar no retrato......?`
+`Não, errado.`
+` É impossível.`
+` Afinal, eu tenho certeza que minha mãe fugiu de Kuwadorian junto com a Rosa, caiu daquela falésia e morreu.`
+` Isso aconteceu logo depois dela ter me dado à luz.`
+`Mas, logo após ter nascido, me acolheram e me deixaram sob a custódia da Natsuhi.`
+`esmo que ela seja a minha mãe biológica, ou seja, a BEATRICE antecessora, o enigma do epitáfio veio muito depois de nossos destinos terem divergido.`
+`Se a {f:5:Piece} é realmente minha antecessora, ela mesma deveria ter me criado quando eu era bebê, deveríamos ter vivido em Kuwadorian, é assim que deveria ter sido.`
+`Por isso, eu não me sinto confortável com a lógica dela ser a minha mãe biológica.`
+`"......Mas a linha de pensamento provavelmente não está longe da curva."`
+`"Ah...`
+` ......Ela é alguém em uma posição superior a minha.`
+` Apesar disso, ela não está me olhando com arrogância.`
+` ......É como se estivesse guiando uma criança ainda muito tenra.`
+` ......É difícil acreditar, mas...`
+` É como se fosse alguém na posição de ofertar um amor parental!!!"`
+`"......E‐Eu não entendo.`
+` Existiu mesmo uma pessoa assim?`
+` Eu realmente não consigo imaginar ninguém......!"`
+`"{p:1:Ange‐chan.}`
+` {p:1:......É esperado que você não faça a menor ideia.}`
+` {p:1:......Isso porque...}`
+` {p:1:Mesmo que você soubesse meu nome, nós nunca nos encontramos uma única vez.}`
+` {p:1:E direi mais.}`
+` {p:1:Até que eu me tornasse a Bruxa das Peças, eu sequer sabia o seu nome ou que você existia.}"`
+`E‐Então perguntarei o contrário!!`
+` O onii‐chan e Beato se encontram com você?!"`
+`"Encontraram!!`
+` É claro que eu encontrei os dois como humanos, sabia?`
+` Muito mais do que encontrar!`
+` Eu os ouvia falando sobre seus hobbies.`
+` Eu os ouvia falando sobre tendências.`
+` Eu os ouvia falando sobre o que gostavam."`
+`"Sobre o tempo de hoje e amanhã, ou das conchas com formatos estranhos que eles encontrava na beira da praia.... Incontáveis conversas que sequer faziam sentido!`
+` Eu sempre estava disposta a passar horas conversando apenas para ver seus rostos sorridentes......!!"`
+`"...................................."`
+`^O‐O que esta bruxa......está dizendo......?`
+`Já não sei mais se isso é um mistério, sua solução ou o que mais poderia ser......!`
+`Você realmente não sabe quem eu sou......?`
+` Entenda logo! ......O que estou fazendo já não é o mesmo que gritar e chorar?!?!`
+`Isso eu entendi, ......mas então por que eu não consigo me lembrar quem é ela......?!`
+`^Mesmo estando frustrado com a minha inaptidão, minhas lágrimas não param......!`
+` Merda...`
+` Merdamerdamerda...`
+` Drogaaaaaaaaa!!!!`
+`"E‐Eu sou a única que não a conheceu, assim como ela nunca me conheceu, nunca soube que eu existia......"`
+`"Não há dúvidas de que ela está ligada à família Ushiromiya......!`
+` E mesmo assim, sequer sabia da existência da Ange......?"`
+`"Sem dúvida, naquela época eu ficava muito doente e não podia participar das conferências da família.`
+` ......Mas, mesmo assim, eu não sou uma filha bastarda.`
+` Todos os membros da família Ushiromiya deveriam saber da existência de Ushiromiya Ange!"`
+`".............................."`
+`".......................................`
+` !!!!"`
+`Os olhos de Battler......se arregalaram.........`
+`Em seu coração, ......ele tinha a convicção de que já sabia, mesmo que sem fundamentos, sobre qual era a identidade da Bruxa das Peças.`
+`Não havia fundamento.`
+` Tampouco evidências.`
+` Sequer uma peça de quebra‐cabeça que pudesse usar para supor a identidade do culpado.`
+` ......Mesmo assim, ele tinha certeza de sua resposta.`
+`......Ele não tinha uma teoria estabelecida — não existem mistérios onde a resposta possa ser confirmada assim.`
+`Exatamente.`
+` Justamente por isso que isto é uma fantasia.`
+` ......Caso contrário, ......ela não poderia estar aqui.`
+` Não poderia existir......!`
+`"Vo‐`
+` ...........Você............! .........!!!"`
+`Beato também já tinha percebido que Battler havia visto através da identidade da bruxa.`
+`Contudo, comparada com Battler, ......ela ainda estava distante da mesma.`
+` Por isso, o raciocínio de {f:5:Piece} se tornou necessário......`
+`"Por que as pessoas precisam desaparecer para ela poder aparecer......?!"`
+`"Não são só vocês.`
+` ......Nós não......podemos existir ao mesmo tempo que ela......"`
+`"E‐Eu não entendo!。`
+` Há alguma outra pessoa além da Beato que seja capaz de dar vida à mobílias?!"`
+`"Não, não é isso!`
+` Não "são" uma pessoa que nós não podemos encontrar!!`
+` Mesmo sendo duas pessoas, ......são "humanos" que não podem existir ao mesmo tempo durante a conferência da família Ushiromiya......!!!"`
+`"Q‐Quê......?!`
+` Eu não conheço essa pessoa.`
+` Eu realmente não a conheço......!!"`
+`Mesmo com as lágrimas escorrendo, Ange continuou arrancando cabelos, furiosa com sua própria inaptidão......, mesmo assim, ela não deixou de pensar.`
+`Eu não consigo me lembrar dela!!`
+` Eu quero lembrar!`
+` Eu preciso lembrar!!`
+` E eu quero recebê‐la!!`
+` Como última sobrevivente da família Ushiromiya, ......a Bruxa do Futuro, essa não é a minha única obrigação?!`
+`"Ange‐chan.`
+` ......Eu a chamei até aqui porque queria maltratá‐la.`
+` ......Porque eu sou uma peça incompatível com a sua existência."`
+`Mas sabe?`
+` ......Quando a encontrei, eu entendi.`
+`Você está tentando viver uma vida honesta, mesmo sendo desastrada e simplista, ......tudo isso você herdou do seu irmão.`
+`"Se nós...`
+` ......tivéssemos nos conhecido, tenho certeza que iríamos nos dar bem.`
+` ......Eu acredito nisso.`
+` Mesmo assim, ......eu sou grata, do fundo do meu coração, a fantasia... ao milagre impossível... de tê‐la encontrado aqui hoje......"`
+`"......Não pode ser......`
+` Ela é...... .........Ela é............"`
+`"Sim......!!`
+` Isso mesmo......`
+` Ela é..... .Ela é.........!"`
+`"Ange‐chan.`
+` O meu rancor tentou se vingar, não só da Kyrie‐san, mas também de você.`
+`  Mas quando há um antagonismo entre mulheres, o correto a se fazer é arrastar somente as duas envolvidas junto para o túmulo.`
+` ......Mesmo sem nunca tê‐la encontrado,`
+` só por ser filha dela, eu feri seu coração apenas para consolar o meu e, por causa desse objetivo tão trivial,`
+` eu chamei você até aqui......`
+` Mesmo como uma mãe temporária...eu estou profundamente envergonhada de mim mesma......!!!"`
+`"Eu nunca encontrei você......`
+` Só a vi em fotos......`
+` ......Eu sei... Eu a conheço......`
+` Eu me lembrei...... Eu lembrei......!!"`
+`Sim, eu também, ......só de vê‐la sorrindo em uma foto......eu a odiei......!`
+`Em uma foto de família onde eu não aparecia... Meu pai e o onii‐chan......`
+` Estavam sorrindo para uma "família" que eu não conhecia, sorrindo de uma forma na qual você só deve sorrir para sua família......, eu a odiava, me sentia frustrada......`
+` Mesmo estando morta, eu a invejava......!!`
+`Isso mesmo.`
+` Nós não nos encontramos devido ao eixo do tempo, ......e mesmo se tivéssemos nos encontrado, não ficaríamos juntas.`
+` Porque você e eu, com meu pai sendo nosso eixo, somos dois opostos que não podem existir ao mesmo tempo na mesma família!!`
+`"O seu......! ......O seu nome é......!!!!"`
+`Ushiromiya......Asumu...............!!!`
+`A primeira esposa do pai,`
+` ......que faleceu antes de eu nascer......!!`
+`"......Ange‐chan.`
+` ......Essa resposta ainda é apenas uma parte.`
+` ......Isso porque...`
+` você ainda precisa negar o asqueroso Fragmento que eu trouxe."`
+`".........Hã......?"`
+`Batler, Ange e Beato.`
+` Quando os três consentissem com a mesma teoria, essa resposta bastaria.`
+`......Ainda assim, por que {f:5:Piece}, ......não, Asumu, ......ainda não quer deixar que ela saia da boca de Ange......?`
+`"Pois bem, vamos começar a autópsia.`
+` ......Ame o gato, mate o gato...para que possa aproveitar duas vezes."`
+`Este é um cenário onde Ushiromiya Asumu não morreria e continuaria a integrar a família Ushiromiya...... Uma fantasia.`
+` Um conto de fadas.`
+`Com Asumu sendo a esposa de Rudolf, ela seria legitimamente parte da hierarquia da família e, portanto, seria convidada para a conferência familiar.`
+`Naturalmente, bigamia não seria aceita.`
+` Independente de qual fosse a realidade, apenas a primeira esposa, Asumu, seria convidada para a casa Ushiromiya.`
+`Portanto, ......em um Fragmento onde Asumu existe, automaticamente, Ushiromiya Kyrie não pode existir.`
+`A própria Kyrie poderia existir, mas não como Ushiromiya Kyrie.`
+` Ela seria Sumadera Kyrie.`
+` Assim sendo, a existência e implicância de Ushiromiya Kyrie foi apagada.`
+`O mesmo pode ser dito sobre Ange.
+`......O motivo pelo qual Battler deixou a família foi o nascimento de Ange.`
+` Se contar de trás pra frente, a partir do último mês de gravidez, ......fica evidente que Asumu ainda estava viva quando o relacionamento deles começou.`
+` Se Asumu ainda estivesse bem de saúde, a existência Ushiromiya Ange não seria permitida.`
+` Mesmo que fosse reconhecida, Kinzo jamais iria permiti‐la no registro familiar.`
+` Portanto, Ange seria uma filha bastarda.`
+`A existência de Ushiromiya Ange seria apagada e, em seu lugar Sumadera Ange nasceria.`
+`"......Até essa parte eu entendi.`
+`  ......Mas porque disse que este mundo iria me ferir......?"`
+`"Por estar viva, eu encontrei o enigma do epitáfio,`
+` ......me tornei a Bruxa Dourada antes da Beato, ......resolvi o enigma do epitáfio e aprendi uma dica muito importante...`
+` porque a fantasia existe."`
+`"A humana chamada Ushiromiya Asumu......é realmente o completo oposto de Kyrie."`
+`"......Sim.`
+` ......Apesar da minha mãe parecer estar nas nuvens, ......ela era uma pessoa muito intrigante."`
+`O oposto de Kyrie.`
+`Enquanto Kyrie enfrentava as coisas com um pensamento lógico, o pensamento de Asumu era puramente inspiração.`
+`Por isso, Kyrie era muito mais forte em problemas que envolvessem números, mas......`
+` Ao contrário dela, Asumu era um gênio na resolução de enigmas que não podiam ser resolvidos pelo raciocínio.`
+`O enigma do epitáfio é basicamente um jogo de palavras assim.`
+`Não importaria o quanto Kyrie tentasse se aproximar com lógica e raciocínio,`
+` sua resposta não era algo que poderia ser alcançada dessa maneira......`
+`"Se eu não tivesse morrido,`
+` e o pai tivesse exibido o quadro da bruxa e o enigma do epitáfio`
+` ......tenho certeza que eu teria resolvido.`
+` ......E não seria só isso, eu teria percebido quem ele desejava que o resolvesse.`
+`  ......Por isso, eu teria deixado que Beato o resolvesse de uma vez.`
+` sta seria a fantasia."`
+`"Ou seja:`
+`  ......Kinzo caiu em sono eterno no momento em que minha ressurreição foi testemunhada.`
+` Em outras palavras, a essa altura Kinzo já teria desaparecido."`
+`"......Esperem!`
+` O tio Krauss deveria esconder a morte de Kinzo em prol dos seus interesses.`
+` Mesmo que ele estivesse morto, eles teriam que fingir que ele estava vivo......"`
+`"......Mãe.`
+` ......Esse mundo é mesmo conveniente até demais."`
+`"Contos de fadas — fantasias — não são sempre assim......?"`
+`"Ange.`
+` O tio Krauss só precisou esconder a morte do vovô por causa dos problemas financeiros."`
+`"......Neste mundo, eu não estaria envolta pelo desespero, ......ao menos estaria vivendo dias de paz bem longe dali.`
+` ......Por isso, após o ouro ter sido encontrado, tudo mudou......"`
+`O gatilho que fez com que o efêmero primeiro amor de Battler e Shannon fosse interrompido foi a morte de Asumu.`
+`Por isso, nesta fantasia em que Asumu não morreu, a efêmera relação dos dois não se desfez.`
+`A semente de amor que foi deixada unilateralmente no peito de Shannon, cujas raízes a atormentaram com anos de dor e sofrimento, não foi plantada.`
+`......O resto é tudo como a própria Asumu disse, ......é tudo um conto de fadas.`
+`Os dois puderam crescer saudáveis.`
+`E então, de repente, o epitáfio apareceu na mansão.`
+`A inspiração de Asumu, como se fosse um sexto sentido, ......percebeu que Kinzo desejava que Shannon performasse algum tipo de milagre.`
+`^Embora Genji fosse de poucas palavras, ele era péssimo em guardar segredos e, após impor algumas várias questões, ......Asumu percebeu que era uma maneira de Kinzo se redimir com sua criança bastarda.`
+`Nanjo disse a ele que seus dias estavam contados e que ele precisava liquidar com seus arrependimentos em vida, contando a verdade à garota que sequer sabia sobre a história por trás de sua vida.`
+`Ele esperava por um milagre e deixou nas mãos do tempo, mesmo com a alta probabilidade de que fosse tarde demais para tudo.`
+`Asumu, que era muito boa com enigmas e charadas, sugeriu que Battler e Shannon, que também amavam solucionar mistérios, para que resolvessem o enigma do epitáfio.`
+`Ela os observou e guiou para que os dois pudessem chegar à resposta espontaneamente.^`
+`ogo no começo do ano em que o epitáfio apareceu, a localização do esconderijo onde 20 bilhões de ienes estava, foi exposta por um jovem garoto e uma garota......`
+`"......Ange.`
+` Irei dizer no lugar dela.`
+` Direi várias vezes.`
+` ......Para esta mulher, esta fantasia...é um conto de fadas."`
+`"..........................."`
+`^No começo, ......Ange ficou confusa, sem entender por que Beato e PIECE estavam se desculpando diversas vezes, dizendo que era uma fantasia.`
+`Contudo, pouco a pouco, ela finamente começou a sentir esse sentimento desconfortável que não conseguia compreender......`
+`"Então,`
+` ......a garota pegaria para si aquilo que precisasse, entretanto era uma quantia mais do que suficiente para uma só pessoa receber, por isso o restante seria dividido com os familiares da família Ushiromiya.`
+` ......Portanto,`
+` todos os parentes teriam o suficiente para resolverem todos os seus problemas financeiros.`
+` A farsa para esconder a morte de Kinzo não seria necessária.`
+` Não haveria motivos para contendas nem nada, ......restando apenas uma ilha tranquila."`
+`"Então o motivo para os desaparecimento.....seria porque deixaram a ilha?"`
+`"Isso mesmo.`
+`  Sem o sofrimento ocasionado pelas raízes do broto do amor, não haveria nada que me prendesse a ilha e não seria necessário o atuar o papel de Bruxa Dourada."`
+`"O Genji‐san desapareceria porque......o mestre que ele servia morreu e Beato teria deixado a ilha."`
+`"Por não sentir mais nenhum dever de responsabilidade em relação a mim ou Kinzo, ele decidiu deixar a ilha e passar o resto de sua vida em paz.`
+` Com o falecimento de Kinzo, no momento em que decidiu deixar a ilha, ......o Genji‐san também não tinha mais nada que o prendesse em Rokkenjima......"`
+`"Por isso, ......suas formas desapareceram da festa de Halloween de 1986."`
+`"......Ou seja:`
+` o jogo da vez, ......limitado ao exato momento da festa Halloween de 1986, representa um erro entre dois o Fragmentos divergentes, que depende de Ushiromiya Asumu estar viva ou não,`
+` fazendo que a Bruxa das Peças devore a existências de seus oponentes e atue no lugar deles.`
+` ......É como um jogo dos sete erros......"`
+`"Isso mesmo.`
+` ......Um dos lados é o mundo onde a tragédia é selada dentro da caixa de gato.`
+` O outro lado......é um mundo onde apenas você e a Kyrie‐san ficam de fora, e assim tudo fica em paz.`
+` ......O sonho de Beato se realiza.`
+` ......O sonho de viver próxima da casa Battler e frequentar a mesma escola, se realiza.`
+` Tenho certeza que ele não sofreria pela morte de sua mãe nem o novo casamento de seu pai, ......e ainda ficaria feliz com esse milagre."`
+`".....................`
+` ......Entendi.`
+` ......Se for verdade, nós chegamos a essa resposta, vamos consentir com ela e iremos expor sua identidade.`
+` Contudo, ......eu irei negá‐la.`
+` Negarei essa resposta.`
+` ......Não é mesmo?"`
+`"..................Sim.`
+` ......Eu queria fazer você sofrer.`
+` Mesmo que chegasse a resposta, se apenas você negasse, não poderiam vencer.`
+` ......Eu queria atormentá‐la......com um jogo assim."`
+`"Eu não entendo......!`
+` Por que fazer algo assim......?!`
+` Não acredito que......minha mãe pudesse fazer algo assim......!"`
+`"......Se não quer acreditar, não precisa acreditar.`
+` Isto também é...o amor.`
+` .....Contudo, mesmo que não acredite, entenda.`
+` Mesmo que seja apenas um amor, o amor de uma única pessoa, ......quanta tragédia essa única pessoa pode causar?`
+` Você também deve entender isso muito bem, certo?"`
+`"......Pelo contrário, agradeça.`
+` ......Para que assim possa acreditar que ela não deseja atormentar as pessoas apenas por causa de seus ressentimentos para que possa se sentir melhor.`
+` Quero que a agradeça por todo amor que ela lhe deu......"`
+`Mesmo após a morte, quando soube que Rudolf havia casado com Kyrie......,`
+` nem mesmo Asumu foi capaz de acalmar seu coração.`
+`Para Asumu, ela jamais reconheceria essa contaminação na família, a garota chamada Ange.`
+`Ela, a peça assassina criada por essa emoção em seu âmago.`
+`Ela, quem teve sua família roubada após a morte, ......uma espécie de fantasma que manteve seu ódio póstumo por Kyrie e sua filha.`
+`Por isso, mesmo que Ange não tivesse culpa, ela a amaldiçoou......`
+`"E‐Eu não me importo.`
+` ......Não me importo mais com essas circunstâncias......!`
+` Mas, se eu reconhecer este Fragmento, ......o que acontecerá com a Ange?!`
+` Ela não perderá o seu lugar?!"`
+`"......Uma tragédia aconteceu......porque minha mãe entrou para a família Ushiromiya.`
+` ......Se Ushiromiya Asumu tivesse permanecido quem ela era, ......ninguém teria ficado triste.`
+` ......Eu não......deveria ter nascido......"`
+`"Isso não é verdade!!!`
+`  Mesmo assim, todo esse conteúdo está dentro da nossa caixa de gato!"`
+`"Isso mesmo.`
+` ......Ange.`
+` Não há nada com o que deva se preocupar."`
+`"Em vez da desonra ao final da vida, ......eu envergonhei a mim mesma após a morte.`
+` .....Por isso, Ange.`
+` Quem deve se envergonhar sou eu, não você."`
+`"Além disso,`
+` ......você tem um irmão confiável.`
+` E aqui tem uma bruxa que aceitará qualquer tipo de Fragmento.`
+` Você pode ficar.`
+` Aquela que deve ir, sou eu."`
+`"......Sim.`
+` ......É basicamente isso, não é?`
+` Seria estranho eu sentir vergonha de estar aqui.`
+` ......Uma fantasma como você acharia a coisa mais estranha de todas.`
+` ......Além disso, e imaginar que o futuro seria tão feliz se tivesse vivido.`
+` ......E se, e apenas se, o decorasse, você poderia forjar qualquer tipo de futuro."`
+`"Sim.`
+` .........Por isso, não mantenha rancor em seu coração por essa vil {i:Witch of the Piece}.`
+` Dê as costas e simplesmente a esqueça.`
+` ......Ah, é mesmo.`
+` ......É para isso que eu tenho esse poder, não é?`
+` Ufufufu........."`
+`"......Hã?"`
+`"Battler.`
+` ......Ela..."`
+`"Mãe......?!"`
+`O cabelo da Bruxa das Peças......`
+` Dançou como se fosse uma cortina ao vento,`
+` ondulando enquanto expandia‐se.`
+`"Tudo bem, Ange‐chan.`
+` E você também, Battler‐kun.`
+` ......Eu irei curar a tristeza de vocês agora mesmo."`
+`Lindos fios de cabelo, como se fosse a folhagem de uma grande árvore crescendo, ......lentamente envolveram o corpo da Bruxa das Peças......`
+`"Uhihhihihihi.`
+` ......Também me foi permitido desempenhar a peça de um humano excêntrico, pice.`
+` Bem, foi por pouco tempo, mas estou feliz por ter tirado a poeira que se acumulou no Abismo do esquecimento, peace{p:0:♪}"`
+`"Você tinha uma papel árduo,`
+` Bruxa das Peças.`
+` Tenha certeza de informar sua mentora de que o cumpriu com excelência."`
+`"Adeus, Battler‐kun.`
+` Cuide bem da sua irmã.`
+` Garotas podem ser muito mais frágeis do que você imagina......"`
+`"Mãe........."`
+`""Adeus, Ange‐chan."`
+`"....................."`
+`"Se está destinado a restar apenas uma pessoa como futuro da família Ushiromiya,`
+` .....eu fico feliz que essa pessoa seja você.`
+` ......Você é mais inteligente e forte que qualquer um, ......se fosse pelo bem da minha família... eu não veria problema em fazer de tudo para derramar o sangue da Kyrie.`
+` ......Ufufufu, e pensar que você é parente dessa tia patética que adora enigmas!"`
+`".........Eu...! ......Eu nunca a chamei de mãe durante toda a minha vida......!!`
+` .........Foi porque meu pai encontrou uma parceira maravilhosa......, que minha mãe a invejou mesmo após a morte......`
+` Eu não tenho dúvida disso!"`
+`"Obrigada.`
+` Espero que você também seja feliz!"`
+`"Sendo assim, que se fechem as cortinas!!`
+` Sua oponente fui eu, {i:Witch of The Piece}, a {i:peaceful} e {i:lovely} {f:5:Piece}‐chan!"`
+`"Que toda a humanidade deste mundo permaneça em paz.。`
+` Nnng~~~~~!!`
+` Peaceee!!!"`
+` *bagya*`
+` *poki*!`
+` ......*gushaa*............!!!`

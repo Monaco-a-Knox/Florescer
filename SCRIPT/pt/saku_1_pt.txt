@@ -1,0 +1,1290 @@
+`"Ojou‐sama.`
+` A Dlanor‐sama acaba de chegar."`
+`"Mas vejam só!`
+` Se não é ninguém mais ninguém menos do que a Chefe dos Inquisidores da Heresia, que veio pessoalmente para conferir o meu roteiro!`
+` A Grande Corte parece ser bem desocupada, ou será que tem mais funcionários do que aparenta?"`
+`"......Para que minha presença como testemunha tenha sido requerida,`
+` quero acreditar que o seu jogo seja intricadamente abstruso e {f:5:esplêndido}."`
+`"Sem bajulações. Pode se sentar.`
+` Ronove, prepare um chá preto bem doce e alguns cookies para a nossa Chefe Inquisidora aqui."`
+`"Como desejar."`
+`"Não PRECISA.`
+` Mais importante que isso, eu gostaria de poder vê‐lo o mais brevemente {f:5:possível}.`
+` ......O rascunho do novo jogo que você está {f:5:tecendo}."`
+`"Como quiser.`
+` O esboço já está pronto.`
+` Contudo, ainda estou no processo de embelezamento da história."`
+`Beato empurrou uma pilha de manuscritos que estavam sobre sua mesa e puxou dela um único tomo.`
+`Aquele era o manuscrito de um jogo.`
+`Revisado inúmeras vezes, com diversas anotações de seus materiais e post‐it anexos.`
+` ele emanava uma certa presença de dignidade.`
+`Dlanor curvou‐se e o recebeu.`
+`E assim, em meio ao vapor do chá preto que Ronove havia servido sobre a mesa, ela virou sua capa.`
+`"......Qual o nome deste JOGO?"`
+`"Não decidi ainda.`
+` Eu sempre os nomeio após terminar de escrever e concluir a história."`
+`"{f:5:Entendi}.`
+` ......Sem mais delongas, começarei a averiguá‐lo {f:5:agora}.`
+` Embora devo admitir que ter o privilégio da minha primeira leitura ser anterior à sua exímia conclusão seja um pouco {f:5:desapontador}."`
+`"*gargalhada*gargalhada*`
+` Esse é o lado infeliz de ser um depurador."`
+`"............Parece que desta vez também teremos um caso verdadeiramente misterioso e {f:5:complexo}.`
+` ......Estou realmente ansiosa para ver......como isto irá sublimar o patamar do {f:5:conto}."`
+`"Sem bajulações.`
+` Vire logo a página.`
+` Sinto como se eu fosse uma mangaká amadora entregando meu manuscrito ao editor."`
+`Beato riu de forma travessa e Dlanor retornou a ela o mesmo sorriso.`
+`Nas mãos de Dlanor estava......o tão falado manuscrito incompleto.`
+`Não, ainda era um esboço imaturo no caminho de se tornar um manuscrito, ainda em fase de construção.`
+`Utilizando das mesmas analogias que Beato adora, ......ainda era como um sorvete pastoso antes de ser congelado.`
+`Não, possivelmente era ainda mais incompleto do que isso.`
+`Era como gemas de ovo, leite e nata em uma tigela, ainda no processo de mistura dos ingredientes.`
+`"......É mesmo como o ovo de um {f:5:conto}.`
+` Você está aquecendo ele cuidadosamente para que possa chocar no tempo {f:5:certo}."`
+`"Se possível, eu gostaria de mostrar a você um maravilhoso sorvete, afinal quero que possa aproveitá‐lo por completo."`
+`"Obviamente, isso seria o {f:5:ideal}.`
+` ......Contudo, acredito que isto deixe a segunda leitura ainda {f:5:melhor}."`
+`Isso porque, mesmo que ainda esteja em um estado incompleto, ......sua receita já está exposta.`
+`É possível ter um precioso vislumbre dos bastidores; um lado que nunca poderemos ver depois que estiver finalizado.`
+`Aqueles capazes de ver isto são...`
+`Apenas a própria bruxa que o escreveu, ......e os poucos observadores que receberam a permissão dela.`
+`Este é um manuscrito inacabado, ainda no estado de uma sopa caótica e pastosa, antes de se tornar um sorvete.`
+`Na verdade, ele ainda falta com o desenvolvimento narrativo característico de uma história; sequer é um material de leitura completo.`
+`Contudo, apesar disso,`
+`ali estava registrada a receita secreta da Bruxa do Infinito {f:5:Beatrice}, a qual ainda não fora exposta a ninguém.`
+`Para um chef, suas receitas e sua cozinha são sagradas.`
+`Profaná‐las é o maior dos sacrilégios.`
+`Entretanto, para aqueles que admiram tais iguarias, é como um mel proibido do qual ninguém é capaz de resistir......`
+`O que seguirá a partir daqui não é um exemplo das preferências de Beato,`
+` ......mas podemos considerar como sendo um exemplo das preferências de FEATHERINE.`
+`Doravante, aquilo que está registrado são as entranhas do gato.`
+`Doravante, virar as páginas é o mesmo que cortar o estômago do gato e matá‐lo.`
+`Ame o gato, e então mate‐o para aproveitar uma segunda vez.`
+`Essas são palavras de BERNKASTEL, contudo tiveram origem nas palavras proferidas por FEATHERINE.`
+`Portanto, a ti eu pergunto:`
+`matarás o gato ou não?`
+`A anciã {f:5:Featherine} arrependeu‐se de cortar o estômago e matar inúmeros contos.`
+`E, nessa irreversível relação entre a ciência e a insciência, ela prefere enaltecer a virgindade da insciência.`
+`Portanto, a ti eu pergunto novamente.`
+`Matarás o gato ou não?`
+`{n}Doravante descansa o interior do estômago do gato......`
+`Obrigada......`
+`■CÚMPLICES`
+`{n}Desta vez, vamos fazer com que o Krauss e a Natsuhi sejam cúmplices.`
+`Contudo, o orgulho da Natsuhi é grande, então mesmo que eu mostre a ela uma montanha de dinheiro, é difícil acreditar que ela aceitará facilmente participar deste terrível incidente.`
+`O que significa que já me encontro sem saída, sendo obrigada a colocá‐la em uma situação em que não tenha como fugir.`
+`Após o tufão ter início, irei conduzir Krauss e Natsuhi em segredo até o quarto VIP subterrâneo e revelar o dispositivo da bomba para intimidá‐los.`
+`Se recusarem, todos morrerão.`
+` Se cooperarem, aqueles que não forem escolhidos pelo epitáfio poderão sobreviver.`
+`Todos os meios de comunicação para fora da ilha já terão sido cortados.`
+` Eles não terão meios para recusar.`
+`4 de outubro.`
+` Entardecer.`
+`A chuva está apertando cada vez mais e o vento ficando mais forte.`
+`O tufão já envelopou completamente a ilha.`
+`"......O que......o que é isto.........?"`
+`Natsuhi permaneceu atordoada em frente à escuridão da entrada levemente aberta que levava à escadaria subterrânea secreta.`
+`"Não tema.`
+` Devemos seguir em frente."`
+`Beato sorriu serenamente ao dizer isso.。`
+`"......Esta é......a passagem secreta do pai......não é......?"`
+`Desde que Krauss era criança, ele sempre acreditou que havia uma passagem até um quarto secreto nesta ilha que apenas Kinzo tinha conhecimento.`
+`Apesar disso, mesmo com ela se abrindo vagamente bem diante de seus olhos, ele não foi capaz de entrar sem antes hesitar.`
+`"Não vai me dizer que até você tem medo do escuro, Krauss...?`
+` Ou prefere continuar aqui?`
+` Expondo seu corpo ao vento e a chuva nos fundos da capela?"`
+`".........O que nos aguarda daqui pra frente?"`
+`"É bom que veja com seus próprios olhos.`
+` ......Embora você já deva estar começando a imaginar o que é.`
+` *gargalhada*gargalhada*......"`
+`"Querido, vamos parar!`
+` Tenho certeza que isso é uma armadilha......"`
+`"......Se eu pudesse, também preferiria não descer essa escadaria sinistra.`
+` ......Mas pelo que parece, nós estamos sem outra alternativa agora......"`
+`Enquanto Beato sorria zombeteiramente, ela se divertia com um rifle de cano serrado em suas mãos.`
+`......Sem dúvida, Krauss e Natsuhi foram ameaçados com aquela arma e coagidos a vir até aqui.`
+`No momento em que foram trazidos para a capela,`
+` eles tinham certeza que era para serem mortos em um lugar onde ninguém perceberia.`
+`Contudo, agora que esta escadaria subterrânea foi mostrada a eles,`
+` ambos começaram a pensar que talvez ela não estivesse planejando matá‐los.`
+`^O motivo dela saber sobre essa escadaria subterrânea secreta era a razão pela qual Beato era uma bruxa.`
+`E por ter se dado o trabalho de mostrá‐la a eles, não restavam dúvidas de que ela tinha outro motivo além de matá‐los.`
+`Krauss engoliu em seco e começou a descer lentamente a escadaria subterrânea.`
+`Natsuhi seguiu atrás de seu marido.`
+`Beato, sorrindo com confiança, seguiu atrás deles tranquilamente......`
+`No quarto VIP subterrâneo está uma vasta quantia de ouro empilhado.`
+`Obviamente, isso fará com que os corações de Krauss e Natsuhi se agitem, mas só isso não será o suficiente para fazer com que se tornem cúmplices de um terrível incidente.`
+`O dispositivo da bomba será explicado a eles.`
+`Por sorte, Krauss conhece bem a loucura de Kinzo.`
+` Mesmo ouvindo que ele criou um dispositivo capaz de explodir a ilha inteira, não é algo na qual eles possam rir.`
+`Aqui, Beato explicará a ameaça da bomba.`
+`  E assim, a autoridade que isso dá a ela fará com que eles compreendam.`
+`"O‐O quê......?! P‐Por que o pai armaria um dispositivo que poderia explodir a ilha onde ele mesmo vive...?!"`
+`"No passado, Rokkenjima serviu como uma base naval secreta, onde foi armazenada uma vasta quantidade de armamentos para serem utilizados em um último ato de resistência......`
+` Eu ouvi sobre essa história diversas vezes.`
+` O próprio pai comentava sobre isso, .........dizendo que no momento que sua sorte terminasse, tudo nesta ilha iria desaparecer por completo......`
+` Eu me recordo vagamente dele ter dito algo assim há muito tempo atrás."`
+`"Exatamente.`
+` Era sobre este dispositivo que ele se referia.`
+` ......Este dispositivo deve ser herdado pelo verdadeiro chefe da família Ushiromiya.`
+` Ou seja, agora apenas eu sou capaz de controlá‐lo."`
+`Quando ativado, este dispositivo é capaz de ocasionar uma gigantesca explosão a qualquer momento......`
+`As explicações de Beato podem não ser suficientes.`
+`Para isto, Genji terá que estar junto.`
+`e a mesma história for confirmada com ele, a sua credibilidade aumentará.`
+`"......Sim.`
+` Este dispositivo é uma bomba relógio que o mestre anterior criou.`
+` Agora ele pertence ao novo chefe da família, a {f:5:Beatrice}‐sama."`
+`"I‐Isso não........."`
+`Ouvir a mesma história vindo de Genji deixou Natsuhi sem palavras.`
+`E era compreensível.`
+`Nesta ilha em que ela viveu tantos anos até hoje, estava enterrada uma enorme quantidade de explosivos.`
+`Que poderiam, por um simples capricho de Kinzo,`
+` ......ou alguma circunstância inesperada, ocasionar uma imensa explosão.`
+`Natsuhi ficou petrificada diante da realidade...de que ela esteve vivendo em uma ilha assim até hoje.`
+`"......E‐Entendi.`
+` É mesmo uma história assustadora.`
+` Mas esses explosivos não são da época da Guerra...?`
+` Não acho que eles ainda possam explodir......"`
+`"Não se preocupe com isso.`
+` O Mestre realizava inspeções periódicas neles."`
+`"*gargalhada*`
+` Nós também fizemos um teste de explosão, é claro.`
+` Não há nada para se criticar no poder deles.`
+` ......Com apenas aquela quantidade, eles demonstraram um tremendo poder.`
+` Ao menos, eles devem mandar pelos ares, com muita facilidade, tudo ao redor da mansão em um alcance de algumas centenas de metros."`
+`"Um teste de explosão......?"`
+`"Isso mesmo.`
+` Para aferir o poder dos explosivos, eu explodi um certo objeto.`
+` ......Vocês devem saber bem o que é."`
+`Krauss e Natsuhi olharam um para o outro.`
+`Eles não lembravam de nenhum tipo de explosão nos arredores.`
+`Dando de ombros com um sorriso, Beato assinalou para que Genji explicasse.`
+`".........Patrão, madame,`
+` já se esqueceram?`
+` ......Sobre aquele santuário da divindade protetora local?"`
+`"Divindade...... protetora local......?"`
+`O santuário construído sobre um escolho próximo ao ancoradouro de Rokkenjima.`
+`Aquele que foi destruído por uma grande onda ou um raio ano passado.........?`
+`......Eles nem precisaram pensar muito.`
+`Contudo, não havia como uma grande onda ter levado o santuário e acabado com o escolho.`
+`Dentre os serviçais, circulava um rumor de que um raio púrpura havia caído e destruído o santuário... mas não existe algo como um raio púrpura.`
+` Muito menos um raio púrpura que pudesse esmagar o santuário ou destruir o escolho.`
+`".........Não pode ser...... Não........."`
+`"*gargalhada*! Sim, isso mesmo.`
+` Para celebrar minha ressurreição, eu mandei aquele santuário e o escolho pelos ares!`
+` E pensar que poderiam ser tão poderosos...!`
+` Imaginei que seria ótimo se destruísse o santuário, mas não pensei que explodiria o escolho também!`
+` As armas criadas pelos humanos são mesmo assustadoras."`
+`".........Compreendemos a situação.`
+` ......Então......?`
+` Você nos chamou até aqui e nós ouvimos a sua história.^@^ Mas o que pretende nos contando tudo isso?`
+` Mas o que pretende nos contando tudo isso?"`
+`"Normalmente, eu pensaria que você iria exigir dinheiro,`
+` mas já temos uma montanha de ouro bem aqui, logo não parece estar com problemas financeiros."`
+`"E se o seu objetivo fosse a minha vida, já a teria tomando.`
+` ......Não vai me dizer que está nos contando sobre o segredo de Rokkenjima apenas para que possa partir mais tranquila...?"`
+`Krauss buscou agir da forma mais calma possível.`
+`Sem dúvida, com cada uma de suas palavras sendo acompanhadas de uma leve hesitação, seu nervosismo e agitação ainda não haviam se acalmado.`
+`Contudo, a montanha de lingotes e toda a história sobre mandar a ilha pelos ares com os explosivos não era algo realista;`
+` pelo contrário, fez com que eles sentissem que o cenário diante deles fosse algo que estivesse do outro lado de uma televisão.`
+`De certa maneira, isso pode ter permitido que eles recuperassem a compostura.`
+`......Além disso, ele pôde pensar com mais calma.`
+`Foi dito que todos os meios de contato para fora da ilha tinham sido cortados,`
+` além disso, eles entenderam que o tufão iria isolar a ilha durante um período de dois dias.`
+`.........Não havia para onde fugir.`
+`Com um simples capricho desta Bruxa Dourada que herdara de toda a loucura de Ushiromiya Kinzo,`
+` ............todos em Rokkenjima poderiam ser explodidos em migalhas.`
+`Natsuhi provavelmente ainda precisaria de mais tempo para acalmar sua cabeça.`
+`Contudo, Krauss já estava calmo e começando a aceitar.`
+`"......Agora você vai nos impor algum tipo de condição, certo?`
+` ......Eu sequer consigo imaginar o que poderia ser,`
+` Contudo que que seja possível, estou aberto a negociações."`
+`"Hoh?`
+` Essa sua compreensão rápida já me poupa um bom trabalho."`
+`"Acredito que seja algo na qual não poderemos recusar.`
+` Afinal, agora você pode fazer facilmente com que todos na ilha sejam seus reféns."`
+`"Exatamente!`
+` Há apenas duas formas de escapar da explosão.`
+` A primeira é interromper o temporizador na qual apenas eu sei como fazer.`
+` E a outra é atravessar as grades deste corredor subterrâneo até o outro lado da ilha e escapar da explosão.`
+` ......Mas como podem ver, as trancas de todas grades estão sob o meu controle.`
+` Seja qual for o meio que escolher para sobreviver, você não pode se recusar a me obedecer."`
+`"Eu entendi`
+` Nós valorizamos as nossas vidas.`
+` ......Mas, ao mesmo tempo, parece que você está exigindo algum tipo de cooperação por nossa parte.`
+` Você possui dois grandes trunfos, então parece que só nos resta concordar com as suas condições."`
+`"*risos*risos*, gargalhada*gargalhada*...! Ótimo, Krauss.`
+` Se é assim que deseja que seja.`
+` ......Não é uma ameaça.`
+` É uma troca.`
+` Eu desejo pela cooperação de vocês."`
+`"Antes de fazermos qualquer coisa, vamos ouvir o que tem a dizer."`
+`"Vamos acordar toda esta montanha de ouro e a garantia da vida da sua família.`
+` Contudo, você terá que abrir mão de todo o resto."`
+`"......Eu poderia ouvir um pouco mais sobre o que se refere como "todo o resto"?"`
+`"Exatamente o que significa.`
+` Afinal, tudo nesta ilha será mandado pelos ares...!!"`
+`Krauss e Natsuhi estavam aterrorizados diante de tal proposta.`
+`Por um momento, eles perderam a calma, mas no fim era uma oferta na qual não poderiam recusar.`
+`Krauss acalmou Natsuhi e recuperou sua compostura......`
+`Ele respondeu dizendo que se tudo explodisse, não haveria tempo hábil para retirar todo o ouro da ilha.`
+`Beato estendeu para ele o cartão do cofre subterrâneo de um banco.`
+`Era tudo o que Beato já havia convertido em dinheiro até então.`
+`Em um cofre subterrâneo debaixo do banco dorme um bilhão de ienes em uma maleta abarrotada.`
+`De posse daquele cartão, Krauss teria um bilhão de ienes garantido.`
+`Mas Krauss teve dificuldades de acreditar que havia mesmo um bilhão de ienes dentro de um cofre.`
+`Contudo, o dinheiro não poderia comprar a vida de sua família.`
+`Mais uma vez, após discutir com Natsuhi, ele ficou cabisbaixo e desgastado.`
+`Em troca da absoluta segurança de sua família, Krauss relutantemente ofereceu sua cooperação.`
+`É claro, havia um interesse pessoal.`
+`A explosão da ilha provavelmente seria tratada como um acidente.`
+`E com isso, sem nenhum parente, a investigação sobre ele não seria concluída.`
+`^Naturalmente, a morte de Kinzo ficaria indefinida.`
+` Como se todos os problemas dele nunca tivessem existido.`
+`E mesmo que o cofre com um bilhão de ienes não exista, o seguro de vida de Kinzo já ofereceria uma gigantesca quantia em dinheiro.`
+`.........Natsuhi estava hesitante,`
+` ......mas para Krauss, não era um acordo ruim.`
+`Suprimindo parte da culpa em sua consciência, `
+` Krauss argumentou que não havia outra forma de proteger Jessica......`
+`"......Então, o que quer que façamos?"`
+`"Nós dissemos que iríamos cooperar, ......mas não seremos seus cúmplices em nenhum crime estranho."`
+`Krauss e Natsuhi disseram isso, já esgotados.`
+`"Eu quero encenar uma peça para receber uma certa pessoa."`
+`"......Uma peça......?"`
+`"Ele e eu temos um apreço por romances policiais, é uma relação onde trocamos nossas ideias sobre eles.`
+` Portanto, para comemorar seu retorno após seis anos, eu quero recebê‐lo com um mistério de primeira categoria."`
+`Parece que Beato pretendia dar início a uma performance de faz de conta nesta ilha isolada pelo tufão.`
+`O papel deles seria obedecer ao roteiro que ela preparou para que assim a história possa permanecer consistente.`
+`Ou seja, se tornarem personagens da peça dela......`
+`Agir e falar apenas aquilo que estivesse em seu roteiro.`
+`Não aparentava haver mais nenhum requerimento além disso.`
+`Contudo, qualquer outra coisa estava proibida.`
+`Caso algo interferisse em sua história, a segurança da família de Krauss não estaria garantida.`
+`A única forma de escapar da massiva explosão era se distanciando muito da mansão.`
+`A única maneira de escapar para a outra extremidade da ilha era pelo túnel que saía do quarto VIP subterrâneo.`
+`E esse túnel estará barricado por grades de metal.`
+`Beato deterá da posse da chave.`
+`Ela prometerá que entregará a chave a Krauss depois que tudo acabar.`
+`Toda essa história arriscada era suspeita e questionável......`
+`......Não, talvez fosse um aspecto necessário para a peça em si.`
+`Ela, em troca de entregar todo o ouro,`
+` estava dizendo que desejava a ajuda delas para a sua última peça.`
+`O vestido da bruxa do retrato que ela vestia e seu sorriso excêntrico,`
+` ......possivelmente eram prazeres concedidos apenas aqueles que resolveram o enigma do epitáfio.`
+`Krauss continuou a pressionar repetidamente pela segurança de sua família,`
+` dizendo que toda cooperação cessaria se a promessa fosse quebrada.`
+`Diante disso, {f:5:Beatrice}...`
+`...os ameaçou com uma risada insana,`
+` dizendo que ninguém sobreviveria se o roteiro não fosse seguido......`
+` assim, Krauss e Natsuhi foram complacentes.`
+`A cooperação de todos os serviçais e também de Nanjo já havia sido preparada.`
+`As preparações do tabuleiro agora estão completas.`
+`A história finalmente começará a se mover.`
+`"......Seja como for, nada vai começar se o pai não descer."`
+`"Francamente.`
+` Nós não viemos aqui para falar com você, nii‐san.`
+` Viemos para falar com o pai, sabia?"`
+`".............................."`
+`Krauss recebeu em silêncio as duras palavras de seus irmãos sem poder fazer nada de diferente.`
+`Ele não podia fazer nada fora do planejado.`
+` ......Krauss tinha de agir de acordo com o roteiro providenciado pela bruxa.`
+`......Neste roteiro, ele simplesmente precisava esperar pela meia‐noite.`
+`O que já estava próximo de acontecer......`
+`Nesse momento, eles ouviram o badalar do relógio do hall.`
+`Meia‐noite.`
+`......Está na hora do roteiro daquela bruxa começar a se mover......`
+`"Às 24 h, ocorre uma batida na porta da sala de jantar."`
+`Toc‐toc.`
+`Bateram na porta.`
+`"............Quem é?"`
+`Ele pretendia falar de forma despreocupada, mas sua voz acabou soando nervosa.`
+`"......Com licença.`
+` Sou eu, o Genji."`
+`Ele também era um dos que estavam seguindo o roteiro de {f:5:Beatrice}.`
+`"Ora, Genji‐san.`
+` ......O que veio fazer aqui a essa hora?"`
+`"Bem na hora!`
+` Minha garganta está sedenta.`
+` Por que não fazemos um pequeno intervalo e tomamos um pouco de chá?"`
+`Genji, após sinalizar a Krauss com um olhar, baixou respeitosamente sua cabeça e fez o anúncio.`
+`"......Senhoras e senhores.`
+` O Mestre os convoca ao seu estúdio."`
+`Todos se atiçaram diante daquelas palavras.`
+`Apesar de Eva ter duvidado da existência de Kinzo, .......o mesmo então chamou todos para o seu estúdio.。`
+`"......O‐O que isso significa......"`
+`"V‐Vou saber!`
+` ......Até hoje, eu nunca entendi os caprichos do pai."`
+`Tudo estava indo de acordo com o roteiro.`
+`......Todos aqui foram convocados ao estúdio.`
+`E então, em frente ao estúdio, ele e Natsuhi serão mandados esperar......`
+`"Por favor, esperem.`
+` ......O patrão e a madame devem esperar aqui."`
+`Em frente ao estúdio, Genji faz seu pronunciamento.`
+`Natsuhi nada diz e silenciosamente direciona seu olhar ao chão.`
+`Vendo isso, Eva sorri triunfantemente.`
+`"Ora, o que isso significa?`
+` O que ele poderia querer dizer para nós antes de falar com vocês?"`
+`"Não sei......`
+` ......Eu nunca sei o que o pai está pensando......"`
+`"Mestre,`
+` ......é o Genji.`
+` Eu trouxe seus parentes."`
+`Genji disse isso através da porta após ter batido.^`
+`......Uma farsa.`
+` Do outro lado da porta, um estúdio inabitado que há muito tempo perdeu seu governante.`
+`"Pessoal,`
+` ......este é o glorioso estúdio do chefe da família Ushiromiya, Kinzo‐sama.`
+` Peço que cuidem para não cometerem descuidos."`
+`"......Genji‐san.`
+` O pai está de bom humor, né...?"`
+`"Sim.`
+` O chefe da família está muito bem humorado."`
+`Tanto Eva quanto Rosa ficaram visivelmente aliviadas.`
+`......Mas Kraus e Natsuhi sabiam.`
+` chefe a qual Genji se referia,`
+` ......era um novo chefe.`
+` Era aquela bruxa.`
+`Agora, a Bruxa Dourada {f:5:Beatrice} os aguardava dentro do estúdio.`
+`A ilha onde ele vivia, a mansão onde morava,`
+` ......sem que ele soubesse, foi conferida a um novo chefe, a bruxa do retrato.`
+`Krauss sentiu que mansão que ele acreditava ser a sua casa,`
+` ......de repente havia se transformado em um lugar completamente diferente para ele.`
+`Com Genji indo na frente, Eva e os demais parentes......foram sendo consumidos pelo doce e venenoso aroma do estúdio.`
+`Lentamente a porta se fechou, ......e junto ao som da pesada tranca automática, a existência deles foi extinta.`
+`".............................."`
+`"......Isso quer dizer......que o nosso trabalho terminou?"`
+`".........Bem, ao menos por esta noite......"`
+`"Aquela mulher é ominosa.`
+` ......Ela passa uma sensação ruim de que poderia destruir tudo se nos aproximarmos dela de forma descuidada."`
+`"Você também acha isso?`
+` ......Eu sinto o mesmo.`
+` .........Por isso, eu acredito que devemos fazer exatamente o que aquela mulher disser.`
+` ......Se não tivéssemos baixado a cabeça para ela, ......ela teria nos matado na mesma hora naquele lugar."`
+`"......Todos os serviçais já se tornaram capangas daquela mulher......"`
+`"Ninguém quer morrer.`
+` ......Além disso, pode ter sido prometido a eles o mesmo que vamos receber.`
+` ......Afinal, ela tem 20 bilhões em ouro."`
+`Nesse instante, Krauss e Natsuhi ficaram em silêncio ao ouvirem sons de passos inesperados.`
+`Ao olharem para ver, eles avistaram Kumasawa subindo as escadas.`
+`Kumasawa também era uma subordinada da bruxa.`
+`Eles não poderiam baixar a guarda, mas comparado com Genji, eles ainda a viam como alguém mais próxima.`
+`"......Vocês forem muito bem.`
+` O trabalho dos dois está concluído por esta noite."`
+`".........O que a bruxa está dizendo para eles...?"`
+`"Não sei......`
+` Eu também não faço ideia do que passa na cabeça da {f:5:Beatrice}‐sama."`
+`"Entendi.`
+` Tanto a bruxa quanto o pai são realmente parecidos em seus caprichos."`
+`"O que nós devemos fazer agora?"`
+`"......Por esta noite, vocês devem retornar aos seus quartos e descansarem.`
+` ......A partir de amanhã, seguirão o roteiro do segundo dia......"`
+`"Kumasawa‐san,`
+` ......você também foi......subornada pela bruxa...?"`
+`"........................Eu também valorizo a minha vida."`
+`"Sobre a bomba......`
+` ......Ela......é verdadeira...?`
+` Há mesmo uma bomba debaixo desta ilha, armada para explodir......?"`
+`"......Temo que seja verdade.`
+` .....Afinal, o santuário do deus protetor local foi explodido com os explosivos."`
+`"................................."`
+`"Sabe o que vai acontecer agora?`
+` Chegou a ouvir algo sobre isso......?"`
+`".........Tudo o que ouvi é que teremos uma grande peça para surpreender uma certa pessoa.`
+` ......Por favor, me perdoem por só dizer isso.`
+` ......Eu também estou sendo ameaçada caso fale mais do que o necessário......"`
+`Quando Kumasawa humildemente disse isso, ela baixou profundamente sua cabeça.`
+`O suborno com a vasta quantia de ouro e a ameça da bomba.`
+`No fim, eles não terão meios para resistir.`
+`Isto é apenas uma grande farsa? ......Ou seria a abertura de uma medonha celebração para comemorar a ressurreição da Bruxa Dourada?`
+`Apesar do ominoso sentimento que eles tiveram, causado pelos trovões do lado de fora, Krauss e Natsuhi só podiam seguir para os seus respectivos quartos......`
+`Contudo, em seus quartos já havia sido entregues novos roteiros.`
+`Lendo‐os, ......eles descobriram que a farsa desta noite ainda iria continuar......`
+`As cinco pessoas convidadas ao estúdio: Eva, Hideyoshi, Rudolf, Kyrie e Rosa;`
+` permaneceram com uma postura atenda e imóvel, como se fossem crianças que haviam sido chamadas para uma cerimônia.`
+`"......Mestre.`
+` Eu trouxe os cinco parentes que foram chamados."`
+`"Ótimo.`
+` Bom trabalho, Genji."`
+`Todos ficaram surpresos ao ouvir a voz de uma mulher.`
+`O cintilar de um relâmpago iluminou a figura da mulher por um instante;`
+` exatamente a mesma imagem daquela que eles viam dependurada no hall.`
+`"Pessoal,`
+` vocês estão agora na presença do chefe da gloriosa família Ushiromiya, {f:5:Beatrice}‐sama."`
+`Eles ficaram tão espantados ao verem a bruxa que até mesmo se esqueceram de fechar suas bocas.`
+`Eva foi a primeira a reaver seus sentidos.`
+`".........I‐Isso........é algum tipo de piada? Genji, o que isso ignifica?!"`
+`"M‐Mas que surpresa......`
+` Ela é uma cópia idêntica da bruxa do retrato......`
+` Esse vestido foi feito por encomenda......?"`
+`"Silêncio, por favor.`
+` Vocês estão na presença do chefe.`
+` Evitem serem desrespeitosos."`
+`Diante da repreensão direta de Genji, todos retornaram ao estado de confusão.`
+`Não, não foi por isso.`
+`Foi porque o chefe na qual eles estavam familiarizado casualmente foi surgindo da escuridão.`
+`"O dia em que retornarei tudo à minha amada bruxa finalmente chegou.`
+` Na noite de hoje,`
+` eu passei a ela o anel do chefe e todos os bens da família Ushiromiya."`
+`Com um humor nas alturas, Kinzo fez o seu anúncio.`
+`É claro, não tem como Kinzo aparecer.`
+`Para aqueles que já sabem que Kinzo deixou este mundo, esta ilusão não passa de uma mera farsa.`
+`Porque ilusões são um embelezamento dos resultados.`
+`Meramente uma criação produzida por trás dos resultados conhecidos.`
+`O resultado de que cinco pessoas morreram neste estúdio.`
+`Junto aos seus miseráveis momentos finais vem uma nova produção.`
+`"Pois bem!`
+` Há uma razão para os cinco terem sido reunidos aqui esta noite!`
+` Alguém saberia dizer o motivo?`
+` *gargalhada* Nunca saberão sendo perguntados assim tão de repente,`
+` por isso darei uma dica:`
+`  ......há um motivo para Krauss e Natsuhi não terem sido chamados.`
+` O Genji não conta,`
+` afinal ainda tenho uso para ele."`
+`Declarando isso subitamente, um sorriso perverso subiu ao rosto de Beato..`
+`Obviamente, não havia como eles responderem tal pergunta.`
+`Até mesmo Kinzo sacudiu sua cabeça.`
+`"......Ó {f:5:Beatrice}!`
+` É mesmo surpreendente que tenha elaborada uma questão na qual nem mesmo eu sei responder.`
+` Por quê? Por que Krauss e Natsuhi não estão aqui para celebrar a sua ressurreição?"`
+`"Ainda não entendeu, Kinzo?`
+` ......*gargalhada*gargalhada*`
+` Darei mais uma dica:`
+` foi algo sinalizado pelo grande relógio localizado no hall pouco tempo atrás."`
+`Ficando cada vez mais confusos, os parentes começaram a sussurrar e murmurar entre si.`
+`Eles realmente não faziam ideia do que estava acontecendo.`
+`"Francamente! E pensar que nem Kinzo entendeu! Vocês me desapontam, humanos...!`
+` Pois bem, lhes direi a resposta.`
+` Vamos ver... como devo prosseguir dessa vez?`
+` As Sete Irmãs faltam com afetação... As pessoas já estão familiarizadas com a Tropa das Irmãs Chiester...`
+` A Gaap seria uma boa, mas sinto que já está na hora de invocar um novo convidado!"`
+`Qual demônio eu devo invocar dessa vez?`
+`Abrindo seu grimório, ela escolheu aleatoriamente um dos 72 demônios.`
+`......Hmm... Virando casualmente suas páginas......`
+`O número que surgiu foi o 64.`
+`Quem era mesmo o 64ª entre os os 72?`
+`Rank número 64`
+` ({p:0:フラウロス})`
+`Flauros.`
+` ......Sim, soa muito bem.`
+` Vamos com esse.`
+`Certo, como será seu design?`
+`A Gaap e o Ronove, todos tem um design bem adulto, então dessa vez eu gostaria de fazer o contrário; um design mais infantil.`
+`Um assassino de aparência mais inocente?`
+`Talvez seja bom consultar sua aparência...`
+` Vamos pesquisar mais sobre Flauros.`
+`Flauros.`
+` Fla‐chan!`
+` Sim, eu gostei dessa sonoridade?`
+`......Vamos ver, deixe‐me ver? Tem a aparência de um leopardo?`
+`Assume a forma de um homem quando está em sua forma humana.`
+` ......Quê? Um homem? Uma garota fofa seria muito melhor!`
+`Mudança de planos.`
+` Vamos transformá‐lo em uma adorável garota com orelhinhas de animal.`
+` O Sakutarou também tem orelhinhas adoráveis, então precisa ser algo parecido.........`
+`Deixe‐me desenhar um pouquinho aqui.`
+`*risca e rabisca*......`
+`"Então, quem atenderá meu chamado?!`
+` Qualquer um está bom, o único requerimento é que não me deixe entediada!`
+` Venha até mim, demônio do contrato!`
+` Não me importo quem seja, apareça e cure‐me do meu tédio!"`
+`Quando {f:5:Beatrice} ergueu ambas as mãos, o piso do estúdio reluziu em ouro ao mesmo tempo em que um redemoinho surgiu.`
+`Era um fantasioso enxame de borboletas douradas.`
+`Os parentes estavam atônitos diante de tamanha beleza da cena que os fez perder todo o senso de realidade.`
+`"Que invocação mais bela!`
+` Então, vamos ver quem você chamou.`
+` ......Quanta majestade!`
+` Parece ser um Grande Demônio dos 72 pilares!"`
+`"*gargalhada* Nada mal, Kinzo.`
+` Você entende mesmo de invocações!`
+` Isso mesmo, eu invoquei um dos Grandes Demônios dos 72 Pilares! Contudo, nem mesmo eu sei quem irá aparecer!"`
+`""Você é mesmo assustadora;`
+` capaz de fazer uma invocação dessas com uma atitude tão despreocupada.`
+` Eu admiro profundamente esse tipo de poder mágico...!"`
+`Com o espiralar do redemoinho de borboletas douradas, uma forma humana foi sendo criada em seu interior.`
+`Após explodir‐se, ......um Grande Demônio dos 72 Pialares apareceu.`
+`"Muito bem, quem atendeu a minha invocação?"`
+`".........Parece ser Flauros."`
+`"Nada mal, Kinzo.`
+` Para ser capaz de reconhecer só de olhar, você está muito além de um simples humano."`
+`Kinzo e {f:5:Beatrice} estavam rindo enquanto trocavam palavras animadas.`
+`Contudo, os demais parentes permaneciam imóveis e com suas mentes completamente brancas.`
+`"Oh, Flauros!`
+` Há quanto tempo?!`
+` ......Para ter respondido a minha invocação, ao menos isso significa que você não está atada ao contrato de mais ninguém.`
+` Isso me alegra; eu a recebo como minha aliada."`
+`"64ª entre os 72 Demônios.`
+` A Flamejante Flauros se faz presente, daí!"`
+`Aos olhos de humanos normais, ela provavelmente parece apenas uma garota do fundamental.`
+`Contudo, ela é um dos 72 Grandes Demônios, Flauros.`
+`Com seu temível poder, ela esmaga os inimigos de seu invocador. Sua especialidade é queimar às cinzas; um exímio demônio entre os demônios.`
+`"Era apenas uma simples invocação indiferente,`
+` mas resolvi vir porque parecia interessante.`
+` E pensar que a invocadora seria a Grande Lady {f:5:Beatrice}, daí!`
+` Mesmo tendo vindo a negócios, parece que vou me divertir, daí!"`
+`"Exatamente.`
+` Certa vez você foi contratada por uma bruxa que era minha inimiga.`
+` .......Tê‐la como oponente é mesmo osso duro."`
+`""Bem, os negócios não me deixavam escolha, daí.`
+` Então, qual o trabalho da vez?`
+` Será matar ou quebrar tudo?`
+` Já faz um bom tempo que estou me coçando para ficar desenfreada!"`
+`"Eu a ordeno que coopere com minha cerimônia.`
+` O relógio já marcou seu início!`
+` Eu a ordeno que mate seis pessoas para serem os sacrifícios do primeiro crepúsculo!!"`
+`"Matar seis, tá tranquilo! Posso matar as seis que convenientemente estão alinhadas aqui, né?"`
+`"......Fu, ...fuhahahahahaha`
+` Quê? É mesmo?!`
+` Então também sou um dos que deu azar! Hahahahahahahahahaha!!"`
+`Kinzo finalmente percebeu o motivo pelo qual todos foram reunidos em seu estúdio.`
+`Na cabeça de {f:5:Beatrice}, os sacrifícios do primeiro crepúsculo já haviam sido definidos.`
+`"......P‐Pai......`
+` O que......isso significa...?"`
+`Eva perguntou timidamente.`
+`Mas Kinzo continuou a rir ensandecidamente.`
+`"Vocês são mesmo azarados! Então, quem devo devorar primeiro?!"`
+`Flauros elegantemente esticou ambas as mãos ao chão.`
+`Sua aparência não era mais a de uma pessoa... Assimilando‐se a ferocidade de um leopardo......`
+`"Não me odeiem, tá?`
+` Vocês não fizeram nada de errado.`
+` Se quiserem guardar algum ressentimento, odeiem o homem que renegou sua promessa durante seis longos anos."`
+`Todos exibiram uma expressão de confusão.`
+`Beato inclinou‐se na direção da sombra do sofá.`
+`E quando se levantou novamente,`
+` em suas mãos estava um rifler de cano curto da coleção de Kinzo.`
+`^Com aquela combinação de vestido e armas antiquadas, aos olhos dos parentes, pareceu uma nobre mulher segurando algo que aparentavam serem leques.`
+`Ao menos até que aquelas armas começassem a cuspir fogo.`
+`Primeiro, dentro do estúdio de Kinzo, Eva, Hideyoshi, Rudolf, Kyrie e Rosa serão mortos.`
+`A porta do estúdio dele é espessa, por isso o som de tiros não vai vazar facilmente para fora.`
+`Krauss e Natsuhi já terão sido guiados para longe por Kumasawa.`
+` Eles não ouvirão o som dos tiros.`
+`As ferramentas necessárias para se lidar com os cadáveres já estarão preparadas de antemão no estúdio.`
+`Flauros mudará sua forma para a de um leopardo gigante e começará engolindo Kinzo.`
+`Ele precisa ser engolido por completo, para não deixar um cadáver e corroborar com a trama.`
+`Seria bom deixar algo dele para trás, como um farrapos de seu manto caído dentro do quarto.`
+`Chocados com esse ocorrido, os parentes tentarão escapar do quarto,`
+`  mas não terão como fugir porque ele terá sido magicamente selado.`
+`"Acham que eu deixaria minhas presas escaparem?!`
+`  É bom se prepararem porque vou começar a cozinhá‐los em ordem, daí!"`
+`Um imenso leopardo rugiu enquanto sua barriga inflava.`
+`Talvez Kinzo, que havia sido abocanhado, estivesse tentado resistir.`
+` Ou talvez fosse apenas indigestão.`
+`"......Ugee.`
+` Carne de velho é mesmo ruim, hein?`
+` Preciso tomar algum digestivo depois.`
+` Uu...gefuu......"`
+`Flauros retornou à forma de uma garota, acariciando sua barriga que se projetava como uma melancia.`
+`Eventualmente, seu estômago se retraiu enquanto ela dava dava de ombros.`
+`"Foi mal, mas não vou engolir vocês inteiros, só irei mastigar a carne macia.`
+`  Para estar com azia depois de comer um, eu devo estar ficando velha, daí."`
+`"E‐Estamos sonhando?!`
+` Que tipo de piada é essa...?!`
+` Droga, droga!!"`
+`"Tem alguém aí?!`
+` Abre esta porta!!`
+` Abre aí!!"`
+`Alguns dos familiares tentaram bater na porta que estava atrás deles,`
+` contudo a mesma não iria se abrir até que o primeiro crepúsculo chegasse ao fim;`
+` outros deram às costas a ela e ficaram observando Flauros.`
+`"Ainda faltam cinco.`
+` Acabe logo com isso."`
+`"Tá, deixa comigo!`
+` Esta noite estou afim de uns miúdos, então vou arrancar as entranhas quentinhas de vocês!!"`
+`"P‐Pare de dizer essas coisas perturbadoras......!!`
+` Vai se dar mal se ficar provocando adultos dessa forma, sabia...?!"`
+`Rudolf tentou demonstrar alguma atitude, mas seu corpo estava tremendo de medo.`
+`Flauros se aproximou de Rudolf enquanto ria de forma travessa e lambia seus lábios......`
+`"O seu fígado parece uma delícia, daí!`
+` ......Hora de dar uma mordidinha!!"`
+`Em contraste ao tom da garota que havia devorado uma pessoa, suas unhas ficaram mais afiadas.`
+`"Ga, ......ga, ha.................."`
+`"Rudolf nii‐san......?!?!！"`
+`Rudolf perdeu suas forças e caiu de joelhos.`
+`Então, com um *bam* seguindo de um *splash*, suas vísceras foram expelidas de seu estômago aberto.`
+`"""U‐UWaAAAAAaAAAAaAa?!?!"""`
+`"Uwaa, que coloração mais insossa.`
+` Então, devo abrir o intestino de quem agora?!"`
+`Linhas de sangue fresco foram traçadas inúmeras vezes pelas paredes......`
+`Para manter a concordância dos roteiros anteriores, os corpos serão distorcidos.`
+`Assim vestígios dos tiros não serão descobertos, já que grandes pedaços de seus corpos terão sido meticulosamente destruídos.`
+`Flauros terá aberto seus estômagos, puxado suas entranhas para fora e mordido elas.`
+`Isso precisa ser reproduzido meticulosamente.`
+`"Gente de meia‐idade sempre tem essas entranhas insossas.`
+` ......Uuh, o Kinzo fez meu estômago embrulharrr.`
+` Ugee, acho que vou vomitar."`
+`".........Que visão mais horrível."`
+`"Sem dúvida.`
+` Com os cadáveres dilacerados e seus órgãos espalhados dessa maneira, o primeiro crepúsculo banhado a sangue está impecável!`
+` Essa brutalidade faz até parecer que a {f:5:Eva} voltou!"`
+`"Eu não pretendia ser brutal assim.`
+` Me mandaram comer eles e assim eu fiz, daí!`
+` Então, quem devo matar agora, daí?`
+` Ter ficado trancada naquele forno por centenas de anos me deixou tão entendiada que agora tô me coçando para poder me soltar à vontade!!"`
+`Parece que Flauros não está conseguindo conter a prazerosa palpitação borbulhando por todo o seu corpo após ser invocada depois de tanto tempo.`
+`De quatro, como se fosse uma besta em posição de ataque, ela se esticou enquanto gemia.`
+`"Sinto muito, mas a minha cerimônia precisa seguir várias regras.`
+` Até que o segundo crepúsculo chegue, você não terá mais vez."`
+`"Tch, quando finalmente pensei que poderia me banhar em uma chuva de sangue.`
+` Que decepção, hein?"`
+`"Deve ser porque você é sempre invocada em meio a enxames de inimigos.`
+` Eu realmente sinto muito que sua primeira presa após cem anos sejam meras seis pessoas."`
+`"Bem, sabe como é...`
+` Mesmo eu amando a hora da boca‐livre,`
+` eu também aprecio porções menores de carne servidas aos poucos durante a entrada.`
+` Como fui invocada por ti,`
+` farei questão de aproveitar ao máximo todos os pratos do banquete da Grande {f:5:Beatrice} até o final."`
+`"Quando mais selvagem você ficar, mais selvagem tudo ficará; assim menos entediante e mais divertido ficará para mim.`
+` Também estou ansiosa para que se divirta."`
+`"Então tá... Tudo bem eu sair de cena até meu papel no segundo crepúsculo ter início?"`
+`"Sim.`
+` Até lá, fique à vontade para relaxar."`
+`"Certo, farei aquilo que me der vontade até lá.`
+` Quero correr ardentemente debaixo desta tempestade!!"`
+`Flauros ficou de quatro novamente enquanto se espreguiçava alegremente, com todo seu corpo gemendo em deleite.`
+`Seu corpo foi emitindo uma luz vermelha e brilhante, queimando em chamas flamejantes.`
+`Sou a 64ª dentre os 72 Pilares, Flauros, a Flamejante!!`
+` A tudo eu devoro, às cinzas queimo e em pedaços esmago!!`
+` Ahh, mal posso esperar para chegar a minha vez de novo!!"`
+`A luz vermelha e reluzente que a envolvia ficou branca e, de repente, uma grande explosão ocorreu.`
+`O cômodo se estilhaçou e tudo ficou branco com a fumaça e a poeira da pressão gerada pela explosão.`
+`E assim, o interior do estúdio foi engolido por um vendaval e uma chuva ardente.`
+`A explosão de Flauros abriu um imenso buraco na parede do estúdio.`
+`"Francamente...`
+` Não precisava se mostrar tanto assim.`
+` Não era isso que eu pretendia fazer aqui, afinal este deveria ser um assassinato de quarto fechado.`
+` Essa destruição arbitrária da parede é inaceitável!"`
+`"Nyahhihihihi!`
+` Fiz uma coisa ruim!`
+` Eu amo destruir tanto quanto amo matar!`
+` E mais do que tudo, amo incinerar as coisas!!"`
+`Gritando isso, ela retornou à forma de leopardo, deixando pegadas flamejantes para trás e saltou em direção ao céu tempestuoso.`
+`Pulando pelo grande buraco que abriu na parede, ela foi chutando as paredes do pátio interno até desaparecer em direção ao grande céu azeviche.`
+`Parece que ela não consegue se conter depois de ter ficado tanto tempo longe do mundo físico.`
+`"Entendi.`
+` Ela é do tipo que nunca deixa você entediada.`
+` gargalhada*gargalhada*`
+` No entanto, isso é horrível.""`
+`Um buraco gigante aberto na parede, ......escombros, fumaça e o vento da tempestade soprando para dentro deixaram o estúdio completamente caótico.`
+`Além disso, ......os sacrifícios, com seus órgãos internos cruelmente devorados.`
+`"De tempos em tempos, algo mais ousado para o primeiro crepúsculo também tem seu charme.`
+` *gargalhada* hahahahahahahahahaha...!!"`
+`Krauss e Natsuhi devem ser trazidos aqui para testemunhar tudo do início ao fim.`
+`Sendo assim, seria bom sujar um pouco a roupa deles com poeira.`
+`Fazê‐los cair e rolar pelo estúdio neste estado deve ser o suficiente.`
+`Assim, quando os seis tiverem sido mortos,、`
+` eles devem fugir pela porta depois que o selo tiver expirado, enquanto Beato zombará deles, dizendo como tiveram sorte...ou algo assim.`
+`Depois, Krauss e Natsuhi irão se apressar para chamar a polícia, mas por algum motivo, eles não vão conseguir.`
+`Eles devem juntar os serviçais e correrem para casa de hóspedes, em pânico...`
+` É o que o roteiro manda.`
+`Mas nessa conjuntura, Shannon e Kanon não podem ir juntos, por isso essa parte precisa ser feita com cuidado.`
+`Sendo uma trama simples, ......Natsuhi e Shannon vão para a casa de hóspedes`
+` enquanto Krauss e Kanon vão buscar armas para se defenderem e acabam demorando para chegar.`
+`Depois Shannon entra na sala dos serviçais junto com Kumasawa, que estará se tremendo toda,`
+` escapa pela janela e vai se juntar a Krauss.`
+`Depois disso, todo mundo se reúne na casa de hóspedes.`
+`Aqueles que tiveram seus parentes mortos provavelmente vão querer conferir a cena do crime;`
+` talvez comecem a planejar uma forma de se vingarem ou qualquer outro motivo para deixarem a casa de hóspedes.`
+`Se eles forem persistentes, conseguirão ir mais uma vez até o estúdio.`
+`Novamente, a porta estará trancada pela tranca automática,、`
+` mas não terá problema porque Genji estará com a chave.`
+`Quando virem a bizarra cena do crime, com um buraco gigante na parede,`
+` eles se verão obrigados a aceitar que aquilo não poderia ter sido feito por mãos humanas.`
+`Também seria interessante se tivesse um círculo mágico na cena do crime, ......que não estava lá antes.`
+`O círculo mágico poderia ser preparado com diversos dias de antecedência.`
+` Krauss e Natsuhi só precisam mentir afirmando que aquilo não estava lá e tudo fica dentro dos conformes.`
+`Para deixar tudo ainda mais inexplicável, eles estarão com um envelope que fará a proclamação do crime, e que será "descoberto" durante a situação de quarto fechado.`
+`Apenas um exemplo, mas eles poderiam retornar ao quarto que já havia sido revistado e trancado pouco antes,`
+` e então se deparam com um ominoso envelope que teria surgido abruptamente.`
+`O aparecimento do envelope será impossível por qualquer outro método sem ser a magia, exceto se suspeitarem que os dois podem ser cúmplices.`
+`O primeiro mistério a ser discutido no mundo meta pode ocorrer aqui.`
+`Será absolutamente impossível compreender isso sem duvidar de Krauss e Natsuhi.`
+`Provavelmente, "ele" não será capaz de pensar em nada além de algo relacionado a tranca ou algum tipo de truque relacionado a fresta da porta ou da janela.`
+`Contudo, se este cômodo for realmente um quarto fechado, não poderá haver nenhum culpado se escondendo aqui.`
+`Se eu apontar tudo isso com a verdade vermelha, ele terá que desistir.`
+`Ele só é capaz de destruir "quartos fechados falsificados".`
+`Sendo assim, se este quarto for mesmo um quarto fechado, ele chegará ao ponto de dizer "é magnífico" e vai parar de pensar.`
+`De fato, na taxonomia dos quartos fechados de Carr, são enumerados diversas ilusões óticas de quartos fechados falsificados, que parecem quartos fechados perfeitos.`
+` Eles providenciam entretenimento com truques e, quando se pensa em uma forma de trazer entretenimento na ficção policial, é verdade que uma "resposta" tangível e identificável pode ser fundamentada por conveniência`
+`Consequentemente, torna‐se inevitável dizer que grande parte dos mistérios acaba sendo inundado por quartos fechados falsificados.`
+` (Mas isso também acaba por fazer disso um limite para o pensamento sobre a maioria dos quartos fechados.`
+` Não me entenda mal, eu não estou criticando os quartos fechados falsificados.`
+` Eu estou criticando os humanos de mente fechada que, por só conhecerem quartos fechados falsificados, acabam achando que este é o único tipo de quarto fechado que existe nos mistérios.)`
+`Contudo, não podemos esquecer que na taxonomia de quartos fechados de Carr também são descritos métodos de assassinato em quartos fechados genuínos.`
+`Pelo contrário, se for confirmado com a verdade vermelha que é um quarto fechado perfeito, fica fácil raciocinar com base na taxonomia dos quartos fechados de H. H. Holmes.`
+`(Dizer Holmes pode ser um pouco confuso, então vamos chamá‐lo pelo seu verdadeiro nome de agora em diante, Boucher.)`
+`De acordo com Boucher, mistérios de quarto fechado podem ser explicados com três categorias.^`
+`Para deixar essas categorias bem claras, eu escrevi sobre as mesmas abaixo.`
+`São elas: quando o crime é conduzido antes da construção do quarto fechado; quando é conduzido durante o processo ou quando o crime é conduzido depois que ele é destruído.`
+` Essas são as três categorias.`
+`Se a verdade vermelha disser que é impossível durante o processo,`
+` então é natural pensar que o crime foi cometido antes de sua construção ou após a sua destruição.`
+`Se utilizarmos o incidente do surgimento repentino da carta como exemplo,`
+` então a carta foi colocada antes do quarto fechado ou após; são apenas duas categorias.`
+`Com a primeira, você pode duvidar da pessoa que afirmou que não estava lá antes de ser trancado.`
+`Na segunda, você pode duvidar da pessoa que encontrou a carta.`
+`Em outras palavras, se utilizar a taxonomia de quartos fechados de Boucher com base, imediatamente você pode suspeitar que alguém da família Ushiromiya está cooperando com o culpado.`
+`Sendo assim, fica claro como o dia quem é mais suspeito:`
+` as crianças da casa de hóspedes que confirmaram o quarto fechado ou os sobreviventes da tragédia, Krauss e Natsuhi, que afirmaram "ter visto um demônio ser invocado por uma bruxa e matar seus parentes".`
+`Para aqueles que acreditam que este mundo é um mistério, eles não serão enganados por um faz de conta assim.`
+`Porque neste mundo, declarar: "eu vi uma bruxa, vi magia, vi demônios"...`
+` É o mesmo que confessar que foi subornado pelo culpado para participar de sua loucura.`
+`Mas que mistério mais simples e barato.`
+`Possivelmente, para as pessoas que amam ler romances policiais, as quais eu tenho um grande respeito e apreço, eles verão através de tudo enquanto ficam rindo sem parar.`
+`Testemunhar demônios, mesmo com uma descarada exibição da fantasia como "prova"`
+` é a maior das ironias para o mistério; não há duvidas de que iriam rir disso.`
+`Embora eu também pense isso.`
+`Cerca de uma dentre mil pessoas iriam realmente acreditar que uma bruxa invocou um demônio.`
+`Para essa rara e única pessoa, é suficiente que o meu mundo seja uma fantasia.`
+`Já estou prolongando demais minha digressão.`
+`Primeiramente, eu irei confundir os acima mencionados utilizando do mundo meta, embelezando‐o com o prefácio de um incompreensível incidente.`
+`O alvo do segundo crepúsculo que está por vir será Shannon.`
+`Enquanto as mulheres e crianças sobem para o segundo andar da casa de hóspedes, Krauss e os serviçais masculinos vão barricar o primeiro andar.`
+`Assim, Shannon e George podem ficar juntos.`
+`George provavelmente tentaram fazer companhia para a assustada Shannon.`
+` Os dois que são próximos serão os alvos do segundo crepúsculo.`
+`Desta vez, usarei o nuance de "separe os dois que são próximos" para separá‐los com um desaparecimento.`
+`Após ir à sala dos serviçais no primeiro andar, Shannon deve seguir para o banheiro.`
+`Naturalmente, George irá com ela.`
+` Contudo, é claro, ele não poderá entrar junto no banheiro feminino.`
+` Ele terá que esperar na entrada.`
+`Este banheiro não é um banheiro individual, mas um banheiro para ser utilizado na casa de hóspedes, preparado para ser utilizado por várias pessoas ao mesmo tempo.`
+`Aqui, Shannon irá escapar pela janela que fica nos fundos do banheiro.`
+`Logo em seguida, Kumasawa entrará no banheiro.`
+`E vai trancar a janela que Shannon usou para fugir.`
+`Depois, ela vai gritar, anunciando que aconteceu alguma coisa.`
+`"O‐O que foi, Kumasawa‐san?!`
+` Vou abrir a porta!"`
+`George abrirá a porta do banheiro feminino.`
+`Em seguida, a face pálida de Kumasawa irá apontar para uma das cabines, enquanto se treme toda.`
+`"Hiiiii... Hiiiiiii......!!!"`
+`"O que aconteceu...?!`
+` Shannon! Shannon!!"`
+`Shannon terá entrado no banheiro antes de Kumasawa.`
+` O grito de Kumasawa precisará transmitir que algo fora do comum aconteceu com Shannon.`
+`George já irá se preparar para o pior.`
+` E assim, irá olhar dentro da cabine para onde Kumasawa apontará.`
+`Lá estará......um vermelho intenso........e pegajoso.`
+`Pintado com uma vermelho símil a sangue, ......na parede da cabine estará desenhado um círculo mágico ominoso......`
+`"O‐O que é isso......?!`
+` Shannon...!`
+` Cadê a Shannon?!"`
+`"E‐Eu não sei......!"`
+`"Isso é impossível!!`
+` Eu vi a Shannon entrando antes de você!`
+` Por que ela não está aqui?! Shannon?! Shannon?!?!"`
+`Há três cabines no banheiro feminino,`
+` mas todas estavam vazias.`
+`Há apenas uma entrada.`
+`  E como George esteve lá o tempo todo, Shannon teria que estar em algum lugar lá dentro.`
+`É difícil de imaginar, mas ela poderia ter saído pela janela nos fundos.`
+`Entretanto, ela estava fechada por dentro...e ele não conseguia imaginar por qual motivo Shannon teria que sair pela janela.`
+`Isso não faz sentido!`
+` Isso não pode estar acontecendo!`
+`A Shannon desapareceu de repente e foi substituída por um círculo mágico sinistro...!!`
+`"G‐George‐sama......`
+` Bem, ......bem ali, ......tem um envelope do mestre......"`
+`Na sombra do vaso sanitário da cabine com o círculo mágico,`
+` ......havia um outro envelope igual a carta onde a bruxa jazia zombado deles.`
+`"Não pode ser, ......isso, ......não pode ser......!!"`
+`George juntou o envelope e o abriu violentamente para retirar seu conteúdo.`
+`Nele, ao ver uma única sentença, ......George cambaleou contra a parede, como se tivesse sido atingido por uma tontura, reclinando‐se contra a parede.`
+`"No segundo crepúsculo, separe os dois que são próximos."`
+`Como quero fazer com que Flauros seja a responsável pelo desaparecimento, preciso deixar alguma evidência que aponte para ela.`
+`Talvez fazer com que a cabine fique terrivelmente queimada?`
+` Ou talvez deixar vestígios de uma explosão?`
+`Assim que se depararem com essa nova evidência, ficará claro para eles que não poderia ter sido obra de mãos humanas.`
+`A respeito deste caso, tudo poderia ser preparado lentamente antes do incidente.`
+`Há apenas um problema...`
+` A possibilidade de alguma visitante da ilha resolver ir neste banheiro feminino.`
+`Para este caso, o banheiro do primeiro andar da casa de hóspedes precisará ser interditado um dia antes...`
+` assim cada pessoa terá que utilizar os banheiros de seus respectivos quartos.`
+`Isto por si só já seria um prenúncio interessante para este truque.`
+`Se a espalhafatosa decoração for algo que pode acabar sendo visto por fora,`
+` manter a porta da cabine fechada também seria necessária para impedir os hóspedes de verem.`
+`Depois, ao perceberem que ninguém deveria estar na cabine naquele momento, e que a porta estava fechada naquele momento,`
+` ......eles se perguntariam quem estaria ali dentro? ......Mas não deveria ter ninguém......e assim, se deduzirem que "ninguém deveria estar ali", eles devem ser capazes de concluir que o círculo mágico foi preparado com antecedência.`
+`Espero me divertir bastante debatendo o segundo crepúsculo.`
+`Não deve ser difícil suspeitar de Shannon e Kumasawa aqui.`
+`Seguiremos para um cenário onde Nasuhi chega a essa conclusão e acusa os serviçais.`
+`Este é um artifício dos romances policiais.`
+` Um método simples de virar o jogo, mostrando a alta possibilidade de que as deduções plausíveis dos personagens possam estar erradas.`
+`Com Natsuhi dizendo que está "correto", isto os fará cogitar que possa haver outra verdade; é um método para confundi‐los.`
+`Logo depois, Natsuhi e Krauss vão jogar as suspeitas sobre os serviçais.`
+`É claro, George e os demais vão se opor contra.`
+` Eles vão insistir que os serviçais também são vítimas que foram envolvidas no incidente.`
+`Após uma discussão tête‐à‐tête entre Krauss e os serviçais, será decidido um confinamento em dois grupos separados; o grupo dos familiares e o grupo dos serviçais.`
+`O grupo dos familiares vai permanecer na casa de hóspedes.`
+` Já o grupo dos serviçais voltará à mansão.`
+`No meio disso tudo, George deve insistir que quer procurar por Shannon lá fora.`
+`Ele poderá procurar até ficar satisfeito.`
+` ebaixo da chuva, logo seu corpo vai começar a tremer de frio e ele desistirá, retornando à casa de hóspedes.`
+`Após, todos os serviçais terão um encontro na mansão.`
+` Eles iram confirmar novamente seus próximos movimentos.`
+`Do quarto ao oitavo crepúsculo, serão todos quartos fechados conectados.`
+`O ponto de uma cadeia de quartos fechados é que os cadáveres sejam encontrados em uma ordem específica.`
+`Desde que o primeiro seja no primeiro andar da mansão, se os demais forem no segundo andar ou além,`
+` mesmo se for fora da mansão, eu posso controlar o avanço deles de forma automática.`
+`"Serviçais!`
+` Venham, a hora de vocês finalmente chegou."`
+`Beato reuniu os serviçais no hall da mansão e fez seu pronunciamento.`
+`As expressões de Genji, Shannon e Kanon eram tranquilas,`
+` contudo Kumasawa e Gohda não estavam calmos.`
+`"......Vai mesmo dar tudo certo?`
+` Estou preocupada......"`
+`"É a minha primeira vez fazendo algo assim......`
+` Não sei se estou me divertindo ou surtando de nervoso, ......haha...haha......"`
+`Gohda simulou uma risada para tentar parecer mais tranquilo.`
+`Eles não sabiam.`
+`Sequer sabiam que Eva e os demais estavam mesmo mortos.`
+`Tudo é uma farsa de Beato, possível graças a descoberta do ouro.`
+` Eles acreditam que os cinco foram pagos para se fingirem de mortos.`
+`Excluindo exceções como o caso de Genji, a maioria dos subornos foi fácil de negociar contanto que não fossem informados que seria um caso de assassinato.`
+` Foi tudo caso a caso.`
+`"Muito bem, cada um deve seguir para o quarto indicado.`
+` Bancar o morto pode ser bem exaustivo.`
+` É bom caírem em uma posição que não os desgaste demais.`
+` *gargalhada*"`
+`Kanon na sala de visitas.`
+`Genji no quarto VIP do segundo andar.`
+`Kumasawa no quarto de Natsuhi, no segundo andar.`
+`Gohda, na antessala dos serviçais, no terceiro andar.`
+`Shannon na capela.`
+`Cada um deles irá para as suas respectivas cenas do crime e farão suas maquiagem.`
+`A partir do quarto crepúsculo, é tudo "goive e mate".`
+`Todos serão mortos com as Sete Estacas do purgatório.`
+`Cada um foi para o seu lugar indicado, devotar‐se a sua função indicada.`
+`Genji estava indiferente.`
+`Shannon e Kanon também estavam indiferentes.`
+`Gohda estava nervoso que sua farsa fosse descoberta.`
+`Kumasawa estava agitada, ansiosa para a farsa ter início.`
+`"Ohhohohohoho.......`
+` Eu já preguei muitas peças, mas é a primeira vez que participo de algo tão grandioso."`
+`Kumasawa estava rindo no quarto de Natsuhi.`
+`"Tudo pronto, Kumasawa?"`
+`"Ora, {f:5:Beatrice}‐sama.`
+` Como serviçal, sinto que não tenho o direito de deitar na cama da madame."`
+`"Não minta!`
+` Eu sei que você já quis pular nela uma ou duas vezes enquanto arrumava a cama."`
+`"Hohhohohohoho.`
+` Isso é o que você diz, {f:5:Beatrice}‐sama."`
+`"Certo, vamos começar a maquiagem.`
+` Pode se deitar."`
+`"Se me permite......"`
+`Kumasawa tirou seus sapatos e subiu na cama.`
+`"Ei, ei!`
+` Acha que um cadáver se dá o trabalho de tirar os sapatos?`
+` É melhor ficar com eles."`
+`"Ficar na com eles na cama da madame é algo que sinto que realmente não deveria fazer.`
+` Hohohoho."`
+`Kumasawa fez uma forcinha e subiu na cama com seus sapatos.`
+`Beato abriu o kit de maquiagem que estava dentro de sua bolsa.`
+`"Achou uma boa posição?`
+` Mesmo deitada, vai ficar cansada por passar tanto tempo na mesma posição."`
+`"Sim, estou ciente disso.`
+` Mas é por cem milhões de ienes, não é mesmo?`
+` Ohhohohohoho."`
+`Cada serviçal estará recebendo cem milhões.`
+`......Na verdade, já foi enviado.`
+`Dentro de alguns dias, um cartão do banco junto com uma chave devem ser entregues em suas residências.`
+`Eles não serão capazes de receber, mas seus familiares poderão.`
+` Deverá ser mais do que o suficiente para os custos do funeral......`
+`"Pode ser assim?"`
+`Depois de se mexer sem parar em cima da cama, parece que Kumasawa finalmente achou uma posição confortável.`
+`Realmente parecia que ela havia sido morta.`
+`"Sim!`
+` Está muito bom.`
+` Você tem mesmo um dom para enganar as pessoas."`
+`"Ohhohhohho!`
+` Sequer posso me comparar a sua grande peça, {f:5:Beatrice}‐sama."`
+`"Vou começar a maquiagem.`
+` É bom que não se mexa agora.`
+` ......Não, não, você já é um cadáver, então não se mova mais sozinha agora."`
+`"Assim que o doutor Nanjo vier, já poderei descansar, certo?"`
+`"Sim.`
+` Depois que a autópsia do Nanjo acabar, este quarto ficará fechado até a chegada da polícia.`
+` Assim, você poderá descansar.`
+` Mas você ainda é um cadáver,`
+` então não pode ficar fazendo barulho."`
+`"Estou ciente disso.`
+` Sendo assim, preciso esconder bem isso."`
+`Kumasawa escondeu debaixo das cobertas um livro que estava lendo e uma sacola com lula defumada.`
+`"Francamente,`
+` parece que veio mesmo preparada.`
+` Cuidado para não acabar relaxando demais, ouviu?`
+` Lembre‐se que se a encenação falhar, não haverá recompensa."`
+`"É claro que tomarei cuidado... Ohhohohohoho......"`
+`^Em meio a essa troca de gracejos, Beato puxa uma estaca de dentro de sua bolsa de utensílios.`
+`Kumasawa será goivada e morta por esta estaca.`
+`"......Fuumu.`
+` ......Desculpe, mas poderia ficar virada para baixo?`
+` Essa posição não está funcionando muito bem."`
+`"Virada para baixo?`
+` Até posso, mais deve ficar mais difícil para respirar......"`
+`"Com o rosto para cima, passa uma impressão de que você poderia estar dormindo.`
+` Dá para virar para baixo por um minuto?`
+` Só para testar uma coisa."`
+`"É mesmo? Então tentarei......"`
+`"Fica difícil manter essa posição por muito tempo?"`
+`"Por ora, eu consigo continuar.`
+` ......Espero que a autópsia seja o mais breve possível."`
+`"Entendi, entendi.`
+` Continue assim mais um pouco.`
+` Vou ajustar um pouco as suas roupas.`
+` Se elas ficarem muito certinhas, não vai ter realismo."`
+`Beato puxou uma ferramenta de dentro da sua bolsa.`
+`Era o fio de uma extensão levemente enrolado.`
+`"Desculpa, vou ajustar logo.`
+` Continue assim."`
+`"Sim, sim."`
+`Ela passou a extensão no pescoço de Kumasawa, enroscando de uma ponta a outra.`
+`No momento em que o fio diminuiu em ambas as mãos...`
+`Beato se jogou sobre as costas de Kumasawa, pressionando ela.`
+`De repente, Kumasawa pareceu estar asfixiando.`
+`Ela não conseguia mais respirar nem gritar.`
+`A extensão enroscada em seu pescoço...`
+`começou a estalar...porque estava estrangulando ela`
+`Parecia como se Kumasawa estivesse se debatendo com as pernas numa piscina, ocasionalmente chutando a cama com força.`
+`Enquanto Beato pressionava por cima,`
+` ......em total silêncio, como se Kumasawa fosse uma espécie de inseto ou réptil, impiedosamente enforcando seu pescoço.`
+`......Da forma como estavam, ......parecia como se uma aranha dourada gigante...`
+`...tivesse capturado alguma presa coitada......e lentamente injetando seu veneno nela.`
+`Vendo dessa forma, o dossel da cama parecia ser feita por uma estranha teia de aranha peçonhenta.`
+`Esta teia tremia ocasionalmente....devido a débil resistência de Kumasawa.`
+`Eventualmente, .......Beato lentamente se levantou de suas costas.`
+`Kumasawa já não se mexia mais.`
+` ......Já estava morta.`
+`"Desculpa, Kumasawa.`
+` Você deve ser goivada na perna.`
+` Matá‐la esfaqueando assim seria desnecessariamente doloroso."`
+`Tendo terminado com sua ferramenta de estrangulamento, ela logo em seguida pegou o rifle.`
+`E então, almejando na batata da perna, ela puxou o gatilho.`
+`O som do disparo não foi alto.`
+` ......Não chegou a ser como aqueles "bang" dos filmes de séries de televisão.`
+`No máximo, foi como abrir uma garrafa de espumante.`
+`Mas respingos de sangue voaram, e haviam sangue escorrendo por aquele desconfortável buraco que parecia ter sido perfurado.`
+`Desta vez, ela estava utilizando uma pinça......para cavocá‐lo.`
+`Ela retirou a bala que havia acabado de disparar na perna.`
+`E assim, sem cerimônias, a jogou dentro de uma sacola de plástico que ela tinha dentro da sua bolsa.`
+`Dentro daquele saco já havia diversas balas manchadas de sangue guardadas nele......`
+`"O quarto e o quinto crepúsculo podem ser conduzidos apenas com uma arma.`
+` ......Mas os seguintes se tornam mais complicados.`
+` Por isso, se alguém grande como Gohda não for morto no quarto ou quinto, isso pode ocasionar problemas."`
+`Então, em seguida, .......ela pegou a estaca e foi enfiando novamente no buraco que escorria sangue.。`
+`Usando o peso do seu corpo, ela cuidadosamente foi pressionando cada vez mais fundo.`
+`Quando levantou, ......a estaca estava perfeitamente enfiada e ereta.`
+`Ela estava um pouco preocupada que pudesse acabar caindo quando fosse descoberta, mas ainda deveria ser o suficiente para sustentar a ideia dos sacrifícios serem goivados com estacas.`
+`Com isso, Kumasawa, Gohda e Genji foram mortos.`
+`Quanto ao Kanon, que será o primeiro a ser encontrado, eu ainda tenho uma função para ele, por isso seria um problema se ele morresse.`
+`Ele deve aproveitar seu tempo para desenhar círculos mágicos nas cenas de todos os crimes.`
+`A capela fica bem afastada da mansão, então não será o primeiro lugar descoberto.`
+`Há quatro cenas dentro da mansão para serem descobertas, mas estarão todas trancadas, por isso vão precisar quebrar o vidro da janelas.。`
+`Com exceção da sala de visitas, as demais ficam no segundo ou terceiro andar, então é praticamente certo que vão começar entrando nela primeiro.`
+`Na sala de visitas, Kanon estará morto, e dentro do seu bolso uma chave mestra.`
+`E dentro do cômodo terá uma carta da bruxa, junto com ela uma chave para o próximo quarto.`
+`Os sobreviventes vão terminar encontrando os cadáveres na ordem que for indicada.`
+`Sobre o pretexto de preservar os quartos para a chegada da polícia, as cenas dos crimes serão preservadas para uma possível perícia.`
+`Natsuhi irá conter as crianças, e Nanjo e Krauss serão os únicos a se aproximarem dos corpos.`
+`Jessica pode querer se aproximar do corpo de Kanon, por isso vai necessitar uma atenção especial.`
+`"Kanon‐kun! Kanon‐kun!!`
+` UwaAAAAAaAAAAaA!!"`
+`"Jessica! Acalme‐se!!`
+` Não olhe! Você não deve entrar...!!"`
+`"......Como? ...O que aconteceu......?`
+` Desgraçado........."`
+`"Com isto, ......a suspeita de que os serviçais eram culpados já era, não é mesmo?`
+` ......Tia Natsuhi?"`
+`George direcionou um olhar frio à Natsuhi, quem havia suspeitado dos serviçais e os afastado da casa de hóspedes.`
+`"E então, doutor Nanjo......?"`
+`"......Não sei a causa específica da morte, mas claramente está morto.`
+` ......Ao menos, é certo que esta não é uma ferida fatal."`
+`Havia uma ferida horrível no joelho de Kanon e uma estaca tingida de sangue caída no chão.`
+`Não haviam duvidas de que o culpado havia perfurado o joelho de Kanon.`
+`Contudo, era difícil imaginar que ele morreria por ser esfaqueado nesse lugar.`
+` .....Ele provavelmente foi morto de outra maneira, mas Nanjo não foi capaz de descobrir apenas com a sua autópsia.`
+`"Seja como for, não podemos perturbar a cena do crime para ajudar a polícia.`
+` Se formos descuidados aqui, isso pode acabar atrapalhando a investigação criminal deles."`
+`"......Eu concordo.`
+` Não devemos mexer em mais nada nesta sala......`
+` Estou mais preocupado agora com esta chave do quarto VIP."`
+`".........Não quero pensar nisso, ......mas provavelmente, no quarto VIP também........."`
+`".....................`
+` ......Vamos até lá."`
+`"......O que é isto......?`
+` Se não tivéssemos......expulsado eles da casa de hóspedes......"`
+`Krauss baixou sua cabeça e puxou seus cabelos.`
+`"Desculpa, ......Kanon.`
+` Sinto muito por não ter confiado em vocês.`
+` ......Eu fui incapaz de confiar nos meus empregados, ......não tenho o direito de estar acima dos outros......"`
+`"Tinha uma estaca......no joelho do Kanon‐kun......"`
+`"Kihihihihihi.`
+` É o sétimo crepúsculo.`
+` Goive o joelho e mate."`
+`"........O que significa...que o quarto, quinto e sexto já aconteceu?`
+` .....Isso não quer dizer que ao menos mais três pessoas foram mortas......?"`
+`"S‐Se acalme, George‐aniki......`
+` Ainda não temos certeza disso......"`
+`"T‐Tio Krauss!`
+` Vamos logo para o quarto VIP...!"`
+`"......S‐Sim.`
+` Mas esperem um minuto.`
+` Não podemos deixar o vidro quebrado assim.`
+` Vamos fechar a veneziana......"`
+`"Kanon‐kun......, Kanon‐kun......`
+` ......Mãe, eu posso ao menos......ver o rosto dele......?"`
+`"Eu entendo como está se sentindo.`
+` ......Mas não podemos mais perturbar a cena do crime.`
+` ......Precisamos deixar como está para ter certeza que o culpado será encontrado......`
+` Por isso, vamos apenas rezar......`
+` para que ele encontre a felicidade no outro mundo......"`
+`"UUuUUuuuu..............."`
+`E então, eles vão para o quarto VIP localizado no segundo andar.`
+` Depois ao quarto de Natushi.`
+` E então seguirão à antessala dos serviçais, no terceiro andar.`
+`Enquanto isso, Kanon deixa a sala de visitas sorrateiramente.`
+`Ele tem uma chave mestra, por isso pode sair pela porta e trancá‐la tranquilamente.`
+`Kanon possui duas chaves mestras, por isso pode deixar uma delas dentro da sala de visitas.`
+`Quando os assassinatos do epitáfio chegarem ao fim, obviamente eles vão revisitar as cenas dos crimes.`
+`Neste caso, para que o desaparecimento do cadáver de Kanon não crie uma inconsistência, o culpado terá que performar algo para que seu corpo desapareça.`
+`O desaparecimento do cadáver de Kanon pode ser o gatilho para um novo mistério.`
+`Kanon seguirá para a capela e lá encontrará com Shannon.`
+`E assim, dará a chave mestra para Shannon.`
+`"......Bom trabalho.`
+` Como foi tudo?""`
+`"Eu só fiquei dormindo.`
+` Foi muito mais fácil do que ficar carregando sacos de fertilizante."`
+`"Bom trabalho, Kanon.`
+` Com isto, seu papel chega ao fim."`
+`"......Muito obrigado, {f:5:Beatrice}‐sama.`
+` ......Até mais, nee‐san.`
+` Nos vemos no próximo tabuleiro."`
+`"Sim.`
+` Até o próximo tabuleiro."`
+`{f:5:Beatrice} sacudiu o cano do seu cachimbo e a forma de Kanon dissolveu‐se em fumaça e desapareceu na direção dele.`
+`"Muito...`
+` O último ator a decorar a cadeia de quartos fechados será você."`
+`"Sim,`
+` como quiser."`
+`"A você, concederei o quarto crepúsculo.`
+`  um crepúsculo muito misericordioso."`
+`"Muito obrigada."`
+`Beato e Shannon entrarão na capela`
+`A entristecida e solene capela estará envolta por nada mais além do som da tempestade.`
+`"......Onde seria melhor?"`
+`"Que tal atrás do altar?"`
+`"Entendido."`
+`Entre o vitral e o altar terá uma fenda com cerca de 20 centímetros de largura.`
+`Essa fenda é suficientemente funda.`
+`Shannon terá preparado um haltere de metal amarrado a uma corda.`
+`E então, ela cuidadosamente o testará, pendurando‐o para cima e para baixo.`
+`Ele entrará sem maiores problemas.`
+` O seu peso também será ideal.`
+`"Então? Algum problema?"`
+`"Não.`
+` É o suficiente.`
+` Sem problemas."`
+`"Então vamos começar com a maquiagem da estaca.`
+` Afinal, é bem difícil manchar sua estaca com sangue de verdade."`
+`Ele puxou alguns materiais de pintura de dentro de sua bolsa.`
+`Era exatamente igual aqueles utilizados em filmes.`
+`E então, ela aplicou a maquiagem de sangue na ponta da estaca.`
+`"Moleza.`
+` Como vão as suas preparações?"`
+`"Bem.`
+` Já estou pronta."`
+`Shannon prendeu uma pistola na ponta oposta a corda que estava presa ao haltere.`
+`E então, cuidadosamente desceu ele na fenda entre o altar e o vitral.`
+`O meio da corta foi pendurada na ponta do altar.`
+`Com o haltere era mais pesado que a arma, assim que ela soltasse, a pistola seria puxada na direção da fenda.`
+`"Acha que vai cair direito?"`
+`"Sim.`
+` Sem problemas."`
+`".........Ótimo."`
+`Shannon entregou à Beato a corda amarrada à pistola.`
+`E Beato deu à Shannon a estaca com sangue falso.`
+`Shannon gentilmente pressionou a estaca contra a sua própria testa.`
+`Beato também colocou a arma na testa de Shannon, alinhada com a estaca.`
+`"Não tem nenhum arrependimento?"`
+`"......Não tenho.`
+` É tudo pelas suas vontades, {f:5:Beatrice}‐sama."`
+`"É mesmo uma pena.`
+` ......Se alguém tivesse resolvido o enigma do epitáfio, ......você poderia terminar sem morrer."`
+`"Como se fosse possível resolver...`
+`um mistério incompreensível como aquele.`
+` ......Desde o início, foi uma aposta desesperançosa."`
+`"Ainda assim, eu apostei.`
+` ......Mesmo assim, se o milagre se realizar, será por conta da magia."`
+`".........Neste mundo repleto das toxinas dos humanos, magias e milagres não existem.`
+` ......{f:5:Beatrice}‐sama.`
+` Sendo você uma bruxa única, ......você é a única existência capaz de manifestar a magia neste mundo"`
+`"Tem razão.`
+` ......Eu sou a Bruxa Dourada, {f:5:Beatrice}.`
+` Descanse em paz.`
+` Na próxima vez que acordar, será na Terra Dourada.`
+` Lá, seu amado George também estará."`
+`"......Muito obrigada,`
+` {f:5:Beatrice}‐sama......"`
+`Foi um som fraco, mas, dentro da capela onde ouvia‐se apenas o som da chuva e do vento, reverberou um fraco eco.`
+`Shannon olhava tranquilamente para o teto, ......quando então...ela sentou‐se de como se fosse uma marionete que perdera suas cordas...e colapsou.`
+`Beato soltou a arma que estava em sua mão.`
+`Em seguida, puxado pelo pesado haltere, ......a arma foi engolida pela escuridão da fenda, emitindo junto um pesado som metálico.`
+`O que restou em frente ao altar foi o corpo de Shannon com sangue escorrendo da sua cabeça.`
+` Rolando próxima ao seu braço, a estaca usada para goivar o sacrifício.`
+`"......Ótimo.`
+` Assim faz parecer que a estaca soltou de sua cabeça quando caiu."`
+`E assim, com outro aceno de seu cachimbo, borboletas douradas assumiram a forma de um envelope que pousou próximo de Shannon.。`
+`Dentro dele estava a primeira chave que levava para a sala de visitas.`
+`Com isso, a cadeia de quartos fechados está concluída.`
+`Cinco pessoas, cada uma com suas chaves mestras e chaves para os quartos seguintes,`
+` todas trancadas dentro de seus próprios quartos fechados.`
+`Com um novo balançar de seu cachimbo, ela deixará uma carta dentro do envelope.`
+`Nele, dirá algo sobre o corpo de Kanon ter sido pego emprestado como outro sacrifício da cerimônia.`
+`E assim, eles retornam para a sala de visitas.`
+`Mas quando chegam, a sala de visitas está completamente vazia.`
+` Eles nunca mais serão capazes de ver o rosto de Kanon......`
+`"Pois bem......`
+` Com isso, acho que o caso de assassinatos do epitáfio chega ao fim...`
+` O que achou, Battleeer?`
+` Aproveitou o meu mistério?`
+`......*gargalhada*gargalhada* Hahhahhahahahahahahahaha!!!"`
+`Em relação a história sobre o desaparecimento do cadáver de Kanon, vou aproveitar que a chamei e irei atribuir isso à Flauros.`
+`Mesmo após a morte de Kanon, sua alma lutará contra Beato e Flauros.`
+`Mas será em vão... Ele perderá e seu corpo ainda será consumido por Flauros... ou algo assim.`
+`Com isso, o caso de assassinatos em série do epitáfio se encerra.`
+`Agora só resta reescrever como uma história de fantasia onde a Flauros é o culpado.`
+`"No momento é tudo o que eu tenho.`
+` A partir daqui, tenho que organizar na forma de uma história de verdade, mas essa é a parte mais difícil.`
+` ......Frente e verso da história.`
+` Juntar ambos em uma única peça literária é a parte mais árdua.`
+` É como pensar em todos os truques novamente, só que indo ainda mais além."`
+`".....Lendo apenas a superfície da vossa história, devo dizer que chega aos limites da {f:5:extravagância}."`
+`"Chega mesmo.`
+` u estou constantemente esboçando tanto a história da fantasia e a história do mistério.`
+` Apesar disso, eu só libero uma única história.`
+` É tão extravagante quando cortar apenas a melhor parte da carne do gado e jogar o resto fora."`
+`"Uma extravagante {f:5:comparação}.`
+` ......Contudo, ......não tem nenhum {f:5:arrependimento}?"`
+`"Ao que se refere com "arrependimentos"?"`
+`Dlanor devolveu o tomo do manuscrito para Beato.`
+`Beato respondeu enquanto arrumava sua mesa.`
+`"......Você esboça a história duas vezes, mas cozinha metade de sua {f:5:superfície}.`
+` ......Aqueles que conhecem a parte restante, extravagantemente descartada, certamente vão elogiar e ficar atônitos com seu sabor e {f:5:ousadia}.`
+` ......Entretanto, dentre todos os humanos do mundo, não há muitos com um paladar tão refinado quanto você {f:5:deseja}.`
+`"Às vezes aparecem alguns companheiros assim."`
+`"Você escreveu isto para uma dentre mil pessoas, mas temo dizer que é o OPOSTO.`
+` １Embora você queira que as outras pessoas além dessa uma entre mil realmente lessem a sua história,`
+` não há dúvidas de que eles não serão capazes de compreender a metade que foi removida e ENTERRADA."`
+`"*gargalhada*gargalhada*`
+` Mas não é bom assim?`
+` É uma literatura extravagante onde apenas a superfície da história é preservada`
+` E deixar de lado todos os leitores, com exceção daquele um em mil de fora, uma prazerosa extravagância?"`
+`".........Está satisfeita com ISSO?`
+` As pessoas esboçam histórias para que sejam LIDAS.`
+` ......Esboçar histórias que ninguém lerá, enterrá‐las na escuridão; ......isto vai além da extravagância...só consigo pensar como sendo apenas ESTUPIDEZ."`
+`"*gargalhada*`
+` Qual o problema?`
+` Se coisas escritas para que 999 entre 1000 pessoas possam entender são chamadas de escrita “comum”`
+` então não é mais apropriado que a minha história, escrita para uma entre mil pessoas entenderem, possa ser chama de escrita "incomum".`
+` ......É uma história composta por uma bruxa.`
+` Se ela detém de um sabor peculiar, qual o problema de chamá‐la de escrita "incomum"?"`
+`"......Meu dever é, utilizando dos mandamentos, fazer com que essa "peculiaridad" do conto seja entendida por todas as PESSOAS."`
+`"Realmente.`
+` É exatamente por isso que não quero confiá‐la a você."`
+`"Contudo, eu entendo seus PENSAMENTOS.`
+` Não pode ser feito para que 999 pessoas sejam capazes de entender, ......mas eu posso ajudar a alcançar ao menos essa única PESSOA."`
+`"Ao que se refere com "ajudar"?"`
+`"Eu gostaria de liberar este manuscrito incompleto algum DIA."`
+`"Então pretende se dar ao trabalho de tirar do lixo as entranhas que descartei sem cozinhar?"`
+`"......É possível que você...não seja entendida por {f:5:ninguém}.`
+` Contudo, eu não acredito que este seja o seu mais honesto {f:5:desejo}.`
+` Você não busca pelo entendimento de 999 {f:5:pessoas}.`
+` Entretanto, ainda busca pelo entendimento de uma única {f:5:pessoa}."`
+`"Existe a possibilidade de nem mesmo essa única pessoa aparecer.`
+` .........Não são apenas jovens garotas apaixonadas que buscam por alguém que entenda as profundezas de seus corações.`
+` ......Até mesmo bruxas que já viveram mais de mil anos também desejam por isso."`
+`"E garotas transmitem isso através palavras difíceis de se entender, esperando por seu único PRÍNCIPE......"`
+`"Isso mesmo!`
+` *gargalhada*gargalhada, eu também passei longos anos escrevendo uma história bem complicada."`
+`"Se esse príncipe não aparecer,`
+` .........eu posso servir como um guia para levá‐lo até VOCÊ."`
+`"......Os 10 Mandamentos de Knox garantem que é um mistério?`
+` く*gargalhada* Algo assim poderia mesmo guiá‐lo até mim......?"`
+`"Caso não seja o suficiente,`
+` ......eu irei liberar este manuscrito incompleto para ser a chave até o seu MUNDO."`
+`"Mas que conversa mais vergonhosa.`
+` Não parece mais com uma garotinha sem coragem que precisa de uma amiga para se confessar por ela?"`
+`"Esta também é uma forma de se alcançar o {f:5:amor}."`
+`"Hm, ......gargalhada*gargalhada* Hahhahahahahahahahahahaha.`
+` ......Muito bem!`
+` Darei este manuscrito a você!"`
+`^Beato virou‐se para o outro lado e, deixando para trás uma trilha de fumaça púrpura, bateu no tomo do manuscrito com seu cachimbo.。`
+`Quando o fez, o manuscrito rodopiou, assumindo uma forma cilíndrica e enfiou‐se dentro de uma garrafa que apareceu do nada.。`
+`Ela a entregou à Dlanor.`
+`"Faça o que quiser com isto.`
+` Contudo, tenho uma condição."`
+`"......O que {f:5:seria}?"`
+`"Enquanto eu for fisicamente viva,`
+` não permitirei a quebra deste selo."`
+`"......Mas assim, as pessoas que chegarem à verdade deste manuscrito não poderão dizê‐la a VOCÊ."`
+`"O único príncipe que espero é aquele que a alcançará sem ler este manuscrito.`
+` ......Não se pode amar o gato após ter arrancado suas entranhas, não é mesmo?`
+` Abrir esta garrafa é o mesmo que arrancar minhas entranhas."`
+`"..................{f:5:Entendido}.`
+` Farei como {f:5:desejar}.`
+`  Você tem meu sincero anseio para que este manuscrito traga um visitante ao seu {f:5:túmulo}."`
+`"Será mesmo?`
+` ......As bruxas do Mar de Fragmentos são bem impiedosas.`
+` Mesmo se supormos que alguém vá visitar meu túmulo, provavelmente será apenas para cuspir nele."`
+`"........Se você esboçou um conto para ser visto por aqueles com amor,`
+` ......então você também deve amar essas {f:5:bruxas}.`
+` Porque, sem amor a si mesma, nem o príncipe pelo qual você busca poderá vê‐la."`
+`"......Fu, ......fuffufufufu.`
+` ......Agora você me pegou.`
+` A vitória é sua.`
+` Certo, pode levar esta garrafa com você.`
+` Eu não morrerei ainda.`
+` Tenho muita história para escrever."`
+`"Pois bem, eu devo {f:5:partir}.`
+` ......Cuide‐se, Grande Lady {f:5:Beatrice}.`
+` Por favor, não esqueça das várias bruxas repletas de amor que esperam por VOCÊ."`
+`".........É claro.`
+` Deixo isto com você como sendo um presente de despedida.`
+` Ronove, a convidada está indo embora.`
+` Acompanhe‐a até a entrada.`
+` Depois, me sirva mais chá preto.`
+` Já faz algum tempo, mas estou com vontade de um doce chá com leite."`
+`"......Como desejar, ojou‐sama."`
+`A pedido de seu testamento, estou liberando este manuscrito incompleto após a morte da Grande Lady {f:5:Beatrice}.`
+`Lendo este manuscrito, eu fui relembrada de seus longos anos de tristeza e não fui capaz de conter minhas lágrimas.。`
+`Ao mesmo tempo, eu senti pena dela.`
+`Embora estivesse buscando por aquele que possuísse amor, seu coração julgava cinicamente, repleto de raiva para com aqueles que não possuíam amor.`
+`Certa vez ela me disse que tudo bem se sua história alcançasse apenas uma entre mil pessoas.`
+`Contudo, isso estava errado.`
+`Dentre essas mil pessoas, ela desejava que sua história alcançasse mais de uma pessoa.`
+`Se perguntasse isso, ela certamente iria rir e negar.`
+` Mas não havia dúvida de que este era o seu mais sincero sentimento.^`
+`A princípio, eu estava incerta sobre liberar este manuscrito.`
+`Ela tanto falava em vida,`
+` sobre o único dentre os mil, que pensei que deveria mantê-lo em segredo para preservar o mistério ao seu salvador.`
+`Mas conforme li e reli,`
+` ......eu percebi que o manuscrito dela era uma carta de amor sem destinatário.`
+`Sua verdadeira intenção, um sentimento na qual ela mesma nunca percebeu.`
+`Mas agora que compreendo isso, eu acredito que deva ser concedido.`
+`Esta foi a motivação que me levou a liberar este manuscrito incompleto.`
+`Lido isto, qual seu sentimento perante a mulher chamada {f:5:Beatrice}?`
+` Seja ele amor ou ódio, isso pouco importa.`
+`Mas, se for possível...`
+`Eu gostaria que tentasse chegar aos sentimentos dela, que estão escondidos nas profundezas desta história.`
+`Ela disse que escreveu duas histórias e revelou apenas uma.`
+`Contudo, a verdade é que isso está errado.`
+`Ela escreveu três histórias e revelou apenas uma.`
+`Este manuscrito incompleto expôs duas dessas histórias.`
+`Eu gostaria que chegasse a última história com as suas próprias forças.`
+`É o que eu desejo, como outra mulher, a todos aqueles que leram isto.`
+`Sem amor, não pode ser visto.`
+`São palavras dela.`
+`Contudo, preciso repeti‐las.`
+`No coração de todos, existe o amor.^`
+`Aquilo que ela não podia ver, era a sua própria tragédia.`
+`Gostaria de expressar minha mais profunda gratidão a todos que me ajudaram com a edição deste texto.`
+`{n}Em especial, à minha assessora superior, An Zuu ({p:0:アン・ズー})`
+` {n}{m:-5:——}—}Dlanor A. Knox`

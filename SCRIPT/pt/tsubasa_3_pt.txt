@@ -1,0 +1,749 @@
+`Após o EP5, Battler finalmente se tornou o Game Master... `
+`Agora que ele é capaz observar o tabuleiro de cima e tecer suas histórias livremente,`
+` não seria estranho tratá‐lo como sendo uma existência divina.`
+`......Porém, diferente de um deus do nosso dogma, não é fácil ser um Game Master.`
+`Afinal, ele precisa decidir tudo e desenhar tudo sozinho.`
+` Não é o tipo de cargo que o permita ficar acima das nuvens, `
+` relaxando confortavelmente enquanto observa o mundo aos seus pés.`
+`Pelo contrário, o palco do tabuleiro de Beato é uma pequena ilha, enredada com complexas regras e com um tempo limite de meros dois dias.`
+` Colocar essa história em curso não é tarefa fácil.......`
+`No começo, Battler esteva relaxado, crente de que poderia moldar a história da forma como bem desejasse, mas logo ele perceberia que esta era uma forma inocente de pensar...`
+`"Ahhh...`
+` Esse trabalho é mais complicado do que eu tinha imaginado..."`
+`"Ohohoho!`
+` Viu só? Viu só?`
+` Pessoas que não sabem a verdade acham que você pode criar a história a esmo da forma que quiser, mas não é nada disso!`
+` Bolar o cenário de um episódio inteiro enquanto ainda o confere para ter certeza que tudo vai bater com as regras do tabuleiro da Beato é,`
+` na verdade, muito difícil...!"`
+`{f:5:Lambdadelta}, que esteve encarregada disso durante o jogo do EP5, se vangloriava em deleite que alguém finalmente havia entendido o trabalho duro dela.`
+`"......De qualquer forma, há muitos personagens.`
+` Tentar dar um tempo de cena para cada um deles e ainda seguir com a história é bem difícil,`
+` como se eu fosse o diretor, produtor ou algo assim..."`
+`"Bem, você precisa dividir o tempo de cena.`
+` Afinal, já tem mais personagens do que uma sala de aula inteira.`
+` Se tentar dar a todos um grande papel, a coisa vai virar uma graaande bagunça."`
+`Só o grande número de personagens já faz com que seja difícil de escrever a história.`
+`Tendo Battler e Beato como o centro da história, se tivesse apenas mais um ou dois personagens, as coisas seriam bem mais simples, mas...`
+`"Você diz isso, mas o que eu deveria fazer?`
+` Tem uma dezena de personagens, sabia?"`
+`"Você é mesmo um cabeça‐de‐vento, né?`
+` Tente usar sua cabeça assim como a {f:5:Lambdadelta}‐chan‐sama aqui, {b:use sua cabeça}.`
+` .........Aii!`
+` Não era para me dar uma cabeçada, idiota!"`
+`"Calada.`
+` Minha cabeça está doendo de tanto pensar.`
+` Pare de ficar resmungando no meu ouvido...!`
+` Se não ficar quieta, o EP6 nunca vai começar!`
+` Só apareça quando tiver uma boa estratégia para me ensinar."`
+`"...Francamente, não adianta discutir com crianças choronas nem Game Masters...!`
+` Mas eu não tenho mais nada para contar.`
+` Você já sabe a resposta, não sabe?"`
+`"Hã?`
+` Ei, espera!`
+` Nem tente fugir depois de deixa esse questão no ar...!!`
+` .........Tch, ela fugiu."`
+`Ela foi a Game Master anterior.`
+` Talvez eu devesse ter sido um pouco mais modesto para conseguir algumas dicas e truques dela.`
+`......Bem, não faz sentido ficar me arrependendo agora que ela se foi.`
+`Vou começar escrevendo o cenário do zero mais uma vez......`
+`*bam*bam*.`
+` Era o som de uma batida.`
+`Quem será desta vez?`
+`"Ei, tá aberta.`
+` Não quero {i:youkan} nem {i:monaka}, mas pode me trazer material para a história."`
+`"......Battler‐sama.`
+` Eu peço desculpas por atrapalhá‐lo enquanto está ocupado."`
+`"Oh, se não é o Genji‐san.`
+` E como pensei, a Kumasawa baa‐chan, o Gohda‐san e o doutor Nanjo também vieram.`
+` Eu senti que todos os serviçais adultos apareceriam."`
+`"Já faz algum tempo, Battler‐sama.`
+` Eu, Gohda, estou aqui."`
+`"Hohoho.`
+` Vejo que está pensando no conteúdo para a próxima história, isto é mesmo conveniente"`
+`"Neste caso, acredito que podemos ajudá‐lo, Battler‐san.`
+` É mesmo muita sorte."`
+`"Hã?`
+` Não sei bem se entendi, mas se vocês têm ideias para compartilhar, vou aceitar de bom grado.`
+` Oh? Ei, o que é isso? Uma caixa？`
+` O que tem dentro?"`
+`".........As pessoas tendem a ficar famintas por açúcar quando usam muito o cérebro.`
+` O Gohda fez uso de suas habilidades para providenciar um descanso a você, Battler‐sama."`
+`"Battler‐sama, por acaso você não gosta de doces...?`
+` Se for este o caso, eu, Gohda, peço desculpas......"`
+`"Hohohho`
+` Nada disso, nada disso.`
+` De pudim e {i:youkan} até tofu de amêndoa, o Battler‐sama ama doces."`
+`"Nós ouvimos que estava tendo muitas dificuldades.`
+` Pensamos que seria uma boa oportunidade para fazer uma pausa.`
+` Muito além de remédios e exames, o mais importante para manter sua habilidade de concentração é o descanso."`
+`".........Então, se me permite, eu irei pôr a mesa."`
+`Como esperado dos serviçais adultos.`
+` Eles habilmente limparam a mesa e tiraram diversas e coloridas sobremesas de dentro de uma caixa de obentou em multi‐camadas e,、`
+` em um piscar de olhos, iluminaram o estúdio com um buffet livre de sobremesas.`
+`"Vamos, vamos, coma à vontade.`
+` Se você se contentar com esta velha senhora, talvez eu também possa servi‐lo na boca, que tal~?`
+` Ohohohoho!"`
+`"Acho que prefiro comer sozinho mesmo.`
+` Vamos todos comer!`
+` Oh, tem até chá preto...!`
+` Quanta consideração!"`
+`".........Fique à vontade, Battler‐sama.`
+` ......Por muito tempo eu venho servindo ao Mestre e à {f:5:Beatrice}‐sama.`
+` ...Portanto, tenho conhecimento sobre as dificuldade de renovar a história do tabuleiro."`
+`"Ninguém o congratulou desde que foi promovido a Game Master, Battler‐san.`
+` Por favor, considere isto como um presente e também uma visita de cortesia dos mais velhos."`
+`"O que foi? Não fiquem se tratando como velhos...!`
+` Nunca na minha vida eu desrespeitei aqueles mais experientes que eu.`
+` Vamos, vamos comer, vamos comer.`
+` Gohda‐san, não precisa ser tão humilde, vamos comer todos juntos!"`
+`"Muito obrigado.`
+` Então, se me permite......"`
+`"Hohohoho.`
+` Que privilégio, que privilégio!`
+` Ah~, que delícia!`
+` É como uma explosão de sabores...{p:0:♪}"`
+`Assim como eles disseram, o descanso deve ser exatamente o que preciso agora.`
+`Não vou conseguir ter nenhuma nova ideia e minha concentração só vai diminuir.`
+` Não é como se eu fosse chegar a algum lugar apenas sentando em frente à mesa com os braços cruzados.`
+`Enquanto pensava em seus veteranos por suas preocupações, Battler se esqueceu por um momento sobre o quão pesada era a responsabilidade do Game Master,`
+` ` e melhorou seu humor conforme conversava despreocupadamente e se divertia...`
+`".....A propósito, Battler‐sama,`
+` como estão as preparações para o EP6?"`
+`"Hmm.`
+` Não faço a menor ideia.``
+` .....Eu estava reclamando sobre isso com a {f:5:Lambdadelta} mais cedo, essa história tem personagens demais.`
+` Eu quero dar a todos um momento para brilhar, mas...`
+` É muito difícil colocar todos os personagens em um cenário de apenas um episódio......`
+` ......Hã?`
+` É mesmo, vocês não disseram que era conveniente que eu ainda estivesse pensando no enredo?"`
+`"S‐Sim, sobre isto, bem......"`
+`Gohda e Kumasawa, apesar da idade, riram timidamente.`
+`Quando Battler olhou diretamente para eles, se perguntando o que estaria acontecendo, Genji falou com dignidade`
+`"......Battler‐sama, chegou a ver os resultados da mais recente pesquisa de popularidade?"`
+`"Hã?``
+` A‐Ah, sim, a pesquisa de popularidade do nosso patrocinador, né?!`
+` Eu fiquei em primeiro lugar nela, hahaha... Isso me deixa um pouco envergonhado..."`
+`......Normalmente, em um jogo como este, acredito que a heroína fique em primeiro.`
+`É realmente raro ver um personagem masculino em primeiro lugar......`
+` Ah, bem, acho que também foi o caso com o Keiichi‐kun em "Higurashi"...`
+`"......Dentre nós, aquele que conseguiu se sair melhor, o Gohda, ficou em 22º.`
+` O doutor Nanjo em 48º.`
+` E a Kumasawa foi a 53ª..."`
+`"Hohoho...`
+` Bem, talvez esta seja a posição adequada para uma velha senhora como eu."`
+`"Qual a posição do Genji‐san?"`
+`"Foi o 41º.`
+` ......Bem, é difícil para nós agradarmos as gerações mais novas."`
+`"Desde o primeiro episódio, vocês sempre tem ficado com papéis horríveis, e sempre os aceitaram sem reclamar uma única vez. ......É um pouco triste ficarem em uma posição tão baixa.
+` Especialmente quando aquela chata da Erika conseguiu ficar em sexto sem nem ter feito nada demais, não acham?"`
+`"Afinal é uma pesquisa de popularidade...`
+` ......Eu sei que nunca seria capaz de competir com belas e jovens garotas como ela......"`
+`Com um sorriso amargo em seus rostos, todos pareciam um pouco decepcionados...`
+`O divertido clima de até agora pouco, onde comíamos doces e bebíamos chá preto`
+`......parece ter secado em um instante e desaparecido silenciosamente.`
+`Eu quero fazer algo para animar a todos......`
+`"Ah......`
+` ......Eu sou mesmo um idiota.`
+` Eu sou o Game Master, não sou?`
+` ......Nesse caso!`
+` Para aumentar a popularidade de vocês, eu só preciso dar um pouco mais de tempo em cena...!"`
+`Oh, parece que todos se animaram e recuperaram os sorrisos em seus rostos.``
+`......Entendi.`
+` Então eles vieram até aqui para tentar me persuadir.`
+`Em "Umineko," onde os jovens se destacam mais, os adultos geralmente não têm um grande papel...。`
+``Especialmente os serviçais mais velhos, que normalmente morrem no primeiro crepúsculo.`
+` E, bem, quando sobrevivem, a Beato e eu sempre acabamos ficando com as melhores partes, então eles nunca têm a chance de brilharem...`
+`"Poxa, é realmente difícil...`
+` Se vou simpatizar com vocês por causa da pesquisa de popularidade, então preciso tentar fazer algo quanto a isso.`
+` Popularidade é proporcional a quanto tempo de cena você tem...!`
+` Sinto muito por não ter percebido isso antes...!"`
+`"Parece que vocês realmente não tiveram muita sorte nos cenários da Beato e da {f:5:Lambdadelta}, mas agora que eu sou o Game Master houve uma mudança de comando...!`
+` Deixem tudo comigo.`
+` Para fazer a popularidade de vocês estourar, eu irei aumentar o tempo de cena para poderem se mostrar mais!"`
+`......Falar é fácil.`
+` Como eu vou conseguir fazer isso para eles?`
+`Em um mundo de batalhas mágicas e batalhas de raciocínio, onde eu posso encaixá‐los...?`
+`"......Nesse caso, é melhor perguntar direto aos envolvidos.`
+` Que tipo de papel vocês querem?`
+` Esse vai ser meu agradecimento pelos doces deliciosos.`
+` Concederei a vocês tudo o que quiserem!"`
+`"Nesse caso...`
+` Por favor, me deixe fazer algo grande na cozinha!"`
+`"Bem, é claro.`
+` Mas se seu único papel for cozinhar, não vai conseguir fazer muita coisa depois que os assassinatos começarem, vai...?"`
+`"Não, não, deixe comigo...!`
+` Afinal, sou um astro no mundo dos {i:pâtissière}!`
+` Se for na cozinha, eu não posso perder! E se eu tivesse uma grande batalha empunhando utensílios de cozinha...?!"`
+`"Começa parecendo completamente inútil antes da cena, e acaba sendo encurralado na cozinha.`
+` Mas quando alguém insulta os utensílios de cozinha, a força da raiva se manifesta e o jogo muda de figura...!`
+` Oh, acho que isso chamaria a atenção dos mais novos."`
+`"E minha frase de efeito será: 'Na cozinha, eu não posso perder!"`
+` Que tal isso...?!"`
+`"Sim, não é nada mal.`
+` ......O chef Gohda‐san vai usar técnicas de aikidou para exterminar o enxame de cabras!`
+` Então se colocarmos para tocar alguma música de batalha empolgante, a cena ficará para sempre marcada na memória de todos!`
+` Certo, está decidido.`
+` Eu irei fazer as preparações de uma incrível cena de batalha para o Gohda‐san!"`
+`"Oooooh!!`
+` Muito obrigado, muito obrigado!!"`
+`"O que você vai querer, Kumasawa baa‐chan?`
+` Vai ser aquilo?`
+` A serviçal perfeita que sempre testemunha nas sombras as cenas importantes por uma fresta na porta?!"`
+`"Hohoho...!`
+` Acredito que este papel encaixaria melhor com minha idade e experiência...`
+` Graças à minha longa experiência de vida, eu percebo imediatamente quando algo parece fora do lugar na cena do crime, e busco pela chave para resolver o mistério.`
+` ......Porém, o culpado descobre isso, me silencia em uma cena de partir corações, e eu deixo uma mensagem antes de morrer:`
+` Ah, vão atrás do culpado~~!!`
+` Ta~da!"`
+`"Wahhahha, isso seria bem refinado!`
+` Comprei sua ideia!`
+` Vamos colocar você nesse papel, Kumasawa‐san.`
+` É bem fácil de fazer você se destacar com uma grande e dramática cena final.`
+` Certamente vai levar a audiência às lágrimas!"`
+`Seguindo nesse ritmo,`
+` Nanjo será um super cirurgião, que usa apenas os equipamentos que ele carrega consigo mesmo.`
+` E mais do que isso, dentro de seu jaleco ele carrega toneladas de bisturis e remédios, então não vai ter problemas em lutar com isso, vai ser tipo aquele {ruby:Black Jack:cirurgião genial}.`
+`O Genji‐san vai ser o personagem de suporte maneiro.`
+` Ele vai estar preparando um coquetel ou algo assim no lounge da casa de hóspedes, relembrando os velhos tempos.`
+`Ele não vai ter uma cena de batalha, mas um inimigo superforte vai aparecer e dizer algo para ele como: "Você é o Genji......?!`
+` Isso é impossível, você devia ter morrido......!!"`
+` e nos dar um vislumbre de como ele era incrível no passado.`
+`"Hehhehe......beleza.`
+` Desta vez os serviçais adultos terão todo o tipo de coisa.`
+` Com abundante experiência, astúcia e conhecimento, serão capazes de acabar com aquela bruxa de mil anos e todo seu grupinho de amigos...!`
+` `Obrigado, pessoal!`
+` Agora que sei qual direção a história vai tomar, acho que posso começar a ter mais ideias...!!"`
+`"Isso é ótimo...!`
+` Parece que fomos úteis para você, Battler‐san."`
+`"........E então, nós deveríamos ir agora.`
+` Se ficarmos muito tempo, vamos acabar atrapalhando o escritor..."`
+`"Sim, obrigado por se preocuparem comigo!`
+`E obrigado pela colaboração!`
+` Terei certeza de escrever um cenário incrível e colocar vocês no centro dos holofotes para que alcançem o top 10 na próxima pesquisa de popularidade!!"`
+`Gohda, Kumasawa, Nanjo.`
+` ......Até mesmo Genji ficaram comovidos e derramaram lágrimas de gratidão.`
+`Battler, a fim de acabar com seus arrependimentos de longa data, imergiu ainda mais na produção do cenário do EP6......`
+`*bam*bam*!`
+` Mais uma vez, o som de uma batida.`
+`Quem é agora?`
+` .....Desta vez, era uma personagem realmente inesperada.`
+`"Então?`
+` Está fazendo progresso com o novo cenário?"`
+`"絵Tia Eva do fundamental...?! ...Só que não!!`
+`Você é a bruxa {f:5:Eva}, não é?!`
+` O que veio fazer aqui?"`
+`"Que tipo de cumprimento é esse, hein...?`
+` Qual episódio foi o mais popular até agora?`
+` Foi o EP3, não?`
+` E por que você acha que aquele cenário é tão empolgante?`
+` Por ter tido uma rival a altura!`
+` Se quer um cenário maravilhoso, você também precisa de uma rival maravilhosa!"`
+`"E mesmo que não esteja esperando por isso, eu fiquei em oitavo lugar na última pesquisa de popularidade!`
+` Ficando no top 10 mesmo quase não aparecendo desde o EP3, não acha isso impressionante?`
+` Uffufufufufufu!`
+` Se me permitir, eu posso aparecer no EP6 e deixar tudo ainda mais empolgante.`
+` *risos*risos* Por que não deixa de ser devagar e me dá logo um papel~~?!"`
+`"Não, sem chance.`
+` A rival que eu tenho já é suficiente."`
+`"P‐Por quê?!"`
+`"......Ela se encaixa no papel de rival irritante perfeitamente.`
+` A maldade e perversão dela ofuscam você completamente."`
+`"O‐O que quer dizeeeeeeer?!?!"`
+`Ele havia prometido que enfrentaria Erika no próximo cenário, por isso já havia oferecido um papel a ela de forma não oficial.`
+`Ou seja, a posição de rival já estava preenchida.`
+` Por isso ele não fazia ideia de onde encaixar EVA, uma personagem que foi sobreposta por Erika.`
+`E mais, {f:5:Eva}, que aparentou ser uma personagem superirritante quando fez sua estreia no EP3, agora era completamente desinteressante quando comparada com Erika.`
+`Afinal, Erika, o tipo de personagem que recorre a truques baratos, eleva o nível das especificações requeridas.`
+`"Bem, é assim que funciona.`
+` A não ser que aconteça algum bug no script ou algo parecido, você não vai aparecer!"`
+`"E‐Eestá dizendo que eu sou inferior àquela Erika?!`
+` Em quê?!`
+` Por quê?!?!"`
+`"......Ela cumpre todas as especificações com sobras.`
+` É irritante.`
+` É patética.`
+` E o mais importante: é pervertida.`
+` A personagem dela se destaca muito mais."`
+`""O‐O quê?!?!`
+` Está dizendo que eu perdi meu {b:impacto}?!`
+` Está dizendo que não sou uma boa personagem?!?!"`
+`".....Veja bem,`
+` ela é uma pervertida que colocou um maiô para subir as paredes e colocar fita kraft nas janelas em meio à uma chuva torrencial...`
+` A Erika ficou em sexto lugar na pesquisa de popularidade, e você em oitavo.`
+` Apesar disso, ela teve quase o dobro de votos que você, sabia...?"`
+`"E‐E daí...?`
+` Está dizendo que jovens garotas podem ganhar votos só por vestirem um maiô?!"`
+`"Homens são fracos à exposição.`
+` Que tal encurtar um pouco a sua saia?"`
+`"A da Erika bate nos joelhos, já a sua é muito longa.`
+` ......Estamos vivendo a era do {i:zettai ryouiki}! Você não vai chegar a lugar algum sem meias 3/4, 7/8 ou uma meia‐calça.`
+` Sua franja também é bem sem graça.
+` O {i:twintail} da Erika a deixa popular instantaneamente, é uma forma superfácil de melhorar o visual.
+` Contra saia, penteado, exposição e natureza pervertida, você não tem a menor chance.`
+` Ela ofusca completamente a sua personagem.`
+` Não consigo pensar em um bom motivo para colocá‐la na história."`
+`"G‐Gaaaaaaaaah!!!!"`
+`Sua personagem é sobreposta pela Erika`
+`{n}↓`
+` {n}Nunca mais vai aparecer!`
+`{n}↓`
+` {n}Demitida de "Umineko"!`
+`{n}↓`
+` {nAbandonada na beira da estrada.`
+`{n}↓`
+` {n}Desnutrição.`
+` Morte!`
+`"E‐Eu não quero issooooooo!!!`
+` Por favor, por favor, Battler‐sama...!!`
+` Eu farei o meu melhor, então me deixe participar...!`
+` Por favoooor, me deixe participar!"`
+`"Se o problema é o comprimento da minha saia, eu conserto isso!`
+` Se é o meu cabelo, eu mudo também!`
+` Se quer exposição e natureza pervertida, eu farei como quiser, então me deixe participar, por favor, Battler‐samaaaaaa!!"`
+`"........Você disse que mudaria o comprimento da sua saia.`
+` .....De quanto estamos falando?"`
+`Hmm, bom, .........então, ......dez centímetros......"`
+`Com o estalar dos dedos, a saia de {f:5:Eva} encolheu dez centímetros.`
+` Porém, ainda continuava muito longa.`
+`"M‐Mais dez centímetros......`
+`"Logo, logo, vai chegar nos seus joelhos.`
+` Tem certeza que está tudo bem...?"`
+`"......P‐Por favor......deixe‐a...menor......"`
+`A saia começou a ficar cada vez mais curta.`
+` No fim, ficou tão curta que ela precisou ficar freneticamente puxando para baixo com ambas as mãos para impedir que sua calcinha ficasse aparecendo.`
+` Era curta demais até mesmo para ser chamada de minissaia...!`
+`"Bem, me pergunto se apenas mudar sua saia é o bastante para competir com a Erika.`
+` E quanto ao seu cabelo?"`
+`"S‐Sim......`
+` ...E‐u colocarei uma peruca e farei......{i:twintails}......"`
+`"E quanto à exposição e a natureza pervertida?`
+` Ihihihihi~!!"`
+`Battler finalmente lembrou que ele não era um mero escritor,`
+` mas sim o deus intitulado Game Master.`
+`Isso mesmo! Aqui eu sou deus!!`
+` Sou livre para fazer tudo o que eu quiser.`
+` Qualquer um que divirja das minhas ideias não participará!`
+`E assim, Battler também afundou na negra tentação que aflige todas as bruxas......`
+`Finalmente, o vestido de {f:Eva} foi remodelado em uma superminissaia, e agora ela estava usando meias pretas 7/8 para combinar.`
+` Seu penteado mudou para {i:twintails} e foi além: concordou em usar orelhinhas de gato, `
+` uma coleira com sininho`
+` e um uniforme escolar de marinheiro.`
+` Era aquela prometida roupa especial usada como punição...`
+`Mesmo com as rígidas condições que lhe foram impostas, {f:5;Eva}, que não queria perder seu papel,`
+` de joelhos e em posição de respeito, agradeceu ao Battler repetidamente, reverenciando‐o...`
+`Battler, que disse aquilo com uma atitude semelhante a um lorde feudal, que iria graciosamente deixá‐la participar,`
+`se tornou um Game Master magistrado e perverso, ao ponto de até mesmo Beato ficar surpresa...`
+`"Wahahaha!!`
+` Eu sou o novo Game Master, Battler‐sama!`
+` Qualquer um que queira participar, venha até mim e implore!`
+` Qualquer um que se opor a mim não participará~ Uhahahaha!!"`
+`Desta vez, Rudolf e Kyrie apareceram. `
+`"E aí, Battler~`
+` Nós somos sua família, né?`
+` Vamos participar também, né?"`
+`"A história finalmente chegou à sua segunda parte.`
+` É a hora do lado humano contra‐atacar.`
+` Estamos bem empolgados quanto a isso."`
+`"A Kyrie‐san tudo bem, mas me pergunto quanto ao velho desgraçado~?"`
+`"N‐Não diga isso...!`
+` Vamos, eu vou comprar tudo o que quiser!`
+` Meu coração irá mudar e eu me tornarei um ótimo pai depois disso!`
+` Tá?`
+` Tá?!`
+` Eu imploro, a Kyrie vai acabar roubando todas as cenas bancando a detetive.`
+` E eu poderia seguir o solitário caminho do herói de ação, vamoooos~!!"`
+`"Parece que não tenho escolha.``
+` Seja grato ao magnânimo Battler‐sama aqui.`
+` そEu devo garantir este seu desejo!""`
+`Os próximos a aparecer foram Krauss, Natsuhi e Jessica.`
+`"O‐Olá, Battler‐kun...`
+` A Natsuhi, a Jessica e eu......queríamos saber se seria possível fazermos parte também...?"`
+`"...N‐Não é como se quiséssemos roubar os holofotes.`
+` ......Se você pudesse nos retratar como uma família unida, já seria o bastante......"`
+`"Eu quero fazer parte das batalhas.`
+` Vamos ir com tudo e acabar com algumas bruxas e demônios juntos!"`
+`"Hmmm~ Eu garantirei isto, mas com uma condição."`
+`"O‐O que seria......?"`
+`"Tia Natsuhi......bem, ......eu quero usar suas pernas como travesseiro...`
+` ......E‐E então..., ......poder chamar você de "mãe"...?"`
+`"N‐Não é como se eu fosse forçar você a fazer isso, certo...?`
+` Bom, se possível, eu gostaria que você vestisse um maiô...`
+` Ah, sobre isso, irei fornecê‐lo de acordo com a política da casa...!`
+` É claro, você não precisa fazer isso. Afinal, eu preciso encontrar seis pessoas para matar no primeiro crepúsculo, hihihihi~!"`
+`"B‐Battler, desgraçado, o que acha que tá dizendo pra a minha mãe?!"`
+`"Eu disse que não vou forçá‐la a nada, tá~?`
+` Afinal, eu sou o todo poderoso Game Master~!"`
+`"...Ngh......`
+` ......Eu......eu entendo......。`
+` ...Eu...Eu farei isso. ......Vestirei um maiô......e serei seu......travesseiro......"`
+`"Uuyahoooooooo!!"`
+`Logo depois, a família de George chegou carregando uma caixa com doces.`
+`"Você, bem..., ...tem alguma condição para nossa família também poder ter algum tempo de cena？"`
+`"Eu faço qualquer coisa...!`
+` Por favor, deixe nossa família aparecer!`
+` Por favooor!!"`
+`"Você não precisa dar nada para meu marido e eu...!`
+` Mas, ao menos para o George, dê a ele um papel maravilhoso!"`
+`"Vamos ver... Eu aaacho que posso dar ao George‐aniki uma cena de luta estilosa. Pode ser?"`
+`M‐Mesmo?!`
+` Valeu, Battler‐kun!!`
+` Muito obrigado!!"`
+`"Porém!`
+` Guhihihi!`
+` Vou pegar a tia Eva emprestada por uma noite, tá?`
+` A abundante`
+` fartura`
+` desse seu corpo glamouroso e escandaloso, ihihihi!`
+` Farei você cozinhar para mim usando um maiô, e talvez até me servir algumas bebidas à noite~、`
+` Nufufufufufu!!"`
+`"N‐Não mesmo...!!`
+` Deixe a Eva fora disso!`
+` Eu farei qualquer coisa...!!"`
+`"......Tudo bem. ......Está tudo bem, querido......`
+` ......Se for pelo George.........eu........."`
+`Conforme Battler ia se achando cada vez mais, Rosa apareceu diante dele.`
+`"Battler‐kun...`
+` ......Bem, quanto à parte da Maria......"`
+`"Gufufufu~!!`
+` É claro que eu não me importo de deixar ela aparecer, mas tia Rosa...?`
+` Se me pedir um favor, vai ter que retribuir ele, pode seeer?"`
+`"I‐Isso é......um maiô......?`
+` Quer que eu......vista isso......?"`
+`"Tia Rosa, acho que vou pedir para você lavar minhas costas enquanto veste esse maiô~`
+` Guhyahyahyaaah~!!"`
+`".........Isso é terrível...`
+` E pensar que o Battler‐kun iria sucumbir ao lado negro dos Game Masters......"`
+`"Devo dizer que seu descontrole é fascinante.`
+` Pukuku...!"`
+`"Oh, se não são o Ronove e a {f:5:Virgilia}?`
+` Eu devo uma a vocês.`
+` Não se preocupem, terei certeza de deixar vocês aparecerem no próximo episódio sem nenhuma condição a mais."`
+`"Ora, ora, isso é verdade?`
+` Eu fico profundamente agradecido."`
+`"Independente do que você pense de mim, eu sou um homem que não esquece de seus débitos.`
+` Ihihihi!"`
+`"......Battler‐kun.`
+` Todos desejam tanto aparecer que ficaram desesperados.`
+` Por favor, pare de brincar com esses sentimentos..."`
+`"Mesmo sendo um pedido seu, {f:5:Virgilia}, sinto muito, mas eu não posso acatar~{p:0:☆}` 
+` Afinal, eu não esqueço meus débitos, assim como não esqueço meus ressentimentos~!`
+` Ah, sim, Ronove.`
+` Este é um aviso informativo.`
+` Publique‐o em algum lugar por mim.""`
+`"Certamente.`
+` ......Ora, o que seria isto?"`
+`"As Sete Irmãs do Purgatório não vão mais aparecer.`
+`{n}Se alguém tiver alguma objeção, venha falar diretamente comigo"`
+`......Se algo assim for publicado,`
+` não há dúvida de que as Sete Irmãs vão vir correndo para ver Battler.`
+``Mas como elas tem aparecido em todos os episódios desde o EP2,`
+` todas têm se sentido muito seguras em relação à popularidade das Sete Irmãs do Purgatório.`
+`Então por que, dessa vez, elas repentinamente não vão aparecer......?`
+`"Todas nós sabemos a resposta!`
+` É tudo culpa da Luci‐nee!!"`
+`""""Sim, onee‐sama!`
+` É tudo culpa da Luci‐nee!!""""`
+`"P‐Por que é minha culpa?`
+` O que eu fiz...?!"`
+`"Afinaaaal,`
+` Lucifer onee‐sama~"`
+`"Você maltratou demais o Battler‐kun no EP3."`
+`"Como representante de todas as irmãs, você tinha um monopólio em relação a atormentar o Battler‐kun, não tinha...?`
+` Aah, é tanta inveja que não consigo suportar!"`
+`"Foi a Luci‐nee quem acabou com o humor do Battler‐sama......não tenho a menor dúvida."`
+`"""Não há dúvida!"""`
+`"E aí, Luci‐nee...?!`
+` Eu prometi à Ange‐sama que teríamos cenas juntas de novo!`
+` Sério, como pretende assumir a responsabilidade, hein?!"`
+`"E‐Eu não sou a única culpada......!!"`
+`"""Não! É tudo culpa da Luci‐nee!"""`
+`"De qualquer forma,`
+` vamos ir nos desculpar com o Battler‐kun."`
+`"Assim eu nunca mais vou aparecer! Nãoooo! Uwaaaaaaaaah!"`
+`Agora vestindo um manto,``
+` Battler sentou‐se em um trono extravagante e incrivelmente arrogante.`
+`As Sete Irmãs ajoelharam‐se diante ele, tentando conseguir ao menos uma aparição...`
+`"......Fala, Lucifer!`
+` Quem diria que este dia finalmente chegaria, hein?`
+` Ihihihi..."`
+`K‐Kuh......"`
+`"Battler‐sama!`
+` Nós queremos aparecer também!"`
+`"Faremos tudo o que disser, por favor, nos deixe apareceeer!"`
+`As irmãs imploraram de joelhos.``
+`"Fumufumu.`
+` Parece que seis de vocês querem aparecer,`
+` só a Lucifer que não."`
+`"......S‐Se significa que eu preciso me ajoelhar diante de você, eu não me importo de nunca mais aparecer...!`
+` Q‐Quem iria se prostrar diante de você...?!"`
+`"As Sete Irmãs do Purgatório são um conjunto de sete.`
+` Se uma de vocês quer ser do contra, acho que nenhuma vai aparecer?"`
+`""""""S‐Sem chanceeeeee, Battler‐samaaaaa!!""""""`
+`"I‐Irmã idiota!!`
+` Sua teimosia está causando muitos problemas para o resto de nós!"`
+`"Vamos!`
+` Ajoelhe‐se e peça desculpas!"`
+`"Isso mesmo! Pressione sua testa contra o chão e peça desculpas!"`
+`As irmãs mais novas forçaram juntas Lucifer a se abaixar, e forçaram‐na a se ajoelhar e pressionar o rosto contra o chão.`
+`Lucifer ainda recusava‐se a se render, segurando suas lágrimas enquanto rangia os dentes.`
+`"Battler‐sama, a Luci‐nee está se desculpando, por favor, acalme sua ira."`
+`"Então me dê uma cena onde eu me encontre com um príncipe maravilhoso~!"`
+`"Eu quero uma cena onde eu possa comer muitas comidas deliciosas~!!"`
+`"Entendo, entendo.`
+` Se eu estiver de bom humor, darei a vocês qualquer cena que quiserem~`
+` Aah, meu ombros estão tão duros."`
+`""Ceeerto, nós faremos uma massagem!!""`
+`"Aah, minhas panturrilhas estão tão pesadas. Poderiam esfregar elas também~?"`
+`"Sim, deixe comigo!"`
+`"Como desejar!"`
+`Mammon cuida da panturrilha direita.`
+` Belph massageia a esquerda.`
+`Asmo cuida do meu braço direito.`
+` Beelzie massageia o braço esquerdo.`
+`Aah, meus braços esquerdo e direito......`
+`estão sendo segurados entre calorosos frutos.`
+` ......É‐É a suprema felicidade.....`
+`......Uaaau, ser o Game Master é maravilhoso...`
+` Game Master Banzai!!`
+`Eu sou deus! O deus do novo jogo!!`
+`"As seis mais novas estão bem~`
+` Mas não tenho certeza quanto à Lucifer por causa do EP3~`
+` Você me goivou tantas vezes na sua forma de estaca, tinindo e tinindo, tinindo e tinindo, tinindo tinindo tinindo!`
+` Aah, só de lembrar eu já fico irritaaado!"`
+`"Ahh, nesse caso,`
+` eu acho que o Battler‐sama deveria goivar a Luci‐nee."`
+`"Acho essa ótima ideia!`
+` Até o Battler‐sama ficar satisfeito, ele deveria ficar maltratando ela a noite toda!"`
+`"D‐Do que estão falando?!`
+` E‐Ei, me soltem!"`
+`"Eu sei de tudo, Lucifer onee‐sama.`
+` Suas costas são seu ponto fraco, né...?"`
+`"Espera... L‐Levia?!`
+` C‐Como você sabe disso?!"`
+`"Todas conhecem seus pontos fracos!!`
+` Você é a única que pensou que não sabíamos, né?!`
+` Você é descuidada demais, onee‐sama!"`
+`"Hoh‐hoh‐hoh‐hoh, entãos as costas são o ponto fraco dela, é, hoh‐hoh‐hoh‐hoh!"`
+`"P‐Parem!!`
+` Acha mesmo que vou me render a isso?!`
+` Acha mesmo que eu vou chorar e implorar por perdão?!"`
+`Ah, cala a boca, fica queita!`
+` Farei você conhecer todo meu ódio por aquele dia no qual você me torturou, com aquele som tilintante e me goivando!`
+` É por aqui?`
+` Ou seria aqui?`
+` Toma, tomatomatomatoma!!"`
+`"Ahhiiiiiiiiiiiii!!"`
+`"Talvez seja aqui?!"`
+`"Ahaaaaa!`
+` Nãooooo,`
+` por favor, me perdoe, Battler‐samaaaaaaaa, auaaaaaaa!!"`
+`.....Ele finalmente teve a chance de se vingar, coisa que ele nunca teria na história original.`
+` Battler complacentemente esfregou as costas de Lucifer...`
+`"Como se sente, Battler‐sama?``
+` Renovado?"`
+`"Sim, me sinto ótimo...`
+` Meu longo e duradouro ressentimento se foi por completo, me sinto renovado, toda a raiva se foi generosamente!""`
+`Os ombros de Lucifer estavam pesados como se não conseguisse respirar. Ela caiu ao chão com suas roupas todas desarrumadas, como se fosse o final de uma batalha ou algo do tipo.`
+` .....Foi um pouco obsceno.`
+`"Então isso significa que todas vamos aparecer agora......?"`
+`"Claro！`
+` Eu me libertei de todos os meus ressentimentos!`
+` Não se preocupe, sua aparição está garantida!`
+` Uhahahahahahaha!"`
+`"Então,`
+` eu quero uma cena onde eu possa encontrar um príncipe maravilhoso!"`
+`"Eu quero um papel onde eu possa comer muitas comidas deliciosas!!"`
+`"Eu não preciso de nenhuma grande aparição, mas tenha certeza de que eu também vou estar no sétimo jogo também!"`
+`"Eu gostaria de poder lutar contra um formidável inimigo e cair em batalha de forma sublime."`
+`"Ei, ei vocês!`
+` Se ficarem pedindo tudo ao mesmo tempo, o Battler‐sama vai ficar confuso!!`
+` Escrevam seus pedidos em um papel e entreguem para ele!!"`
+`"......E‐Eu...estou bem em ficar com um papel menor...`
+` ......Eu não irei desafiá‐lo de novo, ......eu só gostaria...de poder participar......"`
+`"Do que está falando? Luci‐nee, você sempre foi quem mais teve destaque! Que inveja, aah, que inveja!"`
+`"Uwahahahahaha!`
+` O Game Master é Deus!`
+`Eu irei garantir qualquer desejo!`
+` Há espaço para tudo!"`
+`"Oh?`
+` Parece que veio mais alguém.`
+` Será que agora são as Irmãs Chiester?`
+` Ou talvez o grupo da Dlanor?`
+` Pensando nisso agora, estou um pouco irritando com a Ange por não ter vindo me cumprimentar, mesmo sendo a minha irmãzinha!`
+` Até já recebi uma massagem completa das Sete Irmãs.`
+` Talvez eu até peça para as Irmãs Chiester secarem o suor da minha testa com as caudas delas~?`
+` O que eu deveria pedir para a Dlanor?`
+` Uhyahyahyahaaaaa!!"`
+`......E assim, o Game Master Battler alcançou os limites da tirania e aproveitou ao máximo seu harém.`
+`Entretanto, neste mundo, as pessoas possuem privilégios porque também detém de responsabilidades.`
+`E quando se inverte esta afirmação, se torna ainda mais congruente.`
+`Mais cedo, Battler usou seus privilégios, e agora, como Game Master, ele deve cumprir com suas responsabilidades e garantir todos os desejos. `
+`"Com licença.`
+` ......Eu anotei, em um papel, todas as demandas pelas quais você é responsável."`
+`"Oh, valeu, {f:5:Virgilia}!`
+` Vamos ver, vamos ver.`
+` ......Hmm, tem um monte delas."`
+`"Pukkuku!`
+`Afinal, você é o deus do tabuleiro, Battler‐sama.`
+` Não há desejo que não possa garantir.`
+` Em contrapartida, as demandas se tornaram um pouco extravagantes."`
+`"......A essa altura, Battler‐kun.`
+` ......Que tipo de cenário você será capaz de criar para encaixar todas elas...?`
+` E tudo em um único episódio..."`
+`<Lista da Demanda das Personagens para o EP6>`
+`■Genji`
+`{n}Um elegante e refinado personagem de apoio.`
+` Enquanto prepara coquetéis no lounge da casa de hóspedes, eu irei falar sobre o passado`
+`{n}Ouvimos um pouco sobre meu passado como consigliere e descobrimos como eu fui forte durante minha juventude.`
+`■Nanjo`
+`{n}Um supercirurgião.`
+` Mesmo quando não tenho ferramentas cirúrgicas à disposição, eu uso meus suprimentos diários para performar cirurgias de sucesso.`
+` E mais do que isso, eu terei uma cena onde irei usar minhas ferramentes cirúrgicas como armas.`
+`■Kumasawa`
+`{n}Sempre testemunhando cenas de maior importância.`
+` Graças as minhas experiências de vida, eu posso sentir que algo está fora de lugar na cena do crime!`
+` {n}Mas eu serei morta pelo culpado antes de ser capaz de fazer qualquer coisa.`
+` Minha cena de morte deve ser de derramar lágrimas.`
+` E, é claro, para a música ambiente da cena, uma nova compisição triste deve ser encomendada com o dai‐san.`
+`■Gohda`
+`{n}Eu irei cozinhar deliciosos pratos!`
+` Eu gostaria que a cena sobre minha ópera culinária tivesse no mínimo 50.000 caracteres.`
+`{n}E então todos iriam ovacionar de pé minhas maravilhosas habilidades.`
+` Eu irei até receber um beijo de admiração da madame!`
+`É claro, minha cena de luta vai ser na cozinha.`
+` Vai começar sendo uma batalha com armas, mas a parte verdadeira vai começar quando eu a largar.`
+`Irei acabar com os terrorista com minhas técnicas de aikidou!`
+`{n}"Na cozinha, eu não posso perder!"`
+`■{f:5:Eva}`
+`{n}Eu serei revivida como uma vilã capaz de superar Erika!`
+` A sucessão de cruéis assassinatos vai se desdobrar mais uma vez.`
+`Ao final, eu irei me envolver em uma intensa batalha com o Battler!`
+`{n}sto vai necessitar no mínimo 100.000 caracteres de texto.`
+`As cenas de batalha devem usar pelo menos cinco novas músicas de ação feitas exclusivamente para a {f:5:Eva}.`
+`{n}Além disso, eu serei a personagem mais forte no jogo {i:spinoff} de luta.`
+`{n}Os DVD da pré‐venda devem vir com um {i:dakimakura} meu produzido pela Fr*ntier Works!`
+`■Krauss`
+`{n}A batalha contra a Bruxa Dourada vai em direção à verdadeira luta.`
+` Uma batalha pelo ouro ‐ em outras palavras, uma luta financeira!`
+` Krauss, que sempre atuou como palhaço da história, finalmente despertará como Mago Dourado!`
+`Barganhando para mudar o preço do mercado, fazendo distinção entre verdades e falsidades.`
+` Envolvido pelas conspirações do jogo do dinheiro!`
+` A terminologia dos negócios vai entrar em cena, ao ponto das pessoas pensarem que se tornaram experts em negócios só por ler isto!`
+`"O Subprime colapsou!`
+` Padrão azul... Bolha financeira confirmada!!"`
+`"Aquela grande {ruby:Lehman:corretora de valores} tem cinco minutos restantes de atividade...!!`
+` Os investidores estão pulando fora um a um!!!"`
+`"Injeção de fundos públicos cortada, enviando coerção de apoio do governo para o {ruby:Merrill Lynch:banco de investimentos}"`
+`"Nada bom, não podemos mandar isso!!"`
+`"O QuE DIsSSe?!"`
+`"Comandante Krauss!`
+` ......Recebemos um telefonema do antigo {ruby:Alan Greenspan:Presidente da Reserva Federal}...""`
+`"......Já faz cem anos."`
+`"Sim, não há erro.`
+` ......Esta é a Segunda Crise Financeira Mundial."`
+`■Natsuhi`
+`{n}A história tem sido bem turbulenta até agora, por isso eu gostaria que se tornasse um calmo romance direcionado ao público adulto.`
+`eu marido jogou uma bola de neve em mim, e quando eu a peguei e a abri ao meio, ......eu encontrei um anel de casamento dentro.`
+` Kya{p:0:☆}`
+`■Jessica`
+`{n}Esqueça o raciocínio e as teorias!`
+` Honestamente, eu sequer me importo com o mistério.。`
+`{n}É tempo de um eletrizante capítulo de ação com a empolgante Jessica‐sama derrotando vilões odiosos com suas soqueiras!`
+`{n}Quero que o diretor seja {ruby:Stephen Chow:aquele mestre} que se popularizou com a evolução dos filmes de ação.。`
+`Eu serei encurralada na reta final, mas aí o Kanon‐kun vai aparecer correndo de forma galanteadora e virá me salvar!`
+`{n}Para uma explicação mais detalhada desta cena, veja a página 735 do apêndice!`
+`■Hideyoshi`
+`{n}Retornando da frente de batalha para encontrar sua cidade natal varrida as cinzas.`
+` Sem casa, sem família, sem recursos.`
+` Um documentário do homem que perdeu tudo mas se tornou dono de um restaurante chinês construído do zero, um empolgante filme colorido baseado em uma história verdadeira ganha vida...!`
+`Com o dinheiro obtido através da venda no mercado negro de bens saqueados de um depósito no qual me infiltrei,`
+`uma grande história de sucesso começa a se formar!`
+`Para mais detalhes, confira "Regozijo! As Crônicas da Luta de um Único Homem Exemplar.`
+` ~Histórias de Sucesso de uma Cadeia de Restaurantes~".`
+`{n}Será vendido no departamento de vendas da companhia e em cada estabelecimento da cadeia por apenas 1800 ienes.`
+`{n} Novos empregados devem lê‐lo durante seus períodos de treinamento!`
+`■Eva`
+`{n}Abatida devido a constante ruína da família Ushiromiya, Eva luta para revivê‐la.`
+`Mulheres devem cuidar da casa e educar as crianças?`
+` Mulheres não podem se envolver agora?`
+` O único que devia ficar de fora é você, Krauss nii‐san!!`
+` Fique e assista; a era dos homens já acabou!!`
+`Com inteligência e força,`
+` e também com gentileza e bondade, eu irei encenar um grande papel ajudando meu marido!`
+` Quando a companhia dele está com problemas, eu uso minha sagacidade feminina e sabedoria para ajudá‐lo,`
+` e com o tempo meu papel na história será de reviver a família Ushiromiya.`
+` Ao final, todos os meus feitos serão reconhecidos pelo Kinzo, e ele me aceitará como a próxima chefe.`
+`No climáx, Krauss e um bando de marginais atacam meu marido, e quando ele está em apuros, eu uso minhas técnicas de judô que tanto me orgulho para chutá‐los!`
+` A protagonista deve ser eu. Se isto não for possível, então deve ser aquela {ruby:Miyamoto Nobuko:atriz famosa} que também é cantora de jazz.`
+` Naturalmente, o diretor deve ser o {ruby:Itami Juuzo:seu marido}, a autoridade maior dos filmes de entretimento que compartilha seu nome com um asteroide.
+`■George`
+`{n}Eu gostaria de uma pacífica e amorosa representação de como o romance entre a Shannon e eu teve início.`
+` Afinal, essa cena ainda não foi mostrada na obra original.`
+`Aconteceu no dia da tradicional conferência familiar.`
+` Me pergunto quantos anos já fazem?`
+` Haha, lembrar disso me deixa um pouco envergonhado.`
+`Naquele dia, eu estava usando um chapéu.`
+` Ele foi soprado para longe pelo vento forte`
+` e saiu voando pela praia.`
+`aquele momento, a Shannon apareceu.`
+` Nós fomos juntos procurar pelo chapéu enquanto caminhávamos à beira‐mar.`
+` Não conseguíamos encontrá‐lo em lugar nenhum,`
+` não importava quantas vezes nós déssemos voltas pela praia procurando por ele.`
+`No fim, nunca o encontramos.`
+` Mas teria sido chato ficar procurando em silêncio,`
+` então nós ficamos conversando o tempo todo.`
+`Foi quando......eu ouvi que ela sonhava em ir a um aquário.`
+` Por coincidência, eu tinha um amigo que era curador de um.`
+` Eu consegui que nós dois fôssemos juntos fazer uma visita especial ao aquário em um dia que ele estivesse fechado.`
+`Eu pedi desculpas a ela por duas coisas.`
+`{n}A primeira foi que ela não iria ver a multidão de pessoas no aquário naquele dia.`
+`{n} a outra......que eu não estava usando chapéu naquele dia.`
+` （Piscadinha!）`
+`"C‐Calem a boca!!!!!`
+` Que merda é essa......?`
+` Até quando vai continuar assim?!`
+` ...Ainda nem chagamos na metade...?!"`
+`"......Sinto que eles estão impondo demandas`
+` para equilibrar com seus caprichos egoístas, Battler‐kun..."`
+`"Pois bem,`
+` você precisa escrever um cenário que abranja todas essas demandas.`
+` ......Entretanto, o Game Master possui um limite de tempo para escrever o cenário..."`
+`"T‐Tempo limite?!`
+` Tem isso?!`
+`Q‐Quanto tempo eu tenho?!"`
+`"Bem, para ser franco, até a Comiket de Inverno."`
+`"O pessoal da fábrica de discos tem suas próprias circunstâncias, por isso o verdadeiro prazo final está ainda mais perto...`
+` Parece que este ano o inverno será bem frio.`
+` Não é incomum que fiquem localizadas nas montanhas...`
+` É possível que feche por causa da neve, e o disco master não chegue até nós a tempo."`
+`"Vamos, Battler‐sama, você deve começar a escrever agora.`
+` Um novo cenário que satisfaça todas as demandas!`
+` ......Ah, e se permitir,`
+` eu ficaria agradecido se pudesse me colocar como sendo um selvagem capitão pirata de um navio que viaja para os confins da Terra."`
+`"Ah, ......se possível,`
+` eu ficaria feliz se você me permitisse apresentar um show comemorativo de 17 anos e de 1000 anos...`
+` {e:070:Hã? Que foi?}`
+` ão consigo ouvir você!"`
+`"B‐Bem......`
+` Ushiromiya Battler também pode fazer um pedido...?"`
+`"Ora, o que seria?"`
+`"Poderia tudo isso`
+` ......se transformar em um grande sonho...?"`
+`""Não.""`
+`"Eu acabei me empolgando demais, sério, desculpa.`
+` Por favor, me salvem, VIRGILIA‐sama, Ronove‐sama..."`
+`"Fazer o quê, não tenho escolha..."`
+`"Pukuku.`
+` Se deseja que ditemos, é claro que assumiremos a tarefa.`
+` Entretanto, iremos adicionar nossas demandas ao cenário também."`
+`"Feito, vou aceitar tudo...!`
+` ............???`
+` Por que estão me olhando dessa forma assustadora?""`
+`"......RudoBato.`
+` GohBato."`
+`"Pukkukku!`
+` Não se esqueça de RonoBato."`
+`"......D‐Do que vocês estão falando...?`
+` Por que estão terminando as falas com "bato"? O que é "bato"?`
+` É alguma gíria nova, bato...?"`
+`""Niyaaaaaaaaaaaaa~""`

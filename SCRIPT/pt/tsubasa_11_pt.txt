@@ -1,0 +1,782 @@
+`Dentro da Agência de Execução de Arrependimentos, as leis da Grande Corte dos Céus são estritamente reforçadas.`
+` Os Inquisidores da Heresia que lá pertencem, são exaltados e chamados de Cavaleiros da Lei,`
+` e incontáveis jovens virtuosos sonham unicamente em se juntar a eles.`
+`Por isso, quando Cornelia se tornou uma Inquisidora Assessora,`
+` ninguém que a conhecia demonstrou o mínimo de surpresa.`
+`Foi esse o sonho para o futuro que ela escreveu no seu álbum de formatura do fundamental, e agora ele havia se realizado.`
+`Embora ela tivesse sido surpreendida logo que foi admitida.``
+`A primeira e principal delas foi......a grande quantidade de tempo livre que o trabalho oferecia.`
+`Embora fosse verdade que os principais Inquisidores fossem incrivelmente ocupados,`
+` ......o departamento em que Cornelia havia sido atribuída concedia muito mais tempo livre.`
+`E muito além de trair suas expectativas,`
+` ............a atmosfera só podia ser descrita como "relaxada".`
+`"Senhoris, permitam‐me ratificar.`
+` Cornelia, Sacerdotisa de Terceira Classe, assumirá seu posto de trabalho!`
+` A todos os Senhores Oficiais, peço que concedam‐me a honra de suas ordens!"`
+`"......Não, não tem nada no momento.`
+` ...Ah, poderia servir mais chá?`
+` E não precisa utilizar o Vernáculo da Corte durante momentos assim..."`
+`Esta foi a resposta que seu oficial superior deu à Cornelia em seu primeiro dia de trabalho,、`
+` enquanto ela permanecia atenta, de prontidão para cumprir com seus deveres.`
+`"Permitam‐me ratificar`
+` e humildemente chamar a atenção dos senhoris para o fato de que o Vernáculo da Corte é mandatório durante o período oficial de serviço...!"`
+`"Bem, sim, costumava ser assim,`
+` mas a Sétima Juridição negociou com a União, e agora só precisa ser seguido fora dos escritórios.`
+` Você não acha que o Vernáculo da Corte é formal demais?`
+` ...Ah, eu adoraria continuar falando sobre regras e regulamentações, mas preciso informar que o intervalo é, na verdade, das 11:45 até as 13:00, e não das 12:00 até as 13:00."`
+`"S‐Senhoris...!`
+` Fui informada de que nosso intervalo é das 12:00 até as 13:00...!"`
+`"Veja bem, às 15:00 nós supostamente devemos ter quinze minutos de intervalo, certo?`
+` Tudo que fizemos foi adicionar este tempo ao horário do almoço. Nós negociamos e a União aceitou.`
+` Este é um direito que seus superiores deram duro para conseguir para você, então pare de resmungar."`
+`"E mais uma coisa, isso não foi acordado com a União nem nada, mas, tradicionalmente, novo recrutas devem começar o expediente 30 minutos antes, limpar as mesas e servir o chá.`
+` Bem, é seu primeiro dia, então não se sinta mal por isso, tá?`
+` Estarei contando com você, Cornelia‐chan.`
+` Ah, e mais uma coisa, a União estará realizando uma festa de boas‐vindas para todos os novos recrutas hoje às 18:00, na Susukiya. `
+` Vai ter {i:tekkadon}. {i:Tekkadon}!"`
+`"Ratifico que estou humildemente honrada com sua consideração, Sacerdote de Segunda Classe..."`
+`O Vernáculo da Corte é uma linguagem arcaica que Cornelia utiliza.`
+`Visto que os textos da lei desfrutam de termos arcaicos, `
+` é natural que aqueles que os sustentam sejam obrigados a utilizar deste linguajar enquanto estão em serviço, na finalidade de realizá‐lo propriamente.`
+`Porém, por ser diferente da forma como se fala normalmente, seu uso constante não é algo fácil.`
+`Tendo isso em vista, a União dos Trabalhadores de cada jurisdição conseguiu chegar a um acordo para afrouxar a política de uso em todos os departamentos,`
+` exceto quando estão fora do ambiente de trabalho habitual.`
+`Por causa disso, todas as suas conversas normais acontecem com uma linguagem coloquial.`
+`"Cornelia‐chan, você sentará aqui.`
+` Seu desk pad é novo, então faça bom uso."`
+`"Ratifico que deténs de minha profunda gratidão..."`
+`"Wahaha,`
+` está tudo bem. Não precisa usar o Vernáculo da Corte, ninguém vai ficar bravo com você!"`
+`".........Hmm........."`
+`Para Cornelia, este foi seu maior choque durante seu primeiro dia de trabalho.`
+`Para quem sonhava em fazer parte do ｮrgão dos Inquisidores a qualquer custo, e desejou fervorosamente penas mortais ao malefício, o Vernáculo da Corte era o maior símbolo de suas esperanças.`
+`Este era o dever pelo qual ela queria devotar sua vida por completo, o ｮrgão dos Inquisidores.`
+` Ou seja, devotar‐se igualmente ao Vernáculo da Corte.`
+`E, para isso, ela precisou implorar para seus pobres pais —`
+` insistindo e dizendo "Não preciso de mesada" — para que eles a matriculassem em uma turma semanal de conversação com Vernáculo da Corte.`
+`Se o Vernáculo da Corte não será utilizado, então não é possível que seja considerado o ｮrgão dos Inquisidores.`
+`Cornelia usou o Vernáculo da Corte dia após dia em suas conversas desde que era criança,`
+` no intuito de mostrar sua leal e honesta devoção diante do ｮrgão dos Inquisidores.`
+`Ela foi de extrema diligência em seus estudos,、`
+` recebendo notas máximas na avaliação de Vernáculo da Corte durante seu exame de admissão.`
+`Ela também recebeu o prêmio principal pelo uso do Vernáculo da Corte em um concurso de oratória da escola.`
+`Devido a suas notas excepcionais no exame de admissão da Grande Corte, sua aceitação pela organização era algo esperado.`
+`No sacerdócio, aqueles com notas excepcionais são relacionados para os departamentos de escolha.`
+`Entretanto, Cornelia não foi relacionada para o departamento que ela gostaria.`
+`Contudo, é possível que isto tenha relação com sua entrevista.`
+`Seja qual for o motivo, a verdade dos fatos é que ela não foi relacionada para a Execução de Arrependimentos, assim como desejava,`
+` mas encaminhada para o Bureau de Assuntos Gerais...`
+`O dever do Bureau de Assuntos Gerais era processar diversos tipos de papeladas.`
+`É claro, era um departamento importante, mas confrontar e julgar o mal era responsabilidade de outros departamentos.`
+`Departamentos aos quais ela também não foi relacionada.`
+`Sua primeira escolha havia sido a Oitava Jurisdição, o SSVD.`
+`Eles eram a Tropa de Elite dos Caçadores de Bruxas, sob comando do Wizard‐Hunting Wright, conhecido por sua rígida eficiência.`
+`Se não fosse possível, sua escolha seria a Sétima Jurisdição, a Eiserne Jungfrau.`
+`Era onde residia Dlanor A. Knox, famosa por suas dez cunhas.`
+`...............Mas, em vez de um desses, ela acabou caindo no departamento de papelada dos Assuntos Gerais.`
+`Cornelia falava consigo mesma.`
+` Obviamente, mesmo dentro de sua cabeça, ela utilizava o Vernáculo da Corte.`
+`Mantenha sua compostura, ó coração.`
+` Ouça atentamente, jovem Cornelia.`
+`Uma jornada de mil milhas começa com um único passo.`
+`Saiba que esta jornada que estamos percorrendo será longa e árdua até que alcancemos nosso objetivo.`
+`Cornelia não iria se desencorajar.`
+`Ela disse a si mesma que foi alocada aqui porque ainda não estava pronta para ofícios maiores.`
+`Mas ao alcançar conquistas e construir seu reconhecimento,`
+` o dia em que ela seria transferida para um Bureau de Execuções chegaria.`
+`Através de seus imensos esforços nos estudos para se tornar uma Inquisidora Ajudante, ela foi aprovada no exame,`
+` logo demandaria um esforço similar para se tornar uma completa Inquisidora da Heresia.`
+`Certo, colocarei meu máximo empenho naquilo que estiver por vir!`
+`Com este entusiasmo em mente,`
+`ela puxou a gaveta de sua mesa para ver que tipo de materiais seu antecessor havia deixado para ela.`
+`Dentro havia uma pesada pasta recheada de documentos.`
+`E, acima de todo resto, havia um livro.`
+`Estando no topo, deve deter de uma maior importância dentre os demais.`
+`".........{p:0:『}Cruzada!{p:0:』}"`
+`Era uma revista de palavras‐cruzadas conhecida por seus prêmios fabulosos,`
+` "Cruzada!"`
+`Este era......o mais importante material de seu antecessor...?`
+`"Fique...`
+` Fique ciente de que isto não é nada que possa me desencorajar.`
+` *suspira*"`
+`Ela não iria ficar desencorajada.`
+` Sua recusa em ser esmagada era uma de suas características mais valiosas.`
+`Cornelia jogou a "Cruzada!" no lixo reciclável, com total prudência.`
+`É claro, ela removeu os grampos antes de fazer isso.`
+`Se o trabalho que ela queria não foi dado a ela, deve significar que ela ainda não está no nível necessário para executá‐lo.`
+`Por isso, o que ela precisava fazer era aprender com seus superiores para, rapidamente, ser reconhecida como uma funcionária independente.`
+`Assumindo um trabalho importante, ela poderia receber cada vez mais trabalhos, sempre aumentando seu grau de responsabilidade.`
+`E assim, da mesma forma como ela passou no exame de admissão dos Inquisidores, ela alcançaria conquistas cada vez mais importantes até obter aquele gorro orelhudo...!`
+`O "gorro orelhudo" é um chapéu que apenas Inquisidores possuem permissão para usar.`
+`Ele recebeu este apelido por ter duas "orelhas" que caem dos lados do chapéu.`
+`Dizem que a primeira vez que você o veste e as tem balançando, é quando seu mais profundo desejo de se tornar um Inquisidor da Heresia é realmente realizado.`
+`Por isso, para ela, seu chapéu atual, sem orelhas, parecia mais um chapéu de enfermeira.`
+`"Ouça‐me atentamente, ó chapéu de regulamentação. Fique ciente de que um dia crescerá em você um par de orelhas também.`
+` Algum dia, certamente,`
+` tenho plena certeza."`
+`Segurando seu chapéu com firmeza, com ambas as mãos, ela fez um juramente por seu futuro.`
+`Certo, devemos dar nosso máximo.`
+` Ficarmos sentados sem fazer nada não irá nos ajudar a aprender sobre nossos deveres.`
+`Se não formos capazes de aprendermos, não seremos dignos de recebermos confiança.`
+`Não podemos aprender sobre o trabalho apenas ouvindo.`
+`Não podemos ficar só esperando, de tal forma folgada, até que alguém nos diga o que fazer.`
+`Aprenda na prática, afane tudo o que ver.`
+`Aqueles que esperam até receberem ordens,`
+` são mesmos que sempre são chamados de idiotas pelos homens de meia‐idade, e marcam a "geração preguiçosa" que tanto irrita.`
+`Eu não posso simplesmente deslumbrar unicamente aqueles que simpatizam por minha paixão pelos estudos.`
+`Devo observar cuidadosamente meus superiores durante seus ofícios`
+` e afanar seus métodos a fim de aprender.`
+`Um dos membros da equipe estava com o caderno esportivo de um jornal aberto, circulando coisas com uma caneta vermelha.`
+`Outro estava olhando fixamente algo distante pela janela enquanto segura uma xícara de chá, perdido em seus pensamentos.`
+`Um deles estava batendo furiosamente em seu notebook,`
+` mas assim que Cornelia se aproximou dele por trás, ele rapidamente mudou de tela, sumindo com aquilo que estava trabalhando.`
+`......É claro, também há alguns trabalhando com papelada,``
+` mas agindo como se tivessem acabado de lembrar que deveriam estar trabalhando.`
+`Em outras palavras, não havia nenhum hábito de trabalho que Cornelia pudesse usar como referência.`
+`"Ei, Cornelia‐chan, posso te pedir uma coisa?"`
+`"S‐Sim, como quiseres, Sacerdote de Segunda Classe!"`
+`"Não precisa ser tão formal, é embaraçoso. Pode usar meu nome.`
+` Então, sobre o almoço de hoje. Estamos combinando de encomendar um soba do Rio de Ayus para comer, vai querer algo?"`
+`"E‐Eu preparei meu próprio almoço caseiro.`
+` Agradeço sua gentileza, mas permita‐me humildemente recusá‐la."`
+`"............Ah, mesmo?`
+` Então, pode fazer o pedido pra gente?"`
+`Sua antecessora havia deixado uma lista telefﾛnica com vários nomes debaixo de seu desk pad, a maioria deles de serviços por delivery.`
+`Cornelia discou 0 para poder ligar para fora.`
+` ......pi, po, popo, pipi, ...po.`
+`"Rio de Ayus falando."`
+`"S‐Senhoril, permita‐me ratificar meu.."`
+`"Oi?! Alﾛ?!"`
+`"Senhoril, permita‐me ratificar meu pedido...!`
+` Humildemente gostaria de encomendar uma refeição para ser entregue em nossa morada!"`
+`"Quê?!`
+` Ei, querido, pode atender?! Sabe quem é Senhoril?`
+` Acho que é do fornecedor do filtro de água... Troca comigo aqui!"`
+`"Fala sério!`
+` Ah, sim, sim, alﾛ? Você está no Soba do Rio de Ayus!"`
+`"Senhoril, permita‐me ratificar.`
+` Humildemente desejo realizar o pedido de minha encomenda!"`
+`"Hã?! Ah tá, tá, claro, pode mandar!`
+` Querida, é alguém da Corte, eu ainda não pedi o filtro!`
+` Certo, seu pedido!"`
+`"Irei ratificar agora meu pedido.`
+` Soba pato, porção grande mori, tempura, katsudon..."`
+`"Um grande de pato?!`
+` Ou só quer um soba grande?!`
+` Um soba ou um udon com tempura?`
+` Tudo bem se for katsudon ao estilo Kantou, né?"`
+`"Hã?`
+` Ah, hm...... Peço que aguarde um momento para que eu possa confirmar."`
+`"Amiga, você é novata, né?`
+` Sabe que pode falar normalmente, né?`
+` Vou ficar esperando, então vai logo falar com seus superiores."`
+`Até mesmo o chefe da loja de soba estava dizendo para ela não se preocupar com o Vernáculo da Corte...`
+`Sentindo como se houvesse algo preso em sua garganta, Cornelia foi até seu superior para confirmar os pedidos.`
+`"Senhoris, peço que ratifiquem seus pedidos.`
+` ......Um soba grande de pato, afirmativo?`
+` Tempura pode ser preparado ao estilo de Kantou, afirmativo? Em relação ao katsudon, poderiam informar se é desejável soba ou udon...?"`
+`"Ei, espera, eu não pedi soba de pato grande, pode ser um normal!"`
+`"Não misturou com ou meu? Eu pedi um grande, não?"`
+`"Ei, qual é a desse tempura servido ao estilo de Kantou?`
+` Novo no menu?`
+` Ah......vou trocar o meu pra esse!"`
+`"Confirma que o katsudon não é o combo, eu quero à la carte.`
+` Não sou mais jovem, já não consigo comer todo o combo.`
+` Sim, sim, outro dia eu tive que fazer um exame de ácido úrico.`
+` Minha esposa não parou de falar disso."`
+`".........!, ......???`
+` E‐Entendido. Seus pedidos foram retificados..."`
+`"Cornelia‐chan, já disse para não usar o Vernáculo da Corte.`
+` Se ficar falando dessa forma estranha vai acabar misturando os pedidos."`
+`"Hm...`
+` .........A loja de soba localiza‐se fora de nosso departamento...`
+` De acordo com as regras, o uso do Vernáculo da Corte é mandatório......"`
+`"Ei, novata, tudo bem?!`
+` Pode repetir o pedido de novo?!"`
+`"S‐Senhoril, permita‐me ratificar novamente.`
+` Fique ciente de meu pedido:`
+` ......Soba de pato, uma porção.`
+` Soba de pato grande, uma porção.`
+` Tempura Kantou: uma porção.`
+` Katsudon: uma porção."`
+`"Hã?!`
+` É tempura ubon ou soba?!`
+` E quanto ao katsudon, vai querer o estilo de Kantou que vem com ovo ou o estilo Kansai com molho?!"`
+`"H‐Humildemente peço por sua paciência.`
+` Por favor, permita‐me averiguar estes detalhes novamente..."`
+`Cornelia nunca havia ido a uma loja de soba antes, e deixaram ela fazer os pedidos sozinha.`
+`......Seu primeiro pedido na loja de soba`
+` demonstrou‐se consideravelmente mais complicado que seu teste de admissão da Grande Corte (primeira classe)......`
+`"......Cornelia‐chaaan.`
+` Eu já te disse!`
+` Os pedidos vão se confundir se ficar usando o Vernáculo da Corte."`
+`O pedido é um soba de pato grande,`
+` um morisoba grande,`
+` um tempura udon`
+` e um katsudon.`
+`Como ela não havia especificado udon ou soba para a tempura, o restaurante assumiu que ela queria uma combinação variada de pratos.`
+`As únicas coisas que ela conseguiu pedir direito foram o pato e o katsudon.`
+` ......Ela havia pedido duas coisas erradas.`
+`Cornelia não foi capaz de completar seu primeiro trabalho, ......pedir um almoço.`
+` Seus superiores, que foram fazer compras em uma loja de conveniências, comentaram coisas como:`
+` "essas crianças de hoje em dia" e "geração de preguiçosos", pelas costas dela.`
+`Foi dito a ela que era melhor deixar de lado o Vernáculo da Corte, mas ela obstinadamente se recusou a fazer isso.`
+` Como resultado, os superiores que esperavam dar as boas‐vindas a uma novata tranquila,`
+` agora pensam que ela é uma estranha sem salvação. Tudo em um período de três horas desde que ela começou seu trabalho.`
+`Dos mimos durante a manhã aos suspiros exasperados durante à tarde,`
+` a atmosfera do lugar mudou drasticamente......`
+`E sua vida de novata continuou.`
+`Havia um abismo entre o instituto de treinamento,`
+` que recompensava sua rigorosa atenção aos deveres com boas notas, e o mundo real, que rapidamente se cansaria de sua atitude.`
+`Seu plano de prosseguir em direção ao seu apaixonante sonho havia sido abalado......`
+`Agora, ela se via no espelho do banheiro,`
+` suspirando diante da perda de ambição enquanto olhava para seu reflexo......`
+`"......Vai escapar."`
+`"Hã?"`
+`Ela estava se olhando no espelho, como sempre, e naturalmente não esperava ouvir uma voz por detrás dela.`
+`Escapar?`
+` O quê? Onde?`
+` Hã?`
+`Virando‐se,`
+` ela viu uma funcionária de outro departamento.`
+`Não, não era uma simples funcionária.`
+`Não havia dúvidas, ela estava usando o gorro orelhudo.`
+`"Eu...`
+` Eu humildemente peço por seu perdão, Inquisidora da Heresia!"`
+`"......A felicidade."`
+`"Hã?"`
+`"......Tenho as orelhas, mas ainda não sou uma Inquisidora."`
+`"Eh?`
+` Ah, ......ratifico minhas desculpas, Assessora Superior!"`
+`"...Vai escapar."`
+`"????"`
+`Por algum motivo, esta conversa não estava fluindo muito bem.`
+`Entretanto, esta linda mulher com longos cabelos dourados,`
+` era, sem a menor dúvida, uma Assessora Superior que passou no exame para Inquisidores.`
+`Apenas passar no exame não é o suficiente para garantir um lugar entre os Inquisidores da Heresia.`
+`Cada jurisdição possui um número fixo de Inquisidores na equipe,`
+` por isso é necessário esperar por uma vaga.`
+`Os Assessores que, apesar de suas qualificações,`
+` não detém de um assento, são chamados pelo departamento, de Assessores Superiores.`
+`Esses Assessores Superiores, que eventualmente se tornarão Inquisidores,`
+` atuam como a mão direita de homens e mulheres Inquisidores, ajudando em importantes missões.`
+` ......Obviamente, eles recebem trabalhos nas linhas de frente também......`
+`Não pude evitar de sentir um misto de ânsia e inveja residindo dentro de mim.`
+`......Porém, ouvir uma Assessora Superior falando desta forma coloquial é um tanto quanto depressivo.`
+`"S‐Senhoril, humildemente peço desculpas por minha impertinência.`
+` ......Caso permita‐me indagá‐la, o que escapará?"`
+`"......A felicidade."`
+`"Felicidade?"`
+`"......Vai escapar."`
+`"Posso questionar o motivo...?"`
+`"......Toda vez que suspira."`
+`".................."`
+`"Toda vez que suspira, um pouco de felicidade escapa."`
+`la utilizou de uma forma tão complicada para expressar um simples sentimento.`
+`É difícil de acreditar que alguém que parece ter tanta dificuldade para conduzir uma simples conversa,`
+` possa mesmo ser uma Assessora Superior.`
+`......Mas talvez não seja tão ruim.`
+`No momento, todos pensam que sou estranha.`
+`E se alguém estranha como ela teve a oportunidade de se tornar uma Assessora Superior, não é tão ruim pensar que possa haver uma oportunidade para mim também.`
+`"......Deveria relaxar mais."`
+`"Refere‐se à minha postura?"`
+`"......Isso mesmo."`
+`"Eu humildemente agradeço seu conselho.`
+` Tratarei de fazer isto."`
+`"......Seus ombros."`
+`"S‐Sim, eu entendi o que quis dizer."`
+`"......Relaxe."`
+`Que pessoa mais estranha.`
+`A forma fragmentada como ela fala é um pouco irritante e realmente difícil de entender.`
+`.....Porém, alguém obcecada pelo Vernáculo da Corte como eu`
+` não possui o direito de julgá‐la.`
+`Talvez eu seja a única que me preocupe tanto com o Vernáculo da Corte.`
+`Pergunto‐me se estou apenas tentando impor isto a todos porque as regras de serviço dizem que esta é a maneira correta de se comunicar...?`
+`É inevitável não suspirar novamente e inclinar minha cabeça enquanto questiono‐me isso.`
+`Quando o fiz, a Assessora Superior rapidamente alterou seu tom de voz.`
+` ......OOu melhor, para ser mais precisa, devo dizer que mudou para a forma como uma pessoa normal fala, advertindo‐me.`
+`"O dever de um Inquisidor não é conversar utilizando o Vernáculo da Corte, mas julgar a Heresia."`
+`"Hm, ............"`
+`Faltaram‐me palavras.`
+` Não há nada para se dizer em retórica.`
+`Se meu preguiçoso veterano tivesse me dito desta forma, eu poderia ter dado atenção a ele.`
+`Porém, não posso ignorar as palavras proferidas por uma Assessora Superior.`
+`"H‐Humildemente peço as devidas vênias.`
+` ......Hm, ......eu sinto,`
+` ......me desculpa..."`
+`Faz realmente muito tempo desde a última vez que falei de forma coloquial.`
+` ......Isso quase me faz ficar envergonhada.`
+`Enquanto baixava minha cabeça novamente, agora corada, essa Assessora Superior já havia lido‐me por completo.`
+`Sem quaisquer palavras, ela gentilmente sorriu diante da minha autoreflexão e assentiu para mim.`
+`Ela apontou para um aviso que estava no quadro de anúncios do corredor.`
+`Era sobre o departamento de recursos humanos que estava recebendo inscrições para uma proposta de projeto.`
+`Era uma solicitação que visava que membros motivados se voluntariassem para um projeto público,`
+` e o departamento iria considerar a implementação de propostas que fossem proeminentes.`
+`Eu estava tão deprimida até pouco tempo que meu olhar cabisbaixo não percebeu o anúncio......`
+`"Senhoril, permita‐me ratificar."`
+`De forma abrupta, a Assessora Superior olhou em meus olhos e falou utilizando o Vernáculo da Corte.`
+`"Com a finalidade de reaver sua iniciativa mais uma vez, deves redirecionar seu olhar à sua paixão mais uma vez.`
+` ......Detenho de altas expectativas sobre vós."`
+`E assim foi meu primeiro encontro com a Assessora Superior, Gertrude.`
+`Minha impressão inicial sobre ela foi de ser uma mulher de poucas palavras e peculiar como eu.`
+`Saber que alguém com uma entonação tão asfixiosa`
+` foi capaz de passar no exame de Inquisidores fez com que eu ganhasse mais confiança.`
+` Foi o que pensei naquele momento.`
+`Contudo, ela era realmente uma excelente assessora. Todos e qualquer um reconheceria isto em uníssono.`
+`Ela apenas tinha problemas de comunicação, falando de forma inexpressiva e prosaica.`
+`Mesmo não tendo nenhum amigo e sendo uma pessoa de difícil aproximação,`
+` todos reconheciam que ela auxiliava os Sete Inquisidores da Eiserne Jungfrau pelas sombras e seus honoráveis oito membros.`
+`Por isso, minha inspiração cresceu cada vez mais e decidi aceitar o desafio que ela havia apresentado para mim.`
+`Posso ter problemas para lidar com os membros do meu escritório,`
+` mas não perco para ninguém no que tange os estudos e dissertações.`
+`Como o prazo já estava para se encerrar, decidi enviar um projeto de curto prazo.`
+`logo mais será Halloween.`
+`Tendo isso em mente,`
+` decidi que o tema do meu projeto seria sobre o Halloween.`
+`O Halloween marca o período onde torna‐se proeminente`
+` o entressachar de fantasmas e espíritos no mundo dos humanos.`
+`E o mesmo valia para o mundo daqueles que não são humanos.`
+`Durante o período de Halloween, as restrições de viagem do mundo dos demônio e o mundo dos espíritos ao mundo humano são afrouxadas,`
+` fazendo dele um momento de muita celebração.`
+`Sendo um festival, muita gente barulhenta tende a aparecer.`
+` E há aqueles que acabam por passar da conta.`
+`Sendo assim, é abundante o número de crimes ocorridos durante o período do Halloween.`
+`Por causa disso, Cornelia propôs o "Projeto Halloween: Execução Disciplinar."`
+`É claro, devido a falta dos preparativos e mão de obra necessária, seu projeto não foi muito aclamado.`
+`Mas, apesar disso, de alguma forma ela acabou sendo eleita para o prêmio especial do juri.`
+`Era uma premiação concedida a projetos que buscavam desaviar as fronteiras mas não podiam ser implementados devido ao orçamento e questões regulamentares.`
+`Bem, era esperado que uma proposta repentina não levasse a uma promoção repentina.`
+`Mesmo assim, havia sido uma grande oportunidade para demonstrar sua verdadeira natureza e sua paixão.`
+`Se isso afetasse sua avaliação de performance como subordinada, talvez seu sonho de ser reatribuída a um departamento ao qual ela ansiasse não fosse um sonho tão distante.`
+`"Para Cornélia, Sacerdotisa de Terceira Classe.`
+` Congratulações pelo recebimento do prêmio especial.`
+` Aqui está seu prêmio, um conjunto de lápis."`
+`O chefe do escritório, Sacerdote de Primeira Classe, publicamente a recompensou com sua premiação durante a assembleia matinal.`
+`eus colegas de trabalham aplaudiram, mas também era possível ouvir cochichos desagradáveis sob suas respirações.`
+`"Ela se deu todo trabalho de ficar escrevendo e enviar esse projeto?"`
+`"Aposto que só quis parecer mais diligente."`
+`"Esses jovens são mesmo animados."`
+`"É essa geração, sabe?"`
+`Ela tem bastante tempo livre para alguém que trabalha aqui, a ponto de enviar uma proposta de projeto... ela é mesmo estranha.`
+` Ou talvez não goste do lugar que trabalha.`
+` ......Foi dessa forma que os outros a viram.`
+`Mas isto não seria o suficiente para desanimar Cornelia.`
+`Queimando com paixão, ela pensou no seu primeiro dia de trabalho e cerrou seus punhos.`
+`O chefe do escritório teve alguns problemas com as relações intrapessoais de Cornelia no trabalho,`
+` mas também ficou atento a sua abundante paixão e seriedade.`
+`O que explica ele ter imprimido cópias da proposta e entregue a todos os membros da equipe,`
+` dando a Cornelia uma oportunidade de apresentá‐la na frente de todos.`
+`"Senhoris, permitam‐me ratificar minha proposta.`
+` Eu a nomeei como:`
+` "Projeto Halloween: Execução Disciplinar""`
+` *conversa*`
+`{n}{n}              *murmura*`
+`{n}{n}      *sussurra*`
+`Cornelia estufou seu peito com orgulho enquanto lia as diretrizes para sua audiência.`
+`Primeiro, um assunto preocupante que são as diversas contravenções frequentemente cometidas por frívolos e caprichosos demﾛnios e fantasmas que fazem aparições durante o período do Halloween.`
+`A fim de prevenir isto, diversas agências públicas devem conduzir campanhas de acordo com suas respectivas posições.`
+`Tradicionalmente, isto não tem estado ao alcance da Grande Corte, mas como defensores da Lei, não há nenhum motivo razoável para negligenciar estas ocorrências.`
+`A Grande Corte vê como seu trabalho apenas o julgamento e nada mais, quando é um fato que mais esforços poderiam ser feitos para prevenir que as pessoas acabem tendo que ser julgadas.`
+`Cornelia assim escreveu:`
+` os oficiais da Grande Corte devem aumentar a conscientização pública sobre o assunto com a finalidade de prevenir crimes e outros problemas que possam surgir.`
+`Entendo, isso realmente faz muito sentido.`
+`"Como primeiro passo, é natural que os oficiais da Grande Cortem devessem atuar como exemplo para sustentação da lei e da ordem."`
+`"......Espera, quer dizer...na prática?"`
+`A mais comum contravenção que ocorre durante o Halloween é a violenta conduta devido a intoxicação.`
+`Educar pessoas intoxicadas para cessarem seus atos de violência é impossível.`
+`Portanto, é melhor reprimir a fonte do problema ― a intoxicação.`
+`"Como oficiais da Grande Corte, durante o período do Halloween estamos sujeitos a um escrutínio envolvendo todo o tipo de escândalo que abranja o álcool.`
+` Assim sendo, para darmos um bom exemplo, o consumo de álcool deve ser proibido a todos os oficiais da Grande Corte durante o período do Halloween.`
+` E mais, devido ao problemático consumo indevido de jovens delinquentes, o fumo de tabaco estará igualmente proibido a toda a equipe."`
+`"*murmura*murmura*murmura*"`
+`Simplificando, grande parte deles são assíduos fumantes.`
+` Bem como uma boa parcela também tem o hábito de beber.`
+`Dentre os membros da equipe que não fumavam nem bebiam,`
+` ......ao menos entre os presentes, Cornelia era a única.`
+`"Não podemos esperar uma comoção no coração das pessoas tendo em vista nosso próprio comportamento, como membros da equipe, enquanto também não seguirmos o exemplo.`
+` Portanto, em conformidade com este projeto, até que o período do Halloween se encerre,`
+` o consumo de bebidas alcóolicas e o fumo de cigarros deve ser proibido a todos os membros deste departamento."`
+`"......Ah, sim, o chefe da seção aprovou isso.`
+` Pessoal, eu agradeço a cooperação de todos."`
+`"*murmura*murmura*murmura*!"`
+`Diante daquelas palavras, todos começaram a murmurar mais uma vez.`
+`"Ei, bem, há um encontro para apreciação da Lua que a União passou para a próxima semana, então...`
+` Como foi decidido antes do projeto da Cornelia‐chan, seremos uma exceção, né...?"`
+`"Senhoris, permitam‐me ratificar.`
+` Saibam que exceção alguma deve ser aberta neste projeto.`
+` Fiquem cientes de que para receber permissão para fumar ou beber, é necessário que cada um envie, individualmente, um pedido por escrito para o chefe do departamento."`
+`"*murmura*murmura*murmura*murmura*!"`
+`Dificilmente precisaria de uma explicação, mas a festa para observar a Lua é uma tradição anual de outono ‐ uma confraternização com o propósito da socialização e desenvolvimento de amizades.`
+`Alguém sem amigos como Cornelia poderia ter dificuldades de compreender isto,`
+` mas para todo o resto da equipe, era como um óleo lubrificante que mantinha as engrenagens do escritório funcionando.`
+`Porém, ela não conseguia ver nada mais além de um viveiro do mal, que proporcionava um comportamento impulsivo, sendo um terreno fértil para a impropriedade.`
+`"Além de servirem como exemplo, também espera‐se que todos os membros da equipe envolvam‐se na distribuição de materiais pertinentes à conscientização da sociedade em estações de trem, distritos comerciais e demais localidades similares.`
+` O propósito disto é buscar a cooperação e promover Projeto Halloween: Execução Disciplinar, ao público em geral."`
+`"*murmura*murmura*murmura*murmura*!"`
+`"Isso......é hora extra, né? E justo no Halloween?"`
+`"Vamos receber por isso...?"`
+`"O chefe da seção disse que não há problema em enquadrar isto como pagamento por hora extra,`
+` eembora já estejamos relativamente sobrecarregado pelo trabalho, por isso......"`
+`"Ei, eu tenho que buscar meus filhos, então fazer hora extra seria um problema."`
+`"*murmura*murmura*murmura*murmura*!"`
+`Era suposto que fosse um projeto maravilhoso e apaixonante.`
+`Se queremos demandar a Execução Disciplinar aos outros, devemos primeiro demandá‐la a nós mesmos.`
+` Não há nenhum problema nisso, correto?`
+`O peito de Cornelia se estufou em uma mistura de paixão e orgulho, mas isso não foi capaz de aliviar a dor de ouvir desagradáveis sussurros e murmúrios dos outros membros de sua equipe...`
+`No mesmo dia, já ao entardecer, o secretário chefe da União dos Trabalhadores foi pessoalmente falar com o chefe do departamento.`
+`Ele demandava a revogação do cancelamento da festa de observação da Lua e o banimento do álcool e tabaco.`
+`Também queria uma rápida resposta sobre a revogação de horas extras.`
+`Sendo o consumo de álcool e o fumo direitos individuais descritos na Constituição, a proibição dos mesmos muito provavelmente poderia ser considerado como uma violação dos direitos humanos.`
+` Ele requisitou uma reformulação do banimento de "proibido" para um "esforço para proibição".`
+`A respeito das horas extras obrigatórias,`
+` ele expressou uma rigorosa desaprovação, citando as regulamentações do serviço público bem como relatórios de casos judiciais relacionados que estavam armazenados no escritório da União.`
+` Argumentando que este caso de horas extras não deveria ser algo obrigatório, mas sim algo que deveria ser julgado por cada membro da equipe,`
+` sugerindo uma reformulação da proposta para que cada um pudesse "empenhar‐se o máximo possível".`
+`E ainda, em relação ao evento de observação da Lua que já estava agendado, o Secretário Geral já havia enviado uma doação e o evento não poderia mais ser suspenso sem antes informar o Ministério.`
+` Seria o bastante apenas "esforçar‐se" para defender a lei e a ordem,`
+` e simplesmente prosseguir com o Halloween como de costume.`
+`Para garantir negociações mais brandas com a União no futuro, o chefe do departamento aprovou todas as demandas.`
+`A palavra "esforçar‐se" foi adicionada em todos os pontos do projeto de Cornelia,`
+` efetivamente debilitando toda a proposta de sua obrigatoriedade.`
+`Contudo, Cornelia apreciava muito a palavra "esforçar‐se", por isso ele concordou com todas as emendas sem considerar muito...`
+`Dia Seguinte.`
+`Cornelia estava atﾛnita em ver que as nuvens de fumaça geradas pelo fumo que cobriam o ambiente de trabalho não havia diminuído em nada em relação ao dia anterior.`
+`Quando lembrou seus companheiros de trabalho que eles deveriam se esforçar para se absterem do tabaco durante o Halloween, eles responderam`
+`"Beeem, eu já tentei largar o vício do cigarro várias vezes, mas não é fácil, sabia?`
+` Mas estou me esforçando para parar...!"`
+`"Minha eficiência aumenta quando estou fumando.`
+` Olha só, até já terminei de escrever as sanções de hoje."`
+`"Mas eu realmente estou tentando parar!`
+` Só que é complicado, wahahaha......"`
+`Sempre a mesma desculpa.`
+` Dizendo que as pessoas que não fumam tem dificuldade de entender isso, buscando evitar o tema.`
+`E quanto ao álcool? Ao menos se abstiveram de beber?`
+` Pensei que ao menos eles poderiam se autodisciplinar durante a festa de observação da Lua, mas nem um único membro do departamento concordou com isso.`
+` E além disso, mesmo sem eu ter dito nada,`
+` .........meu nome já havia sido marcado na lista como a única que não iria comparecer ao evento.`
+`Isto poupou meu esforço de comunicar minha recusa ao convite.`
+` ..Talvez seja melhor assim.`
+`"E aí!`
+` Somos do departamento da Corte.`
+` A sacerdotisa Cornelia está aqui?"`
+`"Senhoris, permitam‐me ratificar.`
+` Fiquem cientes de que sou a Cornelia."`
+`"Trouxemos os lenços de conscientização pública.`
+` Estão todos nessas caixas.`
+` Ei, pessoal, comecem a empilhar tudo aqui, vamos!"`
+`Apesar de serem jovens policiais, eles fizeram muito barulho carregando diversas caixas de papelão.`
+`Os policiais cumpriam com grande parte da campanha de Execução Disciplinar do Halloween e,`
+` para isso buscaram por diversos produtos para distribuírem`
+`Estes eram lenços a serem distribuídos para aumentar a conscientização pública,`
+`estampados com o slogan "Para curtir melhor seu Halloween, beba com moderação! Não deixe o álcool consumir você!`
+`A distribuição diária de produtos nas estações e distritos de compras dura um considerável número de dias,`
+` por isso mais de dez mil deles já haviam sido preparados.`
+`"......Cornelia‐chan,`
+` vai distribuir isso?"`
+`"Será este o caso a ser cumprido.`
+` Todos estes devem ser distribuídos nos distritos comerciais."`
+`".........*murmura*murmura*murmura*."`
+`"Ei, sobre onde colocaram as caixas...`
+` O lugar já havia sido esvaziado de antemão para as entregas da próxima semana, então.`
+` Acha que pode arrumar tudo até lá?"`
+`"Contanto que todos ajudem, tal quantidade pode facilmente ser entregue em pouco tempo!`
+` Ratifico que não haverá problemas quanto a isso!"`
+`"*murmura*"`
+`"*risos*"`
+`Enquanto a noite caía, Cornelia encontrava‐se em frente à entrada de funcionários, com caixas empilhadas sobre um carrinho de carga,`
+` sozinha e repletas de lenços promocionais.`
+`A distribuição de lenços deveriam ser feita apenas por funcionários voluntários.`
+` Esperava‐se que os funcionários se "esforçassem para participar o máximo possível".`
+`......Mas, no fundo, ela já sabia.`
+`Por isso, ela decidiu parar de esperar.`
+` Ela saiu sozinha, empurrando seu carrinho de carga cheio de caixas de papelão, dirigindo‐se em direção ao distrito de compras em frente à estação.`
+`O alaranjado céu do crepúsculo lindamente mesclava‐se ao púrpura da noite que caía.`
+`Lembrando que o verão já havia encerrado‐se, ela sentiu um pouco do ar tíbio do anoitecer.`
+`Em meio à multidão de pessoas que passavam apressadas pela estação, ela escolheu um ponto abaixo da iluminação pública para estabelecer sua base de operações e abrir suas caixas.`
+`Dentro, estavam abarrotados diversos lenços para aumentar a conscientização pública.`
+`......Participações involuntárias não seriam capazes de transmitir suas intenções propriamente.`
+`Sim, isso é verdade. Neste caso, foi melhor mesmo eles não terem vindo.`
+`Além do mais, não preciso do auxílio de terceiros.`
+` Já assumi para mim esta incumbência.`
+`"Senhoris, ratifico aqui minhas intenções...!`
+` H‐Humildemente requiro vossa compreensão e assistência a fim de encorajar o cumprimento da lei e da ordem durante o período do Halloween."`
+`Para transeuntes desabituados com o Vernáculo da Corte, minha forma incomum de falar os fez virar o rosto.`
+` Meu uniforme também deve ter passado uma má impressão a eles.`
+`Para capturar suas atenções em meio à agitação da multidão, eu precisei falar alto o bastante, elevando minha voz.`
+`Porém, mesmo assim, tive problemas para realizar a distribuição já que as pessoas não pareciam me entender.`
+`Mesmo quando alguns pareciam me entender, o que eu estava a informar parecia tão hirto que ninguém se deu a trabalho de parar. Um por um, todos passaram direto por mim.`
+`......No fim, eles estavam certos sobre o Vernáculo da Corte.`
+`Mas mesmo que eu mude minha forma de falar agora, estou tão desacostumada que provavelmente não conseguirei me comunicar com os transeuntes......`
+`"E...`
+` ...Execução Disciplinar no Halloween.`
+` ...P‐Por favor,`
+` peço a compreensão e coopera......ção......"`
+`Não adianta. `
+` Não consigo elevar minha voz.`
+` .....Simplesmente não dá.`
+`Por quê?`
+`Porque, para mim, o Vernáculo da Corte sempre foi um sonho, um símbolo da minha ambição.`
+`Sempre foi meu sonho tornar‐me uma Inquisidora da Heresia, aqueles que fazem a justiça.`
+` Por isso não quero que isso faça com que eu perca minha motivação.`
+`É por isso.`
+`E quando sou forçada a falar de forma coloquial, .....sinto como se estivesse desviando de minhas crenças, ...e isso me deixa triste.`
+`Os apressados para chegar em casa momentaneamente ficavam curiosos com meu uniforme incomum,`
+` mas se iriam ou não aceitar meus lenços era outra história.`
+`Não havia nenhum problema se ela distribuísse seus produtos em outros locais como bares ou karaokês.`
+`Porém, infelizmente, Cornelia não tinha conhecimento de tais truques.`
+`Com dificuldades para distribuir os lenços,`
+` ......isso a fez lembrar de uma história que ela leu quando era criança e, ao perceber que ela era agora a perfeita imagem da Pequena Vendedora de Fósforos, ......sua tristeza aumentou profundamente.`
+`......Eu venho me apegando ao mesmo sonho desde que era criança.`
+` ......Cheguei até aqui tendo meus olhos incapazes de ver a realidade...?`
+`O que estou fazendo agora é o resultado da minha infantil admiração pelos Inquisidores...?`
+`Tendo perdido seu fluxo, nem um único transeunte fez menção de que iria aceitar a oferta dela, como se todos estivesse deliberadamente conspirando contra Cornelia.`
+`"...Execução Disciplinar......no Halloween......`
+` Peço por sua......cooperação..."`
+`......Lutando contra a vergonha, eu recorri à uma forma normal de falar com o intuído de ser compreendida.`
+`Naquele dia, eu resolutamente continuei até de madrugada, onde finalmente consegui distribuir metade de uma caixa.`
+`Ainda há uma pilha com mais cinco dessas caixas de papelão no escritório.``
+`Eu precisaria distribuir uma caixa por dia, caso contrário não seria possível limpar o local em apenas uma semana...`
+`Por passar o tempo inteiro de pé, minhas pernas agora sentiam as dores da exaustão.`
+`A partir de amanhã, terei que suportar a dor durante todo período de trabalho regular e durante as horas extras.`
+`.........Sequer é preciso fazer cálculos.`
+` ......É impossível para uma única pessoa distribuir tudo em uma semana...`
+`É óbvio.`
+` Eu estava ciente quando encomendei tudo isso.`
+`.....Por quê?`
+`Porque era a coisa certa a se fazer, e presumi que outras pessoas iriam ajudar‐me.`
+`Visto isso, tendo muitos de nós trabalhando, eu pensei que seria necessário fazer uma encomenda grande o bastante para sobrar para todos.`
+`......Ninguém、`
+`.........veio para...me ajudar`
+`Depois de passar uma semana fazendo hora extra até de madrugada, dia após dias, eu silenciosamente quis perguntar algo para mim mesma.`
+`Era mesmo isso o que eu queria fazer?`
+`Era mesmo isso o que eu precisava fazer a qualquer custo?`
+`Eu aprendi como distribuir panfletos, adquiri alguns truques, como entregar dois ou três de uma só vez e consegui acelerar o trabalho,`
+` .....mas apesar de todos os meus esforços, continuo na metade do caminho, e a noite final está se aproximando......`
+`Hoje à noite, o pessoal do departamento planeja se encontrar para o "encontro de apreciação da Lua".`
+`Assim que a campainha apitou indicando o fim do expediente,`
+` todos os meus superiores foram para um ﾛnibus alugado para observar as cerejeiras à beira de algum rio.`
+`.....E, sozinha, eu segui empurrando meu carrinho com uma caixa de papelão,`
+` preparando‐me para distribuir lenços até de madrugada em frente à estação..`
+`Sim, e não foi só hoje.`
+` ......Ontem e anteontem também, ......é possível que talvez...`
+`...eu esteja fazendo isso sempre......`
+`Quanto a apreciação da Lua, eu ouvi que ela estará especialmente grande esta noite; uma brilhante e perfeita Lua cheia.`
+`Logo me encontrei pensando que talvez meus colegas de trabalho, só dessa vez, cooperassem, abstendo‐se de beber.`
+`.........Não.`
+` Eles não são obrigados a fazer isso.`
+`Meu objetivo aqui é pedir à população para que passem a noite de forma tranquila,`
+` sem perturbar o encontro social dos meus colegas de trabalho.`
+`......O dever de um Inquisidor é erradicar a heresia, não dialogar usando o Vernáculo da Corte.`
+`A mesma lógica se aplica em ambos os casos, não se aplica?`
+`Sinto que finalmente entendi o que a Assessora Superior Gertude havia tentado me dizer naquele dia.`
+`Mas eu continuo presa à mesma rotina...`
+`Não consigo vislumbrar nenhuma possibilidade de esvaziar essas caixas de papelão durante esta noite.``
+`E mesmo que eu consiga, ainda há algumas caixas cheias que ficaram no escritório.`
+`......O que devo fazer?`
+`Não posso simplesmente descartá‐los.`
+` ......Eu deveria perguntar à polícia se eles poderiam se encarregar de distribuir o que sobrou.`
+`......Pensando bem, até mesmo a polícia havia dito que eu encomendei mais do que o necessário, não?`
+`Orgulhosamente eu anunciei, utilizando o Vernáculo da Corte, que toda aquela quantidade era requerida...`
+`"......E agora?"`
+`"Hã?"`
+`"......Sua condição..."`
+`Era a Assessora Superior Gertrude.`
+`Durante toda essa semana, eu não havia visto ela nenhuma vez.`
+` que indica que ela normalmente não utiliza esta estação.`
+` ......O que significa que ela deve ter se dado ao trabalho de vir até aqui para me ver.`
+`Ela estendeu sua mão para mim.`
+`......Antes que eu percebesse, eu estava entregando a ela um lenço que eu mesma havia torcido por ter ficado segurando‐o com tanta força.`
+`Ela o aceitou, ...e olhou de relance para a caixa de papelão repleta de lenços.`
+`.........Ela não disse nada.`
+`Não, pode ser que seja igual aquele dia.`
+`Deliberadamente evitando dizer qualquer coisa, ......ela estava silenciosamente me repreendendo.`
+`"......Os sonhos que tracei durante minha infância não eram nada mais do que sonhos infantis."`
+`"....................."`
+`Será que ela leu o meu currículo?`
+` Ela sabe que escrevi sobre isso no meu formulário de aplicação.`
+`"......A realidade é sempre diferente de nossos ideias."`
+`"............Não tive qualquer oportunidade para réplica."`
+`"......Mudar os ideais de alguém significa mudar a si mesma."`
+`"........................"`
+`Desde o meu primeiro dia de trabalho, ......minhas expectativas vêm sendo traídas.`
+`Mesmo tendo alcançado o trabalho que eu sempre ansiei, ......não é nada mais do que um sonho infantil.`
+`Por essa mesma razão, a fim de perseguir meu sonho,`
+` ......eu ignorei a realidade.`
+`......Sim.`
+` O trabalho perfeito que eu sempre imaginei, ......claramente só existe dentro da televisão.`
+` Quando criança, eu admirava os Inquisidores que apareciam nas novelas.`
+` ......Aquele mundo da ficção me deixou tão fascinada que, em determinado momento, eu simplesmente desviei meu olhar da realidade......`
+`"......Há duas opções."`
+`"Quais são elas...?"`
+`"......Mudará o mundo?"`
+`".................."`
+`"......Ou mudará a si mesma?"`
+`"Impossível.`
+` ......Saiba que tal coisa é impossível..."`
+`"......Qual?"`
+`"Nenhuma delas.`
+` ......Excelência."`
+`Se tentar promover seus ideais imaturos e irrealistas sozinha, ninguém simpatizará com você.`
+`E, ......para alguém como eu, que tem se agarrado a esses ideias ― esse sonhos de criança ― por toda sua vida, desde o berço até este momento,`
+` ......mudar agora não é algo que vai simplesmente acontecer.`
+`Dizer que "o mundo está errado" e "eu estou errada" possuem efetivamente o mesmo significado.`
+`Mudar meu ser desorientado é o mesmo que mudar o mundo inteiro.`
+`Jamais vai acontecer.`
+`"......Vós não és adequada para isso."`
+`"Ao que refere‐se, ......Excelência?"`
+`A este trabalho?`
+` Meus ideais?`
+` Ou seria a realidade?`
+`A Assessora Superior.....não respondeu.`
+`Assim como naquele dia, ......eu silenciosamente impus minha resposta para ninguém mais além de mim mesma.`
+`"......Sente‐se."`
+`"Hã?"`
+`"......É para sentar."`
+`"A‐Aqui no chão?"`
+`"......Sente‐se."`
+`Em meio à multidão, a Assessora Superior Gertrude sentou‐se no chão, ao estilo {i:seiza}.`
+`Pensando que seria repreendida como de costume,`
+` ......eu segui seu exemplo e me sentei da mesma forma.`
+`Eu estava preparada para qualquer repreensão que viesse, e permaneci em silêncio sem dizer nada.`
+`Mais uma vez, ......o silêncio fez com que eu me questionasse.`
+`Quando então, repentinamente, ......ela esticou um único dedo.`
+`Indicando que seria a primeira coisa que falaria, talvez......?`
+`Não.`
+` ......Ela queria que eu olhasse para onde estava apontando.`
+`Mas para onde?`
+` .........Para cima......?`
+`"..............."`
+`"......`
+` A visão da Lua"`
+`"..........................."`
+`Uma perfeita e alva Lua cheia.`
+`Talvez, neste momento, ......todos os meus colegas de trabalho do departamento estivessem vendo a mesma coisa.`
+`Eu pude imaginar sobre o que seriam`
+` as conversas no dia de amanhã.`
+`Suas conversas estariam repletas de frases do tipo 'a Lua estava mesmo linda ontem' e coisas parecidas.`
+`Posso não ter comparecido ao encontro para observar a Lua,`
+` .........mas talvez eu seja capaz de me juntar às suas conversas.`
+`"......Senhoril,`
+` permita‐me ratificar"`
+` Assessora Superior Gertrude se pronunciou, utilizando o Vernáculo da Corte.`
+`Ela falou utilizando das palavras mais próximas do meu coração.``
+`"......Tanto sonhos quanto ideais`
+` assim como a concretização dos mesmos,`
+` ......fique ciente de que sem a solidariedade, nada realizará por conta própria."`
+`"..............."`
+`"As pessoas não darão ouvidos a ideais."`
+`"Senhoril, ratifico humildemente meu pedido de desculpas, mas permita‐me inquiri‐la.`
+` ......Se é este o caso, de qual forma devo alcançar meus ideais...?"`
+`Em deferência a esta questão, a Assessora Superior respondeu silenciosamente.`
+`As pessoas não darão ouvidos a ideais.``
+`As pessoas não darão ouvidos a outrem.`
+`Mas é possível que as pessoas ouçam seus amigos。`
+`Por isso, se falar com eles sobre seus ideais,`
+` é possível que seus amigos a ajudem.`
+`Não importa o quão grandiosos sejam seus ideais,`
+` se não for capaz de alcançar o coração de ninguém, não passará de uma conversa vazia.`
+`E como posso fazer para alcançar o coração das pessoas......?`
+`Não há outro meio senão a interação entre seus corações.`
+`Sejam eles quais forem seus ideais, isto sempre vem primeiro.`
+`......Se não houver comunicação, nada será transmitido.`
+`Aqui estamos nós, em meio à multidão de transeuntes noturnos da estação, ......sentadas no chão enquanto observamos o luar.`
+`De alguma forma, apesar da falta de {i:sake} e {i:dangos},`
+` em meio à uma numerosa multidão que formava uma floresta, era possível sentir um estranho sentimento de calmaria, ......enquanto tínhamos uma curiosa festa de observação da Lua.`
+`É inegável que, como membro da sociedade, eu ainda sou inexperiente.`
+`Talvez eu pudesse até ser considerada um dos típicos "jovens" que não sabem cooperar.`
+`Talvez eu seja ainda pior por balançar minhas aspirações como se fosse uma bandeira.`
+`......Eu provavelmente já venho, desde muito tempo, cometendo grandes equívocos.`
+`Resignará?`
+`Como pretende ser empregada novamente após pedir demissão na era em que vivemos?`
+`Conseguir um emprego, por si só, já é uma tarefa árdua......`
+`A oportunidade que tive para largar meu trabalho e reorganizar minha vida já passou há muito tempo.`
+`Na verdade, a última chance que você tem de reorganizar sua vida, provavelmente, é durante a época de graduação do ensino fundamental.`
+`Contudo, ......toda minha paixão se resume a isso......?。`
+`Seria isto apenas um mal‐entendido?`
+` ......Eu não estou aqui agora por causa dos ideais que tanto acreditei......?`
+`No fim, a Assessora Superior Gertrude levou consigo todas as caixas que ainda restavam no escritório.`
+`Assim elas não ficaram mais atrapalhando o trabalho.`
+`Não sei como ou porque, mas parece que ela estava ciente de todas as circunstâncias ao meu redor.`
+`Mais tarde, eu aprendi que ela era uma conhecida do chefe do escritório, que estava com algumas preocupações e pediu conselhos a ela.`
+`Quando novata, Gertrude possuía uma excêntrica similaridade e também sofreu com suas próprias dificuldades.`
+`O chefe do escritório pensou que, por eu ser como ela, suas palavras não chegariam até meu coração...`
+`Os ideais, a realidade.`
+` Eu mesma, e também o mundo.`
+`A não ser que todos se unam, ......nada será completo.`
+`Talvez seja isso o que significa ser adulto.`
+`Tenho certeza que um Inquisidor precisa amadurecer para se tornar completo.`
+`......E este não é um trabalho adequado para alguém imatura como eu.`
+`Em determinado momento,`
+` ............eu finalmente fui capaz de me desfazer da parte mais pura e imatura dos meus sonhos de criança.`
+`Não, eu não deveria chamar de "desfazer".`
+`Eu disse a mim mesma para chamar isto de "recomeço".`
+` Meu objetivo é ser uma Inquisidora da Heresia.`
+` Porém, isso não é o mais importante.`
+`Antes disso, ......eu quero me tornar uma adulta por completo.`
+`E para que eu possa atingir esse objetivo,`
+` ......talvez eu deva relembrar mais uma vez meus sonhos de infância.`
+`Depois de tê‐la informado sobre tudo isso, a noite eventualmente chegou a fim.`
+`"Uau, incrível, hein?`
+` Você entregou tudo o que estava naquelas caixas de papelão sozinha?"`
+`"......C‐Claro que não."`
+`"E o Vernáculo da Corte?"`
+`"............Não estou acostumada a falar desta forma, chega a ser embaraçoso...excelência..."`
+`O chefe do escritório estava sorridente. A Assessora Superior deve ter contado tudo para ele.`
+`Ele provavelmente já sabia, por meio dela, sobre meus sonhos de criança, meus conflitos com a realidade e minha decisão de recomeçar.`
+`Eu senti como se meu coração tivesse sido exposto, e a vergonha estava estampada em meu rosto.`
+`"Sabe,`
+` ser adulto não é algo definido pela idade ou emprego.`
+` Antes disso você deve prestar atenção à vida.`
+` Precisa amadurecer, entender o que é a vida adulta.`
+` ......Cornelia‐chan, você ainda é jovem e pode estar frustrada, pensando que já não tem mais tempo para isso.`
+` Mas isso não é verdade, sabia?`
+` Afinal, a vida é muito longa"`
+`"..............."`
+`"Algum dia.`
+` Espero que um dia você possa se tornar aquilo que realmente deseja ser."`
+`"............Eu também espero."`
+`O tedioso, lamentável, inadequado e imutável local de trabalho, ......começou a parecer um pouco mais descontraído que o de costume.`
+`"Trouxe seu almoço de casa hoje?`
+` Amanhã nós vamos nos reunir durante o intervalo para almoçarmos em um restaurante de sushi da vizinhança"`
+`"{e:070:.........Hmh......bem...}"`
+`"Então tá decidido.`
+` Lembra que não precisa trazer seu almoço amanhã, tá?`
+` Ah, e depois entregue ao chefe da seção um resumo do seu relatório.`
+` E poderia me servir mais uma xícara de chá?"`
+`"É‐É claro......,`
+` ......excelência."`
+`Esta é uma história de muito, muito tempo atrás, de antes de Cornelia se tornar membro da Eiserne Jungfrau.........`
+`"......Esta massiva quantidade de lenços é {f:5:desnecessária}."`
+`Havia uma montanha de lenços empilhados na escrivaninha de Dlanor.`
+`Gertrude havia dividido seus lenços entre seus colegas, e aquela montanha era uma parte deles.`
+`"......Esta é sua parte.`
+` Eles são muitos úteis.`
+` ......para limpar o chá que derramou, farelos de doce que caíram no chão,`
+` assoar seu nariz, limpar o ketchup da sua bochecha.。`
+` É tudo muito relevante para você, chefe."`
+`"Não são {f:5:necessários}.`
+` Pare de me tratar como {f:5:criança}.`
+` Não preciso {f:5:deles}.`
+` {i:Execute} sua {f:5:vida}."`
+`O recente incidente do ketchup ainda era algo doloroso para Dlanor, que agora estufava suas bochechas em desacordo.`
+`"......Neste caso, não são lenços, são documentos.`
+` Portanto, humildemente peço permissão para repassá‐los a você para que sejam sancionados.`
+` Por favor, peço que carimbe cada um dos lenços."`
+`"{f:5:Carimbado}!`
+` E {f:5:executado}! {f:5:Executado‐executado}!`
+` {f:5:Executado‐executado‐executado}...!!"`
+`Cada fio de cabelo do corpo de Dlanor estava arrepiado.`
+` Como se todo seu corpo estivesse coberto de urticária.`
+`Apesar de cuidar da administração, Dlanor possuía uma fobia a carimbos.`
+` Era uma tortura, imposta com o propósito para ela superá‐la e começar a carimbar as coisas.`
+`A imagem da novata veio à mente de Gertrude.`
+`Isso a fez lembrar‐se de seu tempo como novata. Memórias deveras agridoces.`
+`Antes que percebesse, eu havia esquecido sobre minha paixão. Quando será que isso aconteceu?``
+`Em que momento...`
+` eu passei a parecer adulta......?`
+`"Deixe‐me {f:5:ir}.`
+` O ketchup e o {i:aonori} não serão um problema hoje. Ficarei {f:5:bem}!"`
+`Antes que se desse conta,`
+` Gertrude já estava passando a mão na cabeça de sua chefe infantil.`
+`............`
+`A Chefe dos Inquisidores da Heresia demonstra ser a mais distante de ser considerada adulta......`

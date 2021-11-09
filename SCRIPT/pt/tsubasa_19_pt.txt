@@ -1,6 +1,6 @@
 ` 11:00`
 `{n} Saguão de Exibição Internacional Ariake Hall Leste 5`
-`{n} Leste shi‐44‐a "Anjinha 17"`
+`{n} Leste shi‐44a "Anjinha 17"`
 `"Esse não é o fim da fila!!`
 ` O fim encontra‐se agora no Hall 1 Leste!!"`
 ` "Com licença!`
@@ -86,22 +86,22 @@
 ` ......Hmm, por que minha mão está no seu ombro?"`
 `"Urgh.`
 ` As falas estão subindo pela minha garganta!`
-` {i:......"Ó Genji, meu amigo."}`
+` {i:......‘Ó Genji, meu amigo.’}`
 `"Eu também... com se as falas estivessem tentando sair.`
-` {i:......"Mestre......}`
-` {i:Eu tanto anseio por você......"}"`
-`"{i:"Se você não tivesse nascido homem, eu não teria que ter casado com minha esposa......"}"`
-`"{i:"......Mestre......}`
+` {i:......‘Mestre......}`
+` {i:Eu tanto anseio por você......’}"`
+`"{i:‘Se você não tivesse nascido homem, eu não teria que ter casado com minha esposa......’}"`
+`"{i:‘......Mestre......}`
 ` {i:......Seus sentimentos me deixam feliz.}`
-` {i:......Contudo, eu não passo de uma mobília. }`
-` {i:Nunca poderei me tornar seu parceiro."}"`
-`"{i:"Eii, você está sempre se chamando de mobília! }`
+` {i:......Contudo, eu não passo de uma mobília.}`
+` {i:Nunca poderei me tornar seu parceiro.’}"`
+`"{i:‘Eii, você está sempre se chamando de mobília!}`
 ` {i:Mesmo sabendo dos meus sentimentos, você sempre se diz uma mobília!}"`
 ` ......Genji, o que eu estou dizendo?"`
 `"......Eu não entendo.`
-` {i:"Mestre, seus caprichos......"}"`
-`"{i:"Pois bem, que seja uma mobília.}`
-` {i:......Se é uma mobília, a partir de agora, não importa o que aconteça, não permitirei nenhum tipo de resistência ou resposta......"}`
+` {i:‘Mestre, seus caprichos......’}"`
+`"{i:‘Pois bem, que seja uma mobília.}`
+` {i:......Se é uma mobília, a partir de agora, não importa o que aconteça, não permitirei nenhum tipo de resistência ou resposta......’}`
 ` ...Nghhhh, meu corpooo!!"`
 `"M‐Mestreeeeee!!"`
 `"Tipo assim... E se jogam na cama~!!"`
@@ -115,18 +115,18 @@
 ` Da maneira como você fez, não teve nenhuma reviravolta!`
 ` Tem de ser assim!"`
 `"Meu corpo está se mexendo sozinho de novo!`
-` {i:"......Você é tão calmo, Genji.}`
-` {i:Isso me lembra dos tempos em que éramos jovens."}"`
-`"{i:"......É mesmo nostálgico.}`
-` {i:Uma época em que ainda não éramos mestre e serviçal."}"`
+` {i:‘......Você é tão calmo, Genji.}`
+` {i:Isso me lembra dos tempos em que éramos jovens.’}"`
+`"{i:‘......É mesmo nostálgico.}`
+` {i:Uma época em que ainda não éramos mestre e serviçal.’}"`
 `"Nghh... não consigo me opor a isso!!`
-` {i:"...É mesmo,}`
+` {i:‘...É mesmo,}`
 ` {i:quando foi que você começou a falar dessa forma mais severa?}`
-` {i:......Seu antigo tom me traz lembranças."}"`
-`"{i:"................................."}"`
-`"{i:"Genji?"}"`
-`"{i:".........Você está ficando velho.}`
-` {i:Kin‐chan."}"`
+` {i:......Seu antigo tom me traz lembranças.’}"`
+`"{i:‘.................................’}"`
+`"{i:‘Genji?’}"`
+`"{i:‘.........Você está ficando velho.}`
+` {i:Kin‐chan.’}"`
 `"Genji, é tão nostálgico ouvi‐lo falar assim...!"`
 `"N‐Não é proposital...`
 ` Por que estou falando isso......?"`
@@ -148,7 +148,7 @@
 ` Além disso, eu não quero desenhar velhos."`
 `"Sendo assim, o que acha de Gohda×Kanon?"`
 `{f:5:Virgilia} estalou seus dedo, e logo Kinzo e Genji transformara‐se em borboletas que desapareceram; em seus lugares foi possível avistar as fisionomias de Gohda e Kanon.`
-`"bviamente, o Kanon é o ativo, né?"`
+`"Obviamente, o Kanon é o ativo, né?"`
 `"E se distorcermos para o Gohda ser o ativo?`
 ` O corpo massivo do Gohda ficando por cima do corpo esguio do Kanon......"`
 `"O‐O que está acontecendo?!`
@@ -162,30 +162,30 @@
 ` Tento tirado sua camisa e exposto seu peitoral; algo que Kanon não conseguia deixar de ansiar.`
 `"......O‐O quê?`
 ` Minha boca está se mexendo sozinha......?!`
-` {i:"Gohda‐san...}`
-` {i:......Sempre que o vejo, ......é mesmo um corpo invejável."}"`
+` {i:‘Gohda‐san...}`
+` {i:......Sempre que o vejo, ......é mesmo um corpo invejável.’}"`
 `"Kanon‐san?`
 ` Do que está falando?!`
 ` ...Ah!?`
 ` Minha boca está se movendo sozinha!! `
-` {i:"*risos*}`
+` {i:‘*risos*}`
 ` {i:Homens têm de ser assim.}`
-` {i:Com um corpo esguio como o seu, quando chegar a hora do vamos ver, você nunca será capaz de se defender."}"`
+` {i:Com um corpo esguio como o seu, quando chegar a hora do vamos ver, você nunca será capaz de se defender.’}"`
 `"Ei, ei...... o‐o que você......"`
 `"......N‐Não, meu braço está se mexendo sozinho......"`
 `"P‐Por favor, me solte...... `
 ` ......Gah........."`
-`"{i:"*risos*......}`
+`"{i:‘*risos*......}`
 ` {i:Que corpo mais delicado este seu.}`
-` {i:......Se não treiná‐lo, não será capaz de proteger seu próprio corpo......"}"`
+` {i:......Se não treiná‐lo, não será capaz de proteger seu próprio corpo......’}"`
 `"C‐Cuide da sua vida!`
 ` M‐Me solta......!!"`
 `"Já disse que eu não tenho controle...!`
 ` ...Ahh, meus braços está se mexendo!!"`
 `"Para! Me solta...me solta...... Gah, ......gah!!
-`"{i:"Esse é o seu melhor...?}`
+`"{i:‘Esse é o seu melhor...?}`
 ` {i:Você é mesmo adorável, Kanon‐san.}`
-` {i:......Irei fazê‐lo se arrepender de não ter treinado seu corpo......"}`
+` {i:......Irei fazê‐lo se arrepender de não ter treinado seu corpo......’}`
 ` Espera... U‐Uwaaaaaa!!"`
 `"G‐Gohda‐san, ......pa...pareeeeeeee...!!"`
 `"Então, seria por aí... Hohhohhohho."`
@@ -195,16 +195,16 @@
 ` e os olhos de Kanon começaram a reluzir um brilho vermelho.`
 `E com seu braço esguio, ele torceu o braço de Gohda...e o jogou contra a cama.`
 `"Aiaiaiaiai...tá doendo, tá doendo! Está doendo, Kanon‐san...!!"`
-`"{i:"Que voz mais patética.}`
+`"{i:‘Que voz mais patética.}`
 ` {i:Você já é bem grandinho, não acha?}`
-` {i:......*gargalhada*gargalhada*"}`
+` {i:......*gargalhada*gargalhada*’}`
 `"H‐Hã?!`
 ` Kanon‐san?!`
 ` Kanon‐saan!!"`
-`"{i:"Qual foi? Tem um corpo gigante e uma vozinha de menina?}`
+`"{i:‘Qual foi? Tem um corpo gigante e uma vozinha de menina?}`
 ` {i:......Que cara patético.}`
-` {i:Só precisei provocá‐lo um pouco e já ficou assim......"}"`
-`"{i:"F‐Fuwaaaaaaa......!!"}`
+` {i:Só precisei provocá‐lo um pouco e já ficou assim......’}"`
+`"{i:‘F‐Fuwaaaaaaa......!!’}`
 ` K‐Kanon‐san... isso faz cócegas e dói...ahihihiii!!"`
 `"Isso é Kanon×Gohda, viu?`
 ` Entendeu?!`
@@ -242,15 +242,15 @@
 ` Vamos, toquem uma sinfonia neste mundo do esteticismo."`
 `"Aiai, isso dói, Will...! `
 ` Dá pra sair de cima de mim...?!`
-`"{i:"Sair...? }`
-` {i:......Meu cachorrinho está querendo dar ordens agora, é...?？"}"`
+`"{i:‘Sair...? }`
+` {i:......Meu cachorrinho está querendo dar ordens agora, é...?？’}"`
 `"Hã?!`
 ` Do que você tá falando?"`
 `"...Eu também não sei!`
-` {i:"Você é meu cachorrinho.}`
+` {i:‘Você é meu cachorrinho.}`
 ` {i:......Tudo o que cachorros podem fazer é latir.}`
 ` {i:...Deixe‐me ouvir.}`
-` {i:Deixe‐me ouvir seu doce latido mais uma vez......"}"`
+` {i:Deixe‐me ouvir seu doce latido mais uma vez......’}"`
 `"P‐Para, Will! ParaaAAAAAAAAAaAAA!!!"`
 `"Geralmente se pensa que seria possível transformar o meu onii‐chan inútil em...um ativo.`
 ` Um perfeito bonitão como o Will poderia ser o gatinho que gosta de ser domesticado... isso seria bem inesperado.`
@@ -275,16 +275,16 @@
 ` E‐Espera, o‐o quê......?"`
 `Os dedos de Will......lentamente começaram a abrir os botões de Lion.`
 `Enquanto corava, Lion tentou se afastar de Will, que, com uma mão, empurrou os dois braços de Lion sobre a cama.`
-`"{i:"......Quem se importa?"}"`
+`"{i:‘......Quem se importa?’}"`
 `"Hã?`
 ` O que disse......?"`
-`"{i:"O seu sexo.}`
-` {i:......Farei com que me diga hoje."}"`
+`"{i:‘O seu sexo.}`
+` {i:......Farei com que me diga hoje.’}"`
 `"E‐Espera...! `
 ` E‐Espera...! P‐Por favor, para com isso, Will...!`
 ` Sem brincadeiras ou v‐vou me irritar, ouviu?!"`
-`"{i:"Não se revolte......}`
-` {i:Não tem como se opor a mim mesmo......"}"`
+`"{i:‘Não se revolte......}`
+` {i:Não tem como se opor a mim mesmo......’}"`
 `Com a forte batida de mãos de Ange, os corpos de ambos pararam de se mover imediatamente.`
 `"Para! Não está certo, não está certo!`
 ` É óbvio que Lion deve ficar por cima!`
@@ -292,7 +292,7 @@
 ` Certo, recomeça invertendo ataque e defesa."`
 `Ange bateu palmas novamente, e Lion logo empurrou a mão de Will para longe.`
 `"T‐Tudo bem, Lion?"`
-`"{i:........."Como ousar fazer o que bem entende comigo?"}"`
+`"{i:........."Como ousar fazer o que bem entende comigo?’}"`
 `"Lion......?"`
 `"N‐Não foi de propósito...`
 ` Minha boca, ......meu corpo se mexeu sozinho...!"`
@@ -301,13 +301,13 @@
 `*aperta*beliscaaaa*`
 `"Ai, isso dóii!!`
 ` P‐Para, tá doendooo!!"`
-`"{i:"Por que está se revoltando...?}`
+`"{i:‘Por que está se revoltando...?}`
 ` {i:......Por favor, relaxe mais.}`
-` {i:......Sua bundinha é mesmo macia como um mochi......"}"`
+` {i:......Sua bundinha é mesmo macia como um mochi......’}"`
 `"Que bobagem você tá falando...?!`
 ` M‐Merda... M‐Meu corpo não me ouve!"`
-`"{i:"Não resista.}`
-` {i:......Com meu dedo, ......eu o levarei ao paraíso."}"`
+`"{i:‘Não resista.}`
+` {i:......Com meu dedo, ......eu o levarei ao paraíso.’}"`
 `"Fu... ......Fufufufufufu!`
 ` Que tal?`
 ` Isso sim é Lion×Will...!`
@@ -325,16 +325,16 @@
 `"O‐O tio Hideyoshi...?`
 ` Pegar Lion na frente do Will...?!"`
 `Com uma forte violência, a porta se abriu e... o quê?! Hideyoshi invadiu vestido de cueca!`
-`"{i:"Parecem estar se divertindo a beça!}`
-` {i:Deu pra ouvir as vozes indecentes de vocês lá do corredor!"}"`
+`"{i:‘Parecem estar se divertindo a beça!}`
+` {i:Deu pra ouvir as vozes indecentes de vocês lá do corredor!’}"`
 `"H‐Hideyoshi‐san?!`
 ` I‐Isto não..."`
 `"M‐Meu corpo tá se mexendo por conta própria!`
 ` Foi mal, me ajuda!!`
-` {i:"Guhhihhi!}`
+` {i:‘Guhhihhi!}`
 ` {i:Esse seu corpo parece o de uma mulher.}`
 ` {i:Seja homem ou seja mulher, pouco me importa.。}`
-` {i:Farei uma provinha agora mesmo~"}`
+` {i:Farei uma provinha agora mesmo~’}`
 ` ......Gyaa! Fol mal, foi malll!!"`
 `"E‐Eu também não tenho nenhum interesse no senhor, Hideyoshi‐san!`
 ` Ah, H‐Hideyoshisannnnaaaaah!!"`
@@ -350,11 +350,11 @@
 ` Pessoalmente, não aceito Lion na posição passiva da relação.`
 ` Se tiver que ceder, será com um Will superpassivo."`
 `Ange bateu palmas e logo Hideyoshi jogou Lion para escanteio, partindo para cima de Will, que logo estava debaixo dele...!`
-`"{i:"Eu só estava fingindo.}`
+`"{i:‘Eu só estava fingindo.}`
 ` {i:......Desde o início, eu sempre estive de olho em você!!}"`
 ` Foi mal... eu não sou esse tipo de personagem!!"`
-`"{i:"H‐Hideyoshi‐san...!!}`
-` {i:E‐Eu não me importo com o que aconteça comigo, m‐mas perdoe o Will......!!"}"`
+`"{i:‘H‐Hideyoshi‐san...!!}`
+` {i:E‐Eu não me importo com o que aconteça comigo, m‐mas perdoe o Will......!!’}"`
 `"U‐UoAAaAAAaAAA......!!`
 ` Eu preferia ser dilacerado por um bando de gatos do que issoooo!!"`
 `"Já que funcionou com Lion×Will, então por que não não invertemos a hierarquia de também Hideyoshi×Lion?!"`
@@ -382,8 +382,8 @@
 ` E‐Espera, a minha humilde imaginação não consegue representar essa cena no meu cérebro......"`
 `"Hohhohhohho.`
 ` Sendo assim, vamos reproduzir isso no tabuleiro mais uma vez!"`
-`"{i:"Comporte‐se só um pouquinho, tá, Battler‐kun?}`
-` {i:Já vai acabar...foi mal, foi mal......!"}"`
+`"{i:‘Comporte‐se só um pouquinho, tá, Battler‐kun?}`
+` {i:Já vai acabar...foi mal, foi mal......!’}"`
 `"Kyawaaa!!!`
 ` Socorrooooo!!!`
 ` Eu odeio esse jogo de bruxaaas... me mata loooogo!!"`
@@ -393,8 +393,8 @@
 ` Sem chance, sem chance, jamais!`
 ` Não importa o quão passivo o onii‐chan seja, Hideyoshi×Battler é impossível!"`
 `"E se invertermos?`
-` {i:"Ei, tio Hideyoshi,}`
-` {i:......você já tem certa idade, então porque não deixa seu sobrinho cuidar das coisas para você? ......Que tal...?"}`
+` {i:‘Ei, tio Hideyoshi,}`
+` {i:......você já tem certa idade, então porque não deixa seu sobrinho cuidar das coisas para você? ......Que tal...?’}`
 ` Algo assim?"`
 `"Battler da Escuridão...!`
 ` B‐Bem, não ficaria nada ruim...`
@@ -404,13 +404,13 @@
 `Sobre a cama, a figura de dois Battlers tomou forma.`
 ` O Battler que ficou por baixo era o Battler que já conhecemos bem.`
 ` O Battler que ficou por cima exalava uma aura mais niilista e selvagem.`
-`"{i:"......Battler, eu libertarei seu verdadeiro coração......"}"`
+`"{i:‘......Battler, eu libertarei seu verdadeiro coração......’}"`
 `"O‐O quê?! O quê?! Meu corpo não se mexe...!"`
-`"{i:"*gargalhada*gargalhada*......, eu entendo seu coração melhor do que ninguém, afinal ambos somos Battler."}"`
+`"{i:‘*gargalhada*gargalhada*......, eu entendo seu coração melhor do que ninguém, afinal ambos somos Battler.’}"`
 `"N‐Nemf fudendo! U‐Uwoooo!!"`
-`"{i:"Seja mais obediente, ......você precisa relaxar...... Sim, prontinho, ......bom garoto......"}"`
+`"{i:‘Seja mais obediente, ......você precisa relaxar...... Sim, prontinho, ......bom garoto......’}"`
 `"P‐Pareeee! N‐Não vá além ahhhhhhhhhhh!!"`
-`"{i:"Você é bem barulhento, hein......? Terei que silenciá‐lo......"}"`
+`"{i:‘Você é bem barulhento, hein......? Terei que silenciá‐lo......’}"`
 `"Q‐Que diabos está acontecendo aqui?!`
 ` Hiii!!`
 ` Socorrooo!`
@@ -433,28 +433,28 @@
 `"Por que não consegue compreender os princípios deste mundo?!`
 ` Observe e aprenda!`
 ` A harmonia entre homens de meia‐idade rejuvenescidos!!"`
-`"{i:"'Rudolf.}`
-` {i:......Você parece estar esquecendo do seu respeito perante seu irmão......"}"`
-`"{i:"O‐O que está insinuando, aniki...!}`
-` {i:P‐Pare......!!!"}"`
+`"{i:‘'Rudolf.}`
+` {i:......Você parece estar esquecendo do seu respeito perante seu irmão......’}"`
+`"{i:‘O‐O que está insinuando, aniki...!}`
+` {i:P‐Pare......!!!’}"`
 `"Um Ronove novinho ou um Kinzo novinho também não seria maravilhoso?!"`
 `"Hm, será......?`
 ` Mesmo jovens, eu não consigo suportar barba.`
 ` Na verdade, não importa se são jovens ou não... poderia deixar os tiozões de lado?!"`
 `"Ange‐san, você não compreende o lado bom dos homens maduros!!`
 ` Por que você não consegue entender as profundidades do mundo dos homens?!"`
-`"{i:"Pukkukku.}`
+`"{i:‘Pukkukku.}`
 ` {i:Kinzo‐sama.}`
-` {i:Apesar das aparências, ......eu gosto de você. Sou um homem que não se importa com o sexo da pessoa, sabia......?"}"`
-`"{i:"á que essa vida é uma merda mesmo,}`
-` {i:...vamos enlouquecer......juntos."}"`
+` {i:Apesar das aparências, ......eu gosto de você. Sou um homem que não se importa com o sexo da pessoa, sabia......?’}"`
+`"{i:‘á que essa vida é uma merda mesmo,}`
+` {i:...vamos enlouquecer......juntos.’}"`
 `"É mesmo, também tem a turma de 98. O que acha de Oknogi×Amakusa?!"`
-`"{i:"Amakusa, você ainda tá saindo com aquela garota?"}"`
-`"{i:"...Eu já não disse que odeio falar sobre o passado, patrão?"}"`
-`"{i:"...É mesmo? Bem, eu farei que esqueça sobre o passado.}`
+`"{i:‘Amakusa, você ainda tá saindo com aquela garota?’}"`
+`"{i:‘...Eu já não disse que odeio falar sobre o passado, patrão?’}"`
+`"{i:‘...É mesmo? Bem, eu farei que esqueça sobre o passado.}`
 ` {i:Não vai recusar, né?}`
 ` {i:É uma ordem do seu chefe......""`
-`"{i:"Heh? ......{i:cool}...""`
+`"{i:‘Heh? ......{i:cool}...""`
 `"{b:Stop! Stop!!!}`
 ` Eu entendo que tem demanda pra isso, mas eu não estou com vontade de desenhar a turma de 98!!"`
 `"Nesse caso, que tal Hachijo Tohya?`
@@ -464,14 +464,14 @@
 ` Na real, dá para largar de vez os tiozão?!"`
 `"Não seria maravilhoso se o Tohya fosse atacado pelo Battler da Escuridão?!`
 ` Por que você não consegue compreender este mundo, Ange‐san?!"`
-`"{i:"Até quando pretende me negar......?}`
+`"{i:‘Até quando pretende me negar......?}`
 ` {i: Você sabe, não sabe...?}`
 ` {i:Eu sou você, e você sou eu.}`
-` {i:......Eu sei sobre todos os seus desejos, ......e dentre todos neste mundo, ......eu sou o único que pode realizá‐los......"}"`
-`"{i:"Pare...... Pare, Battler......}`
+` {i:......Eu sei sobre todos os seus desejos, ......e dentre todos neste mundo, ......eu sou o único que pode realizá‐los......’}"`
+`"{i:‘Pare...... Pare, Battler......}`
 ` {i:Eu não sou o Battler......, sou o Tohya......}`
 ` {i:Pare, ......pareeee!!}`
-` {i:E‐Está entrando... dentro de mim......gahahh!!"}"`
+` {i:E‐Está entrando... dentro de mim......gahahh!!’}"`
 `"Realmente, não posso dizer que desgosto, e o visual é interessante!`
 ` Mas eu já disse que não gosto de tiozões. Mesmo que aparentem ser jovens, não quero desenhar velhos!!"`
 `"Metade deste mundo é homem e outra metade mulher!`
@@ -497,9 +497,9 @@
 `"Quantos volumes seus romances chatos venderam, hein?!`
 ` É tudo graças aos meus desenhos!!"`
 `{e:0170:"Fugiii!!!}`
-` {e:0170:Olha como fala, sua pirralha!!!"}`
+` {e:0170:Olha como fala, sua pirralha!!!’}`
 `{e:0170:"Qual foi, quer brigar?!}`
-` {e:0170:Sua velhota apodrecida!!"}`
+` {e:0170:Sua velhota apodrecida!!’}`
 `.........E assim, o superpopular grupo "Anjinha 17",`
 `{n}que surgiu como um cometa,
 `{n}despareceu da mesma maneira, junto à sua lenda.`
@@ -535,7 +535,7 @@
 ` Não a reconheci sem maquiagem!!"`
 `"Ange‐san...!!`
 ` É ótimo ver a diferença de cor entre seu rosto e pescoço por causa da maquiagem... ohhohohohohoho!!"`
-` {e:0170:""Grrrrrrrrrrrrr!!!!""}`
+` {e:0170:""Grrrrrrrrrrrrr!!!!"’}`
 `Pode ter parecido que elas estavam prontos para se engrenharem, mas como a equipe do comitê de organização estava passam, elas fingiram não se conheceram, como se fossem fizessem parte de {i:Urban Champion}......`
 `"......Bem, cada uma seguiu o caminho que mais gostava.`
 ` Não é melhor reconhecer o caminho da outra?""`
@@ -561,7 +561,7 @@
 `"......Como de costume, seu gosto por tiozões não muda? `
 `......E o Diretor é o passivo... sério, qual o sentido disso?"`
 `"Eu que diga, Ange‐san. Como de costume, você não compreende o charme dos homens de meia‐idade, compreende?"`
-`{e:0170:""Grrrrrrrrrrrrr!!!!""}`
+`{e:0170:""Grrrrrrrrrrrrr!!!!"’}`
 `Os grãos de areia da praia nunca se esgotam.`
 `{n}O mesmo se aplica aos casais dos BL.`
 `Mesmo que seus princípios e posições sejam distintos,`
