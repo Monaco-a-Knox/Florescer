@@ -1,4 +1,5 @@
-`Para minha cara amiga.`
+`{a:c:
+`Para minha cara amiga.}`
 `Tudo bem com você?`
 ` Um cumprimento tão ocasional deve soar como sarcasmo agora.`
 `ｴ por isso que seria mais gentil eu perguntar da seguinte forma.`
@@ -97,13 +98,6 @@
 ` Você gosta, não é mesmo?`
 ` De ficar zombando de mim.`
 `Por isso, para que eu possa reencontrar uma amiga que há muito tempo não vejo, por favor, reviva.`
+`{a:c:
 `De sua amiga, que ainda acredita ser cara para você.`
-`{n}{n}                                          {f:5:Bernkastel}`
-`O amor é uma ilusão, um mal‐entendido.`
-`O amor mútuo é um mal‐entendido mútuo entre seres mutuamente amados.`
-`E um casamento é um voto para não despertar, por toda vida, deste mal‐entendido.`
-`──Ronove`
-`Muitas coisas foram encontradas em seu quarto. Destas evidências, é possível deduzir que sou amada por você.`
-`Muitas coisas foram encontradas em meu quarto. Destas evidências, é possível deduzir que eu também amo você.`
-`Nada foi encontrado no quarto dela. Entretanto, não posso negar a existência de uma evidência X de infidelidade que ainda não foi descoberta.`
-`──{f:5:Frederica {f:5:Bernkastel}}`
+`{n}{n}                                          {f:5:Bernkastel}}`

@@ -8,7 +8,7 @@
 ` mas, depois de escrever dois ou três, apesar da juventude, perceberam, para sua surpresa, que só podiam escrever coisas triviais,`
 ` tais como 'eu quero ser rico' ou 'eu quero ser ____'`
 `No entanto, ao contrário das outras crianças, Maria pensou que escrever um desejo era suficiente.`
-`"Desejo que a mamãe volte para casa todos os dias."`
+`{a:c:"Desejo que a mamãe volte para casa todos os dias."}`
 `Rosa estava muito ocupada com o trabalho, e tinha que passar a noite lá com frequência.`
 `ﾊ sua maneira, como uma criança, Maria entendia que isso era apenas parte do trabalho de sua mãe,`
 ` mas isso não queria dizer que ela não estava solitária.`
