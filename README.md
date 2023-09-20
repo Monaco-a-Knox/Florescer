@@ -1,7 +1,6 @@
 # Florescer
 
 Repositório com os arquivos de tradução de Umineko Saku e todos os scripts da Sinfonia, limpos e padronizados para onscripter-ru.
-Projeto em andamento.
 
 Alguns .pngs não estão plenamente editados, entretanto não são essenciais. Fique à vontade para contribuir com o projeto.
 
