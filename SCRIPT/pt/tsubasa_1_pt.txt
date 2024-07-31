@@ -99,5 +99,4 @@
 ` De ficar zombando de mim.`
 `Por isso, para que eu possa reencontrar uma amiga que há muito tempo não vejo, por favor, reviva.`
 `{a:c:
-`De sua amiga, que ainda acredita ser cara para você.`
-`{n}{n}                                          {f:5:Bernkastel}}`
+`De sua amiga, que ainda acredita ser cara para você.{n}{n}                                          {f:5:Bernkastel}}`
