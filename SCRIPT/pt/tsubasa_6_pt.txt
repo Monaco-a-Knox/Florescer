@@ -173,8 +173,9 @@
 ` Até que eu encontrei aquela criança.`
 `"Por favor, me transforme em uma bruxa."`
 `※Nota de tradução:`
-`{n} estritamente falando, mesmo que seja do sexo masculino, você ainda pode usar a palavra bruxa(witch).`
-`{n} Logo, não é possível concluir que o gênero dessa 'pessoa' seja feminino por meio da declaração "Eu quero ser uma bruxa"`
+`{n} estritamente falando, garotos também podem ser chamados de bruxa (witch).`
+`{n} Logo, não é possível concluir que o sexo dessa 'pessoa' seja feminino por meio da declaração:
+ "Eu quero ser uma bruxa"`
 `Isso foi bem direto. ......Sim.`
 ` ...Eu estava esperando por essas palavras.`
 `Mas eu decidi encorajar mais as coisas sem apressá‐las.`
@@ -308,6 +309,5 @@
 `Eu também preciso chamar uma amiga, certo?`
 `Preciso surpreendê‐la com uma maravilhosa festa do chá.`
 `*risos*risos* Aahahahahahahahahahaha...............!`
-`{n}{n}{n}{n} Λ Δ`
-`{n}（＞ｗ＜）ノ`
+`{n}{n}{n}{n} Λ Δ {n}{p:0:(＞ｗ＜)ノ}`
 `{n} ※Nota de tradução: assinatura da Lady {f:5:Lambdadelta}?`
